@@ -30,7 +30,7 @@
       - State the research objectives that your study seeks to achieve.
       - Detail the tasks you will undertake to address the research objectives.
 
-## Plan
+<h2 style="color:blue">Plan</h2>
 
 4. **Method Development (How)**:
    - Include components such as study duration, site or experiment description, data and instrumentation, analytical methods and procedures, data analysis, pilot results, and study limitations (**Homework 5**)
@@ -44,7 +44,7 @@
    - Include a budget estimate with justifications for the resources needed (if applicable).
    - Develop a detailed data management plan.
 
-## Do
+<h2 style="color:blue">Do</h2>
 
 6. **Project Implementation**:
    - Implement your research next semester or year in ENG 6941 Project course, your MS thesis research, or start this semester if you are ready.
@@ -52,7 +52,7 @@
 7. **Write Up Your Project Results and Discussion**:
    - Document your findings and discussion in ENG 6941 Project course or your MS thesis research.
 
-## Publish
+<h2 style="color:blue">Publish</h2>
 
 8. **Disseminate Your Findings**:
    - Present your findings at research symposiums like [Eagle-X](https://www.fgcu.edu/eaglex/) and conferences like [AGU](https://www.agu.org/annual-meeting).
