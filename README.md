@@ -1,2 +1,1 @@
-# rm
-Research Method course
+# Research Method course
