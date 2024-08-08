@@ -47,7 +47,7 @@
 <h2 style="color:blue">Do</h2>
 
 6. **Project Implementation**:
-   - Implement your research next semester or year in ENG 6941 Project course, your MS thesis research, or start this semester if you are ready.
+   - Implement your research next semester or year in <span style="color:red">ENG 6941 Project course</span>, your <span style="color:red">MS thesis research</span>, or  <span style="color:red">start this semester</span> if you are ready.
 
 7. **Write Up Your Project Results and Discussion**:
    - Document your findings and discussion in ENG 6941 Project course or your MS thesis research.
