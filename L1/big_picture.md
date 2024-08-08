@@ -3,27 +3,34 @@
 ## Understand
 
 1. **Select a Research Topic**:
-   - Choose a topic that interests you and aligns with your goals.
+   - Choose a topic that interests you and aligns with your goals (**Homework 1**).
+   
+   #### Tips and Suggestions
+   - Keep your research question realistic by considering available resources, data, your skills, and time constraints.
+   - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
+   - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end.
+   - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member or your course instructor.
+   - Ask for help if you're uncertain about any aspect of your research.
+   - Enjoy the process of learning about your problem and developing your research plan.
 
 2. **Conduct an Exploratory Literature Search**:
-   - Refine your topic and start developing a research question.
+   - Refine your topic and start developing a research question (**Homework 2**).
 
-3. **Conduct an In-Depth Literature Review**:
-   - Document your findings (Homework 3).
-   - Address these key points:
-     - Why is this research important?
-     - What has been done so far, and what do you want to contribute?
+### Conduct an In-Depth Literature Review and Write the Introduction
+
+3. **Conduct an In-Depth Literature Review and Write the Introduction**:
+   - Conduct an in-depth literature review which will form the basis of the proposal introduction (**Homework 3**):
+     - **Why** is this research important?
+     - **What** has been done so far, and what do you want to contribute?
      - Refine and sharpen your research question.
-   - **Note**: The literature review should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is necessary to fill gaps in knowledge or provide solutions.
-   - **Output**: A problem statement and research question (about half a page) describing the problem clearly, specifically, and concisely. Include the relationships between variables or the tasks you will undertake.
-
-#### Tips and Suggestions
-- Keep your research question realistic by considering resources, data availability, your skills, and time constraints.
-- Plan your timeline for implementing the research (e.g., next semester’s project course, MS thesis project).
-- A limited scope with good outcomes is better than an overly ambitious project that leads to a dead-end.
-- Consult with an expert (e.g., FGCU faculty member or course instructor) for guidance and to discuss feasibility.
-- If in doubt, ask for help.
-- Enjoy learning about your problem and developing your plan.
+     - Note: The literature review should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is necessary to fill gaps in knowledge or provide solutions. In other words, it should identify existing research, highlight gaps, and lead to a clearly defined problem statement and research question. The literature review will form the basis of your research proposal's introduction.
+   - Write the Introduction (**Homework 4**):
+      - Introduce the topic, providing necessary background information to set the context for your research.
+      - Describe the research gap identified through your literature review.
+      - Outline the specific research question you aim to investigate.
+      - Explain the importance of this research and what it aims to contribute.
+      - State the research objectives that your study seeks to achieve.
+      - Detail the tasks you will undertake to address the research objectives.
 
 ## Plan
 
