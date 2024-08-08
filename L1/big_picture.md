@@ -1,6 +1,6 @@
 # The Big Picture
 
-## Understand
+<h2 style="color:blue">Understand</h2>
 
 1. **Select a Research Topic**:
    - Choose a topic that interests you and aligns with your goals (**Homework 1**).
