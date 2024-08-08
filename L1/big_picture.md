@@ -1,4 +1,4 @@
-## The Big Picture
+# The Big Picture
 
 ## Understand
 
