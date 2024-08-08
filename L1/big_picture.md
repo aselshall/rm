@@ -33,22 +33,27 @@
 ## Plan
 
 4. **Method Development (How)**:
-   - Include components such as study duration, site or experiment description, data and instrumentation, analytical methods and procedures, data analysis, pilot results, and study limitations.
+   - Include components such as study duration, site or experiment description, data and instrumentation, analytical methods and procedures, data analysis, pilot results, and study limitations (**Homework 5**)
 
 5. **Proposal Development**:
-   - Outline the “why, what, and how” (including pilot results if available).
-   - Define deliverables and how to measure success.
-   - Explain potential outcomes, benefits, intellectual merits, broader impacts, and the “so what” question.
+   - Outline the “why, what, and how” of your research, including pilot results if available.
+   - Define deliverables and establish criteria for measuring success.
+   - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
+   - Provide a timeline for the project, outlining key milestones and deadlines.
+   - Conduct a risk assessment, identifying potential challenges and how they will be mitigated.
+   - Include a budget estimate with justifications for the resources needed (if applicable).
+   - Develop a detailed data management plan.
 
 ## Do
 
 6. **Project Implementation**:
-   - Implement your research during the next semester’s ENG 6941 Project course, your MS thesis research, or start this semester if you are ready.
+   - Implement your research next semester or year in ENG 6941 Project course, your MS thesis research, or start this semester if you are ready.
 
 7. **Write Up Your Project Results and Discussion**:
-   - Document your findings and discussion in the next semester’s ENG 6941 Project course or your MS thesis research.
+   - Document your findings and discussion in ENG 6941 Project course or your MS thesis research.
 
 ## Publish
 
 8. **Disseminate Your Findings**:
-   - Share your results through conference proceedings, peer-reviewed publications, blog posts, etc.
+   - Present your findings at research symposiums like [Eagle-X](https://www.fgcu.edu/eaglex/) and conferences like [AGU](https://www.agu.org/annual-meeting).
+   - Share your work through peer-reviewed publications, preprients, blog posts, and other platforms.
