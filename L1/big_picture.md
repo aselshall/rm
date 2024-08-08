@@ -16,8 +16,6 @@
 2. **Conduct an Exploratory Literature Search**:
    - Refine your topic and start developing a research question (**Homework 2**).
 
-### Conduct an In-Depth Literature Review and Write the Introduction
-
 3. **Conduct an In-Depth Literature Review and Write the Introduction**:
    - Conduct an in-depth literature review which will form the basis of the proposal introduction (**Homework 3**):
      - **Why** is this research important?
