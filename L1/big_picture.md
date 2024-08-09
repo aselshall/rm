@@ -44,13 +44,13 @@
    - Include a budget estimate with justifications for the resources needed (if applicable).
    - Develop a detailed data management plan.
 
-<h2 style="color:blue">Do</h2>
+<h2 style="color:blue">Execute</h2>
 
 6. **Project Implementation**:
-   - Implement your research next semester or year in <span style="color:red">ENG 6941 Project course</span>, your <span style="color:red">MS thesis research</span>, or  <span style="color:red">start this semester</span> if you are ready.
+   - Carry out your research according to the plan outlined in your proposal, next semester or year in <span style="color:red">ENG 6941 Project course</span>, your <span style="color:red">MS thesis research</span>, or  <span style="color:red">start this semester</span> if you are ready.
 
-7. **Write Up Your Project Results and Discussion**:
-   - Document your findings and discussion in ENG 6941 Project course or your MS thesis research.
+7. **Analyze and Document Your Findings**:
+   - Interpret your results, draw conclusions, and document your findings in ENG 6941 Project course or your MS thesis research.
 
 <h2 style="color:blue">Publish</h2>
 
