@@ -1,7 +1,5 @@
 # Research Method course
-Here is the content from the PDF file converted to markdown format:
 
-```markdown
 # Florida Gulf Coast University  
 ## U.A. Whitaker College of Engineering  
 
@@ -210,4 +208,3 @@ HiPerGator AI: Access the fastest artificial intelligence supercomputer in highe
 
 ### Syllabus Change Policy  
 Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
-```
