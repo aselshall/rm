@@ -1,9 +1,8 @@
-# Research Method course
+# Research Method Syllabus
 
-# Florida Gulf Coast University  
-## U.A. Whitaker College of Engineering  
-
-### EGN 6457 Research Methods, Fall 2024  
+Florida Gulf Coast University  
+U.A. Whitaker College of Engineering  
+EGN 6457 Research Methods, Fall 2024  
 _Last updated: Aug 4, 2024_
 
 ## Course Information  
