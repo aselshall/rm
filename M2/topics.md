@@ -7,7 +7,7 @@ Consider building on a project you're already involved in at work, with your sup
 ### Explore research papers and local concerns
 Dive into existing research papers to identify gaps or areas for new insights. Alternatively, focus on local water resources or environmental issues that interest you, and engage with local organizations or agencies for project opportunities. For instance, you could contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) who can connect you with relevant local organizations.
 
-### Seek Guidance from faculty
+### Seek guidance from faculty
 Consult with your instructor for tailored project ideas or explore current research projects by faculty members to find a topic that aligns with your interests and learning goals. For example, below is a list of current research projects by faculty members.
 
 ### Faculty projects
