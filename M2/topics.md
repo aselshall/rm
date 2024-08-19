@@ -8,7 +8,7 @@ Consider building on a project you're already involved in at work, with your sup
 Dive into existing research papers to identify gaps or areas for new insights. Alternatively, focus on local water resources or environmental issues that interest you, and engage with local organizations or agencies for project opportunities. For instance, you could contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) who can connect you with relevant local organizations.
 
 ### 3. Seek guidance from faculty
-Consult with your instructor and other faculty members for tailored project ideas. Also, explore current research projects by faculty members to find a topic that aligns with your interests and learning goals. For example, below is a list of current research projects by faculty members.
+Consult with your instructor and other faculty members for tailored project ideas. Also, explore current research projects by faculty members to find a topic that aligns with your interests and learning goals. For example, below is a list of selected current research projects by faculty members.
 
 ## Faculty projects
 - **[Nature-Based Infrastructure for Climate Resiliency](https://github.com/aselshall/rm/blob/main/M2/p1.md)**: Focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture, funded by the U.S. Environmental Protection Agency (EPA)
