@@ -1,13 +1,13 @@
 ## How to Find a Project Idea
 Choosing a project that aligns with your interests and showcases your research skills in water resources and environmental engineering is key. Here are some strategies to help you find the right project idea:
 
-### Leverage current work and ongoing projects
+### 1. Leverage current work and ongoing projects
 Consider building on a project you're already involved in at work, with your supervisor, or within your degree program. Additionally, explore ongoing projects at your organization, FGCU, or in the community to find ways to enhance or extend them.
 
-### Explore research papers and local concerns
+### 2. Explore research papers and local concerns
 Dive into existing research papers to identify gaps or areas for new insights. Alternatively, focus on local water resources or environmental issues that interest you, and engage with local organizations or agencies for project opportunities. For instance, you could contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) who can connect you with relevant local organizations.
 
-### Seek guidance from faculty
+### 3. Seek guidance from faculty
 Consult with your instructor for tailored project ideas or explore current research projects by faculty members to find a topic that aligns with your interests and learning goals. For example, below is a list of current research projects by faculty members.
 
 ### Faculty projects
