@@ -1,23 +1,16 @@
 ## How to Find a Project Idea
 Choosing a project that aligns with your interests and showcases your research skills in water resources and environmental engineering is key. Here are some strategies to help you find the right project idea:
 
-### Leverage your current work 
-Consider building on a project you are currently involved in, whether at work, with your supervisor, or for your degree. This allows you to apply and expand on what you are already doing.
+### Leverage current work and ongoing projects
+Consider building on a project you're already involved in at work, with your supervisor, or within your degree program. Additionally, explore ongoing projects at your organization, FGCU, or in the community to find ways to enhance or extend them.
 
-### explore research papers
-Dive into existing research papers to spark ideas. This can help you identify gaps or areas where you can contribute new insights.
+### Explore research papers and local concerns
+Dive into existing research papers to identify gaps or areas for new insights. Alternatively, focus on local water resources or environmental issues that interest you, and engage with local organizations or agencies for project opportunities. For instance, you could contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) who can connect you with relevant local organizations.
 
-### Build on existing projects 
-Look at ongoing projects within your organization, FGCU, or community and find ways to enhance or extend them.
-
-### Address local concerns
-Identify water resources or environmental issues specific to your local area that interest you. Engaging with local organizations or agencies can provide valuable opportunities. For instance, you could contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) who can connect you with relevant local organizations.
-
-### Seek guidance
-Consult with your instructor for tailored project ideas that align with your interests and learning goals. The coursr instructor may direct you towards research projects that faculty members are currently working on.
+### Seek Guidance from Faculty
+Consult with your instructor for tailored project ideas or explore current research projects by faculty members to find a topic that aligns with your interests and learning goals. For example, below is a list of current research projects by faculty members.
 
 ### Faculty projects
-Explore current research projects by faculty members:
 - **[Nature-Based Infrastructure for Climate Resiliency](https://github.com/aselshall/rm/blob/main/M2/p1.md)**: This initiative focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture, funded by the U.S. Environmental Protection Agency (EPA)
 - **[Model-Experiment (ModEx) Framework](https://github.com/aselshall/rm/blob/main/M2/p2.md)**: Aimed at advancing the understanding of fertilizer and pesticide reactive transport in rural agricultural areas, funded by the U.S. Environmental Protection Agency (EPA)
 - **[A Three-Pillar Socio-Health-Environmental (TPSHE) Framework](https://github.com/aselshall/rm/blob/main/M2/p3.md)**: This project focuses on mitigating cumulative health impacts and environmental health disparities in polluted urban lakes within underserved communities. This specific task will involve developing machine learning-based methods to analyze chemical and non-chemical drivers -funded by the U.S. Environmental Protection Agency (EPA)
