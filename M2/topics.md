@@ -10,7 +10,7 @@ Dive into existing research papers to identify gaps or areas for new insights. A
 ### 3. Seek guidance from faculty
 Consult with your instructor and other faculty members for tailored project ideas. Also, explore current research projects by faculty members to find a topic that aligns with your interests and learning goals. For example, below is a list of current research projects by faculty members.
 
-### Faculty projects
+## Faculty projects
 - **[Nature-Based Infrastructure for Climate Resiliency](https://github.com/aselshall/rm/blob/main/M2/p1.md)**: Focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture, funded by the U.S. Environmental Protection Agency (EPA)
 - **[Model-Experiment (ModEx) Framework](https://github.com/aselshall/rm/blob/main/M2/p2.md)**: Aims at advancing the understanding of fertilizer and pesticide reactive transport in rural agricultural areas in south Florida, funded by the U.S. Environmental Protection Agency (EPA)
 - **[A Three-Pillar Socio-Health-Environmental (TPSHE) Framework](https://github.com/aselshall/rm/blob/main/M2/p3.md)**: Focuses on mitigating cumulative health impacts and environmental health disparities in polluted urban lakes within underserved communities, with focus on developing machine learning-based methods to analyze chemical and non-chemical drivers -funded by the U.S. Environmental Protection Agency (EPA)
