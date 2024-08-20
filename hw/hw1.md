@@ -6,7 +6,7 @@ This assignment aims to help you apply the key factors involved in selecting a r
 ### Instructions
 1. Clearfully review the slides from Lesson 3, "Selecting a Research Problem".
    
-2. Select a broad area within water resources or environmental engineering that interests you. You may refer to [these strategies for finding a project idea](https://github.com/aselshall/rm/blob/main/M2/topics.md).
+2. Select a broad area within water resources or environmental engineering that interests you. You may refer to these [strategies for finding a project idea](https://github.com/aselshall/rm/blob/main/M2/topics.md).
 
 3. Based on the broad topic, think of a specific research problem that you might want to explore. Keep it simple and focus on what you find intriguing.
 
