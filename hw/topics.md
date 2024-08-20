@@ -1,4 +1,4 @@
-## How to Find a Project Idea
+## [How to Find a Project Idea](https://aselshall.github.io/rm/topics)
 Choosing a project that aligns with your interests and showcases your research skills in water resources and environmental engineering is key. Here are some strategies to help you find the right project idea:
 
 ### 1. Leverage current work and ongoing projects
