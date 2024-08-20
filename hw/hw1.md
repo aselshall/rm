@@ -1,4 +1,4 @@
-## Homework 1: Identifying key considerations in choosing a research problem
+## Homework 1: Development of research topic
 
 ### Objective
 As described in [the big picture](https://aselshall.github.io/rm/hw/big-picture), this assignment aims to help you apply the key factors involved in selecting a research problem for a research project or MS thesis in water resources and environmental engineering.
