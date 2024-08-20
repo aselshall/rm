@@ -112,3 +112,32 @@ Here is the table converted to markdown format:
 - **Explanatory Sequential**: Collecting quantitative data first, then qualitative data to explain patterns observed.
 - **Exploratory Sequential**: Starting with qualitative interviews, then designing a quantitative survey to measure attitudes and behaviors.
 - **Complex Designs with Embedded Core Designs**: Embedding a qualitative case study within a broader quantitative survey of groundwater management practices.
+
+## Elaborate
+Extend students' understanding and allow them to apply what they have learned by explaining their choice of research approach and its relevance to their research questions. For the examples below, select correct answer:  
+**Research approach**
+- Postpositivism
+- Constructivism
+- Transformative
+- Pragmatism
+
+**Research design**
+- Quantitative
+- Qualitative
+- Mixed-methods
+
+**Example 1 A study measuring the effects of agricultural practices on groundwater nitrate levels in Immokalee:**  The researcher collects groundwater samples from various locations near agricultural fields and analyzes nitrate concentrations. Using statistical methods, the study aims to determine the causal relationship between different agricultural practices (e.g., fertilizer application rates) and the observed nitrate levels. The focus is on objective measurement, empirical observation, and verifying the hypothesis that the lack of tailored nutrient management plan leads to higher nitrate contamination in groundwater.
+
+**Example 2 A research project aimed at improving groundwater access and quality in an underserved rural community:** The researcher works collaboratively with the community to assess groundwater quality through field measurements and to identify barriers to accessing clean groundwater, such as pollution or lack of infrastructure. Together, they develop and implement strategies, such as installation of new wells or water filtration systems. The project is not just about understanding the problem but also about empowering the community to address environmental and social injustices related to groundwater access. The focus is on social justice, community empowerment, and creating meaningful change.
+
+**Example 3 An ethnographic study exploring local communities' perceptions of groundwater quality and usage in a drought-prone region:** The researcher engages with community members through interviews and participatory observations to understand how they perceive groundwater quality, its importance, and their usage practices. The study acknowledges that these perceptions are influenced by social, cultural, and historical contexts. The goal is to generate new insights into the role of community cooperation in managing groundwater.
+
+**Example 4 A study evaluating the effectiveness of various nature-based solutions to mitigate water scarcity:** The researcher combines quantitative data (e.g., measurements of recharge rates, groundwater levels) with qualitative data (e.g., interviews with stakeholders and local government officials) to determine which nature-based solutions are most effective and feasible in practice. The study is problem-centered, aiming to find practical solutions to urban water scarcity that can be implemented by city planners and policymakers. The focus is on what works best in the real world, considering the specific context and constraints.
+
+**Answers:**
+- Postpositivism/Quantitative
+- Transformative/Mix-methods
+- Constructivism/Qualitative
+- Pragmatism/Mix-methods
+
+
