@@ -5,6 +5,9 @@
 1. **Select a Research Topic**:
    - Choose a topic that interests you and aligns with your goals (<span style="color:red">**Homework 1**</span>).
    
+2. **Conduct an Exploratory Literature Search**:
+   - Refine your topic and start developing a research question (<span style="color:red">**Homework 2**</span>).
+  
    #### Tips and Suggestions
    - Keep your research question realistic by considering available resources, data, your skills, and time constraints.
    - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
@@ -12,9 +15,6 @@
    - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member or your course instructor.
    - Ask for help if you're uncertain about any aspect of your research.
    - Enjoy the process of learning about your problem and developing your research plan.
-
-2. **Conduct an Exploratory Literature Search**:
-   - Refine your topic and start developing a research question (<span style="color:red">**Homework 2**</span>).
 
 3. **Conduct an In-Depth Literature Review and Write the Introduction**:
    - Conduct an in-depth literature review which will form the basis of the proposal introduction (<span style="color:red">**Homework 3**</span>):
