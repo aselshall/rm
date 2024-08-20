@@ -18,7 +18,8 @@ This assignment aims to help you apply the key factors involved in selecting a r
 4. In a 1-page reflection, describe the research problem you have chosen and explain how you considered each of the above factors in your choice. 
 
 ### Submission
-Submit your reflection on Canvas page in PDF format by by the due date on Canvas. [Late submission policy](https://github.com/aselshall/rm/blob/main/README.md#late-assignment-and-report-policy) in the course syllabus applies.
+- Submit your homework on Canvas page in PDF format by by the due date on Canvas.
+- [Late submission policy](https://github.com/aselshall/rm/blob/main/README.md#late-assignment-and-report-policy) in the course syllabus applies.
 
 ### Evaluation Criteria 
 - Understanding: Does the reflection show a basic understanding of the importance of significance, feasibility, personal interest, and ethics in selecting a research problem?
