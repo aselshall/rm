@@ -1,4 +1,4 @@
-# [Lesson 2 Research Paradigms](https://aselshall.github.io/m02/lesson02-paradigms)
+# [Lesson 2 Research Paradigms]((https://aselshall.github.io/m02/lesson02-paradigms)
 
 ## 5E Instructional Model (Engage, Explore, Explain, Elaborate, Evaluate)
 - Objective (5 min): Students will understand various research approaches and designs, their applications, and how to select an appropriate approach and design for their research projects.
