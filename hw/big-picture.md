@@ -1,4 +1,4 @@
-# [The Big Picture](https://aselshall.github.io/rm/big_picture)
+# [The Big Picture](https://aselshall.github.io/rm/hw/big-picture)
 
 <h2 style="color:blue">Understand</h2>
 
