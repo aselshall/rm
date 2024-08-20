@@ -8,16 +8,16 @@ As described in [the big picture](https://aselshall.github.io/rm/hw/big-picture)
    
 2. Select a broad area within water resources or environmental engineering that interests you. You may refer to these [strategies for finding a project idea](https://github.com/aselshall/rm/blob/main/hw/topics.md).
 
-3. Based on the broad topic, think of a specific research problem that you might want to explore. Keep it simple and focus on what you find intriguing.
-
-4. For the research problem you’ve identified, briefly consider the following:
+3. Based on the broad topic, think of a specific research problem that you might want to explore. Keep it simple!
+   
+5. For the research problem you have identified, briefly consider the following:
    - Significance: Why is this research problem important? What potential impact could exploring this problem have?
    - Feasibility: Do you think this problem is manageable given the resources, time, and data you might have access to?
    - Personal Interest: Why does this problem interest you? How would your interest in this topic help sustain your work?
    - Ethical Considerations: Are there any ethical issues related to studying this problem? How might you address them?
    - Other Factors: Consider any other relevant factors listed in the Lesson 3 slides
 
-5. In a 1-page reflection, describe the research problem you have chosen and explain how you considered each of the above factors in your choice. 
+6. In a 1-page reflection, describe the research problem you have chosen and explain how you considered each of the above factors in your choice. 
 
 ### Submission
 - Submit your homework on Canvas page in PDF format by by the due date on Canvas.
@@ -25,6 +25,5 @@ As described in [the big picture](https://aselshall.github.io/rm/hw/big-picture)
 - It is essential to adhere to the deadlines to ensure fairness and maintain the integrity of the learning process. If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 
 ### Evaluation Criteria 
-- Understanding: Does the reflection show a basic understanding of the importance of significance, feasibility, personal interest, and ethics in selecting a research problem?
-- Application: How well did the you apply these considerations to your chosen research problem?
+- Understanding: Does the reflection show a basic understanding of the importance of significance, feasibility, personal interest, ethics, and other factors in selecting a research problem?
 - Clarity: Is the reflection clear, well-organized, and free of errors?
