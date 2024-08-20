@@ -3,10 +3,10 @@
 <h2 style="color:blue">Understand</h2>
 
 1. **Select a Research Topic**:
-   - Choose a topic that interests you and aligns with your goals (<span style="color:red">**Homework 1**</span>).
+   - Choose a topic that interests you and aligns with your goals (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/edit/main/hw/hw1.md)**</span>).
    
 2. **Conduct an Exploratory Literature Search**:
-   - Refine your topic and start developing a research question (<span style="color:red">**Homework 2**</span>).
+   - Refine your topic and start developing a research question (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/edit/main/hw/hw2.md)**</span>).
   
    #### Tips and Suggestions
    - Keep your research question realistic by considering available resources, data, your skills, and time constraints.
@@ -17,12 +17,12 @@
    - Enjoy the process of learning about your problem and developing your research plan.
 
 3. **Conduct an In-Depth Literature Review and Write the Introduction**:
-   - Conduct an in-depth literature review which will form the basis of the proposal introduction (<span style="color:red">**Homework 3**</span>):
+   - Conduct an in-depth literature review which will form the basis of the proposal introduction (<span style="color:red">**[Homework 3](https://github.com/aselshall/rm/edit/main/hw/hw3.md)**</span>):
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
      - Refine and sharpen your research question.
      - Note: The literature review should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is necessary to fill gaps in knowledge or provide solutions. In other words, it should identify existing research, highlight gaps, and lead to a clearly defined problem statement and research question. The literature review will form the basis of your research proposal's introduction.
-   - Write the Introduction (<span style="color:red">**Homework 4**</span>):
+   - Write the Introduction (<span style="color:red">**[Homework 4](https://github.com/aselshall/rm/edit/main/hw/hw4.md)**</span>):
       - Introduce the topic, providing necessary background information to set the context for your research.
       - Describe the research gap identified through your literature review.
       - Outline the specific research question you aim to investigate.
@@ -33,16 +33,17 @@
 <h2 style="color:blue">Plan</h2>
 
 4. **Method Development (How)**:
-   - Include components such as study duration, site or experiment description, data and instrumentation, analytical methods and procedures, data analysis, pilot results, and study limitations (<span style="color:red">**Homework 5**</span>)
+   - Include components such as study duration, site or experiment description, data and instrumentation, analytical methods and procedures, data analysis, pilot results, and study limitations (<span style="color:red">**[Homework 5](https://github.com/aselshall/rm/edit/main/hw/hw5.md)**</span>)
 
 5. **Proposal Development**:
-   - Outline the “why, what, and how” of your research, including pilot results if available.
-   - Define deliverables and establish criteria for measuring success.
-   - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
-   - Provide a timeline for the project, outlining key milestones and deadlines.
-   - Conduct a risk assessment, identifying potential challenges and how they will be mitigated.
-   - Include a budget estimate with justifications for the resources needed (if applicable).
-   - Develop a detailed data management plan.
+   - This will be **[research proposal](https://github.com/aselshall/rm/edit/main/hw/proposal.md)**
+      - Outline the “why, what, and how” of your research, including pilot results if available.
+      - Define deliverables and establish criteria for measuring success.
+      - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
+      - Provide a timeline for the project, outlining key milestones and deadlines.
+      - Conduct a risk assessment, identifying potential challenges and how they will be mitigated.
+      - Include a budget estimate with justifications for the resources needed (if applicable).
+      - Develop a detailed data management plan.
 
 <h2 style="color:blue">Execute</h2>
 
