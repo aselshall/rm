@@ -1,7 +1,7 @@
 ## Homework 1: Identifying key considerations in choosing a research problem
 
 ### Objective
-This assignment aims to help you apply the key factors involved in selecting a research problem for a research project or MS thesis in water resources and environmental engineering.
+As described in [the big picture](https://aselshall.github.io/rm/hw/big-picture), this assignment aims to help you apply the key factors involved in selecting a research problem for a research project or MS thesis in water resources and environmental engineering.
 
 ### Instructions
 1. Clearfully review the slides from Lesson 3, "Selecting a Research Problem".
