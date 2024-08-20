@@ -1,14 +1,8 @@
 ## [How to Find a Project Idea](https://aselshall.github.io/rm/hw/topics)
 Choosing a project that aligns with your interests and showcases your research skills in water resources and environmental engineering is key. Here are some strategies to help you find the right project idea:
-
-### 1. Leverage current work and ongoing projects
-Consider building on a project you're already involved in at work, with your supervisor, or within your degree program. Additionally, explore ongoing projects at your organization, FGCU, or in the community to find ways to enhance or extend them.
-
-### 2. Explore research papers and local concerns
-Dive into existing research papers to identify gaps or areas for new insights. Alternatively, focus on local water resources or environmental issues that interest you, and engage with local organizations or agencies for project opportunities. For instance, you could contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) who can connect you with relevant local organizations.
-
-### 3. Seek guidance from faculty
-Consult with your instructor and other faculty members for tailored project ideas. Also, explore current research projects by faculty members to find a topic that aligns with your interests and learning goals. For example, below is a list of selected current research projects by faculty members.
+- **Leverage current work and ongoing projects:** Consider building on a project you are already involved in at work, with your supervisor, or within your degree program. Additionally, explore ongoing projects at your organization, FGCU, or in the community to find ways to enhance or extend them.
+- **Explore research papers and local concerns:** Dive into existing research papers to identify gaps or areas for new insights. Alternatively, focus on local water resources or environmental issues that interest you, and engage with local organizations or agencies for project opportunities. For instance, you could contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) who can connect you with relevant local organizations.
+- **Seek guidance from faculty:** Consult with your instructor and other faculty members for tailored project ideas. Also, explore current research projects by faculty members to find a topic that aligns with your interests and learning goals. For example, below is a list of selected current research projects by faculty members.
 
 ## Faculty Projects
 - **[Nature-Based Infrastructure for Climate Resiliency](https://github.com/aselshall/rm/blob/main/hw/projects/p1.md)**: Focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture, funded by the U.S. Environmental Protection Agency (EPA)
