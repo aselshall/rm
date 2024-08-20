@@ -7,14 +7,12 @@
    
 2. **Conduct an Exploratory Literature Search**:
    - Refine your topic and start developing a research question (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/edit/main/hw/hw2.md)**</span>).
-  
-   #### Tips and Suggestions
-   - Keep your research question realistic by considering available resources, data, your skills, and time constraints.
-   - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
-   - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end.
-   - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member or your course instructor.
-   - Ask for help if you're uncertain about any aspect of your research.
-   - Enjoy the process of learning about your problem and developing your research plan.
+      - Keep your research question realistic by considering available resources, data, your skills, and time constraints.
+      - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
+      - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end.
+      - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member or your course instructor.
+      - Ask for help if you're uncertain about any aspect of your research.
+      - Enjoy the process of learning about your problem and developing your research plan.
 
 3. **Conduct an In-Depth Literature Review and Write the Introduction**:
    - Conduct an in-depth literature review which will form the basis of the proposal introduction (<span style="color:red">**[Homework 3](https://github.com/aselshall/rm/edit/main/hw/hw3.md)**</span>):
