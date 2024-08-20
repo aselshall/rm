@@ -36,7 +36,7 @@
    - Include components such as study duration, site or experiment description, data and instrumentation, analytical methods and procedures, data analysis, pilot results, and study limitations (<span style="color:red">**[Homework 5](https://github.com/aselshall/rm/edit/main/hw/hw5.md)**</span>)
 
 5. **Proposal Development**:
-   - This will be **[research proposal](https://github.com/aselshall/rm/edit/main/hw/proposal.md)**
+   - You will integrate all this component to develop your research proposal (<span style="color:red">**[Research Proposal](https://github.com/aselshall/rm/edit/main/hw/proposal.md)**</span>)
       - Outline the “why, what, and how” of your research, including pilot results if available.
       - Define deliverables and establish criteria for measuring success.
       - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
