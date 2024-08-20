@@ -33,7 +33,7 @@
 <h2 style="color:blue">Plan</h2>
 
 4. **Method Development (How)**:
-   - Develop your method with will include several components as follows(<span style="color:red">**[Homework 5](https://github.com/aselshall/rm/edit/main/hw/hw5.md)**</span>)
+   - Develop your method with will include several components as follows (<span style="color:red">**[Homework 5](https://github.com/aselshall/rm/edit/main/hw/hw5.md)**</span>):
       - Study duration
       - Site or experiment description
       - Data and instrumentation
@@ -43,7 +43,7 @@
       - Study limitations 
 
 6. **Proposal Development**:
-   - You will integrate all these components to develop your research proposal (<span style="color:red">**[Research Proposal](https://github.com/aselshall/rm/edit/main/hw/proposal.md)**</span>)
+   - You will integrate all these components to develop your research proposal (<span style="color:red">**[Research Proposal]:(https://github.com/aselshall/rm/edit/main/hw/proposal.md)**</span>)
       - Outline the “why, what, and how” of your research, including pilot results if available.
       - Define deliverables and establish criteria for measuring success.
       - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
