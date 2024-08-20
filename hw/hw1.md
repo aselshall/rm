@@ -22,6 +22,7 @@ This assignment aims to help you apply the key factors involved in selecting a r
 ### Submission
 - Submit your homework on Canvas page in PDF format by by the due date on Canvas.
 - The [late submission policy](https://github.com/aselshall/rm/blob/main/README.md#late-assignment-and-report-policy) in the course syllabus applies.
+- It is essential to adhere to the deadlines to ensure fairness and maintain the integrity of the learning process. If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 
 ### Evaluation Criteria 
 - Understanding: Does the reflection show a basic understanding of the importance of significance, feasibility, personal interest, and ethics in selecting a research problem?
