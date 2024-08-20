@@ -1,31 +1,31 @@
+# [Lesson 2 Research Paradigms](https://aselshall.github.io/m02/lesson02-paradigms)
+
 ## 5E Instructional Model (Engage, Explore, Explain, Elaborate, Evaluate)
-
-### Objective:
-Students will understand various research approaches and designs, their applications, and how to select an appropriate approach and design for their research projects.
-
-### Engage:
-Capture students' interest and stimulate their thinking (example question and discussion).
-
-### Explore:
-Allow students to investigate the topic (small group and case studies).
-
-### Explain:
-Provide a detailed explanation of the concept.
-- Qualitative Research:  Methods, data collection techniques (interviews, focus groups), analysis, and applications.
-- Quantitative Research: Experimental design, surveys, statistical analysis, and applications.
-- Mixed-Methods Research: Combining qualitative and quantitative methods, benefits, and challenges.
-
-### Elaborate:
-Extend students' understanding and allow them to apply what they have learned.
-- Each group will select a topic, formulate research questions, choose an appropriate research approach and methodology, and explain their choice of research approach and its relevance to their research questions.
-
-### Evaluate:
-Assess students' understanding and provide feedback.
-- Ask students how they can apply this knowledge to their own research projects.
+- Objective (5 min): Students will understand various research approaches and designs, their applications, and how to select an appropriate approach and design for their research projects.
+- Engage (5 min): Capture students' interest and stimulate their thinking using GW example
+- Explore(10 min): Allow students to investigate the topic through slide discussion
+- Explain(30 min):Provide a detailed explanation of the concept.
+  - Qualitative Research:  Methods, data collection techniques (interviews, focus groups), analysis, and applications.
+  - Quantitative Research: Experimental design, surveys, statistical analysis, and applications.
+  - Mixed-Methods Research: Combining qualitative and quantitative methods, benefits, and challenges.
+- Elaborate(15 min): Extend students' understanding and allow them to apply what they have learned by explaining their choice of research approach and its relevance to their research questions.
+- Evaluate (5 min): Assess students' understanding and provide feedback by asking how they can apply this knowledge to their own research projects.
 
 ---
 
 ## Research Approaches
+
+Here is the table converted to markdown format:
+
+## Research Approaches (World Views)
+
+|                     | Postpositivism                   | Constructivism                   | Transformative                       | Pragmatism                                                   |
+|---------------------|----------------------------------|----------------------------------|--------------------------------------|--------------------------------------------------------------|
+| **Philosophical Focus** | Causes determine effects         | Participants' views              | Addressing marginalized individuals  | Concern with applications, what works, and solutions to problems |
+| **Key Principle**     | Determination                    | Understanding                    | Political                            | Consequences of actions                                      |
+| **Approach to Complexity** | Reductionism                     | Multiple participant meanings    | Power and justice oriented           | Problem-centered                                              |
+| **Research Method**   | Empirical observation and measurement | Social and historical construction | Collaborative                         | Pluralistic                                                  |
+| **Theory Orientation** | Theory verification               | Theory generation                | Change-oriented                      | Real-world practice oriented                                 |
 
 ### Postpositivism (causes determine effects): Theory Verification
 - **Postpositivism** is grounded in the belief that reality can be objectively observed and measured, and that causes lead to specific effects.
@@ -83,6 +83,17 @@ Assess students' understanding and provide feedback.
 ---
 
 ## Examples of Research Designs
+
+## Alternative Research Designs: Examples
+
+| Quantitative                                                                                         | Qualitative                                                                                                                                 | Mixed Methods                                                                                              |
+|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **[Experimental designs](#):** such as completely randomized, randomized block design, matched pairs design, factorial design, etc.         | **[Narrative research](#):** researcher studies the lives of individuals and asks individuals to provide stories about their lives and narrative chronology | **[Convergent](#):** researcher converges or merges quantitative and qualitative data in order to provide a comprehensive analysis              |
+| **[Nonexperimental designs](#):** such as causal-comparative research, correlational design, surveys (questionnaires or structured interviews for data collection), elaborate structural equation models, etc. | **[Phenomenology](#):** researcher describes the lived experiences of individuals about a phenomenon as described by participants           | **[Explanatory sequential](#):** researcher first conducts quantitative research; and then explains the results with qualitative research         |
+| **[Longitudinal designs](#):** data collection over time to examine the development of ideas and trends                                | **[Grounded theory](#):** researcher derives a general, abstract theory grounded in the views of participants                                | **[Exploratory sequential](#):** reverse sequence from the explanatory sequential design                                                           |
+|                                                                                                      | **[Ethnographies](#):** researcher studies the shared patterns of behaviors, language, and actions                                          | **[Complex designs with embedded core designs](#):** core designs are used in mixed methods strategies                                            |
+|                                                                                                      | **[Case study](#):** researcher develops an in-depth analysis of a case                                                                     |                                                                                                             |
+
 
 ### Quantitative:
 - **Experimental Designs**: A randomized controlled experiment to test the effectiveness of different recharge techniques on groundwater levels.
