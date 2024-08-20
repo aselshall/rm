@@ -41,7 +41,7 @@
       - Study limitations 
 
 6. **Proposal Development**:
-   - You will integrate all these components to develop your research proposal (<span style="color:red">**[Research Proposal]:(https://github.com/aselshall/rm/edit/main/hw/proposal.md)**</span>)
+   - You will integrate all these components to develop your research proposal (<span style="color:red">**[Research Proposal](https://github.com/aselshall/rm/edit/main/hw/proposal.md)**</span>):
       - Outline the “why, what, and how” of your research, including pilot results if available.
       - Define deliverables and establish criteria for measuring success.
       - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
