@@ -33,9 +33,16 @@
 <h2 style="color:blue">Plan</h2>
 
 4. **Method Development (How)**:
-   - Include components such as study duration, site or experiment description, data and instrumentation, analytical methods and procedures, data analysis, pilot results, and study limitations (<span style="color:red">**[Homework 5](https://github.com/aselshall/rm/edit/main/hw/hw5.md)**</span>)
+   - Develop your method with will include several components as follows(<span style="color:red">**[Homework 5](https://github.com/aselshall/rm/edit/main/hw/hw5.md)**</span>)
+      - Study duration
+      - Site or experiment description
+      - Data and instrumentation
+      - Analytical methods and procedures
+      - Data analysis techniques
+      - Pilot results
+      - Study limitations 
 
-5. **Proposal Development**:
+6. **Proposal Development**:
    - You will integrate all these components to develop your research proposal (<span style="color:red">**[Research Proposal](https://github.com/aselshall/rm/edit/main/hw/proposal.md)**</span>)
       - Outline the “why, what, and how” of your research, including pilot results if available.
       - Define deliverables and establish criteria for measuring success.
