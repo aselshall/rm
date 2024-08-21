@@ -11,7 +11,7 @@ Choosing a project that aligns with your interests and showcases your research s
 - **[Red Tide Water Quality Management Application (REMApp)](https://github.com/aselshall/rm/blob/main/hw/projects/p4.md)**: Involves enhancing harmful algal bloom prediction through advanced machine learning
 - **[Site Selection for Nitrogen Reduction in the Peace River Watershed](https://github.com/aselshall/rm/blob/main/hw/projects/p5.md)**: Prioritizes areas contributing the most nitrogen loading and identifies projects for quantifiable nitrogen reduction using the WAM model
 - **[Site Selection for Phosphorus Reduction in the Peace River Watershed](https://github.com/aselshall/rm/blob/main/hw/projects/p6.md)**: Focuses on areas with high phosphorus loading, identifying projects for measurable phosphorus reduction using the WAM model
-- **[Enhancing Student Understanding of Reinforced Concrete Structures in Construction Management](https://github.com/aselshall/rm/blob/main/hw/projects/p7.md)**: Enhance the educational experience of students enrolled in the BCN 3431C Structures for Construction course by providing hands-on learning opportunities in reinforced concrete structures
+- **[Enhancing Student Understanding of Reinforced Concrete Structures in Construction Management](https://github.com/aselshall/rm/blob/main/hw/projects/p7.md)**: Enhancing the educational experience of students enrolled in the BCN 3431C Structures for Construction course by providing hands-on learning opportunities in reinforced concrete structures
 
 
 
