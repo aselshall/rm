@@ -2,11 +2,11 @@
 
 <h2 style="color:blue">Understand</h2>
 
-1. **Select a Research Topic**:
-   - Choose a topic that interests you and aligns with your goals (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/blob/main/hw/hw1.md)**</span>).
+1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/blob/main/hw/hw1.md)**</span>)
+   - Choose a topic that interests you and aligns with your goals.
 
-2. **Conduct an Exploratory Literature Search**:
-   - Refine your topic and start developing a research question (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/blob/main/hw/hw2.md)**</span>).
+2. **Conduct an Exploratory Literature Search** (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/blob/main/hw/hw2.md)**</span>)
+   - Refine your topic and start developing a research question.
       - Keep your research question realistic by considering available resources, data, your skills, and time constraints.
       - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
       - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end.
@@ -14,13 +14,13 @@
       - Ask for help if you're uncertain about any aspect of your research.
       - Enjoy the process of learning about your problem and developing your research plan.
 
-3. **Conduct an In-Depth Literature Review and Write the Introduction**:
-   - Conduct an in-depth literature review which will form the basis of the proposal introduction (<span style="color:red">**[Homework 3](https://github.com/aselshall/rm/blob/main/hw/hw3.md)**</span>):
+3. **Conduct an In-Depth Literature Review and Write the Introduction** (<span style="color:red">**[Homework 3](https://github.com/aselshall/rm/blob/main/hw/hw3.md)**</span>)
+   - Conduct an in-depth literature review which will form the basis of the proposal introduction:
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
      - Refine and sharpen your research question.
      - Note: The literature review should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is necessary to fill gaps in knowledge or provide solutions. In other words, it should identify existing research, highlight gaps, and lead to a clearly defined problem statement and research question. The literature review will form the basis of your research proposal's introduction.
-   - Write the Introduction (<span style="color:red">**[Homework 4](https://github.com/aselshall/rm/blob/main/hw/hw4.md)**</span>):
+   - Write the Introduction:
       - Introduce the topic, providing necessary background information to set the context for your research.
       - Describe the research gap identified through your literature review.
       - Outline the specific research question you aim to investigate.
@@ -30,8 +30,8 @@
 
 <h2 style="color:blue">Plan</h2>
 
-4. **Method Development (How)**:
-   - Develop your method with will include several components as follows (<span style="color:red">**[Homework 5](https://github.com/aselshall/rm/main/blob/hw/hw5.md)**</span>):
+4. **Method Development** (<span style="color:red">**[Homework 4](https://github.com/aselshall/rm/blob/main/hw/hw4.md)**</span>)
+   - Develop your method with will include several components as follows:
       - Study duration
       - Site or experiment description
       - Data and instrumentation
@@ -40,8 +40,8 @@
       - Pilot results
       - Study limitations 
 
-6. **Proposal Development**:
-   - You will integrate all these components to develop your research proposal (<span style="color:red">**[Research Proposal](https://github.com/aselshall/rm/blob/main/hw/proposal.md)**</span>):
+6. **Proposal Development** (<span style="color:red">**[Research Proposal](https://github.com/aselshall/rm/blob/main/hw/proposal.md)**</span>)
+   - You will integrate all these components to develop your research proposal:
       - Outline the “why, what, and how” of your research, including pilot results if available.
       - Define deliverables and establish criteria for measuring success.
       - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
