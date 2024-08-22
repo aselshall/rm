@@ -1,4 +1,4 @@
-## Homework 2: Conducting an exploratory literature search and refining your research topic
+## Homework 2: Conducting an exploratory literature search and refining your research problem
 
 ### Objective
 This assignment aims to guide you through the process of refining your chosen research topic into a research question. By conducting an exploratory literature search, you will develop a clearer understanding of the research landscape, identify gaps in existing knowledge, and formulate your research question accordingly.
@@ -23,7 +23,7 @@ This assignment aims to guide you through the process of refining your chosen re
    - Plan a basic timeline or outline of how you would approach answering this research question. Consider what data you would need, how you would collect it, and what methodologies you might use.
    - If you are unsure about the feasibility, seek guidance from your instructor or faculty advisor.
 
-5. **Write a 1-Page Summary**:
+5. **Write a 1 to 2 Page Summary**:
    - Write a concise 1-page summary that includes the following:
      - A brief overview of the key findings from your exploratory literature search.
      - Your refined research question.
