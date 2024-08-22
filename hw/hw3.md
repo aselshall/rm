@@ -3,7 +3,7 @@
 ### Objective
 This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your research project or MS thesis. The instructor will evaluate your proposal following the NSF guidelines: “When evaluating NSF proposals, reviewers should consider **what** the proposers want to do, **why** they want to do it, **how** they plan to do it, how they will know if they succeed, and what benefits could accrue if the project is successful.” By the end of your introduction, the reader should know **what** you want to do and **why** you want to do it. By the end of the methods section, the reader should know **how** you want to do it.
 
-### Instructions
+### Instructions**
 
 1. **Review Your Research Question:**
    - Reflect on the research question you developed in Homework 2. Consider any feedback you received and refine your question as needed.
@@ -14,11 +14,11 @@ This assignment aims to guide you through the process of conducting an in-depth 
    - Take detailed notes, focusing on how your research fits within the existing body of knowledge. Highlight gaps in the current research that your study could address.
 
 3. **Structure Your Introduction as Follows:**
-   - **Background and Context:** Introduce the broader topic of your research, providing necessary background information.
+   - **Background and Context:** Introduce the broader topic of your research, providing necessary background information to set the context for your study.
    - **Literature Review Summary:** Summarize the key findings from your in-depth literature review. Highlight the major studies and theories that are relevant to your research question.
    - **Research Gap:** Clearly state the gap in the literature that your research aims to fill. Explain why this gap is significant and how your research will address it. Ensure that your literature review tells a cohesive story, leading naturally to your research question.
    - **Research Question:** Present your refined research question, ensuring that it is clearly linked to the identified research gap.
-   - **Research Objectives:** Outline the specific objectives your research seeks to achieve. These should directly address the research question and contribute to filling the research gap.
+   - **Research Objectives and Tasks:** Outline the specific objectives your research seeks to achieve. Detail the tasks you will undertake to address these objectives.
 
 4. **Reference Requirements:**
    - You are required to cite at least 10 scholarly sources. This ensures a comprehensive review and demonstrates engagement with the existing literature.
@@ -41,4 +41,3 @@ This assignment aims to guide you through the process of conducting an in-depth 
 | **Research Question and Objectives** | Presents a clear and focused research question that is well-connected to the research gap. Objectives are specific, achievable, and directly address the research question. | Presents a clear research question that is connected to the research gap. Objectives are mostly specific and achievable but may need further refinement. | Presents a research question, but it may lack clarity or strong connection to the research gap. Objectives are somewhat clear but may need refinement. | Presents a vague or unclear research question with weak connection to the research gap. Objectives are unclear or not well-aligned with the research question. | Fails to present a clear research question or objectives. The connection to the research gap is missing, and objectives are either unclear or non-existent. | 20%       |
 | **Clarity, Organization, and AGU Citation Style** | Writing is exceptionally clear, well-organized, and free of errors. Uses AGU citation style correctly throughout, with a well-formatted bibliography.        | Writing is clear and organized with minor errors. Uses AGU citation style correctly, with minor formatting issues in the bibliography.                    | Writing is somewhat clear but may be disorganized or contain multiple errors. AGU citation style is used but with noticeable errors in citation or bibliography. | Writing lacks clarity, is disorganized, and contains significant errors. AGU citation style is poorly used, with multiple errors in citation and bibliography. | Writing is unclear, disorganized, and contains numerous errors. AGU citation style is either not used or is significantly incorrect throughout.            | 10%       |
 | **Total Weight**                  |                                                                                                                                                             |                                                                                                                                                           |                                                                                                                                                          |                                                                                                                                                          |                                                                                                                                                          | **100%**   |
-
