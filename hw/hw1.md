@@ -13,7 +13,7 @@ As described in [the big picture](https://aselshall.github.io/rm/hw/big-picture)
 5. For the research problem you have identified, briefly consider the following:
    - Significance: Why is this research problem important? What potential impact could exploring this problem have?
    - Feasibility: Do you think this problem is manageable given the resources, time, and data you might have access to?
-   - Personal Interest: Why does this problem interest you? How would your interest in this topic help sustain your work?
+   - Personal Interest: Why does this problem interest you? How would your interest in this topic help sustain your work or advance your career?
    - Other Factors: Consider any other relevant factors listed in the Lesson 3 slides
 
 6. In a 1-page reflection, describe the research problem you have chosen and explain how you considered each of the above factors in your choice. 
