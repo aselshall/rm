@@ -1,12 +1,12 @@
 ## Homework 1: Development of research topic
 
 ### Objective
-As described in [the big picture](https://aselshall.github.io/rm/hw/big-picture), this assignment aims to help you apply the key factors involved in selecting a research problem for a research project or MS thesis in water resources and environmental engineering.
+As described in [the big picture](https://aselshall.github.io/rm/hw/big-picture), this assignment aims to help you apply the key factors involved in selecting a research problem for a research project or MS thesis in civil and environmental engineering.
 
 ### Instructions
-1. Clearfully review the slides from Lesson 3, "Selecting a Research Problem".
+1. Clearfully review the slides from Lesson 3, "Research Problem".
    
-2. Select a broad area within water resources or environmental engineering that interests you. You may refer to these [strategies for finding a project idea](https://github.com/aselshall/rm/blob/main/hw/topics.md).
+2. Select a broad area within civil and environmental engineering that interests you. You may refer to these [strategies for finding a project idea](https://github.com/aselshall/rm/blob/main/hw/topics.md).
 
 3. Based on the broad topic, think of a specific research problem that you might want to explore. Keep it simple!
    
