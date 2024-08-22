@@ -3,7 +3,7 @@
 ### Objective
 This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your research project or MS thesis. The instructor will evaluate your proposal following the NSF guidelines: “When evaluating NSF proposals, reviewers should consider **what** the proposers want to do, **why** they want to do it, **how** they plan to do it, how they will know if they succeed, and what benefits could accrue if the project is successful.” By the end of your introduction, the reader should know **what** you want to do and **why** you want to do it. By the end of the methods section, the reader should know **how** you want to do it.
 
-### Instructions**
+### Instructions
 
 1. **Review Your Research Question:**
    - Reflect on the research question you developed in Homework 2. Consider any feedback you received and refine your question as needed.
@@ -27,7 +27,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
    - Ensure all sources are cited using the AGU citation style.
    - Include a bibliography at the end of your document formatted according to AGU guidelines.
 
-### Submission:
+### Submission
 - Submit your research proposal introduction as a PDF file on Canvas by the due date indicated on Canvas.
 - The late submission policy in the course syllabus applies. If you anticipate any difficulties meeting the deadline, please communicate with the instructor as early as possible.
 
