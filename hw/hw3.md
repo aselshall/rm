@@ -1,4 +1,4 @@
-## Homework 3: Conducting an In-Depth Literature Review and Writing the Introduction
+## [Homework 3: Conducting an In-Depth Literature Review and Writing the Introduction](https://aselshall.github.io/rm/hw/hw3)
 
 ### Objective
 This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your research project or MS thesis. The instructor will evaluate your proposal following the NSF guidelines: “When evaluating NSF proposals, reviewers should consider **what** the proposers want to do, **why** they want to do it, **how** they plan to do it, how they will know if they succeed, and what benefits could accrue if the project is successful.” By the end of your introduction, the reader should know **what** you want to do and **why** you want to do it. By the end of the methods section, the reader should know **how** you want to do it.
