@@ -32,8 +32,6 @@ This assignment aims to guide you through the process of conducting an in-depth 
 - The late submission policy in the course syllabus applies. If you anticipate any difficulties meeting the deadline, please communicate with the instructor as early as possible.
 
 
-Here’s the adjusted table with content-fit columns. If the text still doesn’t fit well, you might need to use a scroll bar for better readability.
-
 ### Homework 3: Rubric
 
 | **Criteria**                      | **Exemplary (90-100%)**                                                                                                                                      | **Proficient (80-89%)**                                                                                                                                   | **Adequate (70-79%)**                                                                                                                                    | **Needs Improvement (60-69%)**                                                                                                                           | **Incomplete (<60%)**                                                                                                                                   | **Weight** |
