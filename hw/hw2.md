@@ -1,4 +1,4 @@
-## Homework 2: Conducting an exploratory literature search and refining your research topic
+## Homework 2: Conducting an exploratory literature search and scoping your research topic
 
 ### Objective
 This assignment aims to guide you through the process of refining your chosen research topic into a research question. By conducting an exploratory literature search, you will develop a clearer understanding of the research landscape, identify gaps in existing knowledge, and formulate your research question accordingly.
