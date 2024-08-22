@@ -1,7 +1,7 @@
-### Homework 3: Conducting an in-depth literature review and writing the introduction
+## Homework 3: Conducting an In-Depth Literature Review and Writing the Introduction
 
 ### Objective
-This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your research project or MS thesis. The instructor will evaluate your proposal following the NSF guidelines: “When evaluating NSF proposals, reviewers should consider **what** the proposers want to do, **why** they want to do it, **how** they plan to do it, how they will know if they succeed, and what benefits could accrue if the project is successful.” By the end of your introduction, the reader should know **what** you want to do and **why** you want to do it. By the end of the method the reader should know **how you want to do it**. 
+This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your research project or MS thesis. The instructor will evaluate your proposal following the NSF guidelines: “When evaluating NSF proposals, reviewers should consider **what** the proposers want to do, **why** they want to do it, **how** they plan to do it, how they will know if they succeed, and what benefits could accrue if the project is successful.” By the end of your introduction, the reader should know **what** you want to do and **why** you want to do it. By the end of the methods section, the reader should know **how** you want to do it.
 
 ### Instructions
 
@@ -13,23 +13,22 @@ This assignment aims to guide you through the process of conducting an in-depth 
    - Identify key studies, review papers, and recent developments that are relevant to your research question.
    - Take detailed notes, focusing on how your research fits within the existing body of knowledge. Highlight gaps in the current research that your study could address.
 
-3. **Structure your introduction as follows:**
-  - Background and Context: Introduce the broader topic of your research, providing necessary background information.
-  - Literature Review Summary: Summarize the key findings from your in-depth literature review. Highlight the major studies and theories that are relevant to your research question.
-  - Research Gap: Clearly state the gap in the literature that your research aims to fill. Explain why this gap is significant and how your research will address it. Ensure that your literature review tells a cohesive story, leading naturally to your research question.
-  - Research Question: Present your refined research question, ensuring that it is clearly linked to the identified research gap.
-  - Research Objectives: Outline the specific objectives your research seeks to achieve. These should directly address the research question and contribute to filling the research gap.
+3. **Structure Your Introduction as Follows:**
+   - **Background and Context:** Introduce the broader topic of your research, providing necessary background information.
+   - **Literature Review Summary:** Summarize the key findings from your in-depth literature review. Highlight the major studies and theories that are relevant to your research question.
+   - **Research Gap:** Clearly state the gap in the literature that your research aims to fill. Explain why this gap is significant and how your research will address it. Ensure that your literature review tells a cohesive story, leading naturally to your research question.
+   - **Research Question:** Present your refined research question, ensuring that it is clearly linked to the identified research gap.
+   - **Research Objectives:** Outline the specific objectives your research seeks to achieve. These should directly address the research question and contribute to filling the research gap.
 
 4. **Reference Requirements:**
-  - You are required to cite at least 10 scholarly sources. This ensures a comprehensive review and demonstrates engagement with the existing literature.
-Submission
+   - You are required to cite at least 10 scholarly sources. This ensures a comprehensive review and demonstrates engagement with the existing literature.
 
 5. **Cite Using AGU Style:**
-  - Ensure all sources are cited using the AGU citation style.
-  - Include a bibliography at the end of your document formatted according to AGU guidelines.
+   - Ensure all sources are cited using the AGU citation style.
+   - Include a bibliography at the end of your document formatted according to AGU guidelines.
 
 ### Submission:
-- Submit your research proposal introduction as a  PDF file on Canvas by the due date indicated on Canvas.
+- Submit your research proposal introduction as a PDF file on Canvas by the due date indicated on Canvas.
 - The late submission policy in the course syllabus applies. If you anticipate any difficulties meeting the deadline, please communicate with the instructor as early as possible.
 
 ### Rubric 
