@@ -31,13 +31,13 @@ This assignment aims to guide you through the process of conducting an in-depth 
 
 ## Rubric 
 
-### 1. Research Topic: Background and Context (20%)
+### 1. Research topic: Background and context (20%)
 
 | Criterion | Evaluation |
 | --- | --- |
 | **Provides necessary background information** | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background but lacks some necessary detail; (3) Provides a basic background but lacks clarity or misses important contextual details; (4) Provides minimal background with significant gaps, making the context unclear; (5) Fails to provide an adequate background, leaving the reader without necessary context. |
 
-### 2. Research Problem: Literature Review, Research Gap, and Source Quality (30%)
+### 2. Research Problem: Literature review, Research gap, and source quality (30%)
 
 | Criterion | Evaluation |
 | --- | --- |
@@ -46,7 +46,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
 | **Diversity of sources** | (1) Sources include a mix of general background sources and specialized sources, providing a well-rounded foundation for the research; (2) Sources are mostly specialized, with a few general background sources; (3) Sources are somewhat limited, primarily focused on general background with few specialized studies; (4) Sources lack diversity, primarily relying on general background with minimal specialized input; (5) Sources are not diverse, with little to no specialized sources, leading to a weak foundation for the research. |
 | **Relevance and currency of sources** | (1) Sources are highly relevant and current, published within the last 5 years; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated, but most are still relevant to the research topic; (4) Many sources are outdated, affecting the relevance of the literature review; (5) Sources are mostly outdated, with little relevance to current research trends. |
 
-### 3. Research Question: Focus, Hypothesis, Objectives, and Tasks (25%)
+### 3. Research question: Focus, hypothesis, objectives, and tasks (25%)
 
 | Criterion | Evaluation |
 | --- | --- |
@@ -54,7 +54,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
 | **Do the research question/hypothesis and objectives provide clear direction for the proposal and are they linked to the research gap?** | (1) Directly linked to the research gap, with specific, achievable objectives and tasks; (2) Clear research question and objectives but may need further refinement or clearer connection to the research gap; (3) Research question and objectives are present but lack clarity or strong connection to the research gap; (4) Vague research question or unclear objectives with weak connections to the research gap; (5) Fails to present a clear research question or objectives. |
 | **Is the research project realistic, considering time, resources, and the student's skills?** | (1) Doable given time, resources, and skills; (2) Not realistic due to limitations in time, resources, or skills |
 
-### 4. Cohesiveness, Depth, and Clarity of Writing (15%)
+### 4. Cohesiveness, depth, and clarity of writing (15%)
 
 | Criterion | Evaluation |
 | --- | --- |
@@ -65,7 +65,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
 | **Clarity of expression** | (1) Writing is clear, precise, and well-organized; (2) Writing is mostly clear but may have occasional issues with clarity or organization; (3) Writing is unclear, disorganized, or difficult to follow. |
 | **Accuracy and rigor** | (1) Information is accurate, well-supported, and credible; (2) Information is generally accurate but may include minor errors or unsupported claims; (3) Information contains significant inaccuracies or lacks sufficient rigor. |
 
-### 5. Language Clarity and Precision (5%)
+### 5. Language clarity and precision (5%)
 
 | Criterion | Evaluation |
 | --- | --- |
