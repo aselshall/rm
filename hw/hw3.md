@@ -29,16 +29,15 @@ This assignment aims to guide you through the process of conducting an in-depth 
 - Submit your research proposal introduction as a PDF file on Canvas by the due date indicated on Canvas.
 - The late submission policy in the course syllabus applies. If you anticipate any difficulties meeting the deadline, please communicate with the instructor as early as possible.
 
+## Rubric 
 
-## Rubric
-
-### 1. Background and context
+### 1. Research Topic: Background and Context (20%)
 
 | Criterion | Evaluation |
 | --- | --- |
 | **Provides necessary background information** | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background but lacks some necessary detail; (3) Provides a basic background but lacks clarity or misses important contextual details; (4) Provides minimal background with significant gaps, making the context unclear; (5) Fails to provide an adequate background, leaving the reader without necessary context. |
 
-### 2. Literature review, research gap, and source quality
+### 2. Research Problem: Literature Review, Research Gap, and Source Quality (30%)
 
 | Criterion | Evaluation |
 | --- | --- |
@@ -47,7 +46,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
 | **Diversity of sources** | (1) Sources include a mix of general background sources and specialized sources, providing a well-rounded foundation for the research; (2) Sources are mostly specialized, with a few general background sources; (3) Sources are somewhat limited, primarily focused on general background with few specialized studies; (4) Sources lack diversity, primarily relying on general background with minimal specialized input; (5) Sources are not diverse, with little to no specialized sources, leading to a weak foundation for the research. |
 | **Relevance and currency of sources** | (1) Sources are highly relevant and current, published within the last 5 years; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated, but most are still relevant to the research topic; (4) Many sources are outdated, affecting the relevance of the literature review; (5) Sources are mostly outdated, with little relevance to current research trends. |
 
-### 3. Research focus and research question
+### 3. Research Question: Focus, Hypothesis, Objectives, and Tasks (25%)
 
 | Criterion | Evaluation |
 | --- | --- |
@@ -55,35 +54,18 @@ This assignment aims to guide you through the process of conducting an in-depth 
 | **Do the research question/hypothesis and objectives provide clear direction for the proposal and are they linked to the research gap?** | (1) Directly linked to the research gap, with specific, achievable objectives and tasks; (2) Clear research question and objectives but may need further refinement or clearer connection to the research gap; (3) Research question and objectives are present but lack clarity or strong connection to the research gap; (4) Vague research question or unclear objectives with weak connections to the research gap; (5) Fails to present a clear research question or objectives. |
 | **Is the research project realistic, considering time, resources, and the student's skills?** | (1) Doable given time, resources, and skills; (2) Not realistic due to limitations in time, resources, or skills |
 
-### 4. Cohesiveness of the writing
-| Criterion                                                                                           | Evaluation                                                                                                                                                                                                                                              |
-|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Effective use of topic sentences**                                                                | (1) Topic sentences introduce main ideas effectively; (2) Topic sentences mostly effective, with minor gaps; (3) Topic sentences present but may lack clarity; (4) Topic sentences are unclear or ineffective; (5) Topic sentences are missing or inadequate. |
-| **Evidence statements support main ideas**                                                          | (1) Each paragraph has at least two evidence statements; (2) Evidence statements present but may lack depth; (3) Evidence statements are present but weak; (4) Evidence statements are unclear or minimal; (5) Evidence statements are missing or irrelevant. |
-| **Clear transitions between evidence statements**                                                   | (1) Transitions between evidence statements are clear; (2) Transitions present but may need improvement; (3) Transitions are weak or unclear; (4) Transitions are minimal or ineffective; (5) Transitions are missing or disjointed.                       |
-| **Logical order of paragraphs and overall flow**                                                    | (1) Paragraphs follow a logical order, and the proposal flows seamlessly; (2) Order is mostly logical with minor issues in flow; (3) Order is somewhat logical but with noticeable gaps; (4) Order is unclear, affecting flow; (5) Order is illogical and disjointed, affecting overall flow.          |
-
-
-### Depth, clarity, and rigorousness of writing
+### 4. Cohesiveness, Depth, and Clarity of Writing (15%)
 
 | Criterion | Evaluation |
 | --- | --- |
-| **Depth of content** | (1) Writing demonstrates in-depth analysis and comprehensive coverage of the topic, addressing all key aspects; (2) Mostly in-depth, with a few areas that could benefit from further elaboration; (3) Basic coverage of the topic, with some important aspects underdeveloped or missing; (4) Superficial coverage, with significant gaps in content |
-| **Clarity of expression** | (1) Writing is clear, precise, and easy to follow, with logical flow and well-structured arguments; (2) Generally clear, with minor issues in flow or structure that affect readability; (3) Writing is somewhat clear but contains confusing or ambiguous sections; (4) Writing is often unclear, disorganized, or difficult to follow |
-| **Accuracy and rigor** | (1) All information is accurate, well-supported by evidence, and free from misleading or incorrect statements; (2) Mostly accurate, with minor inaccuracies or unsupported claims; (3) Noticeable inaccuracies or misleading information that undermine the credibility of the writing; (4) Frequent inaccuracies or misleading information that significantly weaken the proposal |
+| **Effective use of topic sentences** | (1) Topic sentences effectively introduce main ideas; (2) Topic sentences are generally clear but may occasionally lack focus; (3) Topic sentences are unclear or missing. |
+| **Support with evidence statements** | (1) Each paragraph includes strong evidence supporting the main idea; (2) Evidence statements are present but may lack depth or relevance; (3) Evidence statements are weak, unclear, or missing. |
+| **Clear transitions and logical flow** | (1) Transitions are clear, with paragraphs following a logical order and cohesive flow; (2) Transitions are present but may lack smoothness, with some gaps in flow; (3) Transitions are unclear, with disjointed flow and poor organization. |
+| **Depth of content and elaboration** | (1) Writing demonstrates in-depth analysis with comprehensive coverage of key aspects; (2) Writing covers the topic adequately but may lack depth in some areas; (3) Writing is superficial with significant gaps in content. |
+| **Clarity of expression** | (1) Writing is clear, precise, and well-organized; (2) Writing is mostly clear but may have occasional issues with clarity or organization; (3) Writing is unclear, disorganized, or difficult to follow. |
+| **Accuracy and rigor** | (1) Information is accurate, well-supported, and credible; (2) Information is generally accurate but may include minor errors or unsupported claims; (3) Information contains significant inaccuracies or lacks sufficient rigor. |
 
-### 7. Citations
-
-| Criterion | Evaluation |
-| --- | --- |
-| **Proper citation** | (1) All data obtained from other sources are cited correctly; (2) Most data are cited, with minor omissions; (3) Some data are poorly cited, with noticeable gaps; (4) Frequent issues with citation, bordering on plagiarism |
-| **Paraphrasing and quoting** | (1) Paraphrasing is predominantly used, with direct quotes selectively included when necessary; (2) Generally paraphrases but includes more direct quotes than needed; (3) Mixes paraphrasing and quoting, with some over-reliance on quotes; (4) Overuse of direct quotes, lacking paraphrasing |
-| **Use of secondary sources** | (1) Secondary sources are avoided, with direct citations from the original sources; (2) Minor use of secondary sources, but mostly cites original works; (3) Noticeable use of secondary sources; (4) Heavy reliance on secondary sources instead of original references |
-| **Citation style** | (1) In-text and reference list citations follow AGU style perfectly; (2) Minor errors in AGU citation style; (3) Noticeable errors in AGU citation style; (4) Frequent and significant errors in AGU citation style |
-| **Missing sources** | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing; (4) Many sources are missing |
-| **Accuracy of citations** | (1) All citations in the reference list are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies in citations; (4) Frequent inaccuracies or incomplete citations in the reference list |
-
-### 8. Language clarity and precision
+### 5. Language Clarity and Precision (5%)
 
 | Criterion | Evaluation |
 | --- | --- |
@@ -97,3 +79,15 @@ This assignment aims to guide you through the process of conducting an in-depth 
 | **Tense consistency** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Several tense inconsistencies; (4) Frequent tense errors |
 | **Academic writing style** | (1) Writing is formal, precise, and supported by factual evidence; (2) Writing is mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise; (4) Writing is often informal or lacks precision |
 
+### 6. Citations (5%)
+
+| Criterion | Evaluation |
+| --- | --- |
+| **Proper citation** | (1) All data obtained from other sources are cited correctly; (2) Most data are cited, with minor omissions; (3) Some data are poorly cited, with noticeable gaps; (4) Frequent issues with citation, bordering on plagiarism |
+| **Paraphrasing and quoting** | (1) Paraphrasing is predominantly used, with direct quotes selectively included when necessary; (2) Generally paraphrases but includes more direct quotes than needed; (3) Mixes paraphrasing and quoting, with some over-reliance on quotes; (4) Overuse of direct quotes, lacking paraphrasing |
+| **Use of secondary sources** | (1) Secondary sources are avoided, with direct citations from the original sources; (2) Minor use of secondary sources, but mostly cites original works; (3) Noticeable use of secondary sources; (4) Heavy reliance on secondary sources instead of original references |
+| **Citation style** | (1) In-text and reference list citations follow AGU style perfectly; (2) Minor errors in AGU citation style; (3) Noticeable errors in AGU citation style; (4) Frequent and significant errors in AGU citation style |
+| **Missing sources** | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing; (4) Many sources are missing |
+| **Accuracy of citations** | (1) All citations in the reference list are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable
+
+ inaccuracies in citations; (4) Frequent inaccuracies or incomplete citations in the reference list |
