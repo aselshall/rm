@@ -88,6 +88,4 @@ This assignment aims to guide you through the process of conducting an in-depth 
 | **Use of secondary sources** | (1) Secondary sources are avoided, with direct citations from the original sources; (2) Minor use of secondary sources, but mostly cites original works; (3) Noticeable use of secondary sources; (4) Heavy reliance on secondary sources instead of original references |
 | **Citation style** | (1) In-text and reference list citations follow AGU style perfectly; (2) Minor errors in AGU citation style; (3) Noticeable errors in AGU citation style; (4) Frequent and significant errors in AGU citation style |
 | **Missing sources** | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing; (4) Many sources are missing |
-| **Accuracy of citations** | (1) All citations in the reference list are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable
-
- inaccuracies in citations; (4) Frequent inaccuracies or incomplete citations in the reference list |
+| **Accuracy of citations** | (1) All citations in the reference list are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies in citations; (4) Frequent inaccuracies or incomplete citations in the reference list |
