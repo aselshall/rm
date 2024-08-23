@@ -44,8 +44,8 @@ These topics and dates are tentative and subject to change based on class progre
 |------|------------|----------------------------------------------|-------------------------------------------|
 | 1    | 20-Aug     | Course introduction and overview             |                                           |
 | 1    | 22-Aug     | Foundations of research: Research approaches |                                           |
-| 2    | 27-Aug     | Foundations of research: Research question   |                                           |
-| 2    | 29-Aug     | Foundations of research: Research proposal structure and content | HW1 Development of Research Topic due   |
+| 2    | 27-Aug     | Foundations of research: Research question  |                                           |
+| 2    | 29-Aug     | Foundations of research: Research proposal | HW1 Development of Research Topic due   |
 | 3    | 3-Sep      | Literature review: Library resources - Guest lecture by Kim Reycraft |                                          |
 | 3    | 5-Sep      | Literature review: Techniques                 |                                           |
 | 4    | 10-Sep     | Literature review: Group discussion           | HW2 Research Topic due                    |
