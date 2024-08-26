@@ -2,7 +2,7 @@
 This is a bonus homework with up to 5% of the final homework grade, depending on the depth and quality of the analysis.
 
 ### Objective 
-This question aims to apply concepts from research methods to a real-world case study, as portrayed in the movie *Erin Brockovich*: [Watch the video on YouTube](https://youtu.be/ERJ74tDM03s)
+This question aims to apply concepts from research methods to a real-world case study, as portrayed in the movie *Erin Brockovich*: [Watch the movie on YouTube](https://youtu.be/ERJ74tDM03s)
 
 [![Video Title](https://img.youtube.com/vi/ERJ74tDM03s/0.jpg)](https://youtu.be/ERJ74tDM03s)
 
