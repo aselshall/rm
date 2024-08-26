@@ -31,7 +31,7 @@ Refer to <span style="color:blue">Module 7: Expected Results</span>. Outline the
 
 8. **Impact Assessment:** In the ENG 6941 Project course or your MS thesis research you are expected to conduct the research that you proposed including the process of analyzing results, discussing their implications, and drawing conclusions. Refer to <span style="color:blue">Module 8: Interpreting and Reporting Research Findings</span>. How would you assess the long-term impact of the contamination on community health? What measures would you recommend to mitigate these impacts?
 
-## Submission 
+### Submission 
 - Answer the above questions in a concise 2-3 page reflection.
 - Be sure to integrate concepts from your course material.
 - Your response should demonstrate an understanding of both the movie's narrative and the application of environmental research methodologies.
