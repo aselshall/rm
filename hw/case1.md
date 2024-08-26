@@ -29,8 +29,7 @@ Refer to <span style="color:blue">Module 7: Expected Results</span>. Outline the
     - Outcomes: Discuss the short-term and medium-term effects of your research, such as improvements in community health, changes in local policies, or remediation efforts initiated by government agencies.
     - Impacts: Explain the long-term impacts your research could have on the community and the broader field of environmental health, such as lasting improvements in public health, changes in environmental regulations, or contributions to the body of scientific knowledge on contamination and its effects.
 
-### 8. **Impact Assessment:**
-In the ENG 6941 Project course or your MS thesis research you are expected to conduct the research that you proposed including the process of analyzing results, discussing their implications, and drawing conclusions. Refer to <span style="color:blue">Module 8: Interpreting and Reporting Research Findings</span>. How would you assess the long-term impact of the contamination on community health? What measures would you recommend to mitigate these impacts?
+**Impact Assessment:** In the ENG 6941 Project course or your MS thesis research you are expected to conduct the research that you proposed including the process of analyzing results, discussing their implications, and drawing conclusions. Refer to <span style="color:blue">Module 8: Interpreting and Reporting Research Findings</span>. How would you assess the long-term impact of the contamination on community health? What measures would you recommend to mitigate these impacts?
 
 ## Submission 
 - Answer the above questions in a concise 2-3 page reflection.
