@@ -18,11 +18,11 @@ In the movie *Erin Brockovich*, the protagonist uncovers a major environmental h
 
 4. **Literature review:** What are the key sources of information you would review to understand the context of groundwater contamination? Describe how you would approach the literature review to gain a comprehensive understanding of the historical, scientific, and regulatory aspects of the contamination issue. 
 
-5. **Data collection and analysis:** Discuss the types of data (qualitative and/or quantitative) you would need to collect for a comprehensive understanding of the contamination issue. Describe the specific data collection methods (e.g., water sampling, health surveys, archival research, etc.) you would use and explain how you would ensure the reliability and validity of the data collected. Then, outline how you would analyze this data to draw meaningful conclusions, including any statistical or thematic analysis techniques that would be most appropriate for this research.
+5. **Method:** Discuss the types of data (qualitative and/or quantitative) you would need to collect for a comprehensive understanding of the contamination issue. Describe the specific data collection methods (e.g., water sampling, health surveys, archival research, etc.) you would use and explain how you would ensure the reliability and validity of the data collected. Then, outline how you would analyze this data to draw meaningful conclusions, including any statistical or thematic analysis techniques that would be most appropriate for this research.
 
 6. **Ethical considerations:** Discuss the ethical issues involved in conducting research in a community affected by environmental contamination. What steps would you take to ensure that the research is conducted ethically and that the community’s well-being is prioritized?
 
-7. **Impact Assessment:** How would you assess the long-term impact of the contamination on the health of the community? What measures would you recommend to mitigate these impacts?
+7. **Impact assessment:** How would you assess the long-term impact of the contamination on the health of the community? What measures would you recommend to mitigate these impacts?
 
 8. **Deliverables, outputs, outcomes, and impacts:** 
     - Deliverables: Identify the specific products or reports you would generate from your research, such as a detailed groundwater contamination report, health impact assessment, court case, or policy recommendations.
