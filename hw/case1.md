@@ -1,5 +1,5 @@
-## Bonus Homework: Erin Brockovich and Environmental Research Methods
-Up to 5% of the final homework grade, depending on the depth and quality of the analysis.
+## Case Study: Erin Brockovich and Environmental Research Methods
+This is a bonus homework with up to 5% of the final homework grade, depending on the depth and quality of the analysis.
 
 ### Objective 
 This question aims to apply concepts from environmental research methods to a real-world case study, as portrayed in the movie *Erin Brockovich*: [Watch the video on YouTube](https://youtu.be/ERJ74tDM03s)
@@ -8,7 +8,7 @@ This question aims to apply concepts from environmental research methods to a re
 
 ### Questions
 
-In the movie *Erin Brockovich*, the protagonist uncovers a major environmental health issue involving contaminated groundwater in a small community. These questions are designed to challenge your thinking and deepen your understanding of research methods by applying them to a real-world case study. The goal is to help you see how the concepts and techniques you have learned in class can be utilized to address complex environmental issues. This exercise encourages you to think critically, make connections between theory and practice, and gain a more nuanced perspective on the role of research in environmental problem-solving.
+In the movie *Erin Brockovich*, the protagonist uncovers a major environmental health issue involving contaminated groundwater in a small community. These questions are designed to challenge your thinking and deepen your understanding of research methods by applying them to a real-world case study. The goal is to help you see how the concepts and techniques you have learned in class can be utilized to address complex environmental issues. This exercise encourages you to think critically, make connections between theory and practice, and gain a more nuanced perspective on the role of research in environmental problem-solving. Watch the movie and answer these questions. 
 
 1. **Research problem:** Based on the events depicted in the movie, describe the environmental research problem that Erin Brockovich investigated. How did the contamination affect the community, and what were the main concerns that needed to be addressed?
 
