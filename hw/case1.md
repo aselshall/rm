@@ -10,7 +10,7 @@ This question aims to apply concepts from research methods to a real-world case 
 
 In the movie *Erin Brockovich*, the protagonist uncovers a major environmental health issue involving contaminated groundwater in a small community. These questions are designed to challenge your thinking and deepen your understanding of research methods by applying them to a real-world case study. The goal is to help you see how the concepts and techniques you will learn in class can be utilized to address complex environmental issues. Refer to <span style="color:blue">Module 1: Introduction to Research Methods course</span> and the [big picture](https://aselshall.github.io/rm/hw/big-picture) for details. This exercise encourages you to think critically, make connections between theory and practice, and gain a more nuanced perspective on the role of research in problem-solving. Watch the movie and answer these questions. 
 
-1. **Research problem:** Refer to <span style="color:blue">Module 2: Foundations of research</span>. Based on the movie *Erin Brockovich*, describe the environmental research problem investigated. How did the groundwater contamination impact the community, and what were the main concerns?
+1. **Research problem:** Refer to <span style="color:blue">Module 2: Foundations of research</span>. Based on the movie *Erin Brockovich*, describe the research problem investigated. How did the groundwater contamination impact the community, and what were the main concerns?
 
 2. **Research approach:** In <span style="color:blue">Module 2: Foundations of research</span>, review the "Research approaches (worldviews)" slide from "Lesson 2: Research Paradigms". Which research approach aligns best with the Erin Brockovich case? Justify your answer using the five criteria provided in the slide.
 
@@ -34,4 +34,4 @@ Refer to <span style="color:blue">Module 7: Expected results</span>. Outline the
 ### Submission 
 - Answer the above questions in a concise 2-3 page reflection.
 - Be sure to integrate concepts from your course material.
-- Your response should demonstrate an understanding of both the movie's narrative and the application of environmental research methodologies.
+- Your response should demonstrate an understanding of both the movie's narrative and the application of  research methods
