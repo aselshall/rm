@@ -112,6 +112,5 @@ The main sections of a research proposal typically include the following:
 
 ## Bibliography
 - John W. Creswell  and J. David Creswell (2018), Research Design: Qualitative, Quantitative, and Mixed Methods Approaches 5th Edition
-![image](https://github.com/user-attachments/assets/bbc727ac-c2b9-439a-9fcc-4eb1cb42824d)
 
 
