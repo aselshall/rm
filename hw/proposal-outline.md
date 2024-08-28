@@ -10,7 +10,7 @@ The main sections of a research proposal typically include the following:
 8. [Appendices](#8-appendices-if-applicable): Supplementary information such as survey instruments, consent forms, detailed methods, budget, etc. 
 
 ## 1. Title page
-### Title page (1 page)
+#### Title page (1 page)
 - Proposal title:
 - PI name and contact information:
 - Program information:
@@ -21,7 +21,7 @@ The main sections of a research proposal typically include the following:
 - etc.
 
 ## 2. Project Summary
-### Project Summary (1 page)
+#### Project Summary (1 page)
 - Background (why): Rationale for the proposed research including motivation, larger issue, your goals (broad and long-term), etc.
 - Objectives(what): Your research question, objectives (specific actions and measurable steps)
 - Methods (how): Main methods and approaches that you will use
@@ -29,7 +29,7 @@ The main sections of a research proposal typically include the following:
 - Outcomes: Significance of the research including a summary of intellectual merits and broader impacts
 
 ## 3. Introduction
-### Background and context: Why
+#### Background and context: Why
 - Provide what is needed for the reader to understand and appreciate your topic 
 - What is your research area: Provide background information about your research area and the importance of this research area 
 - What is your research site (if important): Provide information about your study site (including needs, opportunities, threats, etc.) 
@@ -48,7 +48,7 @@ The main sections of a research proposal typically include the following:
 #### Objectives: What do I exactly want to do
 - Provide the list of objectives that will be achieved (specific actions and measurable steps) that directly connect to your research problem
 
-### 4. Method
+## 4. Method
 #### Research design
 - Describe the overall approach (e.g., qualitative, quantitative, or mixed-methods) and why it is suitable for addressing your research question
 #### Study site/population
@@ -63,7 +63,7 @@ The main sections of a research proposal typically include the following:
 #### Ethical considerations
 - What ethical issues will your study present? (anticipated ethical issues) such as informed consent, confidentiality, and potential risks to participants 
 
-### 5. Expected Results
+## 5. Expected Results
 #### Anticipated finding and preliminary results 
 - what do you expect to find based on the literature review and your research objectives
 - What do preliminary results show about the practicability and value of the proposed study? (primarily pilot findings if available)
@@ -78,7 +78,7 @@ The main sections of a research proposal typically include the following:
 - Outcomes: Specific and measurable short-term effects
 - Impacts: Broader and long-term effects
 
-### 6. Timeline
+## 6. Timeline
 #### Research schedule 
 - Show how proposed timeline aligns with the scope of the research and the resources available.
   - Milestones: major phases or stages of the research, such as data collection, analysis, and writing
@@ -89,14 +89,14 @@ The main sections of a research proposal typically include the following:
 #### Contingency plans
 - How you plan to address potential delays or challenges, ensuring that the project can still be completed within the proposed timeframe?
 
-### 7. References
+## 7. References
 #### Citation of sources 
 - Use citation management software like Zotero to manage references and link citations directly to the reference list
 - Ensure all references adhere to the required citation style (e.g., AGU)
 - Generate the reference list automatically using your citation management software
 -  Review the reference list carefully to ensure all entries are complete and accurate.
 
-### 8. Appendices (only if applicable)![image](https://github.com/user-attachments/assets/4fe81783-1e76-4d84-bec4-bfe438b9d737)
+## 8. Appendices (only if applicable)![image](https://github.com/user-attachments/assets/4fe81783-1e76-4d84-bec4-bfe438b9d737)
 #### Supplementary Information
 - data management plan (required for this course)
 - literature summary,
