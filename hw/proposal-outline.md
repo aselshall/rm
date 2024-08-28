@@ -13,9 +13,6 @@ The main sections of a research proposal typically include the following:
 
 ### 1. Title page
 #### Title page (1 page)
-
-### 1. Title page
-#### Title page (1 page)
 - Proposal title:
 - PI name and contact information:
 - Program information:
