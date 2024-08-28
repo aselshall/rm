@@ -96,7 +96,7 @@ The main sections of a research proposal typically include the following:
 - Generate the reference list automatically using your citation management software
 -  Review the reference list carefully to ensure all entries are complete and accurate.
 
-## 8. Appendices if applicable
+## 8. Appendices (if applicable)
 - data management plan (required for this course)
 - literature summary,
 - detailed methodologies,
