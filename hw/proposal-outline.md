@@ -1,13 +1,18 @@
-## Research proposal outline
+## Research proposal 
+
+### Manin sections 
 The main sections of a research proposal typically include the following:
-1. Title page: Title, Name, Affliction, Project Duration, etc.
-2. Project summary: Background, problem statement, objectives, methods, expected results, outcomes (usually 1-page, 250-350 words)
-3. Introduction: Background and context, literature review, problem statement, research objectives/hypotheses
-4. Method:  Research design, study site, data collection methods, data analysis techniques, ethical considerations
-5. Expected results:  Preliminary results, anticipated findings, deliverables, outputs, outcomes, and impacts
-6. Timeline: Research schedule including key milestones, activities, personnel, and deadlines
-7. References:  List all references cited in the proposal, following the appropriate citation style (e.g., AGU)
-8. Appendices (if applicable): Supplementary information such as survey instruments, consent forms, detailed methods, budget, etc. 
+1. [Title page](#1-title-page): Title, Name, Affiliation, Project Duration, etc.
+2. [Project summary](#2-project-summary): Background, problem statement, objectives, methods, expected results, outcomes (usually 1-page, 250-350 words)
+3. [Introduction](#3-introduction): Background and context, literature review, problem statement, research objectives/hypotheses
+4. [Method](#4-method): Research design, study site, data collection methods, data analysis techniques, ethical considerations
+5. [Expected results](#5-expected-results): Preliminary results, anticipated findings, deliverables, outputs, outcomes, and impacts
+6. [Timeline](#6-timeline): Research schedule including key milestones, activities, personnel, and deadlines
+7. [References](#7-references): List all references cited in the proposal, following the appropriate citation style (e.g., AGU)
+8. [Appendices](#8-appendices-if-applicable): Supplementary information such as survey instruments, consent forms, detailed methods, budget, etc. 
+
+### 1. Title page
+#### Title page (1 page)
 
 ### 1. Title page
 #### Title page (1 page)
