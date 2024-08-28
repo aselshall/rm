@@ -1,4 +1,4 @@
-## Research proposal 
+## [Research proposal](https://aselshall.github.io/rm/hw/proposal-outline)
 The main sections of a research proposal typically include the following:
 1. [Title page](#1-title-page): Title, Name, Affiliation, Project Duration, etc.
 2. [Project summary](#2-project-summary): Background, problem statement, objectives, methods, expected results, outcomes (usually 1-page, 250-350 words)
