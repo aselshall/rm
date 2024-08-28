@@ -44,7 +44,7 @@
 
 6. **Proposal Development** (<span style="color:red">**[Research Proposal](https://github.com/aselshall/rm/blob/main/hw/proposal.md)**</span>)
    - You will integrate all these components to develop your research proposal:
-      - Outline the “why, what, and how” of your research, including pilot results if available.
+      - Describe the “**why**, **what**, and **how**” of your research, including pilot results if available.
       - Define deliverables and establish criteria for measuring success.
       - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
       - Provide a timeline for the project, outlining key milestones and deadlines.
