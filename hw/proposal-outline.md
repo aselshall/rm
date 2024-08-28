@@ -96,8 +96,7 @@ The main sections of a research proposal typically include the following:
 - Generate the reference list automatically using your citation management software
 -  Review the reference list carefully to ensure all entries are complete and accurate.
 
-## 8. Appendices (only if applicable)![image](https://github.com/user-attachments/assets/4fe81783-1e76-4d84-bec4-bfe438b9d737)
-#### Supplementary Information
+## 8. Appendices (only if applicable)
 - data management plan (required for this course)
 - literature summary,
 - detailed methodologies,
@@ -111,7 +110,7 @@ The main sections of a research proposal typically include the following:
 
 **Note:** For your research proposal in this course, a Data Management Plan is required, other items listed above are optional and as applicable.
 
-### Bibliography
+## Bibliography
 - John W. Creswell  and J. David Creswell (2018), Research Design: Qualitative, Quantitative, and Mixed Methods Approaches 5th Edition
 ![image](https://github.com/user-attachments/assets/bbc727ac-c2b9-439a-9fcc-4eb1cb42824d)
 
