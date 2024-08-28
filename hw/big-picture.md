@@ -56,9 +56,9 @@
 <h2 style="color:blue">Execute</h2>
 
 6. **Project Implementation**:
-   - Carry out your research according to the plan outlined in your proposal, in <span style="color:red">ENG 6941 Project course</span> in the Spring semester, your <span style="color:red">MS thesis research</span>, or  <span style="color:red">start this semester</span> if you are ready.
+   - Begin executing your research as detailed in your proposal. You may start this semester if ready, and continue in the Spring semester through the <span style="color:red">ENG 6941 Project course</span>e or as part of your MS thesis research.
 
-7. **Analyze and Document Your Findings**:
+8. **Analyze and Document Your Findings**:
    - Interpret your results, draw conclusions, and document your findings in ENG 6941 Project course or your MS thesis research.
 
 <h2 style="color:blue">Publish</h2>
