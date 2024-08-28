@@ -8,7 +8,7 @@
 
 2. **Conduct an Exploratory Literature Search** (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/blob/main/hw/hw2.md)**</span>)
    - Refine your topic and start developing a research question.
-      - Keep your research question realistic by considering available resources, data, your skills, and time constraints.
+      - Keep your research problem realistic by considering available resources, data, your skills, and time constraints.
       - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
       - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end.
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member or your course instructor.
