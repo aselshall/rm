@@ -3,8 +3,9 @@
 <h2 style="color:blue">Understand</h2>
 
 1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/blob/main/hw/hw1.md)**</span>)
-   - Choose a topic that interests you and aligns with your goals
+   - Choose a feasible project that interests, aligns with your goals, and preferably relates to their work
    - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert opinion, ethics and other factors discussed in class
+   - Check [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from 
 
 2. **Conduct an Exploratory Literature Search** (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/blob/main/hw/hw2.md)**</span>)
    - Refine your topic and start developing a research question.
