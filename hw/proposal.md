@@ -9,6 +9,8 @@ The main sections of a research proposal typically include the following:
 7. [References](#7-references): List all references cited in the proposal, following the appropriate citation style (e.g., AGU)
 8. [Appendices](#8-appendices-if-applicable): Supplementary information such as data management plan, survey instruments, consent forms, detailed methods, budget, etc. 
 
+[Download sample proposal](#Download-sample-proposal)
+
 ## 1. Title page
 #### Title page (1 page)
 - Proposal title:
@@ -110,11 +112,10 @@ The main sections of a research proposal typically include the following:
 
 **Note:** For your research proposal in this course, a Data Management Plan is required, other items listed above are optional and as applicable.
 
-## Download Sample Proposal
-
-You can download and review the sample proposal provided as a reference. This sample is useful for understanding how to structure of the Title Page, Project Summary, Introduction, Method, and Reference sections of your research proposal. For other sections, the proposal slightly deviates from the above outline as it follows the requirements of the funding agency, including a 5-page limit. For example, the timeline section is very brief. For your proposal, I expect a detailed timeline showing objectives and tasks for each objective and a clear contingency plan: [Download Sample Proposal](proposal1.pdf)
-
-
+## Download sample proposal
+You can download and review the sample proposal provided as a reference:[Download Sample Proposal](proposal1.pdf)  
+  
+This sample is useful for understanding how to structure of the Title Page, Project Summary, Introduction, Method, and Reference sections of your research proposal. For other sections, the proposal slightly deviates from the above outline as it follows the requirements of the funding agency, including a 5-page limit. For example, the timeline section is very brief. For your proposal, I expect a detailed timeline showing objectives and tasks for each objective and a clear contingency plan.
 
 ## Bibliography
 - John W. Creswell  and J. David Creswell (2018), Research Design: Qualitative, Quantitative, and Mixed Methods Approaches 5th Edition
