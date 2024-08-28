@@ -1,4 +1,4 @@
-# Research proposal 
+## Research proposal 
 The main sections of a research proposal typically include the following:
 1. [Title page](#1-title-page): Title, Name, Affiliation, Project Duration, etc.
 2. [Project summary](#2-project-summary): Background, problem statement, objectives, methods, expected results, outcomes (usually 1-page, 250-350 words)
@@ -10,7 +10,7 @@ The main sections of a research proposal typically include the following:
 8. [Appendices](#8-appendices-if-applicable): Supplementary information such as survey instruments, consent forms, detailed methods, budget, etc. 
 
 ## 1. Title page
-#### Title page (1 page)
+### Title page (1 page)
 - Proposal title:
 - PI name and contact information:
 - Program information:
@@ -20,16 +20,16 @@ The main sections of a research proposal typically include the following:
 - Budget:
 - etc.
 
-### 2. Project Summary
-#### Project Summary (1 page)
+## 2. Project Summary
+### Project Summary (1 page)
 - Background (why): Rationale for the proposed research including motivation, larger issue, your goals (broad and long-term), etc.
 - Objectives(what): Your research question, objectives (specific actions and measurable steps)
 - Methods (how): Main methods and approaches that you will use
 - Expected results or major deliverables
 - Outcomes: Significance of the research including a summary of intellectual merits and broader impacts
 
-### 3. Introduction
-#### Background and context: Why
+## 3. Introduction
+### Background and context: Why
 - Provide what is needed for the reader to understand and appreciate your topic 
 - What is your research area: Provide background information about your research area and the importance of this research area 
 - What is your research site (if important): Provide information about your study site (including needs, opportunities, threats, etc.) 
