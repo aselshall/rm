@@ -33,7 +33,7 @@
 <h2 style="color:blue">Plan</h2>
 
 4. **Method Development** (<span style="color:red">**[Homework 4](https://github.com/aselshall/rm/blob/main/hw/hw4.md)**</span>)
-   - Develop your method with will include several components as follows:
+   - **How**: Develop your method with will include several components as follows:
       - Study duration
       - Site or experiment description
       - Data and instrumentation
