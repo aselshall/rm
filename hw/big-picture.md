@@ -64,5 +64,5 @@
 <h2 style="color:blue">Publish</h2>
 
 8. **Disseminate Your Findings**:
-   - Present your findings at research symposiums like [Eagle-X](https://www.fgcu.edu/eaglex/) and conferences like [AGU](https://www.agu.org/annual-meeting).
-   - Share your work through peer-reviewed publications, preprients, blog posts, and other platforms.
+   - Present your findings to the class, at a research symposiums like [Eagle-X](https://www.fgcu.edu/eaglex/), or at a conferences like [AGU](https://www.agu.org/annual-meeting).
+   - Share your work through peer-reviewed publications, preprients, blog posts, story maps, and other platforms.
