@@ -9,7 +9,7 @@ The main sections of a research proposal typically include the following:
 7. [References](#7-references): List all references cited in the proposal, following the appropriate citation style (e.g., AGU)
 8. [Appendices](#8-appendices-if-applicable): Supplementary information such as survey instruments, consent forms, detailed methods, budget, etc. 
 
-### 1. Title page
+## 1. Title page
 #### Title page (1 page)
 - Proposal title:
 - PI name and contact information:
