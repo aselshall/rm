@@ -4,6 +4,7 @@
 
 1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/blob/main/hw/hw1.md)**</span>)
    - Choose a feasible project that interests you, aligns with your goals, and preferably relates to your work
+      - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert opinion, ethics and other factors discussed in class
    - Check [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
 
@@ -12,7 +13,7 @@
       - Keep your research problem realistic by considering available resources, data, your skills, and time constraints.
       - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
       - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end.
-      - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member or your course instructor.
+      - Seek guidance and discuss details with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Ask for help if you're uncertain about any aspect of your research.
       - Enjoy the process of learning about your problem and developing your research plan.
 
