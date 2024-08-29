@@ -25,7 +25,7 @@ In 1-2 pages, describe your chosen research topic and explain how you considered
 
 ## Submit your work
 - Submit your PDF on Canvas by the due date.
-- Follow the [late submission policy](https://github.com/aselshall/rm/blob/main/README.md#late-assignment-and-report-policy) as outlined in the course syllabus.
+- Follow the [late submission policy](https://aselshall.github.io/rm#late-assignment-and-report-policy) as outlined in the course syllabus.
 - Contact the instructor early if you anticipate any issues with meeting the deadline.
 
 ## Rubric
