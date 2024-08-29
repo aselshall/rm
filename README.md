@@ -42,21 +42,21 @@ These topics and dates are tentative and subject to change based on class progre
 
 | Week | Date       | Topics/In-class activities                   | Remarks                                   |
 |------|------------|----------------------------------------------|-------------------------------------------|
-| 1    | 20-Aug     | Course introduction and overview             |                                           |
-| 1    | 22-Aug     | Foundations of research: Research approaches |                                           |
-| 2    | 27-Aug     | Foundations of research: Research question  |                                           |
-| 2    | 29-Aug     | Foundations of research: Research proposal | HW1 Development of Research Topic due   |
-| 3    | 3-Sep      | Literature review: Library resources - Guest lecture by Kim Reycraft |                                          |
-| 3    | 5-Sep      | Literature review: Techniques                 |                                           |
-| 4    | 10-Sep     | Literature review: Group discussion           | HW2 Research Topic due                    |
-| 4    | 12-Sep     | Literature review: Citation management tools  |                                           |
-| 5    | 17-Sep     | Class presentation 1: Literature review       |                                           |
-| 5    | 19-Sep     | Introduction section: Structure and context   |                                           |
-| 6    | 24-Sep     | Introduction section: Narrative and justification | HW3 Literature Review due             |
+| 1    | 20-Aug     | Introduction to Research Methods course      |                                           |
+| 1    | 22-Aug     | Foundations of research: Research paradigms |                                           |
+| 2    | 27-Aug     | Foundations of research: Research problem  |                                           |
+| 2    | 29-Aug     | Foundations of research: Research proposal |                                          |
+| 3    | 3-Sep      | Literature review: Overview | HW1 Select a research topic due |
+| 3    | 5-Sep      | Literature review: Library resources - Guest lecture by Kim Reycraft                |                                           |
+| 4    | 10-Sep     | Literature review: Literature search         |                     |
+| 4    | 12-Sep     | Literature review: Writing your review |                                           |
+| 5    | 17-Sep     | Literature review: Writing your review |                                           |
+| 5    | 19-Sep     | Class presentation 1: Literature review   | HW2 Exploratory literature review  due                                        |
+| 6    | 24-Sep     | Class presentation 1: Literature review |              |
 | 6    | 26-Sep     | Laboratory methods: Introduction*             |                                           |
 | 7    | 1-Oct      | Laboratory methods: ICP-MS*                   |                                           |
 | 7    | 3-Oct      | Laboratory methods: TOC, Nutrients*           |                                           |
-| 8    | 8-Oct      | Laboratory methods: HPLC*                     | HW4 Introduction due                      |
+| 8    | 8-Oct      | Laboratory methods: HPLC*                     | HW3 Literature review and introduction due                      |
 | 8    | 10-Oct     | Laboratory methods: GC/MS*                    |                                           |
 | 9    | 15-Oct     | Class presentation 2: Introduction            |                                           |
 | 9    | 17-Oct     | Study Day (no classes)                        |                                           |
