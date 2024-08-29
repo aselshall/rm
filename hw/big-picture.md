@@ -5,7 +5,7 @@
 1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/blob/main/hw/hw1.md)**</span>)
    - Choose a feasible project that interests you, aligns with your goals, and preferably relates to your work
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member, coworker, or your course instructor
-      - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert opinion, ethics and other factors discussed in class
+      - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert guidance, ethics and other factors discussed in class
    - Check [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
 
 2. **Conduct an Exploratory Literature Search** (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/blob/main/hw/hw2.md)**</span>)
