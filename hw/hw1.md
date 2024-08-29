@@ -28,7 +28,7 @@ In 1-2 pages, describe your chosen research topic and explain how you considered
 - Contact the instructor early if you anticipate any issues with meeting the deadline.
 
 ## Rubric
-In open-ended assignments like this, a rubric is suggestive. The rubric mainly provides general guidelines, so that you do not miss key points. However, grading may also consider the overall quality, creativity, and depth of your work beyond strict adherence to the rubric.
+In open-ended homework like this, a rubric is suggestive. The rubric mainly provides general guidelines, so that you do not miss key points. However, grading may also consider the overall quality, creativity, and depth of your work beyond strict adherence to the rubric.
 
 | **Criteria**                     | **Excellent (90-100%)**               | **Good (80-89%)**              | **Satisfactory (70-79%)**       | **Needs Improvement (60-69%)**  | **Poor (<60%)**                | **Weight** |
 |----------------------------------|---------------------------------------|--------------------------------|---------------------------------|---------------------------------|--------------------------------|------------|
