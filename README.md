@@ -51,8 +51,8 @@ These topics and dates are tentative and subject to change based on class progre
 | 4    | 10-Sep     | 3. Literature review: Literature search         |                     |
 | 4    | 12-Sep     | 3. Literature review: Citation management |                                           |
 | 5    | 17-Sep     | 3. Literature review: Writing your review |                                           |
-| 5    | 19-Sep     | Class presentation 1: Research problem   |                                         |
-| 6    | 24-Sep     | Class presentation 1: Research problem |  HW2 Develop your Research Problem  due            |
+| 5    | 19-Sep     | **Class presentation 1: Research problem**   |                                         |
+| 6    | 24-Sep     | **Class presentation 1: Research problem** |  HW2 Develop your Research Problem  due            |
 | 6    | 26-Sep     | 4. Method: Laboratory method ICP-MS*               |                                           |
 | 7    | 1-Oct      | 4. Method: Laboratory methods TOC, Nutrients*                  |                                           |
 | 7    | 3-Oct      | 4. Method: Laboratory methods HPLC*          |                                           |
