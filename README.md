@@ -1,4 +1,4 @@
-# Research Method Syllabus
+# [Research Method Syllabus](https://aselshall.github.io/rm)
 
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
