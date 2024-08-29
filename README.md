@@ -70,7 +70,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 13   | 14-Nov     | 7. Publication quality figures       |                                           |
 | 14   | 19-Nov     | 8. Presentation: Audience centric techniques                    |                                           |
 | 14   | 21-Nov     | 8. Presentation: Slide design     |                                           |
-| 15   | 26-Nov     | 9. Data management plan                | Research Proposal due                              |
+| 15   | 26-Nov     | 9. FAIR data principles and data management plan                | Research Proposal due                              |
 | 15   | 28-Nov     | Thanksgiving Day - No class                   |                                           |
 | 16   | 3-Dec      | **Proposal presentation**                         |                                           |
 | 16   | 5-Dec      | **Proposal presentation**                         |                                           |
