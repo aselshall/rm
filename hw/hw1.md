@@ -31,7 +31,7 @@ In 1-2 pages, describe your chosen research topic and explain how you considered
 
 | **Criteria**                     | **Excellent (90-100%)**               | **Good (80-89%)**              | **Satisfactory (70-79%)**       | **Needs Improvement (60-69%)**  | **Poor (<60%)**                | **Weight** |
 |----------------------------------|---------------------------------------|--------------------------------|---------------------------------|---------------------------------|--------------------------------|------------|
-| **Topic Selection**              | Clear, and feasible topic  | Mostly feasible  | Seems feasible, but may lack clarity | Relevant topic but does not seem feasible    | Irrelevant or not feasible    | 30%       |
+| **Topic Selection**              | Clear, and feasible topic  | Mostly feasible  | Seems feasible, but may lack clarity | Relevant topic, but does not seem feasible    | Irrelevant or not feasible    | 30%       |
 | **Expert Guidance**              | Thoughtfully Consider or plan for guidance |  Consider or plan for guidance      | Mention guidance or plan for guidance    | Little mention of guidance, or unclear plan   | No mention or plan            | 30%       |
 | **Key Factors**                  | Addresses key factors thoroughly     | Addresses most key factors    | Addresses some key factors     | Mentions few key factors       | Does not address key factors  | 30%       |
 | **Clarity and Organization**     | Clear, well-organized, few errors    | Mostly clear, minor errors    | Somewhat clear, some errors    | Unclear, disorganized, errors  | Very unclear, many errors     | 10%       |
