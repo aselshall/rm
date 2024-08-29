@@ -47,7 +47,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 2    | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
 | 2    | 29-Aug     | 2. Foundations of research: Research proposal |                                          |
 | 3    | 3-Sep      | 3. Literature review: Overview | HW1 Select a Research Topic due |
-| 3    | 5-Sep      | 3. Literature review: Library resources - Guest lecture by Kim Reycraft                |                                           |
+| 3    | 5-Sep      | 3. Literature review: Library resources - Guest lecture               |                                           |
 | 4    | 10-Sep     | 3. Literature review: Literature search         |                     |
 | 4    | 12-Sep     | 3. Literature review: Citation management |                                           |
 | 5    | 17-Sep     | 3. Literature review: Writing your review |                                           |
