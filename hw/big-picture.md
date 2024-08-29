@@ -22,7 +22,7 @@
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
      - Refine and sharpen your research question.
-     - Note: The literature review should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is necessary to fill gaps in knowledge or provide solutions. In other words, it should identify existing research, highlight gaps, and lead to a clearly defined problem statement and research question. The literature review will form the basis of your research proposal's introduction.
+     - Note: The literature review should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is necessary to fill gaps in knowledge or provide solutions. In other words, it should identify existing research, highlight gaps, and lead to a clearly defined problem statement: research question and objectives. The literature review will form the basis of your research proposal's introduction.
    - Write the Introduction:
       - Introduce the topic, providing necessary background information to set the context for your research.
       - Describe the research gap identified through your literature review.
