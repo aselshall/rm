@@ -16,7 +16,8 @@ Review the factors discussed in Lesson 3: Research Problem, such as:
 - Significance: Why is this research problem important? What potential impact could exploring this problem have? 
 - Scope: Is the scope of the research appropriate for the project course or thesis research?
 - Ethics: Are there any ethical considerations or challenges?
-- Other Factors: Consider any other relevant factors from the lesson.
+- Other Factors: Consider any other relevant factors from the lesson.  
+
 Ensure that your topic aligns with these factors to maximize the potential success of your research.
 
 ## Write your reflection
