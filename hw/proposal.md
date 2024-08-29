@@ -51,17 +51,22 @@ The key sections of a research proposal typically include the following:
 - List objectives that will be achieved ensuring they are specific, actionable, and measurable, directly linked to your research question
 
 ## 4. Method
+
 #### Research design
 - Describe the overall approach (e.g., qualitative, quantitative, or mixed-methods) and why it is suitable for addressing your research question
+
 #### Study site/population
 - Provide details about the study site, population, or sample, including any relevant characteristics or settings for your study 
+
 #### Data collection methods
 - What methods do you plan to use to collect data? (data collection procedure)
 - why these methods are appropriate for your research objectives?
+
 #### Data analysis techniques 
 - How will you analyze the data? (data analysis procedure):
 - Mention statistical tests, software, or analytical frameworks you will use 
 - How will you validate your findings? (strategies for validating findings)
+
 #### Ethical considerations
 - What ethical issues will your study present? (anticipated ethical issues) such as informed consent, confidentiality, and potential risks to participants 
 
