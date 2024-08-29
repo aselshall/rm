@@ -1,13 +1,13 @@
 ## [Research proposal](https://aselshall.github.io/rm/hw/proposal)
 The key sections of a research proposal typically include the following:
 1. [Title page](#1-title-page): Title, Name, Affiliation, Project Duration, etc.
-2. [Project summary](#2-project-summary): Background, problem statement, objectives, methods, expected results, outcomes (usually 1-page, 250-350 words)
-3. [Introduction](#3-introduction): Background and context, literature review, problem statement, research objectives/hypotheses
-4. [Method](#4-method): Research design, study site, data collection methods, data analysis techniques, ethical considerations
-5. [Expected results](#5-expected-results): Preliminary results, anticipated findings, deliverables, outputs, outcomes, and impacts
-6. [Timeline](#6-timeline): Research schedule including key milestones, activities, personnel, and deadlines
-7. [References](#7-references): List all references cited in the proposal, following the appropriate citation style (e.g., AGU)
-8. [Appendices](#8-appendices-if-applicable): Supplementary information such as data management plan, survey instruments, consent forms, detailed methods, budget, etc. 
+2. [Project summary](#2-project-summary): Background, Objectives, Methods, Expected Results, Outcomes (1 page, 250-350 words)
+3. [Introduction](#3-introduction): Background, Context, Literature Review, Problem Statement, Research Objectives/Hypotheses
+4. [Method](#4-method): Research Design, Study Site, Data Collection Methods, Data Analysis Techniques, Ethical Considerations
+5. [Expected results](#5-expected-results): Preliminary Results, Anticipated Findings, Deliverables, Outputs, Outcomes, and Impacts
+6. [Timeline](#6-timeline): Research Schedule, Key Milestones, Activities, Personnel, Deadlines
+7. [References](#7-references): All cited references in the proposal, following AGU citation style
+8. [Appendices](#8-appendices-if-applicable): Data Management Plan, Survey Instruments, Detailed Methods, Budget, etc.
 
 [Download sample proposal](#Download-sample-proposal)
 
@@ -23,32 +23,32 @@ The key sections of a research proposal typically include the following:
 - etc.
 
 ## 2. Project Summary
-#### Project Summary (1 page)
-- Background (why): Rationale for the proposed research including motivation, larger issue, your goals (broad and long-term), etc.
-- Objectives(what): Your research question, objectives (specific actions and measurable steps)
-- Methods (how): Main methods and approaches that you will use
-- Expected results or major deliverables
-- Outcomes: Significance of the research including a summary of intellectual merits and broader impacts
+#### Project Summary (*1 page*)
+- Background (why): Rationale for the proposed research, including motivation, larger issue, and broad/long-term goals
+- Objectives (what): Research question and specific, measurable objectives
+- Methods (how): Main methods and approaches to be used
+- Expected Results: Major deliverables or outcomes
+- Outcomes: Significance, intellectual merit, and broader impacts of the research
 
 ## 3. Introduction
 #### Background and context: Why
-- Provide what is needed for the reader to understand and appreciate your topic 
-- What is your research area: Provide background information about your research area and the importance of this research area 
-- What is your research site (if important): Provide information about your study site (including needs, opportunities, threats, etc.) 
-- Motivation of research and why it is important (knowledge advancement, practical applications, transformative with respect to equity, etc.) 
+- Provide essential information for the reader to understand and appreciate your research
+  - Research area: Offer background information on the research area and its significance
+  - Research site (if relevant): Detail your study site, including needs, opportunities, and threats
+- Explain the motivation for your research and its importance (e.g., knowledge advancement, practical applications, transformative effects on equity)
 
 #### Literature review: What has been done and what is needed?
-- What specific problem are you going to address 
-- Provide a summary with critical evaluation of previous related research 
-- Identify gaps, inconsistencies, or areas that require further exploration
-- Provide justification of your research by clearly and explicitly stating what is new 
+- What specific problem are you going to address ?
+- Summarize and critically evaluate previous related research
+- Highlight gaps, inconsistencies, or areas needing further exploration
+- Justify your research by clearly stating what is new
 
-#### Problem statement: What you propose to study is clear and new
-- Research question: Clear and concise description of what issue you are going to address 
-- Justify the need for your research by linking to gaps or issues identified in literature review
+#### Problem statement: What you propose to study should be clear and new
+- Formulate a clear and concise research question
+- Justify the need for your research by linking it to gaps or issues identified in literature review
 
-#### Objectives: What do I exactly want to do
-- Provide the list of objectives that will be achieved (specific actions and measurable steps) that directly connect to your research problem
+#### Objectives: What do I exactly want to achieve?
+- List objectives that will be achieved ensuring they are specific, actionable, and measurable, directly linked to your research question
 
 ## 4. Method
 #### Research design
