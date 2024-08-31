@@ -1,10 +1,19 @@
 ## Rubric 
 
-### 1. Research topic: Background and context (20%)
+### 1. Integration of the course concepts (20%)
 
-| Criterion | Evaluation |
-| --- | --- |
-| **Provides necessary background information** | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background but lacks some necessary detail; (3) Provides a basic background but lacks clarity or misses important contextual details; (4) Provides minimal background with significant gaps, making the context unclear; (5) Fails to provide an adequate background, leaving the reader without necessary context. |
+| **Criterion** | **Evaluation** |
+|-----------------|-----------------|
+| **Inclusion of necessary components** | (1) Proposal includes all required sections: cover page, project summary, introduction, method, outputs, timeline, outcomes, etc.; (2) Proposal includes most required sections but may be missing minor details; (3) Several key sections are missing or incomplete. |
+| **Cover page completeness** | (1) Cover page contains all necessary information, such as title, name, affiliation, and project duration; (2) Cover page is mostly complete but may be missing minor details; (3) Cover page lacks essential information or is incomplete. |
+| **Title quality** | (1) Title is informative, specific, and accurately reflects the research topic; (2) Title is generally clear but may be too broad or slightly unclear; (3) Title is non-informative, too broad, or fails to convey the research topic effectively. |
+| **Project summary comprehensiveness** | (1) Project summary is comprehensive, covering background, objectives, methods, outputs, and outcomes; (2) Project summary is mostly complete but may lack depth in one or more areas; (3) Project summary is incomplete or fails to cover key aspects adequately. |
+| **Proposal structure and "diabolo" shape** | (1) Proposal follows a logical "diabolo" structure, moving from general to specific, addressing the general problem, specific problem, literature review, research gaps, research questions/hypotheses, objectives, methods, tasks, timeline, outputs, and outcomes; (2) Proposal structure is generally coherent but may lack smooth transitions between sections; (3) Proposal structure is disorganized, lacking clear connections between sections. |
+| **Method details for reproducibility** | (1) Method section is detailed enough to allow reproducibility, with clear descriptions of procedures, tools, and techniques; (2) Method section is mostly clear but may lack sufficient detail in some areas; (3) Method section is vague, incomplete, or lacks enough detail for reproducibility. |
+| **Data management plan and FAIR principles** | (1) A clear and detailed data management plan is included, demonstrating a commitment to making data FAIR (Findable, Accessible, Interoperable, Reusable); (2) Data management plan is present but may lack some details on how data will be made FAIR; (3) Data management plan is missing or lacks sufficient detail. |
+| **Publication-quality figures** | (1) Proposal includes publication-quality figures with proper citation if not original; (2) Figures are present but may not be of publication quality or lack proper citation; (3) Figures are of low quality, lack citation, or are missing entirely. |
+| **Use of citation management software** | (1) Citation management software (e.g., Zotero, EndNote) is effectively used to manage references and link citations; (2) Citation management software is used but with some inconsistencies or errors; (3) Citation management software is not used, or references are poorly managed. |
+
 
 ### 2. Research Problem: Literature review, Research gap, and source quality (30%)
 
