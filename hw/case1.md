@@ -2,7 +2,7 @@
 This is a bonus homework with up to 5% of the final homework grade, depending on the depth and quality of the analysis.
 
 ### Learning objectives 
-In this homework you we will see the application of research methods to a real-world case study, as portrayed in the movie *Erin Brockovich*. The protagonist uncovers a major environmental health issue involving contaminated groundwater in a small community.
+In this homework you will relate research methods to a real-world case study, as portrayed in the movie *Erin Brockovich*. The protagonist uncovers a major environmental health issue involving contaminated groundwater in a small community.
 
 <div style="text-align: center;">
   <a href="https://youtu.be/ERJ74tDM03s">
@@ -12,7 +12,7 @@ In this homework you we will see the application of research methods to a real-w
 
 The goal of this homework is to help you see how the concepts and techniques covered in class can be utilized to address complex real issues that require research! Refer to <span style="color:blue">Module 1: Introduction to Research Methods course</span> and the [big picture](https://aselshall.github.io/rm/hw/big-picture) to learn about the scope of this course.
 
-The questions below are designed to challenge your thinking and deepen your understanding of research methods by applying them to a real-world case study. In other words, this exercise encourages you to think critically, make connections between theory and practice, and gain a more nuanced perspective on the role of research in problem-solving.
+The questions below are designed to challenge your thinking and deepen your understanding of research methods by relating them to a real-world case study. In other words, this exercise encourages you to think critically, make connections between theory and practice, and gain a more nuanced perspective on the role of research in problem-solving.
 
 ### Questions
 [Watch the movie on YouTube](https://youtu.be/ERJ74tDM03s) and answer these questions. 
