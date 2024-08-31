@@ -27,7 +27,7 @@ The questions below are designed to challenge your thinking and deepen your unde
 
 5. **Method:** Refer to <span style="color:blue">Module 4: Method development</span>. Discuss the types of data (qualitative and/or quantitative) you would collect to understand the contamination issue. Describe the specific data collection methods (e.g., water sampling, health surveys) you would use, and how you would ensure the reliability and validity of the data. Then, outline how you would analyze the data, including any relevant statistical or thematic techniques.
 
-6. **Ethical considerations:** Refer to <span style="color:blue">Module 5: Ethics in research and publishing</span>. Explore the ethical issues in conducting research within a community affected by environmental contamination. What steps would you take to ensure ethical conduct and prioritize the community’s well-being? What ethical forms or approvals would you need?
+6. **Ethical considerations:** Refer to <span style="color:blue">Module 5: Ethics in research and publishing</span>. Explore the ethical issues in conducting research within a community affected by environmental contamination. What steps would you take to ensure ethical conduct and prioritize the community’s well-being? What ethical forms or approvals would you need? Discuss other ethical considerations in research with respect to data collection and data analysis that you agree or disagree with in the movie. 
 
 7. **Expected results:**
 Refer to <span style="color:blue">Module 6: Expected results</span>. Outline the expected deliverables, outputs, outcomes, and impacts of your research.
