@@ -1,4 +1,4 @@
-## Rubric 
+## [Rubric](aselshall.github.io/rm/hw/rubric)
 
 ### 1. Integration of the course concepts (20%)
 
