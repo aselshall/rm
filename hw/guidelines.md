@@ -25,44 +25,56 @@ Prepare GitHub pages based on class slides
 
 ## 6. Cohesiveness of writing
 
-### Topic and concluding sentences
-Improve your writing cohesiveness by using topic and concluding sentences. “The topic sentence is the first sentence in a paragraph. Its job is to introduce the main ideas of a paragraph. The concluding sentence is the last sentence in a paragraph. Its job is to summarize the main idea of the paragraph. If the paragraph is part of an essay, the concluding sentence also transitions to the next paragraph.” https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf
+### Topic sentence, evidence statements, transitions, and concluding sentences
 
+Improve your writing cohesiveness by using topic and concluding sentences.  A topic sentence introduces the main idea of each paragraph. Paragraphs should include at least two relevant and clear evidence statements, with smooth and coherent transitions between them. Evidence statements should follow a logical sequence, maintaining clarity and coherence throughout the paragraph. A concluding sentence summarizes the main idea of the paragraph and should provide smooth transitions to the following paragraph. Check this [pdf file](https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf) for details. 
 ![image](https://github.com/user-attachments/assets/53b074aa-3054-4ded-a3d6-60012c6b29e1)
 
 ## 9. Language clarity and precision
     
-### 4. Avoid long sentences and use punctuation  
+### 9.4 Avoid long sentences and use punctuation  
 
-“Storm water management is a common requirement in land development projects and it is important because land development comes with an increase in impervious areas and compacting of previous permeable undeveloped areas which can cause issues with how a watershed receives stormwater.”
+A lengthy sentence can be difficult to follow.  Breaking it into shorter sentences and using punctuation effectively improves clarity and readability.
 
-### 6. Avoid coordinating conjunctions and use subordinating conjunctions
+**Example:**
+- Less clear: Storm water management is a common requirement in land development projects and it is important because land development comes with an increase in impervious areas and compacting of previous permeable undeveloped areas which can cause issues with how a watershed receives stormwater.
+- More clear: Stormwater management is essential in land development projects. Development increases impervious surfaces and compacts previously permeable areas, disrupting how a watershed receives and processes stormwater.
 
-There is nothing grammatically wrong with starting a sentence with coordinating conjunctions such as but, nor, or and, or so. However, in academic and business writing it best to avoid starting a sentence with a coordinating conjunction.  Instead, use subordinating conjunctions and transition words such as such as however, in addition, on the other hand, etc. 
-•	“But that issue does not appear …”
-•	“However, this issue does not appear …”
+### 9.6 Avoid coordinating conjunctions and use subordinating conjunctions
 
-### 7. Be succinct and cut the clutter 
+While starting a sentence with coordinating conjunctions like "but," "nor," "or," "and," or "so" is not grammatically incorrect, it is generally best to avoid this practice in academic and professional writing. Instead, use subordinating conjunctions or transition words such as "however," "in addition," "on the other hand," etc., to create a more polished and formal tone.
 
-In academic writing, we write the shortest sentence possible.  The rule is “Make sure the words you use add meaning. If you can remove words without losing the importance of the statement, delete them.”
-•	As documented in a 2011 study by King et al., 2011 (11 words)
-•	King et al. (2011) show (5 words)
+**Example:**
+- Less formal: "But that issue does not appear ..."
+- More formal: "However, this issue does not appear ..."
 
-### 8. Tenses used in academic writing
+### 9.7 Be succinct and cut the clutter 
+In academic writing, aim for the shortest sentence that conveys the meaning. The rule is simple: "Ensure every word adds value. If words can be removed without losing meaning, delete them."
 
-https://writingcenter.gmu.edu/writing-resources/grammar-style/the-three-common-tenses-used-in-academic-writing
+**Example:**
+- Not succinct: "As documented in a 2011 study by King et al. (2011)" (11 words)
+- Succinct : "King et al. (2011) show" (5 words)
 
-Tenses can be used both in passive and active voice. The most common tenses in order are:
-•	Present simple is the default tense unless there is specific reason to choose another tense
-o	This paper analyzes the impact of high temperatures on certain species.
-o	Figure 1 shows that children ingest roughly 50-200 mg soil/day
-•	Past simple is used to refer to actions or events completed in the past and to describe the methods from a completed experiment 
-o	Rauscher et al., (2012) first documented this effect in their seminal paper.
-o	After the war, Germany had to face strong reparations from the allied nations. 
-o	Statistical analyses were used to determine relationships between variables.
-•	present perfect is used to refer to previous research, which findings are relevant today. 
-o	Some studies have found that girls have significantly higher fears than boys after trauma (Pfefferbaum et al., 1999; Pine and Cohen, 2002; Shaw, 2003).
-o	While these measures have proved to be reliable and valid predictors of what they are measuring, there is little data on how they relate to each other.
+### 9.8 Tenses in academic writing
+
+For detailed guidance, see [The Three Common Tenses Used in Academic Writing](https://writingcenter.gmu.edu/writing-resources/grammar-style/the-three-common-tenses-used-in-academic-writing). Below is a summary of key points from the article.
+
+Tenses can be used in both passive and active voice, depending on the journal's requirements. If no specific voice is required, the active voice is preferred. The most commonly used tenses are:
+- **Present Simple:** The default tense, used unless another tense is more appropriate.
+  - *Examples:*
+    - "This paper analyzes the impact of high temperatures on certain species."
+    - "Figure 1 shows that children ingest roughly 50-200 mg of soil per day."
+
+- **Past Simple:** Used for actions or events completed in the past, often describing methods from a completed experiment.
+  - *Examples:*
+    - "Rauscher et al. (2012) first documented this effect in their seminal paper."
+    - "Statistical analyses were used to determine relationships between variables."
+
+- **Present Perfect:** Used to refer to previous research with findings still relevant today.
+  - *Examples:*
+    - "Some studies have found that girls have significantly higher fears than boys after trauma (Pfefferbaum et al., 1999; Pine and Cohen, 2002; Shaw, 2003)."
+    - "While these measures have proved reliable and valid, there is little data on how they relate to each other."
+
 
 ## 8. Citation and source integration
 
