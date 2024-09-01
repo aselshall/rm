@@ -150,8 +150,8 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **Needs improvement**: The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | Below 75% |
 
 
-### Overall review according NSF criteria 
-This section is for information only and not for grading. It helps you understand how your proposal might be evaluated by the NSF. Review your funding agency's specific review criteria to ensure your proposal aligns with their standards.
+### Overall review according funding agency criteria 
+This section is for your information only and not for grading. Review your funding agency’s specific criteria to ensure your proposal aligns with their standards. This is an example of how your proposal might be evaluated according to the National Science Foundation (NSF) review criteria.
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
