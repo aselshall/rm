@@ -83,7 +83,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **2. Realistic deadlines and deliverables** | (1) Deadlines are realistic, well-distributed throughout the project, and clearly linked to specific deliverables; (2) Deadlines are generally realistic but may be unevenly distributed or lack clear connection to deliverables; (3) Deadlines are unrealistic, poorly distributed, or not clearly tied to deliverables. |
 | **3. Contingency plan** | (1) The contingency plan is well-developed, addressing potential challenges with specific strategies to ensure project completion; (2) The contingency plan is present but may be vague or lack specific strategies; (3) The contingency plan is absent or fails to address potential challenges effectively. |
 
-## writing quality
+## Writing quality
 
 ### 6. Cohesiveness of writing
 
@@ -137,7 +137,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **[8. Tense consistency](https://github.com/aselshall/rm/blob/main/hw/guidelines.md#98-tenses-in-academic-writing)** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Frequent tense errors. |
 | **[9. Academic writing style](https://github.com/aselshall/rm/blob/main/hw/guidelines.md#99-academic-writing-versus-creative-writing)** | (1) Writing is formal, precise, and well-supported by factual evidence; (2) Mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise. |
 
-## Overall evaluation:
+## Overall evaluation
 
 ### 10. Overall coherence and persuasiveness
 
