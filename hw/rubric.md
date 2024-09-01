@@ -1,7 +1,5 @@
 ## [Rubric](https://aselshall.github.io/rm/hw/rubric)
 
-## Proposal quality
-
 ### 1. Integration of the course concepts (20%)
 
 | **Criterion** | **Evaluation** |
@@ -56,7 +54,6 @@
 | **2. Realistic deadlines and deliverables** | (1) Deadlines are realistic, well-distributed throughout the project, and clearly linked to specific deliverables; (2) Deadlines are generally realistic but may be unevenly distributed or lack clear connection to deliverables; (3) Deadlines are unrealistic, poorly distributed, or not clearly tied to deliverables. |
 | **3. Contingency plan** | (1) The contingency plan is well-developed, addressing potential challenges with specific strategies to ensure project completion; (2) The contingency plan is present but may be vague or lack specific strategies; (3) The contingency plan is absent or fails to address potential challenges effectively. |
 
-## Writing quality 
 ### 6. Cohesiveness of writing (5%)
 
 | **Criterion** | **Evaluation** |
@@ -108,8 +105,6 @@
 | **7. Succinctness** | (1) Writing is concise, with each word adding value; (2) Writing is generally concise, with some unnecessary words; (3) Writing is occasionally wordy or redundant; (4) Writing is often wordy and lacks conciseness |
 | **8. Tense consistency** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Several tense inconsistencies; (4) Frequent tense errors |
 | **9. Academic writing style** | (1) Writing is formal, precise, and supported by factual evidence; (2) Writing is mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise; (4) Writing is often informal or lacks precision |
-
-## Ovralall evaluation
 
 ### 10. Overall coherence and persuasiveness (5%) 
 
