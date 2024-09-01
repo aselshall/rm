@@ -1,12 +1,31 @@
 ## [Rubric](https://aselshall.github.io/rm/hw/rubric)
 
-This rubric is your guide for developing a comprehensive research proposal. How to Use This Rubric?
+### How to use this rubric?
+
+This rubric is your guide for developing a high-quality research proposal that meets academic and professional standards. You can use this rubric to:
 - **Check each criterion** to ensure your proposal meets the standards, helping you structure your content and cover all necessary components.
 - **Self-assess** your work before submission to identify areas for improvement.
 - **Understand grading focus** to prioritize the most important aspects of your proposal.
 - **Guide revisions** using the rubric to address any feedback from the instructor and strengthen your proposal.
 
-This rubric is to help you create a high-quality proposal that meets academic and professional standards.
+### Introduction to the Research Proposal Rubric
+
+This rubric is your guide for developing a comprehensive research proposal. It may be updated as needed, but any changes will be minor and made in your best interest.
+
+### How to Use This Rubric
+
+- **Check each criterion** to ensure your proposal meets the standards, helping you structure your content and cover all necessary components.
+- **Self-assess** your work before submission to identify areas for improvement.
+- **Understand grading focus** to prioritize the most important aspects of your proposal.
+- **Guide revisions** using the rubric to address any feedback and strengthen your proposal.
+
+### Section Breakdown
+
+- **Sections [1-5](#1-integration-of-the-course-concepts-20)** focus on the core elements of your proposal, such as integration of course concepts, introduction, method, expected results, and timeline.
+- **Sections [6-9](#6-cohesiveness-of-writing-5)** emphasize writing quality, including cohesiveness, depth, clarity, and citation practices.
+- **Section [10](#10-overall-coherence-and-persuasiveness-5)** provides an overall evaluation, considering the coherence and persuasiveness of your proposal.
+
+This rubric is a practical tool to help you create a high-quality proposal that meets course requirements and academic expectations.
 
 
 ### 1. Integration of the course concepts (20%)
