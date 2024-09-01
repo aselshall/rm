@@ -2,14 +2,6 @@
 
 ## 1. Integration of the course concepts
 Prepare GitHub pages based on class slides
-1. Proposal sections 
-2. Cover page
-3. Title
-4. Project summary
-5. Proposal structure and "diabolo" shape
-6. Data management plan and FAIR principles
-7. Publication-quality figures
-8. Zotero for citation management 
 
 ## 2. Introduction
 Prepare GitHub pages based on class slides
