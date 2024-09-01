@@ -12,21 +12,21 @@ This rubric is your guide for developing a high-quality research proposal that m
 
 ### Section breakdown
 
-- **Sections 1-5** focus on the core elements of your proposal (75%):
-  - [1. Integration of the course concepts](#1-integration-of-the-course-concepts)
-  - [2. Introduction](#2-introduction)
-  - [3. Method](#3-method)
-  - [4. Expected Results](#4-expected-results)
-  - [5. Timeline](#5-timeline)
+- **Sections 1-5** focus on the core elements of your proposal (75 points):
+  - [1. Integration of the course concepts (15 points)](#1-integration-of-the-course-concepts)
+  - [2. Introduction (30 points)](#2-introduction)
+  - [3. Method(20 points)](#3-method)
+  - [4. Expected Results(5 points)](#4-expected-results)
+  - [5. Timeline(5 points)](#5-timeline)
 
-- **Sections 6-9** emphasize writing quality (20%):
-  - [6. Cohesiveness of writing](#6-cohesiveness-of-writing)
-  - [7. Depth, clarity, and rigorousness of writing](#7-depth-clarity-and-rigorousness-of-writing)
-  - [8. Citation and source integration](#8-citation-and-source-integration)
-  - [9. Language clarity and precision](#9-language-clarity-and-precision)
+- **Sections 6-9** emphasize writing quality (20 points):
+  - [6. Cohesiveness of writing (5 points)](#6-cohesiveness-of-writing)
+  - [7. Depth, clarity, and rigorousness of writing (5 points)](#7-depth-clarity-and-rigorousness-of-writing)
+  - [8. Citation and source integration (5 points)](#8-citation-and-source-integration)
+  - [9. Language clarity and precision (5 points)](#9-language-clarity-and-precision)
 
-- **Section 10** provides an overall evaluation(5%):
-  - [10. Overall coherence and persuasiveness](#10-overall-coherence-and-persuasiveness)
+- **Section 10** provides an overall evaluation(5 points):
+  - [10. Overall coherence and persuasiveness (5 points)](#10-overall-coherence-and-persuasiveness)
 
 ## Core elements of the proposal
 ### 1. Integration of the course concepts
