@@ -25,7 +25,7 @@ This rubric is your guide for developing a high-quality research proposal that m
   - [8. Citation and source integration (5 points)](#8-citation-and-source-integration)
   - [9. Language clarity and precision (5 points)](#9-language-clarity-and-precision)
 
-- **Section 10** provides an overall evaluation(5 points):
+- **Section 10** provides an overall evaluation (5 points):
   - [10. Overall coherence and persuasiveness (5 points)](#10-overall-coherence-and-persuasiveness)
 
 ## Core elements of the proposal
