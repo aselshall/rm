@@ -12,24 +12,24 @@ This rubric is your guide for developing a high-quality research proposal that m
 
 ### Section breakdown
 
-- **Sections 1-5** focus on the core elements of your proposal:
-  - [1. Integration of the course concepts](#1-integration-of-the-course-concepts-20)
-  - [2. Introduction](#2-introduction-20)
-  - [3. Method](#3-method-20)
-  - [4. Expected Results](#4-expected-results-5)
-  - [5. Timeline](#5-timeline-5)
+- **Sections 1-5** focus on the core elements of your proposal (75%):
+  - [1. Integration of the course concepts](#1-integration-of-the-course-concepts)
+  - [2. Introduction](#2-introduction)
+  - [3. Method](#3-method)
+  - [4. Expected Results](#4-expected-results)
+  - [5. Timeline](#5-timeline)
 
-- **Sections 6-9** emphasize writing quality:
-  - [6. Cohesiveness of writing](#6-cohesiveness-of-writing-5)
-  - [7. Depth, clarity, and rigorousness of writing](#7-depth-clarity-and-rigorousness-of-writing-5)
-  - [8. Citation and source integration](#8-citation-and-source-integration-5)
-  - [9. Language clarity and precision](#9-language-clarity-and-precision-5)
+- **Sections 6-9** emphasize writing quality (20%):
+  - [6. Cohesiveness of writing](#6-cohesiveness-of-writing)
+  - [7. Depth, clarity, and rigorousness of writing](#7-depth-clarity-and-rigorousness-of-writing)
+  - [8. Citation and source integration](#8-citation-and-source-integration)
+  - [9. Language clarity and precision](#9-language-clarity-and-precision)
 
-- **Section 10** provides an overall evaluation:
-  - [10. Overall coherence and persuasiveness](#10-overall-coherence-and-persuasiveness-5)
+- **Section 10** provides an overall evaluation(5%):
+  - [10. Overall coherence and persuasiveness](#10-overall-coherence-and-persuasiveness)
 
 ## Core elements of the proposal
-### 1. Integration of the course concepts (20%)
+### 1. Integration of the course concepts
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
@@ -42,7 +42,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **7. Publication-quality figures** | (1) Proposal includes publication-quality figures with proper citation if not original; (2) Figures are present but may not be of publication quality or lack proper citation; (3) Figures are of low quality, lack citation, or are missing entirely. |
 | **8. Use of citation management software** | (1) Citation management software (e.g., Zotero, EndNote) is effectively used to manage references and link citations; (2) Citation management software is used but with some inconsistencies or errors; (3) Citation management software is not used, or references are poorly managed. |
 
-### 2. Introduction (20%)
+### 2. Introduction
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
@@ -54,7 +54,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **6. Feasibility and realism** | (1) The research project is realistic, considering time, resources, and the student's skills; (2) The research project is mostly realistic but may have some limitations due to time, resources, or skills; (3) The research project is not realistic due to significant limitations. |
 
 
-### 3. Method (20%)
+### 3. Method
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
@@ -65,7 +65,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **5. Validity of data analysis techniques** | (1) Data analysis techniques are appropriate, valid, and clearly described; (2) Data analysis techniques are mostly appropriate but may lack full clarity or justification; (3) Data analysis techniques are inappropriate or poorly explained. |
 | **6. Ethical considerations** | (1) Ethical considerations are thoroughly addressed, with clear strategies for minimizing risks and ensuring ethical research conduct; (2) Ethical considerations are addressed but may lack detail or completeness; (3) Ethical considerations are inadequately addressed or overlooked. |
 
-### 4. Expected Results (5%)
+### 4. Expected Results
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
@@ -75,7 +75,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **4. Outcomes and impacts** | (1) Outcomes and broader impacts are clearly articulated, showing the potential benefits of the research to the field and community; (2) Outcomes and impacts are mentioned but may lack detail or strong justification; (3) Outcomes and impacts are vague, underdeveloped, or not clearly related to the research. |
 | **5. Feasibility of outcomes** | (1) The proposed outcomes are realistic and achievable within the project's scope and timeline; (2) The outcomes are generally realistic but may face some feasibility challenges; (3) The proposed outcomes are overly ambitious or not feasible given the project's constraints. |
 
-### 5. Timeline (5%)
+### 5. Timeline
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
@@ -85,7 +85,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 
 ## writing quality
 
-### 6. Cohesiveness of writing (5%)
+### 6. Cohesiveness of writing
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
@@ -100,7 +100,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **9. Understanding relationships among sources** | (1) Writing demonstrates a strong understanding of the relationships among materials from different sources; (2) Relationships among sources are mostly understood but may be underdeveloped in some areas; (3) The understanding of relationships among sources is weak or lacking. |
 | **10. Integration of information from sources** | (1) The proposal effectively ties together information from all sources; (2) Information is mostly integrated but may lack coherence in some areas; (3) The proposal fails to effectively integrate information from different sources. |
 
-### 7. Depth, clarity, and rigorousness of writing (5%)
+### 7. Depth, clarity, and rigorousness of writing
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
@@ -112,7 +112,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **6. Rigor in argumentation** | (1) Arguments are well-structured, rigorous, and supported by solid evidence; (2) Arguments are mostly sound but may lack sufficient evidence or rigor in some areas; (3) Arguments are weak, poorly structured, or lack sufficient support. |
 | **7. Engagement with relevant literature** | (1) Writing engages deeply with relevant literature, integrating sources effectively; (2) Engagement with literature is present but may lack depth or integration; (3) Engagement with literature is superficial or largely absent. |
 
-### 8. Citation and source integration (5%)
+### 8. Citation and source integration
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
@@ -123,7 +123,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **5. Completeness of citation list** | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing. |
 | **6. Accuracy of citations** | (1) All citations are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies or incomplete citations. |
 
-### 9. Language clarity and precision (5%)
+### 9. Language clarity and precision
 
 | Criterion | Evaluation |
 | --- | --- |
@@ -139,7 +139,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 
 ## Overall evaluation:
 
-### 10. Overall coherence and persuasiveness (5%) 
+### 10. Overall coherence and persuasiveness
 
 | **Evaluation** | **Grade** |
 | --- | --- |
