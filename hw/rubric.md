@@ -17,12 +17,12 @@
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
-| **Background and Context** | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background with some gaps in detail or clarity; (3) Background is minimal or unclear, missing important contextual information. |
-| **Literature Review and Research Gap** | (1) Conducts a thorough literature review, identifies key studies, and clearly states a significant research gap using more than 15 high-quality, current sources; (2) Conducts a solid review with 10-15 quality sources, identifying a research gap with some gaps in clarity; (3) Basic review with 5-10 sources, with minimal identification of the research gap. |
-| **Relevance and Currency of Sources** | (1) Sources are highly relevant, current, and published within the last 5 years; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated or less relevant to the research topic. |
-| **Definition of the Research Problem** | (1) The research problem is narrowly focused, clearly defined, and feasible to develop a method; (2) The research problem is focused but lacks some direction; (3) The research problem is too broad or not clearly defined. |
-| **Research Question/Hypothesis and Objectives** | (1) Clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or clearer connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
-| **Feasibility and Realism** | (1) The research project is realistic, considering time, resources, and the student's skills; (2) The research project is mostly realistic but may have some limitations due to time, resources, or skills; (3) The research project is not realistic due to significant limitations. |
+| **Background and context** | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background with some gaps in detail or clarity; (3) Background is minimal or unclear, missing important contextual information. |
+| **Literature review and research gap** | (1) Conducts a thorough literature review, identifies key studies, and clearly states a significant research gap using more than 15 high-quality, current sources; (2) Conducts a solid review with 10-15 quality sources, identifying a research gap with some gaps in clarity; (3) Basic review with 5-10 sources, with minimal identification of the research gap. |
+| **Relevance and currency of sources** | (1) Sources are highly relevant, current, and published within the last 5 years; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated or less relevant to the research topic. |
+| **Definition of the research problem** | (1) The research problem is narrowly focused, clearly defined, and feasible to develop a method; (2) The research problem is focused but lacks some direction; (3) The research problem is too broad or not clearly defined. |
+| **Research question/hypothesis and objectives** | (1) Clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or clearer connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
+| **Feasibility and realism** | (1) The research project is realistic, considering time, resources, and the student's skills; (2) The research project is mostly realistic but may have some limitations due to time, resources, or skills; (3) The research project is not realistic due to significant limitations. |
 
 
 ### 3. Method (20%)
@@ -112,10 +112,10 @@
 | **Evaluation** | **Grade** |
 | --- | --- |
 | **Exceptional**: The proposal is exceptionally coherent, with all sections working together seamlessly to present a strong, persuasive argument that effectively conveys the significance and potential of the research. | 95-100% |
-| **Very Good**: The proposal is highly coherent and persuasive, with only minor issues that do not significantly detract from the strength of the argument or the clarity of the research's potential contributions. | 90-94% |
-| **Good**: The proposal is generally coherent and persuasive, though some issues slightly weaken the overall argument or clarity. | 80-89% |
-| **Fair**: The proposal has notable coherence and persuasiveness issues, with several sections that do not integrate well, reducing the strength of the argument. | 70-79% |
-| **Poor**: The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | Below 70% |
+| **Very good**: The proposal is highly coherent and persuasive, with only minor issues that do not significantly detract from the strength of the argument or the clarity of the research's potential contributions. | 90-94% |
+| **Good**: The proposal is generally coherent and persuasive, though some issues slightly weaken the overall argument or clarity. | 85-89% |
+| **Adequate**: The proposal has notable coherence and persuasiveness issues, with several sections that do not integrate well, reducing the strength of the argument. | 75-84% |
+| **Needs improvement**: The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | Below 75% |
 
 
 ### Overall review according NSF criteria 
