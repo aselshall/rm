@@ -8,25 +8,23 @@ This rubric is your guide for developing a high-quality research proposal that m
 - **Understand grading focus** to prioritize the most important aspects of your proposal.
 - **Guide revisions** using the rubric to address any feedback from the instructor and strengthen your proposal.
 
-### Introduction to the Research Proposal Rubric
+### Section breakdown
 
-This rubric is your guide for developing a comprehensive research proposal. It may be updated as needed, but any changes will be minor and made in your best interest.
+- **Sections 1-5** focus on the core elements of your proposal:
+  - [1. Integration of the course concepts](#1-integration-of-the-course-concepts-20)
+  - [2. Introduction](#2-introduction-20)
+  - [3. Method](#3-method-20)
+  - [4. Expected Results](#4-expected-results-5)
+  - [5. Timeline](#5-timeline-5)
 
-### How to Use This Rubric
+- **Sections 6-9** emphasize writing quality:
+  - [6. Cohesiveness of writing](#6-cohesiveness-of-writing-5)
+  - [7. Depth, clarity, and rigorousness of writing](#7-depth-clarity-and-rigorousness-of-writing-5)
+  - [8. Citation and source integration](#8-citation-and-source-integration-5)
+  - [9. Language clarity and precision](#9-language-clarity-and-precision-5)
 
-- **Check each criterion** to ensure your proposal meets the standards, helping you structure your content and cover all necessary components.
-- **Self-assess** your work before submission to identify areas for improvement.
-- **Understand grading focus** to prioritize the most important aspects of your proposal.
-- **Guide revisions** using the rubric to address any feedback and strengthen your proposal.
-
-### Section Breakdown
-
-- **Sections [1-5](#1-integration-of-the-course-concepts-20)** focus on the core elements of your proposal, such as integration of course concepts, introduction, method, expected results, and timeline.
-- **Sections [6-9](#6-cohesiveness-of-writing-5)** emphasize writing quality, including cohesiveness, depth, clarity, and citation practices.
-- **Section [10](#10-overall-coherence-and-persuasiveness-5)** provides an overall evaluation, considering the coherence and persuasiveness of your proposal.
-
-This rubric is a practical tool to help you create a high-quality proposal that meets course requirements and academic expectations.
-
+- **Section 10** provides an overall evaluation:
+  - [10. Overall coherence and persuasiveness](#10-overall-coherence-and-persuasiveness-5)
 
 ### 1. Integration of the course concepts (20%)
 
