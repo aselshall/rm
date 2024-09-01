@@ -4,7 +4,7 @@
 
 ### How to use this rubric?
 
-This rubric is your guide for developing a high-quality research proposal that meets academic and professional standards. You can use this rubric to:
+This rubric is your guide for developing a high-quality research proposal that meets professional standards. You can use this rubric to:
 - **Check each criterion** to ensure your proposal meets the standards and covers all necessary components
 - **Self-assess** your work before submission to identify areas for improvement
 - **Understand grading focus** to prioritize the most important aspects of your proposal
