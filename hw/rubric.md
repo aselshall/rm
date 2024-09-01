@@ -23,7 +23,7 @@
 | **Definition of the Research Problem** | (1) The research problem is narrowly focused, clearly defined, and feasible to develop a method; (2) The research problem is focused but lacks some direction; (3) The research problem is too broad or not clearly defined. |
 | **Research Question/Hypothesis and Objectives** | (1) Clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or clearer connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
 | **Feasibility and Realism** | (1) The research project is realistic, considering time, resources, and the student's skills; (2) The research project is mostly realistic but may have some limitations due to time, resources, or skills; (3) The research project is not realistic due to significant limitations. |
- a 3-point evaluation scale for easier assessment.
+
 
 ### 3. Method (20%)
 
