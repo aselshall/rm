@@ -22,7 +22,7 @@ Prepare GitHub pages based on class slides
 Improve your writing cohesiveness by using topic and concluding sentences.  A topic sentence introduces the main idea of each paragraph. Paragraphs should include at least two relevant and clear evidence statements, with smooth and coherent transitions between them. Evidence statements should follow a logical sequence, maintaining clarity and coherence throughout the paragraph. A concluding sentence summarizes the main idea of the paragraph and should provide smooth transitions to the following paragraph. Check this [pdf file](https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf) for details. 
 ![image](https://github.com/user-attachments/assets/53b074aa-3054-4ded-a3d6-60012c6b29e1)
 
-[Image Credit: ](https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf) 
+[Image Credit](https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf) 
 
 ## 9. Language clarity and precision
     
@@ -166,36 +166,43 @@ Other sources: [Online paraphrasing tools](https://quillbot.com/)
 
 ### 3. Use of secondary sources
 
-(4 Secondary sources are not used (but rather you verify and directly cite the source that you found in another source)
+Whenever possible, avoid relying on secondary sources. Instead, locate and cite the original sources directly to ensure accuracy and credibility in your work.
 
-Jose details “Beaches also provide protection from storm surge and energetic waves during hurricanes and tropical storms (Fritz et al., 2007; Morton and Sallenger, 2003)”. 
+**Example:**
+- José (2008) mentions, "Beaches also provide protection from storm surge and energetic waves during hurricanes and tropical storms (Fritz et al., 2007; Morton and Sallenger, 2003)." 
+
+Before citing, make sure to verify and read the original sources (Fritz et al., 2007; Morton and Sallenger, 2003). This reduces the risk of misrepresentation of the original data.
+
 
 ### 4. Citation style adherence
-and central nervous system birth defects (Borchardt et al., n.d)
 
-You need to improve your citation style
-•	Add the source using author surname(s) and the date of publication. 
-•	Do not add any chapter title or number. 
-•	Do not cite a figure that you are not showing. 
-Generally, follow the same citation style that you would generally find in peer-reviewed articles. 
+Cite sources correctly. For example, "and central nervous system birth defects (Borchardt et al., n.d, figure 1 in chapter 2)"
+  
+You need to improve citation by following these guidelines:
+- Use the author's surname and the publication date in your citations.
+- Do not include chapter titles or numbers in the citation.
+- Only cite figures that you actually include in your text.
+- Follow citation styles commonly used in peer-reviewed articles.
 
-Example 1: 
 
-In the same chapter, Allen points out a case of a severely eroded swale, shown in Figure 1.6, a major change in topography caused by failed stormwater management techniques can cause damage to the stability of structures.
+Here’s an improved version of the section:
 
-For example, a severely eroded swale, which is major change in topography caused by failed stormwater management techniques, can cause damage to the stability of structures (Allen, 2020).
+### 4. Citation Style Adherence
 
-Example 2:
+Proper citation style is crucial in academic writing. Ensure you cite sources correctly by following these guidelines:
 
-Inappropriate citation style for academic writing: 
-Karen Sem and associates researched the decay for brevetoxins traveling in the air. They state that brevetoxins lifetime decay in the presence of 20 ppb of trioxygen was roughly 7 hours (Sem et al., 2022).
+- Use the author's surname(s) and the publication date in your citations.
+- Do not include chapter titles or numbers in the citation.
+- Only cite figures that you actually include in your text.
+- Follow citation styles commonly used in peer-reviewed articles.
 
-Appropriate citation style: 
-Sem et al. (2022) researched the decay for brevetoxins traveling in the air, and found that brevetoxins lifetime decay in the presence of 20 ppb of trioxygen was roughly 7 hours.
+**Example 1:**
+- **Less effective:** In the same chapter, Allen points out a case of a severely eroded swale, shown in Figure 1.6, a major change in topography caused by failed stormwater management techniques can cause damage to the stability of structures.
+- **More effective:** A severely eroded swale, a major change in topography caused by failed stormwater management techniques, can damage the stability of structures (Allen, 2020).
 
-Appropriate citation style, succinct, and precise:
-Sem et al. (2022) show that the lifetime decay of aerosolized brevetoxins is about 7 hours in the presence of 20 ppb of trioxygen. Lifetime decay of aerosolized brevetoxins refers to xx, such that xy.
-
+**Example 2:**
+- **Less effective:** Karen Sem and associates researched the decay for brevetoxins traveling in the air. They state that brevetoxins' lifetime decay in the presence of 20 ppb of trioxygen was roughly 7 hours (Sem et al., 2022).
+- **More effective:** Sem et al. (2022) show that the lifetime decay of aerosolized brevetoxins is about 7 hours in the presence of 20 ppb of trioxygen.
 
 
 ## 10. Overall evaluation
