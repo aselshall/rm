@@ -127,15 +127,15 @@ This rubric is your guide for developing a high-quality research proposal that m
 
 | Criterion | Evaluation |
 | --- | --- |
-| **1. Spelling** | (1) Minimal spelling mistakes; (2) Few spelling mistakes; (3) Noticeable spelling mistakes; (4) Unacceptable spelling mistakes |
-| **2. Grammar** | (1) Grammar is correct throughout; (2) Minor grammar mistakes present; (3) Several grammar mistakes; (4) Frequent grammar mistakes |
-| **3. Sentence clarity** | (1) Sentences are clear and unambiguous; (2) Minor instances of unclear sentences; (3) Some sentences are ambiguous; (4) Many unclear or ambiguous sentences |
-| **4. Sentence length** | (1) Sentences are succinct and well-structured; (2) Occasional long sentences; (3) Frequent long sentences; (4) Many sentences are overly long and convoluted |
-| **5. Careless mistakes** | (1) No careless mistakes; (2) Few careless mistakes (e.g., using acronyms without defining them); (3) Noticeable careless mistakes; (4) Frequent careless mistakes |
-| **6. Use of conjunctions** | (1) Proper use of subordinating conjunctions (e.g., "Alternatively," "In addition"); (2) Mostly uses subordinating conjunctions correctly, with some misuse of coordinating conjunctions (e.g., "and," "but"); (3) Frequent misuse of coordinating conjunctions; (4) Consistent misuse of coordinating conjunctions |
-| **7. Succinctness** | (1) Writing is concise, with each word adding value; (2) Writing is generally concise, with some unnecessary words; (3) Writing is occasionally wordy or redundant; (4) Writing is often wordy and lacks conciseness |
-| **8. Tense consistency** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Several tense inconsistencies; (4) Frequent tense errors |
-| **9. Academic writing style** | (1) Writing is formal, precise, and supported by factual evidence; (2) Writing is mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise; (4) Writing is often informal or lacks precision |
+| **1. Spelling** | (1) Minimal or no spelling mistakes; (2) Few spelling mistakes; (3) Noticeable spelling mistakes. |
+| **2. Grammar** | (1) Grammar is correct throughout; (2) Minor grammar mistakes present; (3) Several grammar mistakes. |
+| **3. Sentence Clarity** | (1) Sentences are clear and unambiguous; (2) Some sentences are slightly unclear or ambiguous; (3) Many sentences are unclear or ambiguous. |
+| **4. Sentence length** | (1) Sentences are succinct and well-structured; (2) Occasional long sentences; (3) Frequent long or convoluted sentences. |
+| **5. Careless mistakes** | (1) No careless mistakes; (2) Few careless mistakes (e.g., using acronyms without defining them); (3) Noticeable careless mistakes. |
+| **6. Use of conjunctions** | (1) Proper use of conjunctions (e.g., "Alternatively," "In addition"); (2) Mostly correct use, with occasional misuse  (e.g., "and," "but"); (3) Frequent misuse of conjunctions. |
+| **7. Succinctness** | (1) Writing is concise, with each word adding value; (2) Writing is mostly concise, with occasional redundancy; (3) Writing is often wordy or lacks conciseness. |
+| **8. Tense consistency** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Frequent tense errors. |
+| **9. Academic writing style** | (1) Writing is formal, precise, and well-supported by factual evidence; (2) Mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise. |
 
 ## Overall evaluation:
 
