@@ -15,9 +15,9 @@ This rubric is your guide for developing a high-quality research proposal that m
 - **Sections 1-5** focus on the core elements of your proposal (75 points):
   - [1. Integration of the course concepts (15 points)](#1-integration-of-the-course-concepts)
   - [2. Introduction (30 points)](#2-introduction)
-  - [3. Method(20 points)](#3-method)
-  - [4. Expected Results(5 points)](#4-expected-results)
-  - [5. Timeline(5 points)](#5-timeline)
+  - [3. Methods (20 points)](#3-methods)
+  - [4. Expected Results (5 points)](#4-expected-results)
+  - [5. Timeline (5 points)](#5-timeline)
 
 - **Sections 6-9** emphasize writing quality (20 points):
   - [6. Cohesiveness of writing (5 points)](#6-cohesiveness-of-writing)
@@ -54,7 +54,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **6. Feasibility and realism** | (1) The research project is realistic, considering time, resources, and the student's skills; (2) The research project is mostly realistic but may have some limitations due to time, resources, or skills; (3) The research project is not realistic due to significant limitations. |
 
 
-### 3. Method
+### 3. Methods
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
