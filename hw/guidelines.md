@@ -37,8 +37,46 @@ Improve your writing cohesiveness by using topic and concluding sentences.  A to
 A lengthy sentence can be difficult to follow.  Breaking it into shorter sentences and using punctuation effectively improves clarity and readability.
 
 **Example:**
-- Less clear: Storm water management is a common requirement in land development projects and it is important because land development comes with an increase in impervious areas and compacting of previous permeable undeveloped areas which can cause issues with how a watershed receives stormwater.
-- More clear: Stormwater management is essential in land development projects. Development increases impervious surfaces and compacts previously permeable areas, disrupting how a watershed receives and processes stormwater.
+- Less clear: "Storm water management is a common requirement in land development projects and it is important because land development comes with an increase in impervious areas and compacting of previous permeable undeveloped areas which can cause issues with how a watershed receives stormwater."
+- More clear: "Stormwater management is essential in land development projects. Development increases impervious surfaces and compacts previously permeable areas, disrupting how a watershed receives and processes stormwater."
+
+### 9.5 Avoid careless mistakes
+
+Careless mistakes in academic writing can undermine the credibility of your work and distract readers from your main arguments. These errors can be avoided with proofreading and attention to detail. Below are common types of careless mistakes.
+
+**Undefined acronyms:** Using acronyms without defining them upon first use.
+  - *Example:* "The study was conducted in accordance with WHO guidelines."
+  - *Correction:* "The study was conducted in accordance with World Health Organization (WHO) guidelines."
+
+**Incorrect or inconsistent terminology:** Using different terms to refer to the same concept or object, leading to confusion.
+  - *Example:* "The survey measured water quality, and later the questionnaire assessed it."
+  - *Correction:* "The survey measured water quality, and later the survey assessed it."
+
+**Typographical errors:** Simple typos that can change the meaning of a sentence or make it unclear.
+  - *Example:* "The results show a statically significant difference."
+  - *Correction:* "The results show a statistically significant difference."
+
+**Misuse of words:** Using words that sound similar but have different meanings.
+  - *Example:* "Different stakeholders have different prospectives about the meaning of sustainable yield."
+  - *Correction:* "Different stakeholders have different perspectives about the meaning of sustainable yield."
+
+**Inconsistent formatting:** Variations in formatting such as inconsistent use of headings, bullet points, or font styles.
+  - *Example:* "3. Methods... 4. RESULTS"
+  - *Correction:* "3. Methods... 4. Results"
+
+***Inconsistent citation style:** Not following the required citation style consistently.
+  - *Example:* "All models are wrong, but some are useful" (Box, 1976). "Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful" (Box 1987)
+  - *Correction:* "All models are wrong, but some are useful" (Box, 1976). "Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful"(Box, 1987).
+
+**Numerical errors:** Inaccuracies in presenting data, such as incorrect figures or mislabeling units.
+  - *Example:* "The acceleration due to gravity is 98.1 m/s" 
+  - *Correction:* "The acceleration due to gravity is 9.81 m/s<sup>2</sup>"
+
+**Ambiguous pronouns:** Using pronouns that do not clearly refer to a specific noun, leading to confusion.
+  - *Example:* "The researchers interviewed the participants, and they reported..."
+  - *Correction:* "The researchers interviewed the participants, and the researchers reported..."
+
+To catch careless mistakes, review your work carefully after a break or the next day, or ask a colleague to review it before submission.
 
 ### 9.6 Avoid coordinating conjunctions and use subordinating conjunctions
 
@@ -63,7 +101,7 @@ Tenses can be used in both passive and active voice, depending on the journal's 
 - **Present Simple:** The default tense, used unless another tense is more appropriate.
   - *Examples:*
     - "This paper analyzes the impact of high temperatures on certain species."
-    - "Figure 1 shows that children ingest roughly 50-200 mg of soil per day."
+    - "Figure 1 shows that children ingest roughly 5-20 mg of soil per day."
 
 - **Past Simple:** Used for actions or events completed in the past, often describing methods from a completed experiment.
   - *Examples:*
@@ -74,6 +112,16 @@ Tenses can be used in both passive and active voice, depending on the journal's 
   - *Examples:*
     - "Some studies have found that girls have significantly higher fears than boys after trauma (Pfefferbaum et al., 1999; Pine and Cohen, 2002; Shaw, 2003)."
     - "While these measures have proved reliable and valid, there is little data on how they relate to each other."
+
+#### 9.9. Technical writing versus creative writing 
+
+Creative writing emphasizes personal expression, while academic writing centers on presenting ideas, arguments, or concepts supported by evidence. Academic writing demands precision, and clarity. Both forms have unique purposes, so strive to refine your skills in each. [Learn more about the differences between academic and creative writing](https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing).
+
+**Example:**
+- Less Effective:"The economy gets damaged because Southwest Florida is a destination for tourism and if tourists cannot go to the beach safely they do not want to spend the money to travel all the way to Southwest Florida."
+- More Effective: "Pungent odors, unpleasant scenery, and human health impacts of red tides negatively affect tourism in Southeast Florida (Zohdi and Abbaspour, 2019)."
+
+![image](https://github.com/user-attachments/assets/43b34cf4-e675-4449-97c7-a14d808d146c)
 
 
 ## 8. Citation and source integration
@@ -137,17 +185,7 @@ Sem et al. (2022) researched the decay for brevetoxins traveling in the air, and
 Appropriate citation style, succinct, and precise:
 Sem et al. (2022) show that the lifetime decay of aerosolized brevetoxins is about 7 hours in the presence of 20 ppb of trioxygen. Lifetime decay of aerosolized brevetoxins refers to xx, such that xy.
 
-### 9. Technical writing versus creative writing 
 
-Overall, creative writing allows for more personal expression whereas academic/scholarly writing aims to explore an idea, argument, or concept.  Academic writing requires more factual evidence for support, and presents challenges such as the pressure of time.  They each have their own purpose, and as a developing writer, I hope to improve my writing of both types.
-https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing
-
-![image](https://github.com/user-attachments/assets/43b34cf4-e675-4449-97c7-a14d808d146c)
-
-Example:
-The economy gets damaged because Southwest Florida is a destination for tourism and if tourists cannot go to the beach safely they do not want to spend the money to travel all the way to Southwest Florida.
-
-Pungent odor, unpleasant scenery, and human health impacts of red tides impact the tourism industry in Southeast Florida (Zohdi and Abbaspour, 2019). 
 
 ## 10. Overall evaluation
 
