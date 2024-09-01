@@ -1,4 +1,4 @@
-# Guidelines
+# [Guidelines](https://aselshall.github.io/rm/hw/guidelines)
 
 ## 1. Integration of the course concepts
 Prepare GitHub pages based on class slides
