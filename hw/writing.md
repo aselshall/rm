@@ -134,3 +134,7 @@ Example:
 The economy gets damaged because Southwest Florida is a destination for tourism and if tourists cannot go to the beach safely they do not want to spend the money to travel all the way to Southwest Florida.
 
 Pungent odor, unpleasant scenery, and human health impacts of red tides impact the tourism industry in Southeast Florida (Zohdi and Abbaspour, 2019). 
+
+## Overall evaluation
+
+Add NSF evaluation criteria
