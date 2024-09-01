@@ -17,7 +17,7 @@ Prepare GitHub pages based on class slides
 
 ## 6. Cohesiveness of writing
 
-### 6.1 Topic sentence, evidence statements, transitions, and concluding sentences
+### 6.1 Topic and concluding sentences
 
 Improve your writing cohesiveness by using topic and concluding sentences.  A topic sentence introduces the main idea of each paragraph. Paragraphs should include at least two relevant and clear evidence statements, with smooth and coherent transitions between them. Evidence statements should follow a logical sequence, maintaining clarity and coherence throughout the paragraph. A concluding sentence summarizes the main idea of the paragraph and should provide smooth transitions to the following paragraph. Check this [pdf file](https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf) for details. 
 ![image](https://github.com/user-attachments/assets/53b074aa-3054-4ded-a3d6-60012c6b29e1)
@@ -27,13 +27,13 @@ Improve your writing cohesiveness by using topic and concluding sentences.  A to
 
 ## 8. Citation and source integration
 
-### 8.1 Proper Citation
+### 8.1 Proper citation
 
 Data and information from other sources are: 
-(1) all cited, 
-(2) mostly cited, 
-(3) poorly cited, 
-(4) not cited (plagiarized).
+- all cited
+- mostly cited
+- poorly cited
+- not cited (plagiarized)
 
 Always cite the source when you incorporate research, words, ideas, data, or information that is not your own. Even when synthesizing or summarizing multiple pieces of information, you must cite any concept that is not originally yours. For more guidance, refer to [When to Cite](https://www.bu.edu/sph/students/student-services/student-resources/academic-support/communication-resources/when-to-cite/).
 
