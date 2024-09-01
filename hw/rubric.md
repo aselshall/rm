@@ -1,5 +1,7 @@
 ## [Rubric](https://aselshall.github.io/rm/hw/rubric)
 
+## Introduction
+
 ### How to use this rubric?
 
 This rubric is your guide for developing a high-quality research proposal that meets academic and professional standards. You can use this rubric to:
@@ -26,6 +28,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 - **Section 10** provides an overall evaluation:
   - [10. Overall coherence and persuasiveness](#10-overall-coherence-and-persuasiveness-5)
 
+## Core elements of your proposal
 ### 1. Integration of the course concepts (20%)
 
 | **Criterion** | **Evaluation** |
@@ -80,6 +83,8 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **2. Realistic deadlines and deliverables** | (1) Deadlines are realistic, well-distributed throughout the project, and clearly linked to specific deliverables; (2) Deadlines are generally realistic but may be unevenly distributed or lack clear connection to deliverables; (3) Deadlines are unrealistic, poorly distributed, or not clearly tied to deliverables. |
 | **3. Contingency plan** | (1) The contingency plan is well-developed, addressing potential challenges with specific strategies to ensure project completion; (2) The contingency plan is present but may be vague or lack specific strategies; (3) The contingency plan is absent or fails to address potential challenges effectively. |
 
+## writing quality
+
 ### 6. Cohesiveness of writing (5%)
 
 | **Criterion** | **Evaluation** |
@@ -132,6 +137,8 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **8. Tense consistency** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Several tense inconsistencies; (4) Frequent tense errors |
 | **9. Academic writing style** | (1) Writing is formal, precise, and supported by factual evidence; (2) Writing is mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise; (4) Writing is often informal or lacks precision |
 
+## Overall evaluation:
+
 ### 10. Overall coherence and persuasiveness (5%) 
 
 | **Evaluation** | **Grade** |
@@ -152,5 +159,5 @@ This section is for information only and not for grading. It helps you understan
 | **Broader Impacts** | (1) The proposal clearly articulates significant broader impacts, including societal benefits, educational outreach, and contributions to diversity; (2) The proposal includes broader impacts, but they may be less well-developed or lack clear implementation plans; (3) The proposal has minimal or unclear broader impacts, with little consideration for societal or educational benefits. |
 | **Overall Quality** | (1) The proposal is exceptional, integrating intellectual merit and broader impacts into a cohesive and compelling document that is well-aligned with NSF priorities; (2) The proposal is strong overall but may have minor weaknesses in either intellectual merit or broader impacts; (3) The proposal is weak overall, with significant deficiencies in intellectual merit, broader impacts, or overall coherence. |
 
-### Disclaimer
+## Disclaimer
 The rubric is dynamic and may be updated as the instructor grades your work. Any updates will be minor adjustments aimed at fine-tuning the criteria, always with your best interest in mind. These adjustments are not meant to introduce major changes but to enhance clarity and fairness in evaluation.
