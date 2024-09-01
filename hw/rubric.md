@@ -1,5 +1,14 @@
 ## [Rubric](https://aselshall.github.io/rm/hw/rubric)
 
+This rubric is your guide for developing a comprehensive research proposal. How to Use This Rubric?
+- **Check each criterion** to ensure your proposal meets the standards, helping you structure your content and cover all necessary components.
+- **Self-assess** your work before submission to identify areas for improvement.
+- **Understand grading focus** to prioritize the most important aspects of your proposal.
+- **Guide revisions** using the rubric to address any feedback from the instructor and strengthen your proposal.
+
+This rubric is to help you create a high-quality proposal that meets academic and professional standards.
+
+
 ### 1. Integration of the course concepts (20%)
 
 | **Criterion** | **Evaluation** |
@@ -125,3 +134,6 @@ This section is for information only and not for grading. It helps you understan
 | **Intellectual Merit** | (1) The proposal demonstrates outstanding intellectual merit, with innovative ideas, strong theoretical foundations, and a clear research plan that advances knowledge; (2) The proposal shows solid intellectual merit, with well-developed ideas and a clear research plan, though it may lack some innovation; (3) The proposal demonstrates limited intellectual merit, with gaps in theory, research plan, or innovation. |
 | **Broader Impacts** | (1) The proposal clearly articulates significant broader impacts, including societal benefits, educational outreach, and contributions to diversity; (2) The proposal includes broader impacts, but they may be less well-developed or lack clear implementation plans; (3) The proposal has minimal or unclear broader impacts, with little consideration for societal or educational benefits. |
 | **Overall Quality** | (1) The proposal is exceptional, integrating intellectual merit and broader impacts into a cohesive and compelling document that is well-aligned with NSF priorities; (2) The proposal is strong overall but may have minor weaknesses in either intellectual merit or broader impacts; (3) The proposal is weak overall, with significant deficiencies in intellectual merit, broader impacts, or overall coherence. |
+
+### Disclaimer
+The rubric is dynamic and may be updated as I grade your work. Any updates will be minor adjustments aimed at fine-tuning the criteria, always with your best interest in mind. These adjustments are not meant to introduce major changes but to enhance clarity and fairness in evaluation.
