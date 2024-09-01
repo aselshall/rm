@@ -17,10 +17,12 @@ Prepare GitHub pages based on class slides
 
 ## 6. Cohesiveness of writing
 
-### Topic sentence, evidence statements, transitions, and concluding sentences
+### 6.1 Topic sentence, evidence statements, transitions, and concluding sentences
 
 Improve your writing cohesiveness by using topic and concluding sentences.  A topic sentence introduces the main idea of each paragraph. Paragraphs should include at least two relevant and clear evidence statements, with smooth and coherent transitions between them. Evidence statements should follow a logical sequence, maintaining clarity and coherence throughout the paragraph. A concluding sentence summarizes the main idea of the paragraph and should provide smooth transitions to the following paragraph. Check this [pdf file](https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf) for details. 
 ![image](https://github.com/user-attachments/assets/53b074aa-3054-4ded-a3d6-60012c6b29e1)
+
+[Image Credit: ](https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf) 
 
 ## 9. Language clarity and precision
     
@@ -107,43 +109,60 @@ Tenses can be used in both passive and active voice, depending on the journal's 
 
 #### 9.9. Technical writing versus creative writing 
 
-Creative writing emphasizes personal expression, while academic writing centers on presenting ideas, arguments, or concepts supported by evidence. Academic writing demands precision, and clarity. Both forms have unique purposes, so strive to refine your skills in each. [Learn more about the differences between academic and creative writing](https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing).
+Creative writing emphasizes personal expression, while academic writing focuses on presenting evidence-backed ideas and arguments. Academic writing requires precision, and clarity. Academic writing is not a thriller where you build suspense, nor is it a poem where language is open to interpretation. Your goal is to present your argument clearly, with key points up front. Both academic and creative writings have distinct purposes, so improve your skills in each. [Learn more about the differences between academic and creative writing](https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing).
 
 **Example:**
-- Less Effective:"The economy gets damaged because Southwest Florida is a destination for tourism and if tourists cannot go to the beach safely they do not want to spend the money to travel all the way to Southwest Florida."
-- More Effective: "Pungent odors, unpleasant scenery, and human health impacts of red tides negatively affect tourism in Southeast Florida (Zohdi and Abbaspour, 2019)."
+- Creative writing (33 words):"The economy gets damaged because Southwest Florida is a destination for tourism and if tourists cannot go to the beach safely they do not want to spend the money to travel all the way to Southwest Florida."
+- Academic writing (22 words): "Red tides in Southwest Florida produce pungent odors, degrade scenery, and pose health risks, leading to a decline in tourism (Zohdi and Abbaspour, 2019)."
+
+The creative writing sentence uses a narrative style to describe the economic impact. The academic writing sentence directly presents the causes and effects, supported by evidence. 
 
 ![image](https://github.com/user-attachments/assets/43b34cf4-e675-4449-97c7-a14d808d146c)
+
+[Image Credit](https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing).
 
 
 ## 8. Citation and source integration
 
-### 1. Proper citation 
+### 1. Proper Citation
 
-(1) Data obtained from other sources is (1) all cited, (2) mostly cited, (3) poorly cited or (4) plagiarized
+Data and information from other sources are: 
+(1) all cited, 
+(2) mostly cited, 
+(3) poorly cited, 
+(4) not cited (plagiarized).
 
-You must cite the source every time you incorporate research, words, ideas, data, or information that is not your own (2). While you are synthesizing and often summarizing many pieces of information, you must cite any concept that is not your own.
-https://www.bu.edu/sph/students/student-services/student-resources/academic-support/communication-resources/when-to-cite/
-8.2 Paraphrasing
+Always cite the source when you incorporate research, words, ideas, data, or information that is not your own. Even when synthesizing or summarizing multiple pieces of information, you must cite any concept that is not originally yours. For more guidance, refer to [When to Cite](https://www.bu.edu/sph/students/student-services/student-resources/academic-support/communication-resources/when-to-cite/).
 
-https://englishexplorations.check.uni-hamburg.de/academic-writing-direct-quotes-vs-paraphrasing/
+### 8.2 Paraphrasing and quoting
 
-### 2. Paraphrasing and quoting
-As a general guideline in academic writing, it is very important that direct quotes from other sources should only be used selectively. Even if the temptation might be high and your motivation to formulate the idea in your own words low- your essay should really be your own work. If you think it is too difficult to decide whether or not to use a direct quote, think about these aspects:
-•	First and foremost, direct quotes are used when the language matters, i.e. when quoting an original primary source such as a novel, an interview, or similar.
-•	If the quote uses a specific historical language that is striking for that period of time, you can quote directly.
-•	If you want to refer to specific concepts, ideas or technical terms such as in philosophy or social sciences, it makes sense to quote the actual expression. Otherwise you might need to write a lot more words to describe the same issue that could otherwise be described in two or three expressions. Such one- or two-word specialized terms are not even considered quotes if they have become part of the disciplinary discourse.
-•	Sometimes a well-expressed statement can lose its specific meaning or the meaning might be changed if it is paraphrased or summarized.
-Other than these aspects, bear in mind that you should not use a direct quote for the sake of using it. Your argumentation should make it clear why you integrate a certain quote in a certain position. Also, remember that a quote does not stand for itself. You should always introduce it smoothly into your text and also explain it.
+Paraphrasing involves rewording ideas while maintaining the original meaning.  
 
-Here are some tips for you in order to learn how to paraphrase:
-•	Make sure to read the passage that you want paraphrase carefully in order to grasp its core idea.
-•	Try to rewrite the source in your own words by incorporating 2-3 key terms.
-•	Reread your version of the passage and make sure to change any expressions or phrases that you have copied from the original source.
-•	Try to think about synonyms to find different words which convey the same meaning.
-•	Change the syntax of the original quote and construct a different sentence structure in your passage.
+**Example:**
+- **Original text:** "Climate change has led to an increase in the frequency and severity of extreme weather events, impacting global ecosystems and human communities."
+- **Paraphrased text:** "Climate change is driving more frequent and severe weather events, affecting ecosystems and human communities globally."
 
-Other sources: Online paraphrasing tools (https://quillbot.com/)
+[Direct Quotes vs. Paraphrasing](https://englishexplorations.check.uni-hamburg.de/academic-writing-direct-quotes-vs-paraphrasing/) provides details that are copied and pasted here:
+
+> As a general guideline in academic writing, it is important that direct quotes from other sources should only be used selectively. Even if the temptation might be high and your motivation to formulate the idea in your own words low—your essay should really be your own work. If you think it is too difficult to decide whether or not to use a direct quote, think about these aspects:
+> 
+> - First and foremost, direct quotes are used when the language matters, i.e. when quoting an original primary source such as a novel, an interview, or similar.
+> - If the quote uses a specific historical language that is striking for that period of time, you can quote directly.
+> - If you want to refer to specific concepts, ideas, or technical terms such as in philosophy or social sciences, it makes sense to quote the actual expression. Otherwise, you might need to write a lot more words to describe the same issue that could otherwise be described in two or three expressions. Such one- or two-word specialized terms are not even considered quotes if they have become part of the disciplinary discourse.
+> - Sometimes a well-expressed statement can lose its specific meaning, or the meaning might be changed if it is paraphrased or summarized.
+> 
+> Other than these aspects, bear in mind that you should not use a direct quote for the sake of using it. Your argumentation should make it clear why you integrate a certain quote in a certain position. Also, remember that a quote does not stand for itself. You should always introduce it smoothly into your text and also explain it.
+> 
+> Here are some tips for you in order to learn how to paraphrase:
+> 
+> - Make sure to read the passage that you want to paraphrase carefully in order to grasp its core idea.
+> - Try to rewrite the source in your own words by incorporating 2-3 key terms.
+> - Reread your version of the passage and make sure to change any expressions or phrases that you have copied from the original source.
+> - Try to think about synonyms to find different words which convey the same meaning.
+> - Change the syntax of the original quote and construct a different sentence structure in your passage.
+
+
+Other sources: [Online paraphrasing tools](https://quillbot.com/)
 
 ### 3. Use of secondary sources
 
