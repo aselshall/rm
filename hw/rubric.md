@@ -37,6 +37,7 @@
 | **Ethical considerations** | (1) Ethical considerations are thoroughly addressed, with clear strategies for minimizing risks and ensuring ethical research conduct; (2) Ethical considerations are addressed but may lack detail or completeness; (3) Ethical considerations are inadequately addressed or overlooked. |
 
 ### 4. Expected Results (5%)
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
 | **Anticipated findings** | (1) Expected findings are well-grounded in the literature and clearly articulated, providing a strong rationale for the research; (2) Expected findings are articulated but may lack strong grounding in the literature or clarity; (3) Expected findings are vague or not clearly linked to the research objectives. |
@@ -46,6 +47,7 @@
 | **Feasibility of outcomes** | (1) The proposed outcomes are realistic and achievable within the project's scope and timeline; (2) The outcomes are generally realistic but may face some feasibility challenges; (3) The proposed outcomes are overly ambitious or not feasible given the project's constraints. |
 
 ### 5. Timeline (5%)
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
 | **Research schedule and milestones** | (1) The timeline is detailed, with clear milestones that align with the research objectives and demonstrate a logical progression of tasks; (2) The timeline includes milestones but may lack detail or clear alignment with the research objectives; (3) The timeline is vague, with unclear milestones that do not clearly support the research objectives. |
@@ -53,6 +55,7 @@
 | **Contingency plan** | (1) The contingency plan is well-developed, addressing potential challenges with specific strategies to ensure project completion; (2) The contingency plan is present but may be vague or lack specific strategies; (3) The contingency plan is absent or fails to address potential challenges effectively. |
 
 ### 6. Cohesiveness of writing (5%)
+
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
 | **Effective use of topic sentences** | (1) Topic sentences effectively introduce the main ideas of each paragraph; (2) Topic sentences are present but may sometimes lack clarity or focus; (3) Topic sentences are unclear, absent, or fail to introduce the main idea. |
@@ -67,6 +70,7 @@
 | **Integration of information from sources** | (1) The proposal effectively ties together information from all sources; (2) Information is mostly integrated but may lack coherence in some areas; (3) The proposal fails to effectively integrate information from different sources. |
 
 ### 7. Depth, clarity, and rigorousness of writing (5%)
+
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
 | **Depth of discussion and elaboration** | (1) Discussion is consistently in-depth, thoroughly exploring each topic; (2) Discussion is mostly in-depth but may lack detail in certain areas; (3) Content is either missing important details, excessively runs-on, or provides only a cursory discussion. |
@@ -78,6 +82,7 @@
 | **Engagement with relevant literature** | (1) Writing engages deeply with relevant literature, integrating sources effectively; (2) Engagement with literature is present but may lack depth or integration; (3) Engagement with literature is superficial or largely absent. |
 
 ### 8. Citation and source integration (5%)
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
 | **Proper citation** | (1) All sources are cited correctly; (2) Most sources are cited, with minor omissions; (3) Noticeable gaps in citation. |
@@ -88,6 +93,7 @@
 | **Accuracy of citations** | (1) All citations are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies or incomplete citations. |
 
 ### 9. Language clarity and precision (5%)
+
 | Criterion | Evaluation |
 | --- | --- |
 | **1. Spelling** | (1) Minimal spelling mistakes; (2) Few spelling mistakes; (3) Noticeable spelling mistakes; (4) Unacceptable spelling mistakes |
@@ -100,15 +106,20 @@
 | **8. Tense consistency** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Several tense inconsistencies; (4) Frequent tense errors |
 | **9. Academic writing style** | (1) Writing is formal, precise, and supported by factual evidence; (2) Writing is mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise; (4) Writing is often informal or lacks precision |
 
+
 ### 10. Overall coherence and persuasiveness (5%) 
-- (1) **Exceptional**: The proposal is exceptionally coherent, with all sections working together seamlessly to present a strong, persuasive argument that effectively conveys the significance and potential of the research. | 95-100% |
-- (2) **Very good**: The proposal is highly coherent and persuasive, with only minor issues that do not significantly detract from the strength of the argument or the clarity of the research's potential contributions. | 90-94% |
-- (3) **Good**: The proposal is generally coherent and persuasive, though some issues slightly weaken the overall argument or clarity. | 85-89% |
-- (4) **Adequate**: The proposal has notable coherence and persuasiveness issues, with several sections that do not integrate well, reducing the strength of the argument. | 75-84% |
-- (5) **Needs improvement**: The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | Below 75% |
+
+- **Exceptional**: The proposal is exceptionally coherent, with all sections working together seamlessly to present a strong, persuasive argument that effectively conveys the significance and potential of the research. | 95-100% |
+- **Very good**: The proposal is highly coherent and persuasive, with only minor issues that do not significantly detract from the strength of the argument or the clarity of the research's potential contributions. | 90-94% |
+- **Good**: The proposal is generally coherent and persuasive, though some issues slightly weaken the overall argument or clarity. | 85-89% |
+- **Adequate**: The proposal has notable coherence and persuasiveness issues, with several sections that do not integrate well, reducing the strength of the argument. | 75-84% |
+- **Needs improvement**: The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | Below 75% |
+
 
 ### Overall review according NSF criteria 
+
 This is for information only and not for grading
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
 | **Intellectual Merit** | (1) The proposal demonstrates outstanding intellectual merit, with innovative ideas, strong theoretical foundations, and a clear research plan that advances knowledge; (2) The proposal shows solid intellectual merit, with well-developed ideas and a clear research plan, though it may lack some innovation; (3) The proposal demonstrates limited intellectual merit, with gaps in theory, research plan, or innovation. |
