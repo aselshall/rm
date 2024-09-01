@@ -24,6 +24,70 @@ Improve your writing cohesiveness by using topic and concluding sentences.  A to
 
 [Image Credit](https://www.fusd1.org/cms/lib/AZ01001113/Centricity/Domain/800/Topic%20and%20Concluding%20Sentences%20Reference%20Sheet.pdf) 
 
+
+## 8. Citation and source integration
+
+### 8.1 Proper Citation
+
+Data and information from other sources are: 
+(1) all cited, 
+(2) mostly cited, 
+(3) poorly cited, 
+(4) not cited (plagiarized).
+
+Always cite the source when you incorporate research, words, ideas, data, or information that is not your own. Even when synthesizing or summarizing multiple pieces of information, you must cite any concept that is not originally yours. For more guidance, refer to [When to Cite](https://www.bu.edu/sph/students/student-services/student-resources/academic-support/communication-resources/when-to-cite/).
+
+### 8.2 Paraphrasing and quoting
+
+Paraphrasing involves rewording ideas while maintaining the original meaning.  
+
+**Example:**
+- **Original text:** "Climate change has led to an increase in the frequency and severity of extreme weather events, impacting global ecosystems and human communities."
+- **Paraphrased text:** "Climate change is driving more frequent and severe weather events, affecting ecosystems and human communities globally."
+
+[Direct Quotes vs. Paraphrasing](https://englishexplorations.check.uni-hamburg.de/academic-writing-direct-quotes-vs-paraphrasing/) provides details that are copied and pasted here:
+
+> As a general guideline in academic writing, it is important that direct quotes from other sources should only be used selectively. Even if the temptation might be high and your motivation to formulate the idea in your own words low—your essay should really be your own work. If you think it is too difficult to decide whether or not to use a direct quote, think about these aspects:
+> 
+> - First and foremost, direct quotes are used when the language matters, i.e. when quoting an original primary source such as a novel, an interview, or similar.
+> - If the quote uses a specific historical language that is striking for that period of time, you can quote directly.
+> - If you want to refer to specific concepts, ideas, or technical terms such as in philosophy or social sciences, it makes sense to quote the actual expression. Otherwise, you might need to write a lot more words to describe the same issue that could otherwise be described in two or three expressions. Such one- or two-word specialized terms are not even considered quotes if they have become part of the disciplinary discourse.
+> - Sometimes a well-expressed statement can lose its specific meaning, or the meaning might be changed if it is paraphrased or summarized.
+> 
+> Other than these aspects, bear in mind that you should not use a direct quote for the sake of using it. Your argumentation should make it clear why you integrate a certain quote in a certain position. Also, remember that a quote does not stand for itself. You should always introduce it smoothly into your text and also explain it.
+> 
+> Here are some tips for you in order to learn how to paraphrase:
+> 
+> - Make sure to read the passage that you want to paraphrase carefully in order to grasp its core idea.
+> - Try to rewrite the source in your own words by incorporating 2-3 key terms.
+> - Reread your version of the passage and make sure to change any expressions or phrases that you have copied from the original source.
+> - Try to think about synonyms to find different words which convey the same meaning.
+> - Change the syntax of the original quote and construct a different sentence structure in your passage.
+
+
+Other sources: [Online paraphrasing tools](https://quillbot.com/)
+
+### 8.3 Use of secondary sources
+
+Whenever possible, avoid relying on secondary sources. Instead, locate and cite the original sources directly to ensure accuracy and credibility in your work.
+
+**Example:**
+- José (2008) mentions, "Beaches also provide protection from storm surge and energetic waves during hurricanes and tropical storms (Fritz et al., 2007; Morton and Sallenger, 2003)." 
+
+Before citing, make sure to verify and read the original sources (Fritz et al., 2007; Morton and Sallenger, 2003). This reduces the risk of misrepresentation of the original data.
+
+
+### 8.4 Citation style adherence
+
+Cite sources correctly. For example, "and central nervous system birth defects (Borchardt et al., n.d, figure 1 in chapter 2)"
+  
+You need to improve citation by following these guidelines:
+- Use the author's surname and the publication date in your citations.
+- Do not include chapter titles or numbers in the citation.
+- Only cite figures that you actually include in your text.
+- Follow citation styles commonly used in peer-reviewed articles.
+
+
 ## 9. Language clarity and precision
     
 ### 9.4 Avoid long sentences and use punctuation  
@@ -107,7 +171,7 @@ Tenses can be used in both passive and active voice, depending on the journal's 
     - "Some studies have found that girls have significantly higher fears than boys after trauma (Pfefferbaum et al., 1999; Pine and Cohen, 2002; Shaw, 2003)."
     - "While these measures have proved reliable and valid, there is little data on how they relate to each other."
 
-#### 9.9. Technical writing versus creative writing 
+### 9.9. Technical writing versus creative writing 
 
 Creative writing emphasizes personal expression, while academic writing focuses on presenting evidence-backed ideas and arguments. Academic writing requires precision, and clarity. Academic writing is not a thriller where you build suspense, nor is it a poem where language is open to interpretation. Your goal is to present your argument clearly, with key points up front. Both academic and creative writings have distinct purposes, so improve your skills in each. [Learn more about the differences between academic and creative writing](https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing).
 
@@ -120,89 +184,6 @@ The creative writing sentence uses a narrative style to describe the economic im
 ![image](https://github.com/user-attachments/assets/43b34cf4-e675-4449-97c7-a14d808d146c)
 
 [Image Credit](https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing).
-
-
-## 8. Citation and source integration
-
-### 1. Proper Citation
-
-Data and information from other sources are: 
-(1) all cited, 
-(2) mostly cited, 
-(3) poorly cited, 
-(4) not cited (plagiarized).
-
-Always cite the source when you incorporate research, words, ideas, data, or information that is not your own. Even when synthesizing or summarizing multiple pieces of information, you must cite any concept that is not originally yours. For more guidance, refer to [When to Cite](https://www.bu.edu/sph/students/student-services/student-resources/academic-support/communication-resources/when-to-cite/).
-
-### 8.2 Paraphrasing and quoting
-
-Paraphrasing involves rewording ideas while maintaining the original meaning.  
-
-**Example:**
-- **Original text:** "Climate change has led to an increase in the frequency and severity of extreme weather events, impacting global ecosystems and human communities."
-- **Paraphrased text:** "Climate change is driving more frequent and severe weather events, affecting ecosystems and human communities globally."
-
-[Direct Quotes vs. Paraphrasing](https://englishexplorations.check.uni-hamburg.de/academic-writing-direct-quotes-vs-paraphrasing/) provides details that are copied and pasted here:
-
-> As a general guideline in academic writing, it is important that direct quotes from other sources should only be used selectively. Even if the temptation might be high and your motivation to formulate the idea in your own words low—your essay should really be your own work. If you think it is too difficult to decide whether or not to use a direct quote, think about these aspects:
-> 
-> - First and foremost, direct quotes are used when the language matters, i.e. when quoting an original primary source such as a novel, an interview, or similar.
-> - If the quote uses a specific historical language that is striking for that period of time, you can quote directly.
-> - If you want to refer to specific concepts, ideas, or technical terms such as in philosophy or social sciences, it makes sense to quote the actual expression. Otherwise, you might need to write a lot more words to describe the same issue that could otherwise be described in two or three expressions. Such one- or two-word specialized terms are not even considered quotes if they have become part of the disciplinary discourse.
-> - Sometimes a well-expressed statement can lose its specific meaning, or the meaning might be changed if it is paraphrased or summarized.
-> 
-> Other than these aspects, bear in mind that you should not use a direct quote for the sake of using it. Your argumentation should make it clear why you integrate a certain quote in a certain position. Also, remember that a quote does not stand for itself. You should always introduce it smoothly into your text and also explain it.
-> 
-> Here are some tips for you in order to learn how to paraphrase:
-> 
-> - Make sure to read the passage that you want to paraphrase carefully in order to grasp its core idea.
-> - Try to rewrite the source in your own words by incorporating 2-3 key terms.
-> - Reread your version of the passage and make sure to change any expressions or phrases that you have copied from the original source.
-> - Try to think about synonyms to find different words which convey the same meaning.
-> - Change the syntax of the original quote and construct a different sentence structure in your passage.
-
-
-Other sources: [Online paraphrasing tools](https://quillbot.com/)
-
-### 3. Use of secondary sources
-
-Whenever possible, avoid relying on secondary sources. Instead, locate and cite the original sources directly to ensure accuracy and credibility in your work.
-
-**Example:**
-- José (2008) mentions, "Beaches also provide protection from storm surge and energetic waves during hurricanes and tropical storms (Fritz et al., 2007; Morton and Sallenger, 2003)." 
-
-Before citing, make sure to verify and read the original sources (Fritz et al., 2007; Morton and Sallenger, 2003). This reduces the risk of misrepresentation of the original data.
-
-
-### 4. Citation style adherence
-
-Cite sources correctly. For example, "and central nervous system birth defects (Borchardt et al., n.d, figure 1 in chapter 2)"
-  
-You need to improve citation by following these guidelines:
-- Use the author's surname and the publication date in your citations.
-- Do not include chapter titles or numbers in the citation.
-- Only cite figures that you actually include in your text.
-- Follow citation styles commonly used in peer-reviewed articles.
-
-
-Here’s an improved version of the section:
-
-### 4. Citation Style Adherence
-
-Proper citation style is crucial in academic writing. Ensure you cite sources correctly by following these guidelines:
-
-- Use the author's surname(s) and the publication date in your citations.
-- Do not include chapter titles or numbers in the citation.
-- Only cite figures that you actually include in your text.
-- Follow citation styles commonly used in peer-reviewed articles.
-
-**Example 1:**
-- **Less effective:** In the same chapter, Allen points out a case of a severely eroded swale, shown in Figure 1.6, a major change in topography caused by failed stormwater management techniques can cause damage to the stability of structures.
-- **More effective:** A severely eroded swale, a major change in topography caused by failed stormwater management techniques, can damage the stability of structures (Allen, 2020).
-
-**Example 2:**
-- **Less effective:** Karen Sem and associates researched the decay for brevetoxins traveling in the air. They state that brevetoxins' lifetime decay in the presence of 20 ppb of trioxygen was roughly 7 hours (Sem et al., 2022).
-- **More effective:** Sem et al. (2022) show that the lifetime decay of aerosolized brevetoxins is about 7 hours in the presence of 20 ppb of trioxygen.
 
 
 ## 10. Overall evaluation
