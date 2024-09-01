@@ -1,6 +1,7 @@
-## [Rubric](aselshall.github.io/rm/hw/rubric)
+## [Rubric](https://aselshall.github.io/rm/hw/rubric)
 
 ### 1. Integration of the course concepts (20%)
+
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
 | **Inclusion of necessary components** | (1) Proposal includes all required sections: cover page, project summary, introduction, method, outputs, timeline, outcomes, etc.; (2) Proposal includes most required sections but may be missing minor details; (3) Several key sections are missing or incomplete. |
@@ -13,6 +14,7 @@
 | **Use of citation management software** | (1) Citation management software (e.g., Zotero, EndNote) is effectively used to manage references and link citations; (2) Citation management software is used but with some inconsistencies or errors; (3) Citation management software is not used, or references are poorly managed. |
 
 ### 2. Introduction (20%)
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
 | **Background and Context** | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background with some gaps in detail or clarity; (3) Background is minimal or unclear, missing important contextual information. |
@@ -24,6 +26,7 @@
  a 3-point evaluation scale for easier assessment.
 
 ### 3. Method (20%)
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
 | **Reliability** | (1) Materials, chemicals, procedures, and models chosen are fully suitable and valid for answering research questions; (2) Most materials and procedures are suitable, with minor limitations; (3) Significant gaps in suitability and validity of chosen materials and methods. |
