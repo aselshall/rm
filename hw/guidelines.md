@@ -1,3 +1,5 @@
+# Guidelines
+
 ## 1. Integration of the course concepts
 Prepare GitHub pages based on class slides
 1. Proposal sections 
