@@ -136,4 +136,4 @@ This section is for information only and not for grading. It helps you understan
 | **Overall Quality** | (1) The proposal is exceptional, integrating intellectual merit and broader impacts into a cohesive and compelling document that is well-aligned with NSF priorities; (2) The proposal is strong overall but may have minor weaknesses in either intellectual merit or broader impacts; (3) The proposal is weak overall, with significant deficiencies in intellectual merit, broader impacts, or overall coherence. |
 
 ### Disclaimer
-The rubric is dynamic and may be updated as I grade your work. Any updates will be minor adjustments aimed at fine-tuning the criteria, always with your best interest in mind. These adjustments are not meant to introduce major changes but to enhance clarity and fairness in evaluation.
+The rubric is dynamic and may be updated as the instructor grades your work. Any updates will be minor adjustments aimed at fine-tuning the criteria, always with your best interest in mind. These adjustments are not meant to introduce major changes but to enhance clarity and fairness in evaluation.
