@@ -109,16 +109,17 @@
 
 ### 10. Overall coherence and persuasiveness (5%) 
 
-- **Exceptional**: The proposal is exceptionally coherent, with all sections working together seamlessly to present a strong, persuasive argument that effectively conveys the significance and potential of the research. | 95-100% |
-- **Very good**: The proposal is highly coherent and persuasive, with only minor issues that do not significantly detract from the strength of the argument or the clarity of the research's potential contributions. | 90-94% |
-- **Good**: The proposal is generally coherent and persuasive, though some issues slightly weaken the overall argument or clarity. | 85-89% |
-- **Adequate**: The proposal has notable coherence and persuasiveness issues, with several sections that do not integrate well, reducing the strength of the argument. | 75-84% |
-- **Needs improvement**: The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | Below 75% |
+| **Evaluation** | **Grade** |
+| --- | --- |
+| **Exceptional**: The proposal is exceptionally coherent, with all sections working together seamlessly to present a strong, persuasive argument that effectively conveys the significance and potential of the research. | 95-100% |
+| **Very Good**: The proposal is highly coherent and persuasive, with only minor issues that do not significantly detract from the strength of the argument or the clarity of the research's potential contributions. | 90-94% |
+| **Good**: The proposal is generally coherent and persuasive, though some issues slightly weaken the overall argument or clarity. | 80-89% |
+| **Fair**: The proposal has notable coherence and persuasiveness issues, with several sections that do not integrate well, reducing the strength of the argument. | 70-79% |
+| **Poor**: The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | Below 70% |
 
 
 ### Overall review according NSF criteria 
-
-This is for information only and not for grading
+This section is for information only and not for grading. It helps you understand how your proposal might be evaluated by the NSF. Review your funding agency's specific review criteria to ensure your proposal aligns with their standards.
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
