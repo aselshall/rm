@@ -28,7 +28,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 - **Section 10** provides an overall evaluation:
   - [10. Overall coherence and persuasiveness](#10-overall-coherence-and-persuasiveness-5)
 
-## Core elements of your proposal
+## Core elements of the proposal
 ### 1. Integration of the course concepts (20%)
 
 | **Criterion** | **Evaluation** |
