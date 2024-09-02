@@ -1,4 +1,4 @@
-# [Homework 2: Exploratory literature search and research question development](https://https://aselshall.github.io/rm/hw/hw2)
+# [Homework 2: Develop a research question](https://https://aselshall.github.io/rm/hw/hw2)
 
 ## Objective
 Develop a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This process will help you understand the current landscape of research, identify gaps in knowledge, and lay the foundation for your upcoming research proposal.
