@@ -3,9 +3,9 @@
 Submit your research proposal by following these guidelines: [Research Proposal Guidelines](https://aselshall.github.io/rm/hw/proposal).
 
 ### Important links
-- Research Proposal Guidelines: [Link](https://aselshall.github.io/rm/hw/proposal)
-- Proposal Rubric: [Link](https://aselshall.github.io/rm/hw/rubric)
-- Late Submission Policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
+- Research proposal guidelines: [Link](https://aselshall.github.io/rm/hw/proposal)
+- Proposal rubric: [Link](https://aselshall.github.io/rm/hw/rubric)
+- Late submission policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
   
 ### Assignment overview
 Your research proposal should demonstrate your ability to:
