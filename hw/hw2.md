@@ -6,7 +6,7 @@ Develop a clear and focused research question by conducting an exploratory liter
 ## Instructions
 
 **1. Review your chosen research topic**
-- Reflect on the research problem you identified in Homework 1
+- Reflect on the research problem you identified in [Homework 1](https://aselshall.github.io/rm/hw/hw1)
 - Consider the feedback you received and think about how you might refine and narrow your topic
 
 **2. Conduct an exploratory literature search**
