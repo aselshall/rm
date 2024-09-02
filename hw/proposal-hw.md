@@ -8,7 +8,7 @@ Submit your research proposal by following these guidelines: [Research Proposal 
 - Late submission policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
   
 ### Assignment overview
-With reference to the course learning objectives in the [syllabus](https://aselshall.github.io/rm), your research proposal should demonstrate your ability to:
+Given the [course learning objectives](https://aselshall.github.io/rm/#course-learning-objectives), your research proposal should demonstrate your ability to:
 
 - **Formulate a research plan:** Develop a detailed and feasible research plan that includes clear objectives, methodd, and timelines, reflecting your understanding of both academic and industry-oriented project requirements.
   
