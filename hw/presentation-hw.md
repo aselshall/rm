@@ -1,4 +1,4 @@
-### [Research proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)
+### [Research proposal: Presentation assignment](https://aselshall.github.io/rm/hw/presentation-hw)
 
 **Presentation Date:** TBD
 
