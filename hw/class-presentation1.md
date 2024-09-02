@@ -8,6 +8,7 @@ This presentation is a step toward your research proposal development.  Use this
  - You have **25 minutes** including discussion and transition time
  - Ensure your slides are clear, concise, and visually engaging
  - You will present on **17-Sep or 19-Sep**. Reserve your time slot by writing your name on [this spreadsheet](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come, first served
+ - This presentation is not graded, but your presentation and active participation in the discussions contribute to your participation grade
 
 ### Presentation content
 
