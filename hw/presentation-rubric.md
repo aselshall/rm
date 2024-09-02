@@ -1,4 +1,4 @@
-### [Presentation Rubric](https://aselshall.github.io/rm/hw/presentation-rubric)
+### [Presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric)
 
 **[1] Clarity (8 points)**  
 - **Needs Improvement (2 points):** The thesis is unclear, and ideas are disconnected, failing to support the central purpose.
