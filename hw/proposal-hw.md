@@ -1,10 +1,10 @@
 ### [Research proposal assignment](https://aselshall.github.io/rm/hw/proposal-hw)
 
-Submit your research proposal on Canvas by following these guidelines: [Research Proposal Guidelines](https://aselshall.github.io/rm/hw/proposal-outline).
+Submit your research proposal on Canvas by following this outline: [Research Proposal Outline](https://aselshall.github.io/rm/hw/proposal-outline).
 
 ### Important links
-- Research proposal guidelines: [Link](https://aselshall.github.io/rm/hw/proposal-outline)
-- Proposal rubric: [Link](https://aselshall.github.io/rm/hw/proposal-rubric)
+- Research proposal outline: [Link](https://aselshall.github.io/rm/hw/proposal-outline)
+- Research proposal rubric: [Link](https://aselshall.github.io/rm/hw/proposal-rubric)
 - Late submission policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
   
 ### Assignment overview
