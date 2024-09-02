@@ -5,9 +5,9 @@
 This presentation is a step toward your research proposal development.  Use this opportunity to refine your research problem through class feedback and discussion, ensuring you are on track for a clear, relevant, and feasible proposal.
 
 ### Presentation information
- - You have 25 minutes including discussion and transition time
+ - You have **25 minutes** including discussion and transition time
  - Ensure your slides are clear, concise, and visually engaging
- - You will present on 17-Sep or 19-Sep, so write your name to book your time slot from [here](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come first served! 
+ - You will present on **17-Sep or 19-Sep**. Reserve your time slot by writing your name on [this spreadsheet](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come, first served
 
 ### Presentation content
 
