@@ -40,18 +40,18 @@ By the end of this course, students will be able to:
 ## Course Schedule  
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on Canvas.
 
-| Week | Lesson # | Date       | Topics/In-class activities                   | Remarks                                   |
-|------|----------|------------|----------------------------------------------|-------------------------------------------|
-| 1    | 1        | 20-Aug     | 1. Introduction to Research Methods course      |                                           |
-| 1    | 2        | 22-Aug     | 2. Foundations of research: Research paradigms |                                           |
-| 2    | 3        | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
-| 2    | 4        | 29-Aug     | 2. Foundations of research: Research proposal |                                          |
-| 2    | 4        |            | 3. Literature review: Overview |                                          |
-| 3    | 5        | 3-Sep      | 3. Literature review: Library resources - Guest lecture| HW1 Select a Research Topic due |
-| 3    | 6        | 5-Sep      | 3. Literature review: Literature search                 |                                           |
-| 4    | 7        | 10-Sep     | 3. Literature review: Citation management        |                     |
-| 4    | 8        | 12-Sep     | 3. Literature review: Group exercise|                                           |
-| 5    | 9        | 17-Sep     | 3. Literature review: Writing your review |                                           |
+| Week | Lesson | Date       | Topics/In-class activities                   | Remarks                                   |
+|------|--------|------------|----------------------------------------------|-------------------------------------------|
+| 1    | 1      | 20-Aug     | 1. Introduction to Research Methods course      |                                           |
+| 1    | 2      | 22-Aug     | 2. Foundations of research: Research paradigms |                                           |
+| 2    | 3      | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
+| 2    | 4      | 29-Aug     | 2. Foundations of research: Research proposal |                                          |
+| 2    | 4      |            | 3. Literature review: Overview |                                          |
+| 3    | 5      | 3-Sep      | 3. Literature review: Library resources - Guest lecture| HW1 Select a Research Topic due |
+| 3    | 6      | 5-Sep      | 3. Literature review: Literature search                 |                                           |
+| 4    | 7      | 10-Sep     | 3. Literature review: Citation management        |                     |
+| 4    | 8      | 12-Sep     | 3. Literature review: Group exercise|                                           |
+| 5    | 9      | 17-Sep     | 3. Literature review: Writing your review |                                           |
 | 5    | 10       | 19-Sep     | **Class presentation 1: Research problem**   |                                         |
 | 6    | 11       | 24-Sep     | **Class presentation 1: Research problem** |  HW2 Develop your Research Question  due            |
 | 6    | 12       | 26-Sep     | 4. Methods: Laboratory methods ICP-MS*               |                                           |
