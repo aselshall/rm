@@ -2,6 +2,11 @@
 
 Submit your research proposal by following these guidelines: [Research Proposal Guidelines](https://aselshall.github.io/rm/hw/proposal).
 
+### Important Links
+- Research Proposal Guidelines: [Link](https://aselshall.github.io/rm/hw/proposal)
+- Proposal Rubric: [Link](https://aselshall.github.io/rm/hw/rubric)
+- Late Submission Policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
+  
 ### Assignment Overview
 Your research proposal should demonstrate your ability to:
 
@@ -18,8 +23,3 @@ Your research proposal should demonstrate your ability to:
 - **Critical Evaluation:** Critically evaluate your own proposal against the provided rubric and be prepared to provide constructive feedback to peers during their presentation.
 
 - **Data Management Plan:** Develop a data management plan adhering to the FAIR principles, ensuring that your research data is handled and shared appropriately.
-
-### Important Links
-- Research Proposal Guidelines: [Link](https://aselshall.github.io/rm/hw/proposal)
-- Proposal Rubric: [Link](https://aselshall.github.io/rm/hw/rubric)
-- Late Submission Policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
