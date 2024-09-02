@@ -40,41 +40,41 @@ By the end of this course, students will be able to:
 ## Course Schedule  
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on Canvas.
 
-| Week | Date       | Topics/In-class activities                   | Remarks                                   |
-|------|------------|----------------------------------------------|-------------------------------------------|
-| 1    | 20-Aug     | 1. Introduction to Research Methods course      |                                           |
-| 1    | 22-Aug     | 2. Foundations of research: Research paradigms |                                           |
-| 2    | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
-| 2    | 29-Aug     | 2. Foundations of research: Research proposal |                                          |
-|      |            | 3. Literature review: Overview |                                          |
-| 3    | 3-Sep      | 3. Literature review: Library resources - Guest lecture| HW1 Select a Research Topic due |
-| 3    | 5-Sep      | 3. Literature review: Literature search                 |                                           |
-| 4    | 10-Sep     | 3. Literature review: Citation management        |                     |
-| 4    | 12-Sep     | 3. Literature review: Group exercise|                                           |
-| 5    | 17-Sep     | 3. Literature review: Writing your review |                                           |
-| 5    | 19-Sep     | **Class presentation 1: Research problem**   |                                         |
-| 6    | 24-Sep     | **Class presentation 1: Research problem** |  HW2 Develop your Research Question  due            |
-| 6    | 26-Sep     | 4. Methods: Laboratory methods ICP-MS*               |                                           |
-| 7    | 1-Oct      | 4. Methods: Laboratory methods TOC, Nutrients*                  |                                           |
-| 7    | 3-Oct      | 4. Methods: Laboratory methods HPLC*          |                                           |
-| 8    | 8-Oct      | 4. Methods: Laboratory methods GC/MS*                    |                      |
-| 8    | 10-Oct     | **Class presentation 2: Introduction**                    |                                           |
-| 9    | 15-Oct     | **Class presentation 2: Introduction**            |  HW3 Write up the Introduction due                                          |
-| 9    | 17-Oct     | Study Day (no classes)                        |                                           |
-| 10   | 22-Oct     | 4. Methods: Method design                        |                                           |
-| 10   | 24-Oct     | 4. Methods: Data collection and analysis                 |                                           |
-| 11   | 29-Oct     | 5. Ethics in research and publishing  |                                           |
-| 11   | 31-Oct     | 6. Proposal: Title, abstract, graphical abstract, and expected results       |                                           |
-| 12   | 5-Nov      | Study Day (no classes)                        |                                           |
-| 12   | 7-Nov      | **Class presentation 3: Method**                  |                                           |
-| 13   | 12-Nov     | **Class presentation 3: Method**                  | HW4 Method Development due                            |
-| 13   | 14-Nov     | 7. Publication quality figures       |                                           |
-| 14   | 19-Nov     | 8. Presentation: Audience centric techniques                    |                                           |
-| 14   | 21-Nov     | 8. Presentation: Slide design     |                                           |
-| 15   | 26-Nov     | 9. FAIR data principles and data management plan                | Research Proposal due                              |
-| 15   | 28-Nov     | Thanksgiving Day - No class                   |                                           |
-| 16   | 3-Dec      | **Proposal presentation**                         |                                           |
-| 16   | 5-Dec      | **Proposal presentation**                         |                                           |
+| Week | Lesson # | Date       | Topics/In-class activities                   | Remarks                                   |
+|------|----------|------------|----------------------------------------------|-------------------------------------------|
+| 1    | 1        | 20-Aug     | 1. Introduction to Research Methods course      |                                           |
+| 1    | 2        | 22-Aug     | 2. Foundations of research: Research paradigms |                                           |
+| 2    | 3        | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
+| 2    | 4        | 29-Aug     | 2. Foundations of research: Research proposal |                                          |
+| 2    | 4        |            | 3. Literature review: Overview |                                          |
+| 3    | 5        | 3-Sep      | 3. Literature review: Library resources - Guest lecture| HW1 Select a Research Topic due |
+| 3    | 6        | 5-Sep      | 3. Literature review: Literature search                 |                                           |
+| 4    | 7        | 10-Sep     | 3. Literature review: Citation management        |                     |
+| 4    | 8        | 12-Sep     | 3. Literature review: Group exercise|                                           |
+| 5    | 9        | 17-Sep     | 3. Literature review: Writing your review |                                           |
+| 5    | 10       | 19-Sep     | **Class presentation 1: Research problem**   |                                         |
+| 6    | 11       | 24-Sep     | **Class presentation 1: Research problem** |  HW2 Develop your Research Question  due            |
+| 6    | 12       | 26-Sep     | 4. Methods: Laboratory methods ICP-MS*               |                                           |
+| 7    | 13       | 1-Oct      | 4. Methods: Laboratory methods TOC, Nutrients*                  |                                           |
+| 7    | 14       | 3-Oct      | 4. Methods: Laboratory methods HPLC*          |                                           |
+| 8    | 15       | 8-Oct      | 4. Methods: Laboratory methods GC/MS*                    |                      |
+| 8    | 16       | 10-Oct     | **Class presentation 2: Introduction**                    |                                           |
+| 9    | 17       | 15-Oct     | **Class presentation 2: Introduction**            |  HW3 Write up the Introduction due                                          |
+| 9    |          | 17-Oct     | Study Day (no classes)                        |                                           |
+| 10   | 18       | 22-Oct     | 4. Methods: Method design                        |                                           |
+| 10   | 19       | 24-Oct     | 4. Methods: Data collection and analysis                 |                                           |
+| 11   | 20       | 29-Oct     | 5. Ethics in research and publishing  |                                           |
+| 11   | 21       | 31-Oct     | 6. Proposal: Title, abstract, graphical abstract, and expected results       |                                           |
+| 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
+| 12   | 22       | 7-Nov      | **Class presentation 3: Method**                  |                                           |
+| 13   | 23       | 12-Nov     | **Class presentation 3: Method**                  | HW4 Method Development due                            |
+| 13   | 24       | 14-Nov     | 7. Publication quality figures       |                                           |
+| 14   | 25       | 19-Nov     | 8. Presentation: Audience centric techniques                    |                                           |
+| 14   | 26       | 21-Nov     | 8. Presentation: Slide design     |                                           |
+| 15   | 27       | 26-Nov     | 9. FAIR data principles and data management plan                | Research Proposal due                              |
+| 15   |          | 28-Nov     | Thanksgiving Day - No class                   |                                           |
+| 16   | 28       | 3-Dec      | **Proposal presentation**                         |                                           |
+| 16   | 29       | 5-Dec      | **Proposal presentation**                         |                                           |
 
 * Laboratory methods classes will be off-campus at the Emergent Technologies Institute (ETI):  
 Address: 16301 Innovation Ln, Fort Myers, FL 33913  
