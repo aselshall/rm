@@ -1,4 +1,4 @@
-# [Guidelines](https://aselshall.github.io/rm/hw/guidelines)
+# [Guidelines](https://aselshall.github.io/rm/hw/proposal-guidelines)
 
 ## 1. Integration of the course concepts
 Prepare GitHub pages based on class slides
