@@ -1,56 +1,65 @@
-## Homework 2: Conducting an exploratory literature search and scoping your research topic
+# Homework 2: Exploratory literature search and research question development
 
-### Objective
-This assignment aims to guide you through the process of refining your chosen research topic into a research question. By conducting an exploratory literature search, you will develop a clearer understanding of the research landscape, identify gaps in existing knowledge, and formulate your research question accordingly.
+## Objective
+Develop a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This process will help you understand the current landscape of research, identify gaps in knowledge, and lay the foundation for your upcoming research proposal.
 
-### Instructions
+## Instructions
 
-1. **Review Your Chosen Research Topic**:
-   - Reflect on the research problem you identified in Homework 1. Consider the feedback you received and think about how you might refine and narrow your topic.
+**1. Review your chosen research topic**
+- Reflect on the research problem you identified in Homework 1
+- Consider the feedback you received and think about how you might refine and narrow your topic
 
-2. **Conduct an Exploratory Literature Search**:
-   - Perform an initial literature search using academic databases (e.g., Web of Science, or Google Scholar) to gather information on your topic.
-   - Identify key studies, review papers, and current trends related to your research problem. 
-   - Take notes on how other researchers have approached similar problems and consider how your research might contribute to the field.
+**2. Conduct an exploratory literature search**
+- Use academic databases such as *Web of Science*, *Google Scholar*, or discipline-specific databases to search for literature related to your topic
+- Identify and read a variety of sources including journal articles, review articles, authoritative books, and other relevant sources
+- Take detailed notes on:
+  - Key findings and theories
+  - Current trends and developments
+  - Methods commonly used
+  - Identified gaps or controversies in the existing research
 
-3. **Formulate Your Research Question**:
-   - Based on your literature search, refine your research problem into a specific research question.
-   - Ensure your research question is clear, focused, and feasible given the resources, time, and data available to you.
-   - Consider the scope of your research: Is your question too broad, too narrow, or just right? Make adjustments as necessary.
+**3. Identify a research gap**
+- Analyze your findings to pinpoint areas that have not been extensively studied or questions that remain unanswered
+- Consider the significance of addressing this gap and how it could contribute to your field
 
-4. **Reflect on Feasibility and Scope**:
-   - Evaluate whether your research question is realistic given your current skills, resources, and the time available for your project.
-   - Plan a basic timeline or outline of how you would approach answering this research question. Consider what data you would need, how you would collect it, and what methodologies you might use.
-   - If you are unsure about the feasibility, seek guidance from your instructor or faculty advisor.
+**4. Formulate your research question**
+- Develop a clear, focused, and researchable question that addresses the identified gap
+- Ensure the question is specific and concise, avoiding overly broad or narrow scope
+- Reflect on the feasibility, considering factors such as available data, resources, and time constraints
 
-5. **Write a 1 to 2 Page Summary**:
-   - Write a concise 1-page summary that includes the following:
-     - A brief overview of the key findings from your exploratory literature search.
-     - Your refined research question.
-     - A reflection on why this research question is significant and how it fits within the current research landscape.
-     - A preliminary plan outlining how you might address this research question, including considerations of feasibility and scope.
+**5. Write a 1-2 page summary**
+- Introduction:
+  - Briefly introduce your chosen topic and its relevance
+- Literature review summary:
+  - Summarize the key themes, findings, and gaps identified from your literature search
+- Research gap and question:
+  - Clearly state the research gap you identified
+  - Present your formulated research question
+- Significance and feasibility:
+  - Discuss the importance of your research question and its potential impact
+  - Reflect on the feasibility and scope, including any anticipated challenges and how you might address them
+- Conclusion:
+  - Conclude with how this research question sets the stage for your future research work
 
-### Submission
-- Submit your homework as a PDF file on the Canvas page by the due date indicated on Canvas.
-- The late submission policy in the course syllabus applies. If you anticipate any difficulties meeting the deadline, please communicate with the instructor as early as possible.
+**6. Formatting guidelines**
+- Length: 1-2 pages single space, excluding references.
+- References: Include a reference list citing all sources consulted during your literature search, formatted according to American Geophysical Union (AGU) style 
 
-### Evaluation Criteria
-- **Depth of Research**: Did you conduct a thorough literature search that reveals a good understanding of the current research landscape?
-- **Research Question**: Is your research question clear and well-defined?
-- **Feasibility and Scope**: Have you thoughtfully considered the feasibility and scope of your research question?
-- **Clarity and Organization**: Is your summary well-written, logically organized, and free of errors?
+## Submission
+- Submit your PDF on Canvas by the due date
+- Follow the [late submission policy](https://aselshall.github.io/rm#late-assignment-and-report-policy) as outlined in the course syllabus
+- Contact the instructor early if you anticipate any issues with meeting the deadline
 
-### Next Step
-This assignment is designed to build on the foundation you established in [Homework 1](https://github.com/aselshall/rm/edit/main/hw/hw1.md), helping you progress from a broad topic to a specific, actionable research question. This assigment sets the stage for [Homework 3](https://github.com/aselshall/rm/edit/main/hw/hw3.md), where you will conduct an in-depth literature review to refine your research question and start drafting the introduction section of your research proposal.
 
 ### Rubric
 
-| **Criteria**              | **Exemplary (90-100%)**                  | **Proficient (80-89%)**                | **Adequate (70-79%)**                  | **Needs Improvement (60-69%)**         | **Incomplete (<60%)**                  | **Weight** |
-|---------------------------|------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|------------|
-| **Depth of Research**      | Thorough literature search, effectively identifies key studies, trends, and gaps, setting a strong foundation for the research question. | Good literature search, identifies most key studies and trends, with a foundation for the research question. | Basic literature search, identifies some key studies but lacks depth; initial foundation for the research question. | Incomplete literature search, missing key studies, trends, or gaps; weak foundation for the research question. | Minimal or no literature search conducted. | 30%       |
-| **Initial Research Question**      | Clear, well-defined, and focused research question that is appropriately scoped, with room for refinement in Homework 3. | Clear and well-defined research question but may need some refinement in scope or feasibility in Homework 3. | Research question is somewhat clear but may be too broad, narrow, or needs better definition; refinement needed in Homework 3. | Research question is unclear, poorly defined, or not feasible; significant refinement needed in Homework 3. | No clear research question provided. | 25%       |
-| **Feasibility and Scope**  | Thoughtful evaluation of feasibility and scope; realistic initial plan for addressing the research question, with the understanding that adjustments may be made in Homework 3. | Good evaluation of feasibility and scope; generally realistic plan for research, with possible adjustments in Homework 3. | Basic consideration of feasibility and scope; general plan for research with expected adjustments in Homework 3. | Inadequate consideration of feasibility and scope; vague or impractical plan needing significant revision in Homework 3. | No consideration of feasibility and scope; no research plan. | 20%       |
-| **Clarity and Organization** | Exceptionally clear, well-organized, and free of errors; concise and coherent summary that sets the stage for further refinement. | Clear and organized, with minor errors; generally coherent summary that prepares for further refinement. | Somewhat clear but may lack organization or have multiple errors; less coherent, requiring further refinement. | Lacks clarity, poor organization, multiple errors; difficult to follow, requiring significant refinement. | Unclear, disorganized, and riddled with errors; incoherent, needing complete revision. | 20%       |
-| **Reflection on Learning Process** | Insightful reflection on the learning process, showing how the exploratory literature search and initial question formulation contribute to ongoing research development. | Thoughtful reflection on the learning process, with a clear connection to ongoing research development. | Basic reflection on the learning process, with some connection to ongoing research development. | Minimal reflection on the learning process, with unclear connection to ongoing research development. | No reflection on the learning process. | 5%         |
-| **Total Weight**           |                                          |                                        |                                        |                                        |                                        | **100%**   |
+| **Criteria**                         | **Exemplary (90-100%)**                                                                                                                                     | **Proficient (80-89%)**                                                                                                                    | **Adequate (70-79%)**                                                                                                               | **Needs Improvement (60-69%)**                                                                                                    | **Incomplete (<60%)**                                                                       | **Weight** |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------|
+| **Depth of literature search**        | Conducts a comprehensive and thorough literature search, identifying a wide range of relevant and current sources. Demonstrates deep understanding of the topic's research landscape. | Conducts a solid literature search, identifying several relevant and current sources. Shows good understanding of the topic's research landscape. | Conducts a basic literature search, identifying some relevant sources but lacking in depth or breadth. Shows some understanding of the research landscape. | Literature search is superficial, with few relevant sources identified. Shows limited understanding of the research landscape. | Minimal or no literature search conducted; lacks understanding of the research landscape. | 30%      |
+| **Identification of research gap**    | Clearly and insightfully identifies a significant and original research gap, demonstrating critical analysis of the literature.                                             | Identifies a relevant research gap with adequate analysis of the literature.                                                                | Identifies a research gap, but it may be obvious or lack critical analysis.                                                          | Research gap identified is unclear, insignificant, or not well-supported by the literature review.                                | Fails to identify a relevant research gap.                                                  | 20%      |
+| **Formulation of research question**  | Develops a clear, focused, and well-articulated research question that is original and highly relevant to the identified gap.                                         | Develops a clear and focused research question that is relevant to the identified gap.                                                     | Research question is formulated but may lack clarity, focus, or direct relevance to the identified gap.                              | Research question is unclear, unfocused, or poorly formulated.                                                                   | No research question formulated.                                                            | 25%      |
+| **Significance and feasibility**      | Provides a compelling discussion of the research question's significance and thoroughly assesses feasibility and scope, considering all relevant factors and potential challenges. | Discusses the research question's significance and assesses feasibility and scope with consideration of most relevant factors.              | Provides some discussion of significance and feasibility but lacks depth or misses key considerations.                                | Discussion of significance and feasibility is superficial or lacks critical considerations.                                       | Does not discuss significance or feasibility.                                               | 15%      |
+| **Clarity and organization**          | Summary is exceptionally well-written, logically organized, and free of grammatical or formatting errors. Ideas flow smoothly and coherently.                                 | Summary is well-written and organized, with minor errors that do not impede understanding. Ideas are mostly coherent.                       | Summary has some organizational or writing issues and contains several errors, but overall understanding is maintained.              | Summary is poorly organized, with frequent errors that hinder understanding and coherence.                                        | Summary is unclear, disorganized, and contains numerous errors.                             | 10%      |
 
+## Next steps
+This assignment lays the groundwork for your upcoming [research proposal](https://https://aselshall.github.io/rm/hw/proposal-hw) by helping you establish a strong and focused research question. In [Homework 3](https://https://aselshall.github.io/rm/hw/hw3), you will conduct a more in-depth literature review to refine your research questions, develop objectives, and begin developing the introduction section of your proposal based on the foundation you have built here.
