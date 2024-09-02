@@ -1,8 +1,13 @@
-## Class presentation 1: - Research problem
+## [Class Presentation 1 - Research Problem](https://aselshall.github.io/rm/hw/class-presentation1)
 
 ### Objective:
 
 This presentation is a step toward your research proposal development.  Use this opportunity to refine your research problem through class feedback and discussion, ensuring you are on track for a clear, relevant, and feasible proposal.
+
+### Presentation information:**
+ - You have 25 minutes including discussion and transition time
+ - Ensure your slides are clear, concise, and visually engaging
+ - You will present on 17-Sep or 19-Sep, so write your name to book your time slot from [here](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come first served! 
 
 ### Presentation content
 
@@ -25,10 +30,6 @@ This presentation is a step toward your research proposal development.  Use this
 **Questions for feedback:**
  - Prepare 2-3 specific questions for your classmates and instructor that will help you refine your research problem
 
-### Presentation information:**
- - You have 25 minutes including discussion and transition time
- - Ensure your slides are clear, concise, and visually engaging
- - You will present on 17-Sep or 19-Sep, so write your name to book your time slot from [here](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come first served! 
 
 ### Evaluation:
  - Is the research problem clearly articulated and well-defined?
@@ -37,5 +38,5 @@ This presentation is a step toward your research proposal development.  Use this
  - Is the presentation clear, well-organized, and delivered effectively?
  - Are the questions for feedback well-formulated and conducive to helpful discussion?
 
-5. **Feedback:**
+### Feedback:
    - After your presentation, you will receive feedback from your peers and instructor to help refine your research problem.
