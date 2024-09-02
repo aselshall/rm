@@ -61,8 +61,8 @@ These topics and dates are tentative and subject to change based on class progre
 | 8    | 10-Oct     | **Class presentation 2: Introduction**                    |                                           |
 | 9    | 15-Oct     | **Class presentation 2: Introduction**            |  HW3 Write up the Introduction due                                          |
 | 9    | 17-Oct     | Study Day (no classes)                        |                                           |
-| 10   | 22-Oct     | 4. Method: Method design                        |                                           |
-| 10   | 24-Oct     | 4. Method: Data collection and analysis                 |                                           |
+| 10   | 22-Oct     | 4. Methods: Method design                        |                                           |
+| 10   | 24-Oct     | 4. Methods: Data collection and analysis                 |                                           |
 | 11   | 29-Oct     | 5. Ethics in research and publishing  |                                           |
 | 11   | 31-Oct     | 6. Proposal: Title, abstract, graphical abstract, and expected results       |                                           |
 | 12   | 5-Nov      | Study Day (no classes)                        |                                           |
