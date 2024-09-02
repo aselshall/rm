@@ -8,7 +8,7 @@
       - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert guidance, ethics and other factors discussed in class
    - Check [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
 
-2. **Conduct an Exploratory Literature Search** (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/blob/main/hw/hw2.md)**</span>)
+2. **Develop a Research Question** (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/blob/main/hw/hw2.md)**</span>)
    - Refine your topic and start developing a research question.
       - Keep your research problem realistic by considering available resources, data, your skills, and time constraints.
       - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
@@ -17,7 +17,7 @@
       - Ask for help if you're uncertain about any aspect of your research.
       - Enjoy the process of learning about your problem and developing your research plan.
 
-3. **Conduct an In-Depth Literature Review and Write the Introduction** (<span style="color:red">**[Homework 3](https://github.com/aselshall/rm/blob/main/hw/hw3.md)**</span>)
+3. **Write the Introduction** (<span style="color:red">**[Homework 3](https://github.com/aselshall/rm/blob/main/hw/hw3.md)**</span>)
    - Conduct an in-depth literature review which will form the basis of the proposal introduction:
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
