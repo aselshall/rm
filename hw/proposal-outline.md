@@ -120,7 +120,8 @@ The key sections of a research proposal typically include the following:
 **Note:** For your research proposal in this course, a Data Management Plan is required, other items listed above are optional and as applicable.
 
 ## Research proposal rubric
-[This rubric](https://aselshall.github.io/rm/hw/proposal-rubric) is your guide for developing a high-quality research proposal that meets professional standards.
+
+To develop a high-quality research proposal that meets professional standards check research proposal rubric: [Link](https://aselshall.github.io/rm/hw/proposal-rubric)
 
 ## Download sample proposal
 You can download and review the sample proposal provided as a reference: [Download Sample Proposal](proposal-sample1.pdf)  
