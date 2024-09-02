@@ -18,7 +18,7 @@ Given the [course learning objectives](https://aselshall.github.io/rm/#course-le
 
 - **Proposal Writing:** Write a detailed research proposal that clearly communicates your research objectives, methods, and expected outcomes. The proposal should be concise, well-structured, and aligned with the provided rubric: [Proposal Rubric](https://aselshall.github.io/rm/hw/rubric).
 
-- **Oral presentation:** Prepare a clear and persuasive presentation based on your research proposal. This will be assessed separately; see the presentation assignment for details.
+- **Oral presentation:** Prepare a clear and persuasive presentation based on your research proposal. This will be assessed separately; see the [presentation assignment](https://aselshall.github.io/rm/hw/presentation-hw) for details.
 
 - **Critical evaluation:** Critically evaluate your own proposal against the provided rubric and be prepared to provide constructive feedback to peers during their presentation.
 
