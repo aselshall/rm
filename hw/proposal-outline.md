@@ -118,7 +118,7 @@ The key sections of a research proposal typically include the following:
 **Note:** For your research proposal in this course, a Data Management Plan is required, other items listed above are optional and as applicable.
 
 ## Download sample proposal
-You can download and review the sample proposal provided as a reference: [Download Sample Proposal](proposal1.pdf)  
+You can download and review the sample proposal provided as a reference: [Download Sample Proposal](proposal-sample1.pdf)  
   
 This sample is useful for understanding how to structure of the Title Page, Project Summary, Introduction, Method, and Reference sections of your research proposal. For other sections, the proposal slightly deviates from the above outline as it follows the requirements of the funding agency, including a 5-page limit. For example, the timeline section is very brief. For your proposal, I expect a detailed timeline showing objectives and tasks for each objective and a clear contingency plan.
 
