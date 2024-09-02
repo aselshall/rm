@@ -16,7 +16,7 @@ Given the [course learning objectives](https://aselshall.github.io/rm/#course-le
 
 - **Methods:** If applicable, identify and explain the laboratory and field methods relevant to your research, discussing their applications and limitations. Alternatively, your proposal should include research-grade survey instruments that ensure data reliability and validity.
 
-- **Proposal Writing:** Write a detailed research proposal that clearly communicates your research objectives, methods, and expected outcomes. The proposal should be concise, well-structured, and aligned with the provided rubric: [Proposal Rubric](https://aselshall.github.io/rm/hw/rubric).
+- **Proposal Writing:** Write a detailed research proposal that clearly communicates your research objectives, methods, and expected outcomes. The proposal should be concise, well-structured, and aligned with the provided rubric: [Proposal Rubric](https://aselshall.github.io/rm/hw/proposal-rubric).
 
 - **Oral presentation:** Prepare a clear and persuasive presentation based on your research proposal. This will be assessed separately; see the [presentation assignment](https://aselshall.github.io/rm/hw/presentation-hw) for details.
 
