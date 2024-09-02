@@ -9,6 +9,8 @@ The key sections of a research proposal typically include the following:
 7. [References](#7-references): All cited references in the proposal, following AGU citation style
 8. [Appendices](#8-appendices-if-applicable): Data Management Plan, Survey Instruments, Detailed Methods, Budget, etc.
 
+[Check research proposal rubric](#Research-proposal-rubric)
+
 [Download sample proposal](#Download-sample-proposal)
 
 ## 1. Title page
@@ -116,6 +118,9 @@ The key sections of a research proposal typically include the following:
 - and any additional material that supports your proposal 
 
 **Note:** For your research proposal in this course, a Data Management Plan is required, other items listed above are optional and as applicable.
+
+## Research proposal rubric
+[This rubric](https://aselshall.github.io/rm/hw/proposal-rubric) is your guide for developing a high-quality research proposal that meets professional standards.
 
 ## Download sample proposal
 You can download and review the sample proposal provided as a reference: [Download Sample Proposal](proposal-sample1.pdf)  
