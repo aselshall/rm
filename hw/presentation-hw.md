@@ -14,7 +14,7 @@
 - Do not forget to upload your final presentation on Canvas for grading.
 
 **Evaluation:**
-- Your presentation will be graded separately. Please review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) for detailed criteria.
+- Please review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) for detailed criteria.
 
 **Tentative Agenda:**
 - **4:30 - 4:45 pm:** Snacks, presentation draw, and slides set up.
