@@ -1,4 +1,4 @@
-## [Case study: Erin Brockovich movie](https://aselshall.github.io/rm/hw/case1)
+## [Case study: Erin Brockovich movie](https://aselshall.github.io/rm/hw/case-study1)
 This is a bonus homework with up to 5% of the final homework grade, depending on the depth and quality of the analysis.
 
 ### Learning objectives 
