@@ -87,16 +87,12 @@ Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative
 ### Grading scale  
 The instructor may elect to employ a curve that favors the students.
 
-| Grade | Percentage   | Grade | Percentage   |
-|-------|--------------|-------|--------------|
-| A     | 93% or above | B-    | 80% to 82.99%|
-| A-    | 90% to 92.99%| C+    | 77% to 79.99%|
-| B+    | 87% to 89.99%| C     | 73% to 76.99%|
-| B     | 83% to 86.99%| C-    | 70% to 72.99%|
-|       |              | D+    | 67% to 69.99%|
-|       |              | D     | 63% to 66.99%|
-|       |              | D-    | 60% to 62.99%|
-|       |              | F     | Below 60%    |
+| Grade | Percentage   | Grade | Percentage   | Grade | Percentage   |
+|-------|--------------|-------|--------------|-------|--------------|
+| A     | 93% or above | B-    | 80% to 82.99%| D+    | 67% to 69.99%|
+| A-    | 90% to 92.99%| C+    | 77% to 79.99%| D     | 63% to 66.99%|
+| B+    | 87% to 89.99%| C     | 73% to 76.99%| D-    | 60% to 62.99%|
+| B     | 83% to 86.99%| C-    | 70% to 72.99%| F     | Below 60%    |
 
 ### Assessment plan (100%)  
 - Participation: 10%  
