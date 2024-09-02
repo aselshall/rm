@@ -1,6 +1,6 @@
 ### [Research proposal assignment](https://aselshall.github.io/rm/hw/proposal-hw)
 
-Submit your research proposal on Canvas by following this outline: [Research Proposal Outline](https://aselshall.github.io/rm/hw/proposal-outline).
+Submit your research proposal on Canvas by following this outline: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline).
 
 ### Important links
 - Research proposal outline: [Link](https://aselshall.github.io/rm/hw/proposal-outline)
