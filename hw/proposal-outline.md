@@ -129,6 +129,6 @@ You can download and review the sample proposal provided as a reference: [Downlo
 This sample is useful for understanding how to structure of the Title Page, Project Summary, Introduction, Method, and Reference sections of your research proposal. For other sections, the proposal slightly deviates from the above outline as it follows the requirements of the funding agency, including a 5-page limit. For example, the timeline section is very brief. For your proposal, I expect a detailed timeline showing objectives and tasks for each objective and a clear contingency plan.
 
 ## Bibliography
-- John W. Creswell  and J. David Creswell (2018), Research Design: Qualitative, Quantitative, and Mixed Methods Approaches 5th Edition
+John W. Creswell  and J. David Creswell (2018), Research Design: Qualitative, Quantitative, and Mixed Methods Approaches 5th Edition
 
 
