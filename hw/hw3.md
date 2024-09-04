@@ -23,7 +23,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
    - **Research question:** Present your refined research question, ensuring that it is clearly linked to the identified research gaps.
    - **Research objectives and tasks:** State the specific objectives your research seeks to achieve. Detail the tasks you will undertake to address these objectives.
 
-5. **Citation Style and Source Use**
+5. **Citation style and source use**
    - You are required to cite at least 10 scholarly sources. This ensures a comprehensive review and demonstrates engagement with the existing literature.
    - Ensure all sources are cited using the AGU citation style.
    - Include a bibliography at the end of your document formatted according to AGU guidelines.
