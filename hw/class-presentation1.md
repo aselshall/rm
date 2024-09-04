@@ -2,7 +2,7 @@
 
 ### Objective
 
-You will present your research problem and literature review to the class. Use this opportunity to refine your research problem through class feedback and discussion, ensuring you are on track for a clear, relevant, and feasible proposal.
+You will present your research problem and exploratory literature review to the class. Use this opportunity to refine your research problem through class feedback and discussion, ensuring you are on track for a clear, relevant, and feasible proposal.
 
 ### Presentation information
  - You have **25 minutes** including discussion and transition time
