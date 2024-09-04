@@ -1,4 +1,4 @@
-# [Homework 2: Develop a research question](https://https://aselshall.github.io/rm/hw/hw2)
+# [Homework 2: Develop a research question](https://aselshall.github.io/rm/hw/hw2)
 
 ## Objective
 This is to get you to start on developing a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This homework will help you understand the current landscape of research, identify gaps in knowledge, write your problem statement, start developing your research questions, and lay the foundation for your research proposal.
