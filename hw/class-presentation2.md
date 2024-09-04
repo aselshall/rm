@@ -1,8 +1,7 @@
 ## [Class Presentation 2 - Introduction](https://aselshall.github.io/rm/hw/class-presentation2)
 
 ### Objective
-
-Use this opportunity to present and refine your research proposal through class feedback and discussion. This is to ensure that your introduction effectively sets the stage for your research by clearly defining the context, significance, research question, and objectives of your study.
+You will present your in-depth literature review, research questions, and objectives to the class.  Use this opportunity to refine your research proposal through class feedback and discussion. This is to ensure that your introduction effectively sets the stage for your research by clearly defining the context, significance, research question, and objectives of your study.
 
 ### Presentation information
 - You have **25 minutes** including discussion and transition time.
