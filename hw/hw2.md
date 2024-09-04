@@ -1,7 +1,7 @@
 # [Homework 2: Develop a research question](https://https://aselshall.github.io/rm/hw/hw2)
 
 ## Objective
-Develop a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This process will help you understand the current landscape of research, identify gaps in knowledge, write your problem statement, develop your research questions, and lay the foundation for your upcoming research proposal.
+This is to get you to start on developing a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This homework will help you understand the current landscape of research, identify gaps in knowledge, write your problem statement, start developing your research questions, and lay the foundation for your research proposal.
 
 ## Instructions
 
@@ -27,7 +27,7 @@ Develop a clear and focused research question by conducting an exploratory liter
 - Ensure the question is specific and concise, avoiding overly broad or narrow scope
 - Reflect on the feasibility, considering factors such as available data, resources, and time constraints
 
-**5. Write a 1-2 page summary**
+**5. Write a 1-3 page summary**
 - Introduction:
   - Briefly introduce your chosen topic and its relevance
 - Literature review summary:
@@ -42,7 +42,7 @@ Develop a clear and focused research question by conducting an exploratory liter
   - Conclude with how this research question sets the stage for your future research work
 
 **6. Formatting guidelines**
-- Length: 1-2 pages single space, excluding references.
+- Length: 1-3 pages single space, excluding references.
 - References: Include a reference list citing all sources consulted during your literature search, formatted according to American Geophysical Union (AGU) style 
 
 ## Submission
