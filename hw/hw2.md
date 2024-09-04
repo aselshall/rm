@@ -27,7 +27,7 @@ To get started with developing a clear and focused research question by conducti
 - Ensure the question is specific and concise, avoiding overly broad or narrow scope
 - Reflect on the feasibility, considering factors such as available data, resources, and time constraints
 
-**5. Write a 1-3 page summary**
+**5. Write a 2-3 page summary**
 - Introduction:
   - Briefly introduce your chosen topic and its relevance
 - Literature review summary:
@@ -42,7 +42,7 @@ To get started with developing a clear and focused research question by conducti
   - Conclude with how this research question sets the stage for your future research work
 
 **6. Formatting guidelines**
-- Length: 1-3 pages single space, excluding references.
+- Length: 2-3 pages single space, excluding references.
 - References: Include a reference list citing all sources consulted during your literature search, formatted according to American Geophysical Union (AGU) style 
 
 ## Submission
