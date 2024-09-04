@@ -37,6 +37,6 @@ This assignment aims to guide you through the process of conducting an in-depth 
 Grading follows these sections of the final proposal rubrics:
 - [2. Introduction](https://aselshall.github.io/rm/hw/proposal-rubric#2-introduction)
 - [6. Cohesiveness of writing](https://aselshall.github.io/rm/hw/proposal-rubric#6-cohesiveness-of-writing)
-- [7-Depth, clarity and rigorousness of writing](https://aselshall.github.io/rm/hw/proposal-rubric#7-depth-clarity-and-rigorousness-of-writing)
-- [8-Citation and source integration](https://aselshall.github.io/rm/hw/proposal-rubric#8-citation-and-source-integration)
-- [9-Language clarity and precision](https://aselshall.github.io/rm/hw/proposal-rubric#9-language-clarity-and-precision)
+- [7. Depth, clarity and rigorousness of writing](https://aselshall.github.io/rm/hw/proposal-rubric#7-depth-clarity-and-rigorousness-of-writing)
+- [8. Citation and source integration](https://aselshall.github.io/rm/hw/proposal-rubric#8-citation-and-source-integration)
+- [9. Language clarity and precision](https://aselshall.github.io/rm/hw/proposal-rubric#9-language-clarity-and-precision)
