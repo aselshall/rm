@@ -13,7 +13,7 @@ Develop a clear and focused research question by conducting an exploratory liter
 - Use academic databases such as *Web of Science*, *Google Scholar*, or discipline-specific databases to search for literature related to your topic
 - Identify and read a variety of sources including journal articles, review articles, authoritative books, and other relevant sources
 - Take detailed notes on:
-  - Key findings and theories
+  - Key findings and concepts
   - Current trends and developments
   - Methods commonly used
   - Identified gaps or controversies in the existing research
