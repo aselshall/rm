@@ -6,7 +6,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
 ## Instructions
 
 1. **Review your research question:**
-   - Reflect on the research question you developed in Homework 2. Consider any feedback you received and refine your question as needed.
+   - Reflect on the research question you developed in [Homework 2](https://aselshall.github.io/rm/hw/hw2). Consider any feedback you received and refine your question as needed.
 
 2. **Conduct an in-depth literature review:**
    - Use academic databases (e.g., Web of Science, Google Scholar) to perform a thorough literature search on your chosen research topic.
