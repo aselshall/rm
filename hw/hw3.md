@@ -1,4 +1,4 @@
-# [Homework 3: Conducting an In-Depth Literature Review and Writing the Introduction](https://aselshall.github.io/rm/hw/hw3)
+# [Homework 3: Writing the introduction](https://aselshall.github.io/rm/hw/hw3)
 
 ## Objective
 This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your research project.
