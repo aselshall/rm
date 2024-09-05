@@ -44,4 +44,4 @@ In open-ended homework like this, a rubric is suggestive. The rubric mainly prov
 | **Clarity and Organization**     | Clear, well-organized, few errors    | Mostly clear, minor errors    | Somewhat clear, some errors    | Unclear, disorganized, errors  | Very unclear, many errors     | 10%       |
 
 ## Next steps
-This assignment lays the groundwork for your [research proposal](https://https://aselshall.github.io/rm/hw/proposal-hw) by helping you to choose a topic.  In [Homework 2](https://https://aselshall.github.io/rm/hw/hw2), you will conduct an exploratory literature review to identify gaps and develop your research questions.
+This assignment lays the groundwork for your [research proposal](https://aselshall.github.io/rm/hw/proposal-hw) by helping you to choose a topic.  In [Homework 2](https://aselshall.github.io/rm/hw/hw2), you will conduct an exploratory literature review to identify gaps and develop your research questions.
