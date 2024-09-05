@@ -42,10 +42,10 @@ These topics and dates are tentative and subject to change based on class progre
 
 | Week | Lesson | Date       | Topics/In-class activities                   | Remarks                                   |
 |------|--------|------------|----------------------------------------------|-------------------------------------------|
-| 1    | 1      | 20-Aug     | 1. Introduction to Research Methods course      | Reading HW1: [Big Picture](https://aselshall.github.io/rm/hw/big-picture) and [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) |
+| 1    | 1      | 20-Aug     | 1. Introduction to Research Methods course      | Reading HW1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) |
 | 1    | 2      | 22-Aug     | 2. Foundations of research: Research paradigms |                                           |
 | 2    | 3      | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
-| 2    | 4      | 29-Aug     | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview| Reading HW2: [Research Proposal Outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research Proposal Rubric](https://aselshall.github.io/rm/hw/proposal-rubric) |
+| 2    | 4      | 29-Aug     | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview| Reading HW2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric) |
 | 3    | 5      | 3-Sep      | 3. Literature review: Library resources - Guest lecture| HW1 Select a Research Topic due |
 | 3    | 6      | 5-Sep      | 3. Literature review: Literature search                 |                                           |
 | 4    | 7      | 10-Sep     | 3. Literature review: Citation management        |                     |
