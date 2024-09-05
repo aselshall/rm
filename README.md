@@ -49,7 +49,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 3    | 5      | 3-Sep      | 3. Literature review: Library resources - Guest lecture| [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1) due |
 | 3    | 6      | 5-Sep      | 3. Literature review: Literature search                 |                                           |
 | 4    | 7      | 10-Sep     | 3. Literature review: Citation management        |  Install [Zotero](https://www.zotero.org/download/) before class               |
-| 4    | 8      | 12-Sep     | 3. Literature review: Writing your review | Reading HW3:  [Editorial – Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717) |
+| 4    | 8      | 12-Sep     | 3. Literature review: Writing your review | Reading HW3:  [Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717) |
 | 5    | 9      | 17-Sep     | **Class presentation 1: Research problem** |   [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)                                        |
 | 5    | 10       | 19-Sep     | **Class presentation 1: Research problem**  | [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)                                         |
 | 6    | 11       | 24-Sep     | 4. Methods: Laboratory methods ICP-MS* |  [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due<br> Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)            |
