@@ -45,5 +45,7 @@ You will present your in-depth literature review, research questions, and object
 - Is the presentation clear, well-organized, and delivered effectively?
 - Are the questions for feedback well-formulated and conducive to helpful discussion?
 
+[Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation2%20rubric.docx) that we be used at class for evalluation.
+
 ### Feedback
 - After your presentation, you will receive feedback from your peers and instructor to help refine your Introduction and overall research focus.
