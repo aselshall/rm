@@ -17,9 +17,9 @@ In [Homework 3](https://aselshall.github.io/rm/hw/hw3) you identified what you w
    - **Study limitations:** Identify any potential limitations of your study, such as sample size, access to data, or potential biases. Discuss how you plan to mitigate these limitations or how they might affect the interpretation of your results.
 
 3. **Key points to consider**
-- Does the method section provide enough details to perform this research?
-- Was the method well-thought-out and organized effectively?
-- You can use the appendix to add extra method details such as survey questions, data collection protocols, etc. 
+   - Does the method section provide enough details to perform this research?
+   - Was the method well-thought-out and organized effectively?
+   - You can use the appendix to add extra method details such as survey questions, data collection protocols, etc. 
 
 4. **Reference requirements:**
    - Ensure that any references to methods, tools, or analytical techniques are cited appropriately using AGU style.
