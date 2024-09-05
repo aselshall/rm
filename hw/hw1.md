@@ -5,9 +5,9 @@ The first step in developing your [research proposal](https://aselshall.github.i
 
 ## Choose your topic
 - Select a research topic in civil and environmental engineering that interests you and can be completed within the scope of the project course or thesis as described in [the big picture](https://aselshall.github.io/rm/hw/big-picture).
-- Preferably choose a project that relates to your job or work.
 - For guidance, refer to [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) that also includes current faculty projects as potential research topics.
-
+- Preferably choose a project that relates to your job or work.
+  
 ## Get expert guidance
 - It is recommended to seek advice from an expert, such as an FGCU faculty member, a coworker with relevant expertise, or your course instructor, to discuss the feasibility and scope of your chosen topic.
 - If you decide to proceed without an advisor, mention this in your submission and explain how you will manage the research on your own.
