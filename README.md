@@ -52,10 +52,10 @@ These topics and dates are tentative and subject to change based on class progre
 | 4    | 8      | 12-Sep     | 3. Literature review: Writing your review | Reading HW3:  [Editorial – Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717) |
 | 5    | 9      | 17-Sep     | **Class presentation 1: Research problem** |                                           |
 | 5    | 10       | 19-Sep     | **Class presentation 1: Research problem**  |                                         |
-| 6    | 11       | 24-Sep     | 4. Methods: Laboratory methods ICP-MS* |  [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due<br> Class meeting off-campus at ETI            |
-| 6    | 12       | 26-Sep     | 4. Methods: Laboratory methods TOC, Nutrients*               | Class meeting off-campus at ETI                                          |
-| 7    | 13       | 1-Oct      | 4. Methods: Laboratory methods HPLC*                    | Class meeting off-campus at ETI                                           |
-| 7    | 14       | 3-Oct      | 4. Methods: Laboratory methods GC/MS*         | Class meeting off-campus at ETI                                           |
+| 6    | 11       | 24-Sep     | 4. Methods: Laboratory methods ICP-MS* |  [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due<br> Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)            |
+| 6    | 12       | 26-Sep     | 4. Methods: Laboratory methods TOC, Nutrients*               | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                         |
+| 7    | 13       | 1-Oct      | 4. Methods: Laboratory methods HPLC*                    | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                           |
+| 7    | 14       | 3-Oct      | 4. Methods: Laboratory methods GC/MS*         | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                           |
 | 8    | 15       | 8-Oct      | **Class presentation 2: Introduction**                   |                      |
 | 8    | 16       | 10-Oct     | **Class presentation 2: Introduction**                    |                                           |
 | 9    | 17       | 15-Oct     | 4. Methods: Method design             |  [HW3 Write the Introduction](https://aselshall.github.io/rm/hw/hw3) due                                          |
