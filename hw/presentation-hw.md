@@ -14,8 +14,7 @@
 - Do not forget to upload your final presentation on Canvas for grading.
 
 **Evaluation:**
-- Please review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) for detailed criteria.
-- [Download rubric](https://aselshall.github.io/rm/hw/Presentation%20rubric.docx) that we be used at class for evalluation.
+- Please review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) for detailed criteria, which can be also downloaded from this [Link](https://aselshall.github.io/rm/hw/Presentation%20rubric.docx).
 
 
 **Tentative Agenda:**
