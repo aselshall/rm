@@ -65,8 +65,8 @@ These topics and dates are tentative and subject to change based on class progre
 | 11   | 20       | 29-Oct     | 6. Proposal: Title, and abstract |                                           |
 | 11   | 21       | 31-Oct     | 6. Proposal: Graphical abstract, and expected results       |                                           |
 | 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
-| 12   | 22       | 7-Nov      | **Class presentation 3: Method**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                           |
-| 13   | 23       | 12-Nov     | **Class presentation 3: Method**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                            |
+| 12   | 22       | 7-Nov      | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                           |
+| 13   | 23       | 12-Nov     | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                            |
 | 13   | 24       | 14-Nov     | 7. Publication quality figures       |    [HW4 Method Development](https://aselshall.github.io/rm/hw/hw4) due    |
 | 14   | 25       | 19-Nov     | 8. Presentation: Audience centric techniques                    |                                           |
 | 14   | 26       | 21-Nov     | 8. Presentation: Slide design     |                                           |
