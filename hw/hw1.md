@@ -1,7 +1,7 @@
 # [Homework 1: Select a research topic](https://aselshall.github.io/rm/hw/hw1)
 
 ## Objective
-The first step in developing your [research proposal](https://aselshall.github.io/rm/hw/proposal-outline) is to select a feasible topic that interests you.
+The first step in developing your [research proposal](https://aselshall.github.io/rm/hw/proposal-hw) is to select a feasible topic that interests you.
 
 ## Instructions
 
