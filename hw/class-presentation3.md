@@ -47,5 +47,7 @@ This presentation is focused on developing and refining the Methods section of y
 - Is the presentation clear, well-organized, and delivered effectively?
 - Are the questions for feedback well-formulated and conducive to helpful discussion?
 
+[Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation3%20rubric.docx) that we be used at class for evalluation.
+
 ### Feedback
 - After your presentation, you will receive feedback from your peers and instructor to help refine your Methods section, ensuring it is robust, feasible, and well-suited to your research question.
