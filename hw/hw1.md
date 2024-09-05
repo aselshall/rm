@@ -1,5 +1,8 @@
 # [Homework 1: Select a research topic](https://aselshall.github.io/rm/hw/hw1)
 
+## Objective
+The first step in developing your [research proposal](https://aselshall.github.io/rm/hw/proposal-outline) is to select a feasible topic that interests, which is the objective of Homework 1.
+
 ## Choose your topic
 - Select a research topic in civil and environmental engineering that interests you and can be completed within the scope of the project course or thesis as described in [the big picture](https://aselshall.github.io/rm/hw/big-picture).
 - Preferably choose a project that relates to your job or work.
