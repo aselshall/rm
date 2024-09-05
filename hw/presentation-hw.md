@@ -15,6 +15,8 @@
 
 **Evaluation:**
 - Please review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) for detailed criteria.
+- [Download rubric](https://aselshall.github.io/rm/hw/presentation%20rubric.docx) that we be used at class for evalluation.
+
 
 **Tentative Agenda:**
 - **4:30 - 4:45 pm:** Snacks, presentation draw, and slides set up.
