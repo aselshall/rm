@@ -42,15 +42,14 @@ These topics and dates are tentative and subject to change based on class progre
 
 | Week | Lesson | Date       | Topics/In-class activities                   | Remarks                                   |
 |------|--------|------------|----------------------------------------------|-------------------------------------------|
-| 1    | 1      | 20-Aug     | 1. Introduction to Research Methods course      |                                           |
+| 1    | 1      | 20-Aug     | 1. Introduction to Research Methods course      | Reading HW1: [Big Picture](https://aselshall.github.io/rm/hw/big-picture) and [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) |
 | 1    | 2      | 22-Aug     | 2. Foundations of research: Research paradigms |                                           |
 | 2    | 3      | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
-| 2    | 4      | 29-Aug     | 2. Foundations of research: Research proposal |                                          |
-| 2    | 4      |            | 3. Literature review: Overview |                                          |
+| 2    | 4      | 29-Aug     | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview| Reading HW2: [Research Proposal Outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research Proposal Rubric](https://aselshall.github.io/rm/hw/proposal-rubric) |
 | 3    | 5      | 3-Sep      | 3. Literature review: Library resources - Guest lecture| HW1 Select a Research Topic due |
 | 3    | 6      | 5-Sep      | 3. Literature review: Literature search                 |                                           |
 | 4    | 7      | 10-Sep     | 3. Literature review: Citation management        |                     |
-| 4    | 8      | 12-Sep     | 3. Literature review: Writing your review |                                           |
+| 4    | 8      | 12-Sep     | 3. Literature review: Writing your review | Reading HW3:  [Editorial – Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717) |
 | 5    | 9      | 17-Sep     | **Class presentation 1: Research problem** |                                           |
 | 5    | 10       | 19-Sep     | **Class presentation 1: Research problem**  |                                         |
 | 6    | 11       | 24-Sep     | 4. Methods: Laboratory methods ICP-MS* |  HW2 Develop your Research Question  due            |
