@@ -1,13 +1,13 @@
 ### [Research proposal: Presentation assignment](https://aselshall.github.io/rm/hw/presentation-hw)
 
-**Presentation Date:** TBD
+**Presentation date:** TBD
 
-**Time Allotment:**  
+**Time allotment:**  
 - Total Time: 30 minutes per presentation.
 - Presentation: 25 minutes.
 - Q&A and Transition: 5 minutes.
 
-**Presentation Details:**
+**Presentation details:**
 - You will present your research proposal on the assigned date.
 - Be prepared to present at any time, as the presentation order will be determined by a random draw.
 - A peer-evaluation will be conducted during the presentations. Please complete your evaluations, which I will collect at the end of the class.
@@ -17,7 +17,7 @@
 - For detailed criteria, review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) , which can you can also download from this [Link](https://aselshall.github.io/rm/hw/Presentation%20rubric.docx).
 
 
-**Tentative Agenda:**
+**Tentative agenda:**
 - **4:30 - 4:45 pm:** Snacks, presentation draw, and slides set up.
 - **4:45 - 5:15 pm:** Presentation 1.
 - **5:15 - 5:45 pm:** Presentation 2.
