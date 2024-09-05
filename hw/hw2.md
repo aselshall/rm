@@ -1,7 +1,7 @@
 # [Homework 2: Develop a research question](https://aselshall.github.io/rm/hw/hw2)
 
 ## Objective
-To get started with developing a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This homework will help you understand the current landscape of your research problem, identify gaps in knowledge, and lay the foundation for your research proposal. This will also help you to prepare for your [first class presentation](https://aselshall.github.io/rm/hw/class-presentation1).
+To get started with developing a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This homework will help you understand the current landscape of your research problem, identify gaps in knowledge, and lay the foundation for your [research proposal](https://https://aselshall.github.io/rm/hw/proposal-hw). Also, this shall help you to prepare for your [first class presentation](https://aselshall.github.io/rm/hw/class-presentation1).
 
 ## Instructions
 
