@@ -1,7 +1,7 @@
 # [Homework 2: Develop a research question](https://aselshall.github.io/rm/hw/hw2)
 
 ## Objective
-To get started with developing a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This homework will help you understand the current landscape of your research problem, identify gaps in knowledge, and lay the foundation for your [research proposal](https://https://aselshall.github.io/rm/hw/proposal-hw). Also, this shall help you to prepare for your [first class presentation](https://aselshall.github.io/rm/hw/class-presentation1).
+To get started with developing a clear and focused research question by conducting an exploratory literature search on a topic of your interest. This homework will help you understand the current landscape of your research problem, identify gaps in knowledge, and lay the foundation for your [research proposal](https://aselshall.github.io/rm/hw/proposal-hw). Also, this shall help you to prepare for your [first class presentation](https://aselshall.github.io/rm/hw/class-presentation1).
 
 ## Instructions
 
@@ -61,4 +61,4 @@ To get started with developing a clear and focused research question by conducti
 | **Clarity & Organization**  | Clear, logical flow of ideas, no more than 1-2 minor errors (grammar, formatting). | Mostly clear and organized, with 3-5 minor errors. | Some organization issues, contains 6-8 errors that affect clarity. | Disorganized, more than 8 errors, difficult to follow. | Disorganized, many errors, hard to understand. | 10%       |
 
 ## Next steps
-This assignment lays the groundwork for your upcoming [research proposal](https://https://aselshall.github.io/rm/hw/proposal-hw) by helping you establish a strong and focused research question. In [Homework 3](https://https://aselshall.github.io/rm/hw/hw3), you will conduct a more in-depth literature review to refine your research questions, develop objectives, and begin developing the introduction section of your proposal based on the foundation you have built here.
+This assignment lays the groundwork for your upcoming [research proposal](https://aselshall.github.io/rm/hw/proposal-hw) by helping you establish a strong and focused research question. In [Homework 3](https://aselshall.github.io/rm/hw/hw3), you will conduct a more in-depth literature review to refine your research questions, develop objectives, and begin developing the introduction section of your proposal based on the foundation you have built here.
