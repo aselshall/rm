@@ -3,16 +3,18 @@
 ## Objective
 The first step in developing your [research proposal](https://aselshall.github.io/rm/hw/proposal-outline) is to select a feasible topic that interests you.
 
-## Choose your topic
+## Instructions
+
+### Choose your topic
 - Select a research topic in civil and environmental engineering that interests you and can be completed within the scope of the project course as described in [the big picture](https://aselshall.github.io/rm/hw/big-picture).
 - For guidance, refer to [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) that also includes current faculty projects as potential research topics.
 - Preferably choose a project that relates to your job or work.
   
-## Get expert guidance
+### Get expert guidance
 - It is recommended to seek advice from an expert, such as an FGCU faculty member, a coworker with relevant expertise, or your course instructor, to discuss the feasibility and scope of your chosen topic.
 - If you decide to proceed without an advisor, mention this in your submission and explain how you will manage the research on your own.
   
-## Consider key factors:
+### Consider key factors:
 Review the factors discussed in Lesson 3: Research Problem, such as:
 - Feasibility: Can the project be completed with the resources and time available?
 - Personal interest: Does the topic genuinely interest you and motivate you? Why does this problem interest you? How would your interest in this topic help sustain your work or advance your career? 
@@ -23,10 +25,10 @@ Review the factors discussed in Lesson 3: Research Problem, such as:
 
 Ensure that your topic aligns with these factors to maximize the potential success of your research.
 
-## Write your reflection
+### Write your reflection
 In 1-2 pages, describe your chosen research topic and explain how you considered the factors listed above.
 
-## Submit your work
+## Submission
 - Submit your PDF on Canvas by the due date.
 - Follow the [late submission policy](https://aselshall.github.io/rm#late-assignment-and-report-policy) as outlined in the course syllabus.
 - Contact the instructor early if you anticipate any issues with meeting the deadline.
@@ -40,3 +42,6 @@ In open-ended homework like this, a rubric is suggestive. The rubric mainly prov
 | **Expert Guidance**              | Thoughtfully Consider or plan for guidance |  Consider or plan for guidance      | Mention guidance or plan for guidance    | Little mention of guidance, or unclear plan   | No mention or plan            | 30%       |
 | **Key Factors**                  | Addresses key factors thoroughly     | Addresses most key factors    | Addresses some key factors     | Mentions few key factors       | Does not address key factors  | 30%       |
 | **Clarity and Organization**     | Clear, well-organized, few errors    | Mostly clear, minor errors    | Somewhat clear, some errors    | Unclear, disorganized, errors  | Very unclear, many errors     | 10%       |
+
+## Next steps
+This assignment lays the groundwork for your [research proposal](https://https://aselshall.github.io/rm/hw/proposal-hw) by helping you to choose a topic.  In [Homework 2](https://https://aselshall.github.io/rm/hw/hw2), you will conduct an exploratory literature review to identify gaps and develop your research questions.
