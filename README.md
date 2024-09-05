@@ -46,19 +46,19 @@ These topics and dates are tentative and subject to change based on class progre
 | 1    | 2      | 22-Aug     | 2. Foundations of research: Research paradigms |                                           |
 | 2    | 3      | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
 | 2    | 4      | 29-Aug     | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview| Reading HW2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric) |
-| 3    | 5      | 3-Sep      | 3. Literature review: Library resources - Guest lecture| HW1 Select a Research Topic due |
+| 3    | 5      | 3-Sep      | 3. Literature review: Library resources - Guest lecture| [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1) due |
 | 3    | 6      | 5-Sep      | 3. Literature review: Literature search                 |                                           |
 | 4    | 7      | 10-Sep     | 3. Literature review: Citation management        |  Install [Zotero](https://www.zotero.org/download/) before class               |
 | 4    | 8      | 12-Sep     | 3. Literature review: Writing your review | Reading HW3:  [Editorial – Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717) |
 | 5    | 9      | 17-Sep     | **Class presentation 1: Research problem** |                                           |
 | 5    | 10       | 19-Sep     | **Class presentation 1: Research problem**  |                                         |
-| 6    | 11       | 24-Sep     | 4. Methods: Laboratory methods ICP-MS* |  HW2 Develop your Research Question  due<br> Class meeting off-campus at ETI            |
+| 6    | 11       | 24-Sep     | 4. Methods: Laboratory methods ICP-MS* |  [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due<br> Class meeting off-campus at ETI            |
 | 6    | 12       | 26-Sep     | 4. Methods: Laboratory methods TOC, Nutrients*               | Class meeting off-campus at ETI                                          |
 | 7    | 13       | 1-Oct      | 4. Methods: Laboratory methods HPLC*                    | Class meeting off-campus at ETI                                           |
 | 7    | 14       | 3-Oct      | 4. Methods: Laboratory methods GC/MS*         | Class meeting off-campus at ETI                                           |
 | 8    | 15       | 8-Oct      | **Class presentation 2: Introduction**                   |                      |
 | 8    | 16       | 10-Oct     | **Class presentation 2: Introduction**                    |                                           |
-| 9    | 17       | 15-Oct     | 4. Methods: Method design             |  HW3 Write up the Introduction due                                          |
+| 9    | 17       | 15-Oct     | 4. Methods: Method design             |  [HW3 Write the Introduction](https://aselshall.github.io/rm/hw/hw3) due                                          |
 | 9    |          | 17-Oct     | Study Day (no classes)                        |                                           |
 | 10   | 18       | 22-Oct     | 4. Methods: Data collection and analysis                         |                                           |
 | 10   | 19       | 24-Oct     | 5. Ethics in research and publishing                |                                           |
