@@ -1,7 +1,7 @@
 # [Homework 3: Write the introduction](https://aselshall.github.io/rm/hw/hw3)
 
 ## Objective
-This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your research project.
+This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your [research proposal](https://aselshall.github.io/rm/hw/proposal-outline).
 
 ## Instructions
 
