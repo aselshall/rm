@@ -50,8 +50,7 @@ To get started with developing a clear and focused research question by conducti
 - Follow the [late submission policy](https://aselshall.github.io/rm#late-assignment-and-report-policy) as outlined in the course syllabus
 - Contact the instructor early if you anticipate any issues with meeting the deadline
 
-
-### Rubric
+## Rubric
 
 | **Criteria**               | **Exemplary (95-100%)**                       | **Proficient (90-94%)**                   | **Adequate (85-89%)**                     | **Needs Improvement (75-84%)**            | **Incomplete (<75%)**                     | **Weight** |
 |----------------------------|-----------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|------------|
