@@ -37,5 +37,5 @@ Grading follows these sections of the final proposal rubrics:
 - [8. Citation and source integration](https://aselshall.github.io/rm/hw/proposal-rubric#8-citation-and-source-integration)
 - [9. Language clarity and precision](https://aselshall.github.io/rm/hw/proposal-rubric#9-language-clarity-and-precision)
 
-## Next steps
+## Next step
 This assignment lays the groundwork for your upcoming [research proposal](https://aselshall.github.io/rm/hw/proposal-hw) by helping you to develop the methods. Your next step is to prepare your research proposal and presentation. 
