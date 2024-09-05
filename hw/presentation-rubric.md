@@ -1,9 +1,5 @@
 ### [Presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric)
 
-**Name of presenter:**  
-   
-**Name of reviewer:** 
-
 #### [1] **Clarity (5 points)**
 - **Above average (5 points):** The thesis is exceptionally clear, with well-focused ideas that are consistently supported by relevant details.  
 - **Sufficient (4.5 points):** The thesis is clear, with most ideas focused and supported by relevant details.  
@@ -38,18 +34,6 @@
 - **Average (4 points):** The presentation meets basic expectations but lacks polish or depth.  
 - **Needs improvement (3.5 points):** The presentation needs significant improvement in multiple areas.
 
----
 
 #### [6] **Qualitative evaluation**  
 Provide a brief qualitative evaluation of the presentation, focusing on strengths and areas for improvement:
-
-**Strengths:**  
-  
-
-**Areas for improvement:**  
-   
-
----
- 
-**Overall score: ( ______ /25)**  
-
