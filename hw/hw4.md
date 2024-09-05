@@ -31,11 +31,11 @@ In [Homework 3](https://aselshall.github.io/rm/hw/hw3) you identified what you w
 
 ## Rubric 
 Grading follows these sections of the final proposal rubrics:
-- [3. Methods](https://aselshall.github.io/rm/hw/proposal-rubric#3-methods)
-- [6. Cohesiveness of writing](https://aselshall.github.io/rm/hw/proposal-rubric#6-cohesiveness-of-writing)
-- [7. Depth, clarity and rigorousness of writing](https://aselshall.github.io/rm/hw/proposal-rubric#7-depth-clarity-and-rigorousness-of-writing)
-- [8. Citation and source integration](https://aselshall.github.io/rm/hw/proposal-rubric#8-citation-and-source-integration)
-- [9. Language clarity and precision](https://aselshall.github.io/rm/hw/proposal-rubric#9-language-clarity-and-precision)
+- [3. Methods (80%)](https://aselshall.github.io/rm/hw/proposal-rubric#3-methods)
+- [6. Cohesiveness of writing (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#6-cohesiveness-of-writing)
+- [7. Depth, clarity and rigorousness of writing (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#7-depth-clarity-and-rigorousness-of-writing)
+- [8. Citation and source integration (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#8-citation-and-source-integration)
+- [9. Language clarity and precision (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#9-language-clarity-and-precision)
 
 ## Next step
 This assignment lays the groundwork for your upcoming [research proposal](https://aselshall.github.io/rm/hw/proposal-hw) by helping you to develop the methods. Your next step is to prepare your research proposal and presentation. 
