@@ -56,18 +56,18 @@ These topics and dates are tentative and subject to change based on class progre
 | 6    | 12       | 26-Sep     | 4. Methods: Laboratory methods TOC, Nutrients*               | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                         |
 | 7    | 13       | 1-Oct      | 4. Methods: Laboratory methods HPLC*                    | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                           |
 | 7    | 14       | 3-Oct      | 4. Methods: Laboratory methods GC/MS*         | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                           |
-| 8    | 15       | 8-Oct      | **Class presentation 2: Introduction**                   | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation1)                      |
-| 8    | 16       | 10-Oct     | **Class presentation 2: Introduction**                    | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation1)                                          |
-| 9    | 17       | 15-Oct     | 4. Methods: Method design             |  [HW3 Write the Introduction](https://aselshall.github.io/rm/hw/hw3) due                                          |
+| 8    | 15       | 8-Oct      | **Class presentation 2: Introduction**                   | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                      |
+| 8    | 16       | 10-Oct     | **Class presentation 2: Introduction**                    | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                                          |
+| 9    | 17       | 15-Oct     | 4. Methods: Method design             |  [HW3 Write the Introduction](https://aselshall.github.io/rm/hw/hw3) due   |
 | 9    |          | 17-Oct     | Study Day (no classes)                        |                                           |
 | 10   | 18       | 22-Oct     | 4. Methods: Data collection and analysis                         |                                           |
 | 10   | 19       | 24-Oct     | 5. Ethics in research and publishing                |                                           |
 | 11   | 20       | 29-Oct     | 6. Proposal: Title, and abstract |                                           |
 | 11   | 21       | 31-Oct     | 6. Proposal: Graphical abstract, and expected results       |                                           |
 | 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
-| 12   | 22       | 7-Nov      | **Class presentation 3: Method**                  |                                           |
-| 13   | 23       | 12-Nov     | **Class presentation 3: Method**                  | [HW4 Method Development](https://aselshall.github.io/rm/hw/hw4) due                            |
-| 13   | 24       | 14-Nov     | 7. Publication quality figures       |                                           |
+| 12   | 22       | 7-Nov      | **Class presentation 3: Method**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                           |
+| 13   | 23       | 12-Nov     | **Class presentation 3: Method**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                            |
+| 13   | 24       | 14-Nov     | 7. Publication quality figures       |    [HW4 Method Development](https://aselshall.github.io/rm/hw/hw4) due    |
 | 14   | 25       | 19-Nov     | 8. Presentation: Audience centric techniques                    |                                           |
 | 14   | 26       | 21-Nov     | 8. Presentation: Slide design     |                                           |
 | 15   | 27       | 26-Nov     | 9. FAIR data principles and data management plan                | [Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                              |
