@@ -1,4 +1,4 @@
-## [Class Presentation 3 - Method](https://aselshall.github.io/rm/hw/class-presentation3)
+## [Class Presentation 3 - Methods](https://aselshall.github.io/rm/hw/class-presentation3)
 
 ### Objective
 
