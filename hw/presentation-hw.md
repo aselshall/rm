@@ -15,7 +15,7 @@
 
 **Evaluation:**
 - Please review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) for detailed criteria.
-- [Download rubric](https://aselshall.github.io/rm/hw/presentation%20rubric.docx) that we be used at class for evalluation.
+- [Download rubric](https://aselshall.github.io/rm/hw/Presentation%20rubric.docx) that we be used at class for evalluation.
 
 
 **Tentative Agenda:**
