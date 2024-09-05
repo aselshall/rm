@@ -34,12 +34,12 @@ This assignment aims to guide you through the process of conducting an in-depth 
 - Contact the instructor early if you anticipate any issues with meeting the deadline
 
 ## Rubric 
-Grading follows these sections of the final proposal rubrics:
-- [2. Introduction](https://aselshall.github.io/rm/hw/proposal-rubric#2-introduction)
-- [6. Cohesiveness of writing](https://aselshall.github.io/rm/hw/proposal-rubric#6-cohesiveness-of-writing)
-- [7. Depth, clarity and rigorousness of writing](https://aselshall.github.io/rm/hw/proposal-rubric#7-depth-clarity-and-rigorousness-of-writing)
-- [8. Citation and source integration](https://aselshall.github.io/rm/hw/proposal-rubric#8-citation-and-source-integration)
-- [9. Language clarity and precision](https://aselshall.github.io/rm/hw/proposal-rubric#9-language-clarity-and-precision)
+Grading follows these sections of the final proposal rubric:
+- [2. Introduction (80%)](https://aselshall.github.io/rm/hw/proposal-rubric#2-introduction)
+- [6. Cohesiveness of writing (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#6-cohesiveness-of-writing)
+- [7. Depth, clarity and rigorousness of writing (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#7-depth-clarity-and-rigorousness-of-writing)
+- [8. Citation and source integration (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#8-citation-and-source-integration)
+- [9. Language clarity and precision (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#9-language-clarity-and-precision)
 
 ## Next steps
 This assignment lays the groundwork for your upcoming [research proposal](https://aselshall.github.io/rm/hw/proposal-hw) by helping you establish a solid introduction to your research and clear objectives. In [Homework 4](https://aselshall.github.io/rm/hw/hw4), you will develop the methods to achieve these objectives.
