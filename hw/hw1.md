@@ -14,7 +14,7 @@ The first step in developing your [research proposal](https://aselshall.github.i
 - It is recommended to seek advice from an expert, such as an FGCU faculty member, a coworker with relevant expertise, or your course instructor, to discuss the feasibility and scope of your chosen topic.
 - If you decide to proceed without an advisor, mention this in your submission and explain how you will manage the research on your own.
   
-**3. Consider key factors:**
+**3. Consider key factors:**    
 Review the factors discussed in Lesson 3: Research Problem, such as:
 - Feasibility: Can the project be completed with the resources and time available?
 - Personal interest: Does the topic genuinely interest you and motivate you? Why does this problem interest you? How would your interest in this topic help sustain your work or advance your career? 
@@ -26,7 +26,7 @@ Review the factors discussed in Lesson 3: Research Problem, such as:
 Ensure that your topic aligns with these factors to maximize the potential success of your research.
 
 **4. Write your reflection:**
-In 1-2 pages, describe your chosen research topic and explain how you considered the factors listed above.
+- In 1-2 pages, describe your chosen research topic and explain how you considered the factors listed above.
 
 ## Submission
 - Submit your PDF on Canvas by the due date.
