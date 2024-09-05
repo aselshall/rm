@@ -30,7 +30,7 @@ In [Homework 3](https://aselshall.github.io/rm/hw/hw3) you identified what you w
 - Contact the instructor early if you anticipate any issues with meeting the deadline
 
 ## Rubric 
-Grading follows these sections of the final proposal rubrics:
+Grading follows these sections of the final proposal rubric:
 - [3. Methods (80%)](https://aselshall.github.io/rm/hw/proposal-rubric#3-methods)
 - [6. Cohesiveness of writing (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#6-cohesiveness-of-writing)
 - [7. Depth, clarity and rigorousness of writing (5%)](https://aselshall.github.io/rm/hw/proposal-rubric#7-depth-clarity-and-rigorousness-of-writing)
