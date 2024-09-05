@@ -1,7 +1,7 @@
 # [Homework 3: Write the introduction](https://aselshall.github.io/rm/hw/hw3)
 
 ## Objective
-This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your [research proposal](https://aselshall.github.io/rm/hw/proposal-outline).
+This assignment aims to guide you through the process of conducting an in-depth literature review and using your findings to develop a clear and well-justified research proposal introduction. By the end of this assignment, you will have a solid foundation for your [research proposal](https://aselshall.github.io/rm/hw/proposal-hw). Also, this shall help you to prepare for your [second class presentation](https://aselshall.github.io/rm/hw/class-presentation2).
 
 ## Instructions
 
@@ -40,3 +40,6 @@ Grading follows these sections of the final proposal rubrics:
 - [7. Depth, clarity and rigorousness of writing](https://aselshall.github.io/rm/hw/proposal-rubric#7-depth-clarity-and-rigorousness-of-writing)
 - [8. Citation and source integration](https://aselshall.github.io/rm/hw/proposal-rubric#8-citation-and-source-integration)
 - [9. Language clarity and precision](https://aselshall.github.io/rm/hw/proposal-rubric#9-language-clarity-and-precision)
+
+## Next steps
+This assignment lays the groundwork for your upcoming [research proposal](https://aselshall.github.io/rm/hw/proposal-hw) by helping you establish a solid introduction to your research and clear objectives. In [Homework 4](https://aselshall.github.io/rm/hw/hw4), you will develop the methods to achieve these objectives.
