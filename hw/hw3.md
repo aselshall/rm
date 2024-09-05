@@ -28,7 +28,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
    - Ensure all sources are cited using the AGU citation style.
    - Include a bibliography at the end of your document formatted according to AGU guidelines.
 
-### Submission
+## Submission
 - Submit your PDF on Canvas by the due date
 - Follow the [late submission policy](https://aselshall.github.io/rm#late-assignment-and-report-policy) as outlined in the course syllabus
 - Contact the instructor early if you anticipate any issues with meeting the deadline
