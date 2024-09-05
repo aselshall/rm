@@ -39,5 +39,7 @@ You will present your research problem and exploratory literature review to the 
  - Is the presentation clear, well-organized, and delivered effectively?
  - Are the questions for feedback well-formulated and conducive to helpful discussion?
 
+[Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation1%20rubric.docx) that we be used at class for evalluation.
+
 ### Feedback
    - After your presentation, you will receive feedback from your peers and instructor to help refine your research problem.
