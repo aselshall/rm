@@ -1,5 +1,8 @@
 # [The Big Picture](https://aselshall.github.io/rm/hw/big-picture)
 
+https://www.cnbc.com/2019/03/21/billionaire-warren-buffett-says-a-100-dollar-course-had-the-biggest-impact-on-his-success.html
+
+
 <h2 style="color:blue">Understand</h2>
 
 1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/blob/main/hw/hw1.md)**</span>)
