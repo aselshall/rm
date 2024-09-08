@@ -1,6 +1,6 @@
 # [The Big Picture](https://aselshall.github.io/rm/hw/big-picture)
 
-The objective of this course, followed by the project course (ENG 6941 Project), is to propose and execute a research project, while improving your communication skills in writing and presentation.
+The objective of this course, followed by the project course (ENG 6941 Project), is to propose and execute a research project, while improving your communication skills, both in writing and presentation.
 
 <h2 style="color:blue">Understand</h2>
 
