@@ -43,7 +43,7 @@ Let use select three papers from the list below and understand how the structure
    - Removal of organic contaminants in on-site wastewater treatment systems, [https://doi.org/10.1021/acsestwater.2c00458](https://doi.org/10.1021/acsestwater.2c00458)
 
 - **Field investigations** 
-   - Tracing the sources and fate of NO3− in the vadose zone−groundwater system of a thousand-year-cultivated region,[https://doi.org/10.1021/acs.est.1c06289](https://doi.org/10.1021/acs.est.1c06289)
+   - Tracing the sources and fate of NO3− in the vadose zone−groundwater system of a thousand-year-cultivated region, [https://doi.org/10.1021/acs.est.1c06289](https://doi.org/10.1021/acs.est.1c06289)
    - Tropical beaches attenuate groundwater nitrogen pollution flowing to the ocean, [https://doi.org/10.1021/acs.est.1c00759](https://doi.org/10.1021/acs.est.1c00759)
 
 - **Environmental data science**
