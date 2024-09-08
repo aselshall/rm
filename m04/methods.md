@@ -24,7 +24,7 @@ Learn how to develop an instructive, reliable, and reproducible research method.
 - **Data management**: Provide a plan for managing and storing research data.
 - **References**: Cite relevant studies and resources used.
 
-### Writing Tips
+### Writing tips
 - **Consult literature**: Review well-regarded examples in your field to understand the appropriate level of detail.
 - **Use appropriate tense and voice**: Use past tense for completed actions and future tense for planned actions. Apply passive voice to emphasize the process over the actor.
 - **Balance thoroughness with clarity**: Adjust the level of detail based on your audience and purpose (e.g., is the method well-established or newly developed and needing further explanation?).
