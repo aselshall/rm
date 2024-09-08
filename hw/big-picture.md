@@ -4,13 +4,13 @@ The objective of this course, followed by the project course (ENG 6941 Project),
 
 <h2 style="color:blue">Understand</h2>
 
-1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://aselshall.github.io/rm/hw/hw1)**</span>)
+1. **Select a research topic** (<span style="color:red">**[Homework 1](https://aselshall.github.io/rm/hw/hw1)**</span>)
    - Choose a feasible project that interests you, aligns with your goals, and preferably relates to your work
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert guidance, ethics and other factors discussed in class
    - Check [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
 
-2. **Develop a Research Question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
+2. **Develop a research question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
    - Conduct an exploratory literature review to refine your topic and start developing a research question
       - Keep your research problem realistic by considering available resources, data, your skills, and time constraints
       - Plan a timeline for implementing your research, whether it is for the next semester’s project course or your MS thesis project
@@ -19,7 +19,7 @@ The objective of this course, followed by the project course (ENG 6941 Project),
       - Ask for help if you are uncertain about any aspect of your research
       - Enjoy the process of learning about your problem and developing your research plan
 
-4. **Write the Introduction** (<span style="color:red">**[Homework 3](https://aselshall.github.io/rm/hw/hw3)**</span>)
+4. **Write the introduction** (<span style="color:red">**[Homework 3](https://aselshall.github.io/rm/hw/hw3)**</span>)
    - Conduct an in-depth literature review which will form the basis of the proposal introduction:
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
@@ -36,7 +36,7 @@ The objective of this course, followed by the project course (ENG 6941 Project),
 
 <h2 style="color:blue">Plan</h2>
 
-4. **Method Development** (<span style="color:red">**[Homework 4](https://aselshall.github.io/rm/hw/hw4)**</span>)
+4. **Method development** (<span style="color:red">**[Homework 4](https://aselshall.github.io/rm/hw/hw4)**</span>)
    - **How**: Develop your method with will include several components as follows:
       - Study duration
       - Site or experiment description
@@ -46,7 +46,7 @@ The objective of this course, followed by the project course (ENG 6941 Project),
       - Pilot results
       - Study limitations 
 
-6. **Proposal Development** (<span style="color:red">**[Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)**</span>)
+6. **Proposal development** (<span style="color:red">**[Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)**</span>)
    - You will integrate all these components to develop your research proposal:
       - Describe the “**why**, **what**, and **how**” of your research, including pilot results if available
       - Define deliverables and establish criteria for measuring success
@@ -59,15 +59,15 @@ The objective of this course, followed by the project course (ENG 6941 Project),
 
 <h2 style="color:blue">Execute</h2>
 
-6. **Project Implementation**:
+6. **Project implementation**:
    - Begin executing your research as detailed in your proposal
    - You may  <span style="color:red">start this semester if ready</span>, and continue in the Spring semester through the <span style="color:red">ENG 6941 Project course</span> or as part of your MS thesis research.
 
-8. **Analyze and Document Your Findings**:
+8. **Analyze and document your findings**:
    - Interpret your results, draw conclusions, and document your findings in ENG 6941 Project course or your MS thesis research
 
 <h2 style="color:blue">Publish</h2>
 
-8. **Disseminate Your Findings**:
+8. **Disseminate your findings**:
    - Present your findings to the class, at a research symposiums like [Eagle-X](https://www.fgcu.edu/eaglex/), or at a conferences like [AGU](https://www.agu.org/annual-meeting)
    - Share your work through peer-reviewed publications, preprients, blog posts, story maps, and other platforms
