@@ -30,25 +30,25 @@ In this lesson we will:
 ### Examples of method sections for different research theme
 Let use select three papers from the list below and understand how the structure of the method section would differ for different research themes.  
 
-**Methodological contribution**    
-- Multi-model simulation–optimization approaches for managing groundwater contaminant plumes, [https://doi.org/10.1016/j.jhydrol.2020.125427](https://doi.org/10.1016/j.jhydrol.2020.125427)
-- Constructive epistemic modeling for analysis of groundwater flow uncertainty, [https://doi.org/10.1016/j.jhydrol.2014.05.027](https://doi.org/10.1016/j.jhydrol.2014.05.027) 
+- **Methodological contribution**    
+   - Multi-model simulation–optimization approaches for managing groundwater contaminant plumes, [https://doi.org/10.1016/j.jhydrol.2020.125427](https://doi.org/10.1016/j.jhydrol.2020.125427)
+   - Constructive epistemic modeling for analysis of groundwater flow uncertainty, [https://doi.org/10.1016/j.jhydrol.2014.05.027](https://doi.org/10.1016/j.jhydrol.2014.05.027) 
 
-**Qualitative research** 
-- Politics of place and groundwater management practices in the Pajaro Valley, California, [https://doi.org/10.1080/08941920.2017.1413693](https://doi.org/10.1080/08941920.2017.1413693)
-- Sustainable yield in theory and practice: Bridging scientific and mainstream vernacular, [https://doi.org/10.1111/gwat.12160](https://doi.org/10.1111/gwat.12160) 
+- **Qualitative research** 
+   - Politics of place and groundwater management practices in the Pajaro Valley, California, [https://doi.org/10.1080/08941920.2017.1413693](https://doi.org/10.1080/08941920.2017.1413693)
+   - Sustainable yield in theory and practice: Bridging scientific and mainstream vernacular, [https://doi.org/10.1111/gwat.12160](https://doi.org/10.1111/gwat.12160) 
 
-**Laboratory experiments** 
-- Oxidative precipitation of Fe(II) in porous media: Laboratory experiment and numerical simulation, [https://doi.org/10.1021/acsestwater.2c00458](https://doi.org/10.1021/acsestwater.2c00458)
-- Removal of organic contaminants in on-site wastewater treatment systems, [https://doi.org/10.1021/acsestwater.2c00458](https://doi.org/10.1021/acsestwater.2c00458)
+- **Laboratory experiments** 
+   - Oxidative precipitation of Fe(II) in porous media: Laboratory experiment and numerical simulation, [https://doi.org/10.1021/acsestwater.2c00458](https://doi.org/10.1021/acsestwater.2c00458)
+   - Removal of organic contaminants in on-site wastewater treatment systems, [https://doi.org/10.1021/acsestwater.2c00458](https://doi.org/10.1021/acsestwater.2c00458)
 
-**Field investigations** 
-- Tracing the sources and fate of NO3− in the vadose zone−groundwater system of a thousand-year-cultivated region,[https://doi.org/10.1021/acs.est.1c06289](https://doi.org/10.1021/acs.est.1c06289)
-- Tropical beaches attenuate groundwater nitrogen pollution flowing to the ocean, [https://doi.org/10.1021/acs.est.1c00759](https://doi.org/10.1021/acs.est.1c00759)
+- **Field investigations** 
+   - Tracing the sources and fate of NO3− in the vadose zone−groundwater system of a thousand-year-cultivated region,[https://doi.org/10.1021/acs.est.1c06289](https://doi.org/10.1021/acs.est.1c06289)
+   - Tropical beaches attenuate groundwater nitrogen pollution flowing to the ocean, [https://doi.org/10.1021/acs.est.1c00759](https://doi.org/10.1021/acs.est.1c00759)
 
-**Environmental data science**
-- National assessment of long-term groundwater response to pesticide regulation, [https://doi.org/10.1021/acs.est.2c02261](https://doi.org/10.1021/acs.est.2c02261)
-- Near-term forecasting of water reservoir storage capacities using long short-term memory, [https://doi.org/10.1017/eds.2023.25](https://doi.org/10.1017/eds.2023.25)
+- **Environmental data science**
+   - National assessment of long-term groundwater response to pesticide regulation, [https://doi.org/10.1021/acs.est.2c02261](https://doi.org/10.1021/acs.est.2c02261)
+   - Near-term forecasting of water reservoir storage capacities using long short-term memory, [https://doi.org/10.1017/eds.2023.25](https://doi.org/10.1017/eds.2023.25)
 
 ### Writing tips
 - **Consult literature**: Review well-regarded examples in your field to understand the appropriate level of detail.
