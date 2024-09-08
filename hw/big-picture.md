@@ -13,7 +13,7 @@ The objective of this course, followed by the project course (ENG 6941 Project),
 2. **Develop a Research Question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
    - Refine your topic and start developing a research question.
       - Keep your research problem realistic by considering available resources, data, your skills, and time constraints.
-      - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
+      - Plan a timeline for implementing your research, whether it is for the next semester’s project course or your MS thesis project.
       - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end.
       - Seek guidance and discuss details with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Ask for help if you're uncertain about any aspect of your research.
