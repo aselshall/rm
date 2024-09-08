@@ -1,4 +1,4 @@
-# [Methods: Developing a robust research method](aselshall.github.io/rm/m04/methods)
+# [Methods: Developing a robust research method](https://aselshall.github.io/rm/m04/methods)
 
 ### Objective
 Learn how to develop an instructive, reliable, and reproducible research method.
