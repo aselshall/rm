@@ -11,27 +11,27 @@ The objective of this course, followed by the project course (ENG 6941 Project),
    - Check [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
 
 2. **Develop a Research Question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
-   - Refine your topic and start developing a research question.
-      - Keep your research problem realistic by considering available resources, data, your skills, and time constraints.
-      - Plan a timeline for implementing your research, whether it is for the next semester’s project course or your MS thesis project.
-      - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end.
+   - Refine your topic and start developing a research question
+      - Keep your research problem realistic by considering available resources, data, your skills, and time constraints
+      - Plan a timeline for implementing your research, whether it is for the next semester’s project course or your MS thesis project
+      - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end
       - Seek guidance and discuss details with an expert, such as an FGCU faculty member, coworker, or your course instructor
-      - Ask for help if you're uncertain about any aspect of your research.
-      - Enjoy the process of learning about your problem and developing your research plan.
+      - Ask for help if you are uncertain about any aspect of your research
+      - Enjoy the process of learning about your problem and developing your research plan
 
 4. **Write the Introduction** (<span style="color:red">**[Homework 3](https://aselshall.github.io/rm/hw/hw3)**</span>)
    - Conduct an in-depth literature review which will form the basis of the proposal introduction:
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
-     - Refine and sharpen your research question.
+     - Refine and sharpen your research question
      - Note: The literature review should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is necessary to fill gaps in knowledge or provide solutions. In other words, it should identify existing research, highlight gaps, and lead to a clearly defined problem statement: research question and objectives. The literature review will form the basis of your research proposal's introduction.
    - Write the Introduction:
-      - Introduce the topic, providing necessary background information to set the context for your research.
-      - Describe the research gap identified through your literature review.
-      - Outline the specific research question you aim to investigate.
-      - Explain the importance of this research and what it aims to contribute.
-      - State the research objectives that your study seeks to achieve.
-      - Detail the tasks you will undertake to address the research objectives.
+      - Introduce the topic, providing necessary background information to set the context for your research
+      - Describe the research gap identified through your literature review
+      - Outline the specific research question you aim to investigate
+      - Explain the importance of this research and what it aims to contribute
+      - State the research objectives that your study seeks to achieve
+      - Detail the tasks you will undertake to address the research objectives
 
 <h2 style="color:blue">Plan</h2>
 
@@ -47,14 +47,14 @@ The objective of this course, followed by the project course (ENG 6941 Project),
 
 6. **Proposal Development** (<span style="color:red">**[Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)**</span>)
    - You will integrate all these components to develop your research proposal:
-      - Describe the “**why**, **what**, and **how**” of your research, including pilot results if available.
-      - Define deliverables and establish criteria for measuring success.
-      - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question.
-      - Provide a timeline for the project, outlining key milestones and deadlines.
-      - Conduct a risk assessment, identifying potential challenges and how they will be mitigated.
+      - Describe the “**why**, **what**, and **how**” of your research, including pilot results if available
+      - Define deliverables and establish criteria for measuring success
+      - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question
+      - Provide a timeline for the project, outlining key milestones and deadlines
+      - Conduct a risk assessment, identifying potential challenges and how they will be mitigated
       - Cite your references using a citation management software 
-      - Include a budget estimate with justifications for the resources needed (if applicable).
-      - Develop a detailed data management plan.
+      - Include a budget estimate with justifications for the resources needed (if applicable)
+      - Develop a detailed data management plan
 
 <h2 style="color:blue">Execute</h2>
 
@@ -62,10 +62,10 @@ The objective of this course, followed by the project course (ENG 6941 Project),
    - Begin executing your research as detailed in your proposal. You may  <span style="color:red">start this semester if ready</span>, and continue in the Spring semester through the <span style="color:red">ENG 6941 Project course</span> or as part of your MS thesis research.
 
 8. **Analyze and Document Your Findings**:
-   - Interpret your results, draw conclusions, and document your findings in ENG 6941 Project course or your MS thesis research.
+   - Interpret your results, draw conclusions, and document your findings in ENG 6941 Project course or your MS thesis research
 
 <h2 style="color:blue">Publish</h2>
 
 8. **Disseminate Your Findings**:
-   - Present your findings to the class, at a research symposiums like [Eagle-X](https://www.fgcu.edu/eaglex/), or at a conferences like [AGU](https://www.agu.org/annual-meeting).
-   - Share your work through peer-reviewed publications, preprients, blog posts, story maps, and other platforms.
+   - Present your findings to the class, at a research symposiums like [Eagle-X](https://www.fgcu.edu/eaglex/), or at a conferences like [AGU](https://www.agu.org/annual-meeting)
+   - Share your work through peer-reviewed publications, preprients, blog posts, story maps, and other platforms
