@@ -39,9 +39,9 @@ Learn how to develop an instructive, reliable, and reproducible research method.
 - **Keep the method updated**: Draft your method before starting the experiment and refine it as the research progresses.
 
 ### In summary: Meticulousness pays off
->“Science, in the view of many of its eminent practitioners, is, after all, 99% perspiration and 1% inspiration, so precise work, and the ability to describe things accurately, is a necessary condition of credibility. Science may well comprise a lot of precise work and fewer grand ideas; you prove your mastery of the methods applied by being able to describe them with clarity, in sufficient detail.”  
+>“Science, in the view of many of its eminent practitioners, is, after all, 99% perspiration and 1% inspiration, so precise work, and the ability to describe things accurately, is a necessary condition of credibility. Science may well comprise a lot of precise work and fewer grand ideas; you prove your mastery of the methods applied by being able to describe them with clarity, in sufficient detail.”
 
-   — [Gábor L. Lövei (2021)](https://doi.org/10.11647/OBP.0235.10), Writing and Publishing Scientific Papers
+   [Gábor L. Lövei (2021)](https://doi.org/10.11647/OBP.0235.10), Writing and Publishing Scientific Papers
 
 ### Bibliography
 - Gábor L. Lövei (2021), Writing and Publishing Scientific Papers, [https://doi.org/10.11647/OBP.0235.10](https://doi.org/10.11647/OBP.0235.10)
