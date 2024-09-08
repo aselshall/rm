@@ -59,15 +59,15 @@ The objective of this course, followed by the project course (ENG 6941 Project),
 
 <h2 style="color:blue">Execute</h2>
 
-6. **Project implementation**:
+6. **Project implementation**
    - Begin executing your research as detailed in your proposal
    - You may  <span style="color:red">start this semester if ready</span>, and continue in the Spring semester through the <span style="color:red">ENG 6941 Project course</span> or as part of your MS thesis research.
 
-8. **Analyze and document your findings**:
+8. **Analyze and document your findings**
    - Interpret your results, draw conclusions, and document your findings in ENG 6941 Project course or your MS thesis research
 
 <h2 style="color:blue">Publish</h2>
 
-8. **Disseminate your findings**:
+8. **Disseminate your findings**
    - Present your findings to the class, at a research symposiums like [Eagle-X](https://www.fgcu.edu/eaglex/), or at a conferences like [AGU](https://www.agu.org/annual-meeting)
    - Share your work through peer-reviewed publications, preprients, blog posts, story maps, and other platforms
