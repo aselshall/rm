@@ -1,4 +1,4 @@
-# Homework 4: Method development
+# [Homework 4: Method development](https://aselshall.github.io/rm/hw/hw4)
 
 ## Objective
 In [Homework 3](https://aselshall.github.io/rm/hw/hw3) you identified what you want to do and why you want to do it. In this homework, you will describe how you plan to carry out your research. Here, you will detail how your research will be conducted and organized. You should clearly describe how the chemicals, procedures, surveys, instruments, or models you selected are suitable and valid to answer your research question and achieve research objectives. The method should be written in a way that allows researchers, including yourself, to follow it step-by-step, with all the necessary details to perform the research. Also, this shall help you to prepare for your [third class presentation](https://aselshall.github.io/rm/hw/class-presentation3).
