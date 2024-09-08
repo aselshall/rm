@@ -1,15 +1,16 @@
 # [The Big Picture](https://aselshall.github.io/rm/hw/big-picture)
 
-The objectives of this course, followed by the project course (ENG 6941 Project), is to propose and execute a research project, and to improve your communication skills in writing and presentation.
+The objective of this course, followed by the project course (ENG 6941 Project), is to propose and execute a research project, while improving your communication skills in writing and presentation.
 
 <h2 style="color:blue">Understand</h2>
-1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/blob/main/hw/hw1.md)**</span>)
+
+1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://aselshall.github.io/rm/hw/hw1)**</span>)
    - Choose a feasible project that interests you, aligns with your goals, and preferably relates to your work
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert guidance, ethics and other factors discussed in class
    - Check [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
 
-2. **Develop a Research Question** (<span style="color:red">**[Homework 2](https://github.com/aselshall/rm/blob/main/hw/hw2.md)**</span>)
+2. **Develop a Research Question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
    - Refine your topic and start developing a research question.
       - Keep your research problem realistic by considering available resources, data, your skills, and time constraints.
       - Plan a timeline for implementing your research, whether it’s for the next semester’s project course or your MS thesis project.
@@ -18,7 +19,7 @@ The objectives of this course, followed by the project course (ENG 6941 Project)
       - Ask for help if you're uncertain about any aspect of your research.
       - Enjoy the process of learning about your problem and developing your research plan.
 
-3. **Write the Introduction** (<span style="color:red">**[Homework 3](https://github.com/aselshall/rm/blob/main/hw/hw3.md)**</span>)
+4. **Write the Introduction** (<span style="color:red">**[Homework 3](https://aselshall.github.io/rm/hw/hw3)**</span>)
    - Conduct an in-depth literature review which will form the basis of the proposal introduction:
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
@@ -34,7 +35,7 @@ The objectives of this course, followed by the project course (ENG 6941 Project)
 
 <h2 style="color:blue">Plan</h2>
 
-4. **Method Development** (<span style="color:red">**[Homework 4](https://github.com/aselshall/rm/blob/main/hw/hw4.md)**</span>)
+4. **Method Development** (<span style="color:red">**[Homework 4](https://aselshall.github.io/rm/hw/hw4)**</span>)
    - **How**: Develop your method with will include several components as follows:
       - Study duration
       - Site or experiment description
@@ -44,7 +45,7 @@ The objectives of this course, followed by the project course (ENG 6941 Project)
       - Pilot results
       - Study limitations 
 
-6. **Proposal Development** (<span style="color:red">**[Research Proposal](https://github.com/aselshall/rm/blob/main/hw/proposal.md)**</span>)
+6. **Proposal Development** (<span style="color:red">**[Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)**</span>)
    - You will integrate all these components to develop your research proposal:
       - Describe the “**why**, **what**, and **how**” of your research, including pilot results if available.
       - Define deliverables and establish criteria for measuring success.
