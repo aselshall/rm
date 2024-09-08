@@ -60,7 +60,7 @@ The objective of this course, followed by the project course (ENG 6941 Project),
 <h2 style="color:blue">Execute</h2>
 
 6. **Project Implementation**:
-   - Begin executing your research as detailed in your proposal.
+   - Begin executing your research as detailed in your proposal
    - You may  <span style="color:red">start this semester if ready</span>, and continue in the Spring semester through the <span style="color:red">ENG 6941 Project course</span> or as part of your MS thesis research.
 
 8. **Analyze and Document Your Findings**:
