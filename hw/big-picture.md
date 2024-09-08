@@ -24,7 +24,6 @@ The objective of this course, followed by the project course (ENG 6941 Project),
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
      - Refine and sharpen your research question
-     - Note: The literature review should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is necessary to fill gaps in knowledge or provide solutions. In other words, it should identify existing research, highlight gaps, and lead to a clearly defined problem statement including research question and objectives. The literature review will form the basis of your research proposal's introduction.
    - Write the Introduction:
       - Introduce the topic, providing necessary background information to set the context for your research
       - Describe the research gap identified through your literature review
@@ -32,6 +31,8 @@ The objective of this course, followed by the project course (ENG 6941 Project),
       - Explain the importance of this research and what it aims to contribute
       - State the research objectives that your study seeks to achieve
       - Detail the tasks you will undertake to address the research objectives
+        
+   **Note:** Your introduction should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is needed to fill knowledge gaps or provide solutions. It should identify existing research, highlight gaps, and lead to a clear problem statement with research questions and objectives.
 
 <h2 style="color:blue">Plan</h2>
 
