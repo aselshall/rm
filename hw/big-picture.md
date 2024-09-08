@@ -8,7 +8,7 @@ The objective of this course, followed by the project course (ENG 6941 Project),
    - Choose a feasible project that interests you, aligns with your goals, and preferably relates to your work
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert guidance, ethics and other factors discussed in class
-   - Check [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
+   - Check [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
 
 2. **Develop a Research Question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
    - Refine your topic and start developing a research question.
