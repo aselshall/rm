@@ -31,7 +31,7 @@ Learn how to develop an instructive, reliable, and reproducible research method.
 - **Provide sufficient detail**: Ensure readers can replicate your method without trivial or redundant details. Reviewers expect transparency and reject poorly planned methods.
 - **Use abbreviations thoughtfully**: Be cautious with abbreviations; ensure they are necessary and clearly defined.
 - **Pay attention to units**:
-   - Use **precise** units: *The mass of the sample is 0.5 mg* (imprecise use of 'weight').
+   - Use **precise** units: *The weight of the sample is 0.5 mg* (imprecise use of 'weight').
    - Use **SI units**, with common alternatives in parentheses if needed: *Pumping rate of 500 m³/d (0.92 mgd)*.
    - Be **consistent** with units (e.g., mg/L vs. ppm).
 - **Handle missing data**: Be transparent about how you handled data gaps or errors during the experiment.
