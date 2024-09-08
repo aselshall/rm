@@ -1,6 +1,8 @@
 # [The Big Picture](https://aselshall.github.io/rm/hw/big-picture)
-<h2 style="color:blue">Understand</h2>
 
+The objectives of this course, followed by the project course (ENG 6941 Project), is to propose and execute a project, and to improve your communication skills in writing and presentation.
+
+<h2 style="color:blue">Understand</h2>
 1. **Select a Research Topic** (<span style="color:red">**[Homework 1](https://github.com/aselshall/rm/blob/main/hw/hw1.md)**</span>)
    - Choose a feasible project that interests you, aligns with your goals, and preferably relates to your work
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member, coworker, or your course instructor
