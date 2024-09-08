@@ -1,4 +1,7 @@
-# Exploring the Economic Impacts of Respiratory Illnesses Arising from Red Tides in Florida Gulf Coast Under Climate Change Scenarios
+# [Sample of a method section](https://aselshall.github.io/rm/m04/method-sample)
+
+## Proposal title
+Exploring the economic impacts of respiratory illnesses arising from red tides in Florida Gulf Coast under climate change scenarios
 
 ## Research Questions
 Leveraging this environmental data science approach, our research questions include:
