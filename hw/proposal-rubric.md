@@ -42,7 +42,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **7. Publication-quality figures** | (1) Proposal includes publication-quality figures with proper citation if not original; (2) Figures are present but may not be of publication quality or lack proper citation; (3) Figures are of low quality, lack citation, or are missing entirely. |
 | **8. Use of citation management software** | (1) Citation management software (e.g., Zotero, EndNote) is effectively used to manage references and link citations; (2) Citation management software is used but with some inconsistencies or errors; (3) Citation management software is not used, or references are poorly managed. |
 
-### 2. Introduction
+### [2. Introduction](https://aselshall.github.io/rm/hw/proposal-outline#3-introduction)
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
@@ -54,7 +54,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **6. Feasibility and realism** | (1) The research project is realistic, considering time, resources, and the student's skills; (2) The research project is mostly realistic but may have some limitations due to time, resources, or skills; (3) The research project is not realistic due to significant limitations. |
 
 
-### 3. Methods
+### [3. Methods](https://aselshall.github.io/rm/hw/proposal-outline#4-method)
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
@@ -65,7 +65,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **5. Reproducibility** | (1) Method is detailed enough for researchers to follow step-by-step and replicate the study; (2) Method is mostly clear, but some steps or details may be ambiguous or missing; (3) Method lacks sufficient detail for reproducibility. |
 | **6. Ethical considerations** | (1) Ethical considerations are thoroughly addressed, with clear strategies for minimizing risks and ensuring ethical research conduct; (2) Ethical considerations are addressed but may lack detail or completeness; (3) Ethical considerations are inadequately addressed or overlooked. |
 
-### 4. Expected Results
+### 4. [Expected Results](https://aselshall.github.io/rm/hw/proposal-outline#5-expected-results)
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
@@ -75,7 +75,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **4. Outcomes and impacts** | (1) Outcomes and broader impacts are clearly articulated, showing the potential benefits of the research to the field and community; (2) Outcomes and impacts are mentioned but may lack detail or strong justification; (3) Outcomes and impacts are vague, underdeveloped, or not clearly related to the research. |
 | **5. Feasibility of outcomes** | (1) The proposed outcomes are realistic and achievable within the project's scope and timeline; (2) The outcomes are generally realistic but may face some feasibility challenges; (3) The proposed outcomes are overly ambitious or not feasible given the project's constraints. |
 
-### 5. Timeline
+### [5. Timeline](https://aselshall.github.io/rm/hw/proposal-outline#6-timeline)
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
