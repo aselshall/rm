@@ -28,7 +28,7 @@ Where:
 - *W* is a vector of environmental and weather variables (pollen and air temperature)
 - *D* is a measure of regional respiratory disease outbreaks (influenza)
 - *T* is a measure of intra-annual population change (due to tourist visits)
-- *ε_t* is the residual error term.
+- *ε* is the residual error term.
 
 The Granger causality test will be used as a statistical hypothesis test to determine whether one time series is useful in forecasting another. Equation (1) will be solved using vector autoregression (VAR), which captures the relationship between multiple variables over time. We will use VAR(p) with automatic selection of lag *p*. All variables are endogenous variables, such that each variable is determined by its relationship with other variables. As such, we can estimate the contribution of each variable (i.e., red tide cell counts, pollen, and air temperature) to the total number of ED visits. 
 
