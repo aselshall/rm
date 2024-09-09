@@ -62,8 +62,8 @@ These topics and dates are tentative and subject to change based on class progre
 | 9    |          | 17-Oct     | Study Day (no classes)                        |                                           |
 | 10   | 18       | 22-Oct     | 4. Methods: Group exercise   |                                           |
 | 10   | 19       | 24-Oct     | 5. Ethics in research and publishing                |                                           |
-| 11   | 20       | 29-Oct     | 6. Proposal: Title, abstract, and graphical abstract |                                           |
-| 11   | 21       | 31-Oct     | 6. Proposal: Expected results       | [Reading HW4: So What?](https://aselshall.github.io/rm/hw/so-what)                                          |
+| 11   | 20       | 29-Oct     | 6. Proposal: Expected results |                                           |
+| 11   | 21       | 31-Oct     | 6. Proposal:  Title, abstract, and graphical abstract | [Reading HW4: So What?](https://aselshall.github.io/rm/hw/so-what)  |
 | 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
 | 12   | 22       | 7-Nov      | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                           |
 | 13   | 23       | 12-Nov     | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                            |
