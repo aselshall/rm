@@ -56,5 +56,16 @@ We have access to all the data needed for the project as follows.
 - **Influenza data**: Weekly influenza virus outbreak data for the South Atlantic Region, spanning from 2005 to 2015, were sourced from the U.S. Centers for Disease Control and Prevention (CDC). The data is a measure of the percentage of specimens testing positive for influenza within a particular week, and the data is available for the epidemic period of October through May based on the assumption that the minimal outbreaks periods have little or no influenza cases(Hoagland et al., 2009).  
 - **Tourism data**: Monthly hotel occupancy rates and lodging unit counts for Sarasota County (2005-2015) were obtained from the Sarasota Convention and Visitors Bureau.Assuming two residents per unit, we obtained a monthly estimate of the temporary resident population by summing the number of occupants in all units. We have access to all the data needed for the project.
 
-## References
+## References 
+- Elshall, A. S. (2021). Codes for the manuscript of prescreening-based subset selection for improving predictions of Earth system models for regional environmental management of red tide. Zenodo. https://doi.org/10.5281/zenodo.5534931
+- FWC-FWRI. (2022a). HAB Monitoring Database. Retrieved November 15, 2022, from https://myfwc.com/research/redtide/monitoring/database/
+- FWC-FWRI. (2022b). Red Tide Current Status. Retrieved November 15, 2022, from https://myfwc.com/research/redtide/statewide/
+- HABSOS. (2022). National Centers for Environmental Information (NCEI Accession 0120767). NOAA National Centers for Environmental Information. Dataset. https://www.ncei.noaa.gov/archive/accession/0120767. Retrieved November 15, 2022, from
+- Hoagland, P., Jin, D., Polansky, L. Y., Kirkpatrick, B., Kirkpatrick, G., Fleming, L. E., et al. (2009). The Costs of Respiratory Illnesses Arising from Florida Gulf Coast Karenia brevis Blooms. Environmental Health Perspectives, 117(8), 1239–1243. https://doi.org/10.1289/ehp.0900645
+- Liu, Q., Tan, Z.-M., Sun, J., Hou, Y., Fu, C., & Wu, Z. (2020). Changing rapid weather variability increases influenza epidemic risk in a warming climate. Environmental Research Letters, 15(4), 044004. https://doi.org/10.1088/1748-9326/ab70bc
+- Maze, G., Olascoaga, M. J., & Brand, L. (2015). Historical analysis of environmental conditions during Florida Red Tide. Harmful Algae, 50, 1–7. https://doi.org/10.1016/j.hal.2015.10.003
+- Mote Marine Laboratory. (2022). Database Query for Newpass Weather Data. Retrieved November 15, 2022, from http://isurus.mote.org/newpass/newpass_get_weather.phtml
+- Thrasher, B., Wang, W., Michaelis, A., Melton, F., Lee, T., & Nemani, R. (2022). NASA Global Daily Downscaled Projections, CMIP6. Scientific Data, 9(1), 262. https://doi.org/10.1038/s41597-022-01393-4
+- Zhang, Y., & Steiner, A. L. (2022). Projected climate-driven changes in pollen emission season length and magnitude over the continental United States. Nature Communications, 13(1), 1234. https://doi.org/10.1038/s41467-022-28764-0
+
 
