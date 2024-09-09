@@ -32,7 +32,7 @@ Where:
 
 The Granger causality test will be used as a statistical hypothesis test to determine whether one time series is useful in forecasting another. Equation (1) will be solved using vector autoregression (VAR), which captures the relationship between multiple variables over time. We will use VAR(p) with automatic selection of lag *p*. All variables are endogenous variables, such that each variable is determined by its relationship with other variables. As such, we can estimate the contribution of each variable (i.e., red tide cell counts, pollen, and air temperature) to the total number of ED visits. 
 
-We will conduct this analysis from 2005 to 2014 using historic data for all variables. Using a sample of one-year data and the Python module statsmodels for statistical modeling, we developed and tested the VAR(p) model in Eq.1 [https://bit.ly/HABs-Health](https://bit.ly/HABs-Health). Historic data will be used to parameterize the statistical exposure-response model to be used for future projections. Figure 1 illustrates the data inputs and outputs for both historic and scenario analyses.
+We will conduct this analysis from 2005 to 2014 using historic data for all variables. Using a sample of one-year data and the Python module statsmodels for statistical modeling, we developed and tested the VAR(p) model in Eq.1 [(https://bit.ly/HABs-Health)](https://bit.ly/HABs-Health). Historic data will be used to parameterize the statistical exposure-response model to be used for future projections. Figure 1 illustrates the data inputs and outputs for both historic and scenario analyses.
 
 ![image](https://github.com/user-attachments/assets/d5f78345-1513-45f8-9c88-551687a4f6f8)
 
