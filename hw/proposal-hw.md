@@ -15,7 +15,7 @@ Research methods are not just for academic purposes, but they are useful skills 
 - Staying updated with industry trends: Gain the ability to access new technologies, materials, and methods through research findings
 - Data analysis and interpretation: Improve ability to collect and make sense of data
 - Project management: Develop project management skills such as setting objectives, creating timelines, and managing methods
-- Communication skills: Improve your ability to write proposals, reports, and present technical information clearly
+- Communication skills: Improve ability to write proposals, reports, and present technical information clearly
 
 ### Assignment overview
 Given the [course learning objectives](https://aselshall.github.io/rm/#course-learning-objectives), your research proposal should demonstrate your ability to:
