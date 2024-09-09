@@ -7,7 +7,16 @@ Submit your research proposal on Canvas by following this outline: [Research pro
 - Research proposal rubric: [Link](https://aselshall.github.io/rm/hw/proposal-rubric)
 - Research proposal sample: [Link](https://aselshall.github.io/rm/hw/proposal-sample1.pdf)
 - Late submission policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
-  
+
+### Learning objectives
+Research methods are not just for academic purposes, but they are useful skills for your future as an engineer. Even if you are not particularly interested in research, by completing this proposal assignment, you will develop transferable skills for your engineering career.
+- Critical thinking: Cultivate a mindset of inquiry and evaluation, which helps you come up with new ideas in engineering
+- Problem-solving: Learn structured approaches to identify, analyze, and solve problems, a key skill in any engineering job
+- Staying updated with industry trends: Gain the ability to access new technologies, materials, and methods through research findings
+- Data analysis and interpretation: Improve ability to collect and make sense of data
+- Project management: Develop project management skills such as setting objectives, creating timelines, and managing methods
+- Communication skills: Improve your ability to write proposals, reports, and present technical information clearly
+
 ### Assignment overview
 Given the [course learning objectives](https://aselshall.github.io/rm/#course-learning-objectives), your research proposal should demonstrate your ability to:
 
@@ -15,9 +24,9 @@ Given the [course learning objectives](https://aselshall.github.io/rm/#course-le
   
 - **Conduct a literature review:** Perform a comprehensive literature review using advanced citation management tools to organize your sources effectively. Your review should be thorough and demonstrate your ability to synthesize information from various sources.
 
-- **Methods:** If applicable, identify and explain the laboratory and field methods relevant to your research, discussing their applications and limitations. Alternatively, your proposal should include research-grade survey instruments that ensure data reliability and validity.
+- **Methods:** Identify and explain the laboratory, field, or other methods relevant to your research, discussing their applications and limitations. 
 
-- **Proposal Writing:** Write a detailed research proposal that clearly communicates your research objectives, methods, and expected outcomes. The proposal should be concise, well-structured, and aligned with the provided rubric: [Proposal Rubric](https://aselshall.github.io/rm/hw/proposal-rubric).
+- **Proposal writing:** Write a detailed research proposal that clearly communicates your research objectives, methods, and expected outcomes. The proposal should be concise, well-structured, and aligned with the provided rubric: [Proposal Rubric](https://aselshall.github.io/rm/hw/proposal-rubric).
 
 - **Oral presentation:** Prepare a clear and persuasive presentation based on your research proposal. This will be assessed separately; see the [presentation assignment](https://aselshall.github.io/rm/hw/presentation-hw) for details.
 
