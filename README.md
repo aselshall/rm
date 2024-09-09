@@ -72,8 +72,8 @@ These topics and dates are tentative and subject to change based on class progre
 | 14   | 26       | 21-Nov     | 9. Presentation: Audience centric techniques |                                           |
 | 15   | 27       | 26-Nov     | 9. Presentation: Slide design | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                              |
 | 15   |          | 28-Nov     | Thanksgiving Day - No class                   |                                           |
-| 16   | 28       | 3-Dec      | **Proposal presentation**                         | [Propposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)       |
-| 16   | 29       | 5-Dec      | **Proposal presentation**                         | [Propposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)         |
+| 16   | 28       | 3-Dec      | **Proposal presentation**                         | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)       |
+| 16   | 29       | 5-Dec      | **Proposal presentation**                         | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)         |
 
 * Laboratory methods classes will be off-campus at the Emergent Technologies Institute (ETI):  
 Address: 16301 Innovation Ln, Fort Myers, FL 33913  
