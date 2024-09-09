@@ -58,9 +58,9 @@ These topics and dates are tentative and subject to change based on class progre
 | 7    | 14       | 3-Oct      | 4. Methods: Laboratory methods GC/MS*         | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                           |
 | 8    | 15       | 8-Oct      | **Class presentation 2: Introduction**                   | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                      |
 | 8    | 16       | 10-Oct     | **Class presentation 2: Introduction**                    | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                                          |
-| 9    | 17       | 15-Oct     | 4. Methods: Method design             |  [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due   |
+| 9    | 17       | 15-Oct     | 4. Methods: Method development |  [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due   |
 | 9    |          | 17-Oct     | Study Day (no classes)                        |                                           |
-| 10   | 18       | 22-Oct     | 4. Methods: Data collection and analysis                         |                                           |
+| 10   | 18       | 22-Oct     | 4. Methods: Group exercise   |                                           |
 | 10   | 19       | 24-Oct     | 5. Ethics in research and publishing                |                                           |
 | 11   | 20       | 29-Oct     | 6. Proposal: Title, and abstract |                                           |
 | 11   | 21       | 31-Oct     | 6. Proposal: Graphical abstract, and expected results       | [Reading HW4: So What?](https://aselshall.github.io/rm/hw/so-what)                                          |
