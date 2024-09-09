@@ -11,7 +11,6 @@ Leveraging this environmental data science approach, our research questions incl
 
 This study will not only address these questions but also pave the way for future research on the combined impacts of multiple environmental factors on public health.
 
----
 
 ## Method
 
@@ -61,6 +60,5 @@ We have access to all the data needed for the project as follows.
 - **Influenza Data**: Weekly influenza virus outbreak data for the South Atlantic Region, spanning from 2005 to 2015, were sourced from the U.S. Centers for Disease Control and Prevention (CDC). The data is a measure of the percentage of specimens testing positive for influenza within a particular week, and the data is available for the epidemic period of October through May based on the assumption that the minimal outbreaks periods have little or no influenza cases(Hoagland et al., 2009).  
 - **Tourism Data**: Monthly hotel occupancy rates and lodging unit counts for Sarasota County (2005-2015) were obtained from the Sarasota Convention and Visitors Bureau.Assuming two residents per unit, we obtained a monthly estimate of the temporary resident population by summing the number of occupants in all units. We have access to all the data needed for the project.
 
---
 ## References
 
