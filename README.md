@@ -67,10 +67,10 @@ These topics and dates are tentative and subject to change based on class progre
 | 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
 | 12   | 22       | 7-Nov      | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                           |
 | 13   | 23       | 12-Nov     | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                            |
-| 13   | 24       | 14-Nov     | 7. Publication quality figures       |    [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due    |
-| 14   | 25       | 19-Nov     | 8. Presentation: Audience centric techniques                    |                                           |
-| 14   | 26       | 21-Nov     | 8. Presentation: Slide design     |                                           |
-| 15   | 27       | 26-Nov     | 9. FAIR data principles and data management plan                | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                              |
+| 13   | 24       | 14-Nov     | 7. FAIR data principles and data management plan |    [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due    |
+| 14   | 25       | 19-Nov     | 8. Publication quality figures |                                           |
+| 14   | 26       | 21-Nov     | 9. Presentation: Audience centric techniques |                                           |
+| 15   | 27       | 26-Nov     | 9. Presentation: Slide design | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                              |
 | 15   |          | 28-Nov     | Thanksgiving Day - No class                   |                                           |
 | 16   | 28       | 3-Dec      | **Proposal presentation**                         | [Propposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)       |
 | 16   | 29       | 5-Dec      | **Proposal presentation**                         | [Propposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)         |
