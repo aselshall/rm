@@ -62,15 +62,15 @@ These topics and dates are tentative and subject to change based on class progre
 | 9    |          | 17-Oct     | Study Day (no classes)                        |                                           |
 | 10   | 18       | 22-Oct     | 4. Methods: Group exercise   |                                           |
 | 10   | 19       | 24-Oct     | 5. Ethics in research and publishing                |                                           |
-| 11   | 20       | 29-Oct     | 6. Proposal: Expected results |                                           |
-| 11   | 21       | 31-Oct     | 6. Proposal:  Title, abstract, and graphical abstract | [Reading HW4: So What?](https://aselshall.github.io/rm/hw/so-what)  |
+| 11   | 20       | 29-Oct     | 6. Expected results |                                           |
+| 11   | 21       | 31-Oct     | 7. Title, abstract, and graphical abstract | [Reading HW4: So What?](https://aselshall.github.io/rm/hw/so-what)  |
 | 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
 | 12   | 22       | 7-Nov      | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                           |
 | 13   | 23       | 12-Nov     | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                            |
-| 13   | 24       | 14-Nov     | 7. FAIR data principles and data management plan |    [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due    |
-| 14   | 25       | 19-Nov     | 8. Publication quality figures |                                           |
-| 14   | 26       | 21-Nov     | 9. Presentation: Audience centric techniques |                                           |
-| 15   | 27       | 26-Nov     | 9. Presentation: Slide design | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                              |
+| 13   | 24       | 14-Nov     | 8. FAIR data principles and data management plan |    [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due    |
+| 14   | 25       | 19-Nov     | 9. Publication quality figures |                                           |
+| 14   | 26       | 21-Nov     | 10. Presentation: Audience centric techniques |                                           |
+| 15   | 27       | 26-Nov     | 10. Presentation: Slide design | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                              |
 | 15   |          | 28-Nov     | Thanksgiving Day - No class                   |                                           |
 | 16   | 28       | 3-Dec      | **Proposal presentation**                         | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)       |
 | 16   | 29       | 5-Dec      | **Proposal presentation**                         | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)         |
