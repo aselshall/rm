@@ -26,7 +26,7 @@ Review the factors discussed in Lesson 3: Research Problem, such as:
 Ensure that your topic aligns with these factors to maximize the potential success of your research.
 
 **4. Write your reflection**
-- In 1-2 pages, describe your chosen research topic and explain how you considered the factors listed above.
+- In 1-2 pages, describe your chosen research topic and explain how you considered the factors listed above. Your objective is to convince the reader that your proposed research is useful, and that you have the neeeded skills, guidance, resources, and time to complete it successfully, and not just talk about it.
 
 ## Submission
 - Submit your PDF on Canvas by the due date.
