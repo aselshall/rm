@@ -1,4 +1,4 @@
-[**EDITORIAL**](https://aselshall.github.io/rm/hw/so-what)
+[**EDITORIAL**](https://aselshall.github.io/rm/hw/so-what)   
 **SEEKING ANSWERS: SUGGESTIONS FOR STUDENTS**  
 R. N. GINSBURG  
 Comparative Sedimentology Laboratory  
