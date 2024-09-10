@@ -1,8 +1,10 @@
 ## [Class Exercise](https://aselshall.github.io/rm/m06/exercise)
 
-Read and evaluate abstract A and B on a scale from 0 to 10.  
-Discuss with your classmate the pros and cons of each abstract.   
-Present an argument to the class justifying the abstract that you like more.  
+- Read and rate Abstract A and Abstract B (0 to 10 scale)
+- Discuss the pros and cons of each with a classmate
+- Present an argument to the class justifying which abstract you prefer
+
+[Link to download](https://aselshall.github.io/rm/m06/abstracts.pdf)
 
 ## Abstract A
 
