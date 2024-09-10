@@ -1,6 +1,6 @@
 ## [Class Exercise](https://aselshall.github.io/rm/m06/exercise)
 
-- Read and rate Abstract A and Abstract B (0 to 10 scale)
+- Read and rate Abstract A and Abstract B including title (0 to 10 scale)
 - Discuss the pros and cons of each with a classmate
 - Present an argument to the class justifying which abstract you prefer
 
