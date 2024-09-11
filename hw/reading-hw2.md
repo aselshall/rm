@@ -1,4 +1,4 @@
-## Reading Aassignment 2: Research proposal
+## [Reading Aassignment 2: Research proposal](https://aselshall.github.io/rm/hw/reading-hw2)
 
 ### Objective  
 This reading assignment will help you understand the expectations for your research proposal and plan effectively to achieve an A in this course.
