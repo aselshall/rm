@@ -1,4 +1,4 @@
-## Reading Assignment: Exploring Research Project Development
+## [Reading Assignment: Exploring Research Project Development](https://aselshall.github.io/rm/hw/reading-hw1)
 
 ### Objective
 This assignment will help you select a research topic and develop a realistic, meaningful research proposal.
