@@ -4,7 +4,7 @@
 This reading assignment will help you understand the expectations for your research proposal and plan effectively to achieve an A in this course.
 
 ### Read  
-- Review the [Research Proposal Assignment](https://aselshall.github.io/rm/hw/proposal-hw), including the proposal outline and rubric.
+Review the [Research Proposal Assignment](https://aselshall.github.io/rm/hw/proposal-hw), including the proposal outline and rubric.
 
 ### Discuss   
 - What are the key sections of a successful proposal?  
