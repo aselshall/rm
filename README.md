@@ -61,7 +61,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 9    | 17       | 15-Oct     | 4. Methods: Method development |  [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due   |
 | 9    |          | 17-Oct     | Study Day (no classes)                        |                                           |
 | 10   | 18       | 22-Oct     | 4. Methods: Group exercise   |                                           |
-| 10   | 19       | 24-Oct     | 5. Ethics in research and publishing                |                                           |
+| 10   | 19       | 24-Oct     | 5. Ethics in engineering and research |                                           |
 | 11   | 20       | 29-Oct     | 6. Expected results |                                           |
 | 11   | 21       | 31-Oct     | 7. Title, abstract, and graphical abstract | [Reading HW4: So What?](https://aselshall.github.io/rm/hw/so-what)  |
 | 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
