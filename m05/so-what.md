@@ -5,7 +5,7 @@ In groundwater research, the journey often starts with simple inquiries like “
 
 Eventually, researchers must take a crucial step forward by asking a more profound question: “Why does this matter?” This line of inquiry helps to move beyond the basic findings and requires you to think about the broader significance of your work. In groundwater research, asking "Why does this matter?" compels you to consider how your findings contribute to larger issues, such as sustainable water use, the effects of climate change, long-term water resource management strategies, or flood management. 
 
-Imagine you're investigating seasonal groundwater recharge in an agricultural region. Your initial results show variations in recharge rates that correlate closely with precipitation patterns. While this data is valuable, asking the "Why does this matter?" question will lead you to reflect on the broader importance of your findings.
+Imagine you are investigating seasonal groundwater recharge in an agricultural region. Your initial results show variations in recharge rates that correlate closely with precipitation patterns. While this data is valuable, asking the "Why does this matter?" question will lead you to reflect on the broader importance of your findings.
 
 FINDINGS:
 Seasonal fluctuations in groundwater recharge rates have been observed in a predominantly agricultural region.
