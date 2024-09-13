@@ -1,4 +1,5 @@
-[Asking the right question in groundwater research: A guide for students](https://aselshall.github.io/rm/m05/so-what)
+## [Asking the right question in groundwater research: A guide for students](https://aselshall.github.io/rm/m05/so-what)
+This article is inspired by and replicated from Ginsburg (1982).
 
 In groundwater research, the journey often starts with simple inquiries like “What’s happening?” or “Where is it occurring?”. These initial questions are essential for gathering foundational data, such as determining groundwater levels or mapping areas of recharge and depletion. However, as your understanding deepens, the focus naturally shifts toward more complex questions, such as “How does this process occur?” and “Why is this happening now?” As researchers begin to answer these questions, their findings start forming the backbone of reports, papers, and presentations.
 
@@ -30,3 +31,6 @@ For instance, you might now ask: How can local farmers adjust their water usage 
 By consistently asking these kinds of questions, your research will transcend data collection and become a tool for solving practical problems, such as improving groundwater management, reducing water stress, and fostering resilience to climate change. In teaching and research alike, this approach ensures that your work connects to the broader challenges faced by society.
 
 Ultimately, asking "Why does this matter?" helps guide the practical application of your findings, ensuring that your research has a tangible, positive impact. Whether you're informing policy, shaping water management practices, or advancing scientific understanding, your work becomes more relevant and rewarding when you address the bigger picture. So, the next time you're immersed in groundwater research, remember to step back and ask, “Why does this matter?”. In doing so, you’ll not only deepen your understanding but also contribute to meaningful solutions that benefit society.
+
+References:
+Ginsburg, R.N. 1982: Seeking answers; suggestions for students Journal of Sedimentary Petrology 52(2): 351-352 
