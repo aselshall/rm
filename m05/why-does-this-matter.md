@@ -7,7 +7,7 @@ Eventually, researchers must take a crucial step forward by asking a more profou
 
 Imagine you are investigating seasonal groundwater recharge in an agricultural region. Your initial results show variations in recharge rates that correlate closely with precipitation patterns. While this data is valuable, asking the "Why does this matter?" question will lead you to reflect on the broader importance of your findings.
 
-FINDINGS:
+Findings:
 Seasonal fluctuations in groundwater recharge rates have been observed in a predominantly agricultural region.
 
 Q. Why does this matter?
