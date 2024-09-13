@@ -32,5 +32,5 @@ By consistently asking these kinds of questions, your research will transcend da
 
 Ultimately, asking "Why does this matter?" helps guide the practical application of your findings, ensuring that your research has a tangible, positive impact. Whether you're informing policy, shaping water management practices, or advancing scientific understanding, your work becomes more relevant and rewarding when you address the bigger picture. So, the next time you're immersed in groundwater research, remember to step back and ask, “Why does this matter?”. In doing so, you’ll not only deepen your understanding but also contribute to meaningful solutions that benefit society.
 
-References:
+### References   
 Ginsburg, R.N. 1982: Seeking answers; suggestions for students Journal of Sedimentary Petrology 52(2): 351-352 
