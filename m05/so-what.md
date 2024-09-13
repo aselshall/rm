@@ -26,7 +26,7 @@ By pursuing these questions, the research evolves from a simple observational st
 
 This “Why does this matter?” approach challenges you to extend the significance of your research beyond the numbers and statistics. It encourages you to think critically about the relevance of your findings and their application in addressing real-world challenges, like the sustainability of groundwater resources in drought-prone areas.
 
-For instance, you might now ask: How can local farmers adjust their water usage to adapt to the new recharge data? What technological innovations could improve groundwater recharge in agricultural regions? How will climate change impact this region’s long-term water security, and what steps can be taken to ensure a sustainable future?
+For example, you might now ask: How can local farmers adjust their water usage to adapt to the new recharge data? What technological innovations could improve groundwater recharge in agricultural regions? How will climate change impact this region’s long-term water security, and what steps can be taken to ensure a sustainable future?
 
 By consistently asking these kinds of questions, your research will transcend data collection and become a tool for solving practical problems, such as improving groundwater management, reducing water stress, and fostering resilience to climate change. In teaching and research alike, this approach ensures that your work connects to the broader challenges faced by society.
 
