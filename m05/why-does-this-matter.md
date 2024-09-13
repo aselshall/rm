@@ -1,4 +1,4 @@
-## [Asking the right question in groundwater research: A guide for students](https://aselshall.github.io/rm/m05/so-what)
+## [Asking the right question in groundwater research: A guide for students](https://aselshall.github.io/rm/m05/why-does-this-matter)
 **This article is inspired by a student research, and is replicated from Ginsburg (1982).**
 
 In groundwater research, the journey often starts with simple inquiries like “What’s happening?” or “Where is it occurring?”. These initial questions are essential for gathering foundational data, such as determining groundwater levels or mapping areas of recharge and depletion. However, as your understanding deepens, the focus naturally shifts toward more complex questions, such as “How does this process occur?” and “Why is this happening now?” As researchers begin to answer these questions, their findings start forming the backbone of reports, papers, and presentations.
