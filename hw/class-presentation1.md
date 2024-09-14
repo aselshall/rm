@@ -35,6 +35,7 @@ You will present your research problem and exploratory literature review to the 
 ### Evaluation
  - Is the research problem clearly articulated and well-defined?
  - Does the presentation effectively communicate the significance and potential impact of the research problem?
+ - Was exploratory literature review effectively used to define the research problem? 
  - Is the scope of the research problem appropriate, and is the feasibility of the study well-considered?
  - Is the presentation clear, well-organized, and delivered effectively?
  - Are the questions for feedback well-formulated and conducive to helpful discussion?
