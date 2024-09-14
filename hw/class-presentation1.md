@@ -33,7 +33,7 @@ You will present your research problem and exploratory literature review to the 
 
 
 ### Evaluation
- - Was exploratory literature review effectively used to define the research problem and its significance? (50 points)
+ - Was exploratory literature review effectively used to support defining the research problem and its significance? (50 points)
  - Is the research problem clearly articulated and well-defined? (10 points)
  - Does the presentation effectively communicate the significance and potential impact of the research problem? (10 points)
  - Is the scope of the research problem appropriate, and is the feasibility of the study well-considered? (10 points) 
