@@ -33,12 +33,12 @@ You will present your research problem and exploratory literature review to the 
 
 
 ### Evaluation
- - Was exploratory literature review effectively used to define the research problem and its significance? 
- - Is the research problem clearly articulated and well-defined?
- - Does the presentation effectively communicate the significance and potential impact of the research problem?
- - Is the scope of the research problem appropriate, and is the feasibility of the study well-considered?
- - Is the presentation clear, well-organized, and delivered effectively?
- - Are the questions for feedback well-formulated and conducive to helpful discussion?
+ - Was exploratory literature review effectively used to define the research problem and its significance? (50 points)
+ - Is the research problem clearly articulated and well-defined? (10 points)
+ - Does the presentation effectively communicate the significance and potential impact of the research problem? (10 points)
+ - Is the scope of the research problem appropriate, and is the feasibility of the study well-considered? (10 points) 
+ - Is the presentation clear, well-organized, and delivered effectively? (10 points)
+ - Are the questions for feedback well-formulated and conducive to helpful discussion? (10 points)
 
 [Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation1%20rubric.docx) that we be used at class for evalluation.
 
