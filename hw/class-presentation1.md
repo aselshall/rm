@@ -1,8 +1,7 @@
 ## [Class Presentation 1 - Research Problem](https://aselshall.github.io/rm/hw/class-presentation1)
 
 ### Objective
-
-You will present your research problem and exploratory literature review to the class. Use this opportunity to refine your research problem through class feedback and discussion, ensuring you are on track for a clear, relevant, and feasible proposal.
+Conducting an exploratory literature review will help you to read the literature to learn about your problem and define a good research problem. You will present your literature review findings and your research problem to the class. Use this opportunity to refine your research problem through class feedback and discussion. This is to help you to ensure that you are on track for a clear, relevant, and feasible proposal. 
 
 ### Presentation information
  - You have **25 minutes** including discussion and transition time
