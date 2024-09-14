@@ -32,6 +32,7 @@ Conducting an exploratory literature review will help you to read the literature
 
 
 ### Evaluation
+ - Is the topic clearly introduced?
  - Is exploratory literature review effectively used to support defining the research problem and its significance? (50 points)
  - Is the research problem clearly articulated and well-defined? (10 points)
  - Does the presentation effectively communicate the significance and potential impact of the research problem? (10 points)
