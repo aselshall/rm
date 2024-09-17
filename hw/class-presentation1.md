@@ -32,13 +32,14 @@ Conducting an exploratory literature review will help you to read the literature
 
 
 ### Evaluation
- - Is exploratory literature review effectively used understand the topic, research problem, and their significance? (40 points)
- - Is the topic clearly introduced? (10 points)
- - Is the research problem clearly articulated and well-defined? (10 points)
- - Does the presentation effectively communicate the significance and potential impact of the research problem? (10 points)
- - Is the scope of the research problem appropriate, and is the feasibility of the study well-considered? (10 points) 
- - Is the presentation clear, well-organized, and delivered effectively? (10 points)
- - Are the questions for feedback well-formulated and conducive to helpful discussion? (10 points)
+ - Is exploratory literature review effectively used to define the research problem, and its significance? (65 points)
+ - Is the topic clearly introduced? (5 points)
+ - Is the research problem clearly articulated and well-defined? (5 points)
+ - Does the presentation effectively communicate the significance and potential impact of the research problem? (5 points)
+ - Is the scope of the research problem appropriate, and is the feasibility of the study well-considered? (5 points) 
+ - Is the presentation clear, well-organized, and delivered effectively? (5 points)
+ - Are the questions for feedback well-formulated and conducive to helpful discussion? (5 points)
+ - Does the presentation engage and inform the audience? (5 points)
 
 [Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation1%20rubric.docx) that we be used at class for evalluation.
 
