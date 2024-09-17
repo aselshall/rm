@@ -1,15 +1,15 @@
-## [Class Presentation 1 - Exploratory literature review and research problem](https://aselshall.github.io/rm/hw/class-presentation1)
+# [Class Presentation 1 - Exploratory literature review and research problem](https://aselshall.github.io/rm/hw/class-presentation1)
 
-### Objective
+## Objective
 Conducting an exploratory literature review will help you to read the literature to learn about your problem and define a good research problem. You will present your literature review findings and your research problem to the class. Use this opportunity to refine your research problem through class feedback and discussion. This is to help you to ensure that you are on track for a clear, relevant, and feasible proposal. 
 
-### Presentation information
+## Presentation information
  - You have **25 minutes** including discussion and transition time
  - Ensure your slides are clear, concise, and visually engaging
  - You will present on **17-Sep or 19-Sep**. Reserve your time slot by writing your name on [this spreadsheet](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come, first served
  - This presentation is not graded, but your presentation and active participation in the discussions contribute to your participation grade.
 
-### Presentation content
+## Presentation content
 
 **Introduction:**
  - Provide a brief overview of your research topic
@@ -31,7 +31,7 @@ Conducting an exploratory literature review will help you to read the literature
  - Prepare 2-3 specific questions for your classmates and instructor that will help you refine your research problem
 
 
-### Evaluation
+## Evaluation
  1. Is exploratory literature review effectively used to define the research problem, and its significance? (65 points)
  2. Is the topic clearly introduced? (5 points)
  3. Is the research problem clearly articulated and well-defined? (5 points)
@@ -43,5 +43,5 @@ Conducting an exploratory literature review will help you to read the literature
 
 [Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation1%20rubric.docx) that we be used at class for evalluation.
 
-### Feedback
+## Feedback
    - After your presentation, you will receive feedback from your peers and instructor to help refine your research problem.
