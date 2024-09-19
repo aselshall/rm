@@ -33,6 +33,7 @@ Conducting an exploratory literature review will help you to read the literature
 
 
 ## Evaluation
+The points listed in the evaluation criteria are for informational purposes only as these presentations are not graded. The listed points highlight the importance of each aspect of your work to guide you on where to focus for a strong presentation that covers the learning objectives of this assignment.
  1. Is exploratory literature review effectively used to define the research problem, and its significance? (65 points)
  2. Is the topic clearly introduced? (5 points)
  3. Is the research problem clearly articulated and well-defined? (5 points)
