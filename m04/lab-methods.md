@@ -1,4 +1,4 @@
-## [Lab methods](https://aselshall.github.io/m04/lab-methods)
+## [Lab methods](https://aselshall.github.io/rm/m04/lab-methods)
 
 | **Instrument**                  | **Description**       | **Use in water resources**                | **Example 1**                                   | **Exampe 2**     |
 |---------------------------------|-------------------------------|-------------------------------------------|---------------------------------------------------------|--------------------------------------------------|
