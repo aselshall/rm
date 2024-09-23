@@ -1,3 +1,5 @@
+## [Lab methods](https://aselshall.github.io/m04/lab-methods)
+
 | **Instrument**                  | **Description**       | **Use in water resources**                | **Example 1**                                   | **Exampe 2**     |
 |---------------------------------|-------------------------------|-------------------------------------------|---------------------------------------------------------|--------------------------------------------------|
 | **ICP-MS**      | Measurement of trace elements where inductively coupled plasma ionizes the sample and a mass spectrometer separates and detects ions based on their mass-to-charge ratio | Measures trace metals in water and soil (e.g., Hg, Cd, As, Cr, Cu, and Zn) | Detect trace metals such as Cd from phosphate fertilizers and Pb and As legacy contamination | Test construction materials for harmful trace metals posing health risks |
