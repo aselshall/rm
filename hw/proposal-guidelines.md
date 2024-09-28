@@ -1,19 +1,19 @@
 # [Guidelines](https://aselshall.github.io/rm/hw/proposal-guidelines)
 
 ## 1. Integration of the course concepts
-Prepare GitHub pages based on class slides
+Check the powerpoint lecture notes
 
 ## 2. Introduction
-Prepare GitHub pages based on class slides
+Check the powerpoint lecture notes
 
 ## 3. Methods
-Prepare GitHub pages based on class slides
+Check the powerpoint lecture notes
 
 ## 4. Expected results
-Prepare GitHub pages based on class slides
+Check the powerpoint lecture notes
 
 ## 5. Timeline
-Prepare GitHub pages based on class slides
+Check the powerpoint lecture notes
 
 ## 6. Cohesiveness of writing
 
