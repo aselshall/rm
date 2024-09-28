@@ -45,7 +45,7 @@ Paraphrasing involves rewording ideas while maintaining the original meaning.
 - **Original text:** "Climate change has led to an increase in the frequency and severity of extreme weather events, impacting global ecosystems and human communities."
 - **Paraphrased text:** "Climate change is driving more frequent and severe weather events, affecting ecosystems and human communities globally."
 
-[Direct Quotes vs. Paraphrasing](https://englishexplorations.check.uni-hamburg.de/academic-writing-direct-quotes-vs-paraphrasing/) provides details that are copied and pasted here:
+The article [Direct Quotes vs. Paraphrasing](https://englishexplorations.check.uni-hamburg.de/academic-writing-direct-quotes-vs-paraphrasing/) provides details that are copied and pasted here:
 
 > As a general guideline in academic writing, it is important that direct quotes from other sources should only be used selectively. Even if the temptation might be high and your motivation to formulate the idea in your own words low—your essay should really be your own work. If you think it is too difficult to decide whether or not to use a direct quote, think about these aspects:
 > 
