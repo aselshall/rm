@@ -188,4 +188,4 @@ The creative writing sentence uses a narrative style to describe the economic im
 
 ## 10. Overall evaluation
 
-Add NSF evaluation criteria
+Check the rubric for details
