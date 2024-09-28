@@ -65,7 +65,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 | **5. Reproducibility** | (1) Method is detailed enough for researchers to follow step-by-step and replicate the study; (2) Method is mostly clear, but some steps or details may be ambiguous or missing; (3) Method lacks sufficient detail for reproducibility. |
 | **6. Ethical considerations** | (1) Ethical considerations are thoroughly addressed, with clear strategies for minimizing risks and ensuring ethical research conduct; (2) Ethical considerations are addressed but may lack detail or completeness; (3) Ethical considerations are inadequately addressed or overlooked. |
 
-### 4. [Expected Results](https://aselshall.github.io/rm/hw/proposal-outline#5-expected-results)
+### [4. Expected Results](https://aselshall.github.io/rm/hw/proposal-outline#5-expected-results)
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
