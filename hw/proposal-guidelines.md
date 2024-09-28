@@ -188,4 +188,4 @@ The creative writing sentence uses a narrative style to describe the economic im
 
 ## 10. Overall evaluation
 
-Check the rubric for details
+No additional guidelines beyond the [rubric](https://aselshall.github.io/rm/hw/proposal-rubric#overall-evaluation).
