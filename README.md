@@ -205,11 +205,11 @@ HiPerGator AI: Access the fastest artificial intelligence supercomputer in highe
 Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
 
 ### Hurricane Revision
-Hurricane Helene
+**Hurricane Helene**
 - Missed Lab: "Methods: Laboratory methods TOC, Nutrients"
 - Makeup Plan: Lab rescheduled for October 17 at ETI
 
-Hurricane Milton
+**Hurricane Milton**
 - Missed Lectures: "Class Presentation 2: Introduction" on October 8 and October 10
 - Makeup Plan:
   - "Class Presentation 2: Introduction" rescheduled to October 22 and October 24
