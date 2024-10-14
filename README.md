@@ -3,7 +3,7 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 EGN 6457 Research Methods, Fall 2024  
-_Last updated: Aug 4, 2024_
+_Last updated: Oct 15, 2024_
 
 ## Course Information  
 **EGN 6457 Research Methods (CRN: 83614)**  
