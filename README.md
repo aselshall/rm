@@ -58,12 +58,12 @@ These topics and dates are tentative and subject to change based on class progre
 | 7    | 14       | 3-Oct      | 4. Methods: Laboratory methods GC/MS*         | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                           |
 | 8    | 15       | 8-Oct      | **Class presentation 2: Introduction**                   | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                      |
 | 8    | 16       | 10-Oct     | **Class presentation 2: Introduction**                    | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                                          |
-| 9    | 17       | 15-Oct     | 4. Methods: Method development |  [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due   |
-| 9    |          | 17-Oct     | Study Day (no classes)                        |                                           |
+| 9    | 17       | 15-Oct     | 4. Methods: Method development |     |
+| 9    |          | 17-Oct     | Study Day (no classes)                        | [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due                                          |
 | 10   | 18       | 22-Oct     | 4. Methods: Group exercise   |                                           |
 | 10   | 19       | 24-Oct     | 5. Ethics in engineering and research |                                           |
 | 11   | 20       | 29-Oct     | 6. Expected results |                                           |
-| 11   | 21       | 31-Oct     | 7. Title, abstract, and graphical abstract | [Reading HW4: So What?](https://aselshall.github.io/rm/hw/so-what)  |
+| 11   | 21       | 31-Oct     | 7. Title, abstract, and graphical abstract | Reading HW4: [So What?](https://aselshall.github.io/rm/hw/so-what)  |
 | 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
 | 12   | 22       | 7-Nov      | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                           |
 | 13   | 23       | 12-Nov     | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                            |
