@@ -213,4 +213,4 @@ Except for changes that substantially affect the implementation of the evaluatio
 - Missed Lectures: "Class Presentation 2: Introduction" on October 8 and October 10
 - Makeup Plan:
   - "Class Presentation 2: Introduction" rescheduled to October 22 and October 24
-  - The lessons "Ethics in engineering and research" and "Publication quality figures" will be asynchronous, with video postings, discussion chats, and participation quizzes on Canvas
+  - The lessons "FAIR data principles and data management plan" and "Publication quality figures" will be asynchronous, with video postings, discussion chats, and participation quizzes on Canvas
