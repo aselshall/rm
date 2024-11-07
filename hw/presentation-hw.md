@@ -8,23 +8,9 @@
 - Q&A and Transition: 5 minutes.
 
 **Presentation details:**
-- You will present your research proposal on the assigned date.
-- Be prepared to present at any time, as the presentation order will be determined by a random draw.
+- You will present on **Dec-3 or Sec-5**. Reserve your time slot by writing your name on [this spreadsheet](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come, first served!
 - A peer-evaluation will be conducted during the presentations. Please complete your evaluations, which I will collect at the end of the class.
 - Do not forget to upload your final presentation on Canvas for grading.
 
 **Evaluation:**
 - For detailed criteria, review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) , which can you can also download from this [Link](https://aselshall.github.io/rm/hw/Presentation%20rubric.docx).
-
-
-**Tentative agenda:**
-- **4:30 - 4:45 pm:** Snacks, presentation draw, and slides set up.
-- **4:45 - 5:10 pm:** Presentation 1.
-- **5:10 - 5:35 pm:** Presentation 2.
-- **5:35 - 6:00 pm:** Presentation 3.
-- **6:00 - 6:25 pm:** Presentation 4.
-- **6:25 - 7:50 pm:** Presentation 5.
-- **7:50 - 8:15 pm:** Presentation 6.
-- **8:15 - 8:30 pm:** Wrapping up and SPoI survey.
-
-**Note:** I will bring pizza for the class.
