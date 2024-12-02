@@ -1,6 +1,6 @@
 ### [Research proposal: Presentation assignment](https://aselshall.github.io/rm/hw/presentation-hw)
 
-**Presentation date:** Dec-3 or Dec-5
+**Presentation date:** Dec-10
 
 **Time allotment:**  
 - Total Time: 15 minutes per presentation.
