@@ -14,7 +14,7 @@ Research methods are not just for academic purposes, but they are useful skills 
 - Problem-solving: Learn structured approaches to identify, analyze, and solve problems, a key skill in any engineering job
 - Staying updated with industry trends: Gain the ability to access new technologies, materials, and methods through research findings
 - Data analysis and interpretation: Improve ability to identify, collect and make sense of data
-- Project management: Develop project management skills such as setting objectives, creating timelines, and managing methods
+- Project management: Develop project management skills such as setting objectives, creating timelines, and managing uncertainies
 - Communication skills: Improve ability to write proposals, reports, and present technical information clearly
 
 ### Assignment overview
