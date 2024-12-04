@@ -142,8 +142,8 @@ For detail check the active link for each criterion if available
 | **[2. Paraphrasing and quoting](https://aselshall.github.io/rm/hw/proposal-guidelines#82-paraphrasing-and-quoting) (10%)** | (1) Predominantly paraphrases with selective quoting; (2) Mix of paraphrasing and quoting, with some over-reliance on quotes; (3) Overuse of direct quotes, lacking paraphrasing. |
 | **[3. Use of secondary sources](https://aselshall.github.io/rm/hw/proposal-guidelines#83-use-of-secondary-sources) (10%)** | (1) Secondary sources are avoided, with direct citations from the original sources; (2) Some use of secondary sources, but primarily cites original works; (3) Heavy reliance on secondary sources instead of original references. |
 | **[4. Citation style adherence](https://aselshall.github.io/rm/hw/proposal-guidelines#84-citation-style-adherence) (20%)** | (1) Citations follow AGU style accurately; (2) Minor errors in citation style; (3) Frequent errors in citation style. |
-| **5. Completeness of citation list** (20%) | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing. |
-| **6. Accuracy of citations** (20%) | (1) All citations are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies or incomplete citations. |
+| **5. Completeness of citation list (20%)** | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing. |
+| **6. Accuracy of citations (20%)** | (1) All citations are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies or incomplete citations. |
 
 ### 9. Language clarity and precision
 
