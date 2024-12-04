@@ -31,61 +31,79 @@ This rubric is your guide for developing a high-quality research proposal that m
 ## Core elements of the proposal
 ### 1. Integration of the course concepts
 
+For more information:
+- For detail about inclusion of neccessary components check the slides of the Research Proposal lesson and the sample proposal.
+- For detail about title, cover page, and project summary, check the slides of the Title and Abstract lesson and the sample proposal.
+- For detail about the proposal structure and "diabolo" shape, chech the slide of the Writing Your Review lesson and the sample proposal.
+- For detail about data management plan, check the slides of FAIR Data Principles and Data Management Plan lesson.
+- For detail about publication quality figures, check the slides of the Publication Quality Figures lesson and the sample proposal.
+- For detail about citation management software, check the slides of Citation Management lesson and the sample proposal.
+
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
-| **1. Inclusion of necessary components** | (1) Proposal includes all required sections: cover page, project summary, introduction, methods, expected results, timeline, etc.; (2) Proposal includes most required sections but may be missing minor details; (3) Several key sections are missing or incomplete. |
-| **2. Cover page completeness** | (1) Cover page contains all necessary information, such as title, name, affiliation, and project duration; (2) Cover page is mostly complete but may be missing minor details; (3) Cover page lacks essential information or is incomplete. |
-| **3. Title quality** | (1) Title is informative, specific, and accurately reflects the research topic; (2) Title is generally clear but may be too broad or slightly unclear; (3) Title is non-informative, too broad, or fails to convey the research topic effectively. |
-| **4. Project summary comprehensiveness** | (1) Project summary is comprehensive, covering background, objectives, methods, outputs, and outcomes; (2) Project summary is mostly complete but may lack depth in one or more areas; (3) Project summary is incomplete or fails to cover key aspects adequately. |
-| **5. Proposal structure and "diabolo" shape** | (1) Proposal follows a logical "diabolo" structure, moving from general to specific, addressing the general problem, specific problem, literature review, research gaps, research questions/hypotheses, objectives, tasks, methods, expected results, timeline; (2) Proposal structure is generally coherent but may lack smooth transitions between sections; (3) Proposal structure is disorganized, lacking clear connections between sections. |
-| **6. Data management plan and FAIR principles** | (1) A clear and detailed data management plan is included, demonstrating a commitment to making data FAIR (Findable, Accessible, Interoperable, Reusable); (2) Data management plan is present but may lack some details on how data will be made FAIR; (3) Data management plan is missing or lacks sufficient detail. |
-| **7. Publication-quality figures** | (1) Proposal includes publication-quality figures with proper citation if not original; (2) Figures are present but may not be of publication quality or lack proper citation; (3) Figures are of low quality, lack citation, or are missing entirely. |
-| **8. Use of citation management software** | (1) Citation management software (e.g., Zotero, EndNote) is effectively used to manage references and link citations; (2) Citation management software is used but with some inconsistencies or errors; (3) Citation management software is not used, or references are poorly managed. |
+| **1. Inclusion of necessary components** (5 %) | (1) Proposal includes all required sections: cover page, project summary, introduction, methods, expected results, timeline, etc.; (2) Proposal includes most required sections but may be missing minor details; (3) Several key sections are missing or incomplete. |
+| **2. Cover page completeness** (5 %)| (1) Cover page contains all necessary information, such as title, name, affiliation, and project duration ; (2) Cover page is mostly complete but may be missing minor details; (3) Cover page lacks essential information or is incomplete. |
+| **3. Title quality** (5 %) | (1) Title is informative, specific, and accurately reflects the research topic; (2) Title is generally clear but may be too broad or slightly unclear; (3) Title is non-informative, too broad, or fails to convey the research topic effectively. |
+| **4. Project summary comprehensiveness** (30 %)| (1) Project summary is comprehensive, covering background, objectives, methods, outputs, and outcomes (2) Project summary is mostly complete but may lack depth in one or more areas; (3) Project summary is incomplete or fails to cover key aspects adequately. |
+| **5. Proposal structure and "diabolo" shape** (10 %) | (1) Proposal follows a logical "diabolo" structure, moving from general to specific, addressing the general problem, specific problem, literature review, research gaps, research questions/hypotheses, objectives, tasks, methods, expected results, timeline; (2) Proposal structure is generally coherent but may lack smooth transitions between sections; (3) Proposal structure is disorganized, lacking clear connections between sections. |
+| **6. Data management plan and FAIR principles** (30 %) | (1) A clear and detailed data management plan is included, demonstrating a commitment to making data FAIR (Findable, Accessible, Interoperable, Reusable); (2) Data management plan is present but may lack some details on how data will be made FAIR; (3) Data management plan is missing or lacks sufficient detail. |
+| **7. Publication-quality figures** (10 %) | (1) Proposal includes publication-quality figures with proper citation if not original ; (2) Figures are present but may not be of publication quality or lack proper citation; (3) Figures are of low quality, lack citation, or are missing entirely. |
+| **8. Use of citation management software** (5 %) | (1) Citation management software (e.g., Zotero, EndNote) is effectively used to manage references and link citations; (2) Citation management software is used but with some inconsistencies or errors; (3) Citation management software is not used, or references are poorly managed. |
 
 ### [2. Introduction](https://aselshall.github.io/rm/hw/proposal-outline#3-introduction)
 
+For detail about the introduction section, check the slides of Literature Review Overview lesson, Literature Search lesson, and Writing Your Review lesson
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
-| **1. Background and context** | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background with some gaps in detail or clarity; (3) Background is minimal or unclear, missing important contextual information. |
-| **2. Literature review and research gap** | (1) Conducts a thorough literature review, identifies key studies, and clearly states a significant research gap using more than 12 high-quality, current sources; (2) Conducts a solid review with 10-12 quality sources, identifying a research gap with some gaps in clarity; (3) Basic review with 5-10 sources, with minimal identification of the research gap. |
-| **3. Relevance and currency of sources** | (1) Sources are highly relevant, current, and published within the last 5 years; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated or less relevant to the research topic. |
-| **4. Definition of the research problem** | (1) The research problem is narrowly focused, clearly defined, and feasible to develop a method; (2) The research problem is focused but lacks some direction; (3) The research problem is too broad or not clearly defined. |
-| **5. Research question/hypothesis and objectives** | (1) Clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or clearer connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
-| **6. Feasibility and realism** | (1) The research project is realistic, considering time, resources, and the student's skills; (2) The research project is mostly realistic but may have some limitations due to time, resources, or skills; (3) The research project is not realistic due to significant limitations. |
+| **1. Background and context** (10%) | (1) Provides a well-structured background that clearly sets the context for the research; (2) Provides a solid background with some gaps in detail or clarity; (3) Background is minimal or unclear, missing important contextual information. |
+| **2. Literature review and research gap** (50%) | (1) Conducts a thorough literature review, identifies key studies, and clearly states a significant research gap using more than 12 high-quality, current sources; (2) Conducts a solid review with 10-12 quality sources, identifying a research gap with some gaps in clarity; (3) Basic review with 5-10 sources, with minimal identification of the research gap. |
+| **3. Relevance and currency of sources** (10%) | (1) Sources are highly relevant, current, import sources not missing, and published within the last 5 years; (2) Most sources are relevant and current, with a few slightly older studies included; (3) Some sources are outdated or less relevant to the research topic. |
+| **4. Definition of the research problem** (10%) | (1) The research problem is narrowly focused, clearly defined, and feasible to develop a method; (2) The research problem is focused but lacks some direction; (3) The research problem is too broad or not clearly defined. |
+| **5. Research question/hypothesis and objectives** (10%) | (1) Clearly linked to the research gap with specific, achievable objectives and tasks; (2) Research question and objectives are clear but may need further refinement or clearer connection to the research gap; (3) Research question and objectives are present but lack clarity or a strong connection to the research gap. |
+| **6. Feasibility and realism** (10%) | (1) The research project is realistic, considering time, resources, and the student's skills; (2) The research project is mostly realistic but may have some limitations due to time, resources, or skills; (3) The research project is not realistic due to significant limitations. |
 
 
 ### [3. Methods](https://aselshall.github.io/rm/hw/proposal-outline#4-method)
 
+For detail about the method section check the slides of the Method Development lesson.
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
-| **1. Clarity and organization** | (1) The method section is well-organized and clearly explains the research design and process; (2) The method is generally clear but may have minor issues in organization or clarity; (3) The method section is poorly organized, making it difficult to understand the research process. |
-| **2. Reliability** | (1) Materials, chemicals, procedures, and models chosen are fully suitable and valid for answering research questions; (2) Most materials and procedures are suitable, with minor limitations; (3) Significant gaps in suitability and validity of chosen materials and methods. |
-| **3. Appropriateness of data collection methods** | (1) Data collection methods are well-justified, appropriate for the research objectives, and clearly explained; (2) Data collection methods are generally appropriate but may lack thorough justification or clarity; (3) Data collection methods are poorly justified or inappropriate for the research objectives. |
-| **4. Validity of data analysis methods** | (1) Data analysis methods are appropriate, valid, and clearly described; (2) Data analysis methods are mostly appropriate but may lack full clarity or justification; (3) Data analysis methods are inappropriate or poorly explained. |
-| **5. Reproducibility** | (1) Method is detailed enough for researchers to follow step-by-step and replicate the study; (2) Method is mostly clear, but some steps or details may be ambiguous or missing; (3) Method lacks sufficient detail for reproducibility. |
-| **6. Ethical considerations** | (1) Ethical considerations are thoroughly addressed, with clear strategies for minimizing risks and ensuring ethical research conduct; (2) Ethical considerations are addressed but may lack detail or completeness; (3) Ethical considerations are inadequately addressed or overlooked. |
+| **1. Clarity and organization** (20 %) | (1) The method section is well-organized and clearly explains the research design and process; (2) The method is generally clear but may have minor issues in organization or clarity; (3) The method section is poorly organized, making it difficult to understand the research process. |
+| **2. Reliability** (20%) | (1) Materials, chemicals, procedures, and models chosen are fully suitable and valid for answering research questions; (2) Most materials and procedures are suitable, with minor limitations; (3) Significant gaps in suitability and validity of chosen materials and methods. |
+| **3. Appropriateness of data collection methods** (20 %) | (1) Data collection methods are well-justified, appropriate for the research objectives, and clearly explained; (2) Data collection methods are generally appropriate but may lack thorough justification or clarity; (3) Data collection methods are poorly justified or inappropriate for the research objectives. |
+| **4. Validity of data analysis methods** (10 %)| (1) Data analysis methods are appropriate, valid, and clearly described; (2) Data analysis methods are mostly appropriate but may lack full clarity or justification; (3) Data analysis methods are inappropriate or poorly explained. |
+| **5. Reproducibility** (20%) | (1) Method is detailed enough for researchers to follow step-by-step and replicate the study; (2) Method is mostly clear, but some steps or details may be ambiguous or missing; (3) Method lacks sufficient detail for reproducibility. |
+| **6. Ethical considerations** (10 %) | (1) Ethical considerations are thoroughly addressed, with clear strategies for minimizing risks and ensuring ethical research conduct; (2) Ethical considerations are addressed but may lack detail or completeness; (3) Ethical considerations are inadequately addressed or overlooked. |
 
 ### [4. Expected Results](https://aselshall.github.io/rm/hw/proposal-outline#5-expected-results)
 
+For detail about the expected results section, check the slides of the Expected Results and Timeline lesson and the sample proposal.
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
-| **1. Anticipated findings** | (1) Expected findings are well-grounded in the literature and clearly articulated, providing a strong rationale for the research; (2) Expected findings are articulated but may lack strong grounding in the literature or clarity; (3) Expected findings are vague or not clearly linked to the research objectives. |
-| **2. Preliminary results** | (1) Preliminary results, if available, are clearly presented and support the feasibility and potential impact of the research; (2) Preliminary results are presented but may be unclear or only partially support the research; (3) Preliminary results are absent or do not effectively support the research. |
-| **3. Deliverables** | (1) Specific, tangible deliverables are clearly defined and align with the research objectives; (2) Deliverables are defined but may lack specificity or clear alignment with the research objectives; (3) Deliverables are vague or not clearly connected to the research objectives. |
-| **4. Outcomes and impacts** | (1) Outcomes and broader impacts are clearly articulated, showing the potential benefits of the research to the field and community; (2) Outcomes and impacts are mentioned but may lack detail or strong justification; (3) Outcomes and impacts are vague, underdeveloped, or not clearly related to the research. |
-| **5. Feasibility of outcomes** | (1) The proposed outcomes are realistic and achievable within the project's scope and timeline; (2) The outcomes are generally realistic but may face some feasibility challenges; (3) The proposed outcomes are overly ambitious or not feasible given the project's constraints. |
+| **1. Deliverables** (30 %) | (1) Deliverables are specific, accurate, tangible, and well-aligned with the research objectives, with clear success criteria provided; (2) Deliverables are defined but may lack specificity, accuracy, or measurable success criteria; (3) Deliverables are vague, lack clarity, or are not clearly connected to the research objectives. |
+| **2. Outputs** (30%) | (1) Outputs are clearly described, directly resulting from the deliverables, and provide immediate and measurable results; (2) Outputs are identified but may lack clarity or measurable details; (3) Outputs are vague or weakly connected to the deliverables or research objectives. |
+| **3. Outcomes** (10%) | (1) Outcomes are well-articulated, measurable, and show clear short-term benefits directly arising from the outputs; (2) Outcomes are mentioned but lack depth or measurability; (3) Outcomes are vague or not clearly related to the deliverables or outputs. |
+| **4. Impacts** (10%) | (1) Impacts are clearly defined, demonstrating long-term significance to the field or society and strongly justified; (2) Impacts are identified but lack sufficient detail or justification; (3) Impacts are vague, underdeveloped, or weakly related to the research objectives. |
+| **5. Feasibility** (20 %) | (1) Deliverables, outputs, outcomes, and impacts are realistic, achievable, and well-justified within the project’s scope and timeline; (2) Outcomes and impacts are generally realistic but face minor feasibility challenges; (3) Outcomes and impacts are overly ambitious or not feasible given the project’s constraints. |
 
 ### [5. Timeline](https://aselshall.github.io/rm/hw/proposal-outline#6-timeline)
 
+For detail about the timeline section, check the slides of the Expected Results and Timeline lesson and the sample proposal.
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
-| **1. Research schedule and milestones** | (1) The timeline with gantt chart is detailed, with clear milestones that align with the research objectives and demonstrate a logical progression of tasks; (2) The timeline with gantt chart includes milestones but may lack detail or clear alignment with the research objectives; (3) The timeline without gantt chart is vague, with unclear milestones that do not clearly support the research objectives. |
-| **2. Realistic deadlines and deliverables** | (1) Deadlines are realistic, well-distributed throughout the project, and clearly linked to specific deliverables; (2) Deadlines are generally realistic but may be unevenly distributed or lack clear connection to deliverables; (3) Deadlines are unrealistic, poorly distributed, or not clearly tied to deliverables. |
-| **3. Contingency plan** | (1) The contingency plan is well-developed, addressing potential challenges with specific strategies to ensure project completion; (2) The contingency plan is present but may be vague or lack specific strategies; (3) The contingency plan is absent or fails to address potential challenges effectively. |
+| **1. Research schedule and milestones** (50 %) | (1) The timeline with gantt chart is detailed, with clear milestones that align with the research objectives and demonstrate a logical progression of tasks; (2) The timeline with gantt chart includes milestones but may lack detail or clear alignment with the research objectives; (3) The timeline without gantt chart is vague, with unclear milestones that do not clearly support the research objectives. |
+| **2. Realistic deadlines and deliverables** (20%) | (1) Deadlines are realistic, well-distributed throughout the project, and clearly linked to specific deliverables; (2) Deadlines are generally realistic but may be unevenly distributed or lack clear connection to deliverables; (3) Deadlines are unrealistic, poorly distributed, or not clearly tied to deliverables. |
+| **3. Contingency plan** (30%) | (1) The contingency plan is well-developed, addressing potential challenges with specific strategies to ensure project completion as shown in the slides of the Expected Results and Timeline lesson and the sample proposal; (2) The contingency plan is present but may be vague or lack specific strategies; (3) The contingency plan is absent or fails to address potential challenges effectively. |
 
 ## Writing quality
 
 ### 6. Cohesiveness of writing
+
+For detail check the active link for each criterion if available
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
@@ -102,6 +120,8 @@ This rubric is your guide for developing a high-quality research proposal that m
 
 ### 7. Depth, clarity, and rigorousness of writing
 
+For detail check the active link for each criterion if available
+
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
 | **1. Depth of discussion and elaboration** | (1) Discussion is consistently in-depth, thoroughly exploring each topic; (2) Discussion is mostly in-depth but may lack detail in certain areas; (3) Content is either missing important details, excessively runs-on, or provides only a cursory discussion. |
@@ -114,16 +134,20 @@ This rubric is your guide for developing a high-quality research proposal that m
 
 ### 8. Citation and source integration
 
+For detail check the active link for each criterion if available
+
 | **Criterion** | **Evaluation** |
 | --- | --- |
-| **[1. Proper citation](https://aselshall.github.io/rm/hw/proposal-guidelines#81-proper-citation)** | (1) All sources are cited correctly; (2) Most sources are cited, with minor omissions; (3) Noticeable gaps in citation. |
-| **[2. Paraphrasing and quoting](https://aselshall.github.io/rm/hw/proposal-guidelines#82-paraphrasing-and-quoting)** | (1) Predominantly paraphrases with selective quoting; (2) Mix of paraphrasing and quoting, with some over-reliance on quotes; (3) Overuse of direct quotes, lacking paraphrasing. |
-| **[3. Use of secondary sources](https://aselshall.github.io/rm/hw/proposal-guidelines#83-use-of-secondary-sources)** | (1) Secondary sources are avoided, with direct citations from the original sources; (2) Some use of secondary sources, but primarily cites original works; (3) Heavy reliance on secondary sources instead of original references. |
-| **[4. Citation style adherence](https://aselshall.github.io/rm/hw/proposal-guidelines#84-citation-style-adherence)** | (1) Citations follow AGU style accurately; (2) Minor errors in citation style; (3) Frequent errors in citation style. |
-| **5. Completeness of citation list** | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing. |
-| **6. Accuracy of citations** | (1) All citations are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies or incomplete citations. |
+| **[1. Proper citation](https://aselshall.github.io/rm/hw/proposal-guidelines#81-proper-citation)** (20%) | (1) All sources are cited correctly; (2) Most sources are cited, with minor omissions; (3) Noticeable gaps in citation. |
+| **[2. Paraphrasing and quoting](https://aselshall.github.io/rm/hw/proposal-guidelines#82-paraphrasing-and-quoting)** (10 %) | (1) Predominantly paraphrases with selective quoting; (2) Mix of paraphrasing and quoting, with some over-reliance on quotes; (3) Overuse of direct quotes, lacking paraphrasing. |
+| **[3. Use of secondary sources](https://aselshall.github.io/rm/hw/proposal-guidelines#83-use-of-secondary-sources)** (10%) | (1) Secondary sources are avoided, with direct citations from the original sources; (2) Some use of secondary sources, but primarily cites original works; (3) Heavy reliance on secondary sources instead of original references. |
+| **[4. Citation style adherence](https://aselshall.github.io/rm/hw/proposal-guidelines#84-citation-style-adherence)** (20%) | (1) Citations follow AGU style accurately; (2) Minor errors in citation style; (3) Frequent errors in citation style. |
+| **5. Completeness of citation list** (20%) | (1) No sources are missing from the reference list; (2) Few sources are missing; (3) Several sources are missing. |
+| **6. Accuracy of citations** (20%) | (1) All citations are complete and accurate; (2) Minor inaccuracies in citations; (3) Noticeable inaccuracies or incomplete citations. |
 
 ### 9. Language clarity and precision
+
+For detail check the active link for each criterion if available
 
 | Criterion | Evaluation |
 | --- | --- |
