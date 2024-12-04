@@ -79,7 +79,7 @@ This rubric is your guide for developing a high-quality research proposal that m
 
 | **Criterion** | **Evaluation** |
 | --- | --- |
-| **1. Research schedule and milestones** | (1) The timeline with gantt chart is detailed, with clear milestones that align with the research objectives and demonstrate a logical progression of tasks; (2) The timeline with gantt chart includes milestones but may lack detail or clear alignment with the research objectives; (3) The timeline is vague, with unclear milestones that do not clearly support the research objectives. |
+| **1. Research schedule and milestones** | (1) The timeline with gantt chart is detailed, with clear milestones that align with the research objectives and demonstrate a logical progression of tasks; (2) The timeline with gantt chart includes milestones but may lack detail or clear alignment with the research objectives; (3) The timeline without gantt chart is vague, with unclear milestones that do not clearly support the research objectives. |
 | **2. Realistic deadlines and deliverables** | (1) Deadlines are realistic, well-distributed throughout the project, and clearly linked to specific deliverables; (2) Deadlines are generally realistic but may be unevenly distributed or lack clear connection to deliverables; (3) Deadlines are unrealistic, poorly distributed, or not clearly tied to deliverables. |
 | **3. Contingency plan** | (1) The contingency plan is well-developed, addressing potential challenges with specific strategies to ensure project completion; (2) The contingency plan is present but may be vague or lack specific strategies; (3) The contingency plan is absent or fails to address potential challenges effectively. |
 
