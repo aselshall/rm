@@ -33,7 +33,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
       - State the research objectives that your study seeks to achieve
       - Detail the tasks you will undertake to address the research objectives
         
-   **Note:** Your introduction should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is needed to fill knowledge gaps or provide solutions. It should identify existing research, highlight gaps, and lead to a clear problem statement with research questions and objectives.
+   **objective:** Your introduction should tell a cohesive story, not just list facts. By the end, the reader should understand the topic, what has been done, and why your study is needed to fill knowledge gaps or provide solutions. It should identify existing research, highlight gaps, and lead to a clear problem statement with research questions and objectives.
 
 <h2 style="color:blue">Plan</h2>
 
