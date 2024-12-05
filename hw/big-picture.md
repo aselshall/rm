@@ -2,7 +2,7 @@
 
 The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to propose and execute a research project, while improving your communication skills, both in writing and presentation. In EGN 6457 you will develop your research proposal and in EGN 6941 you will execute it and present your findings.
 
-## EGN 6457 Research Methods
+# EGN 6457 Research Methods
 <h2 style="color:blue">Understand</h2>
 
 **1. Select a research topic** (<span style="color:red">**[Homework 1](https://aselshall.github.io/rm/hw/hw1)**</span>)
@@ -58,7 +58,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
       - Include a budget estimate with justifications for the resources needed (if applicable)
       - Develop a detailed data management plan
 
-## EGN 6941 Project
+# EGN 6941 Project
 
 <h2 style="color:blue">Execute</h2>
 
