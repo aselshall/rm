@@ -9,7 +9,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
    - Identify a feasible project that interests you, aligns with your goals, and preferably relates to your work
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert guidance, ethics and other factors discussed in class
-   - Check [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
+   - For guidance, check [How to find a project idea?](https://aselshall.github.io/rm/hw/topics), which includes current faculty projects that you can choose from
 
 **2. Develop a research question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
    - Conduct an exploratory literature review to refine your topic and start developing a research question
