@@ -6,6 +6,7 @@ Submit your research proposal on Canvas by following this outline: [Research pro
 - Research proposal outline: [Link](https://aselshall.github.io/rm/hw/proposal-outline)
 - Research proposal rubric: [Link](https://aselshall.github.io/rm/hw/proposal-rubric)
 - Research proposal sample: [Link](https://aselshall.github.io/rm/hw/proposal-sample1.pdf)
+- Research proposal presentation: [Link](https://aselshall.github.io/rm/hw/presentation-hw)
 - Late submission policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
 
 ### Learning objectives
