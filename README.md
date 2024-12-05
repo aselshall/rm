@@ -5,6 +5,9 @@ U.A. Whitaker College of Engineering
 EGN 6457 Research Methods, Fall 2024  
 _Last updated: Oct 15, 2024_
 
+The Big Picture: EGN 6457 Research Methods and EGN 6941 Project: [Link](https://aselshall.github.io/rm/hw/big-picture)
+Proposal requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
+
 ## Course Information  
 **EGN 6457 Research Methods (CRN: 83614)**  
 Credit hours: 3  
@@ -72,8 +75,9 @@ These topics and dates are tentative and subject to change based on class progre
 | 14   | 26       | 21-Nov     | 10. Presentation: Audience centric techniques |                                           |
 | 15   | 27       | 26-Nov     | 10. Presentation: Slide design | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                              |
 | 15   |          | 28-Nov     | Thanksgiving Day - No class                   |                                           |
-| 16   | 28       | 3-Dec      | **Proposal presentation**                         | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)       |
-| 16   | 29       | 5-Dec      | **Proposal presentation**                         | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)         |
+| 16   | 28       | 3-Dec      | Project day                       |  |
+| 16   | 29       | 5-Dec      | Project day                         |         |
+| 17   | 30       | 10-Dec      | **Proposal presentation**                         | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)         |
 
 * Laboratory methods classes will be off-campus at the Emergent Technologies Institute (ETI):  
 Address: 16301 Innovation Ln, Fort Myers, FL 33913  
