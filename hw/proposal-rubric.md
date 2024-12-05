@@ -159,7 +159,7 @@ For detail check the active link for each criterion if available
 | **[6. Use of conjunctions](https://aselshall.github.io/rm/hw/proposal-guidelines#96-avoid-coordinating-conjunctions-and-use-subordinating-conjunctions) (10%)** | (1) Proper use of conjunctions (e.g., "Alternatively," "In addition"); (2) Mostly correct use, with occasional misuse  (e.g., "and," "but"); (3) Frequent misuse of conjunctions. |
 | **[7. Succinctness](https://aselshall.github.io/rm/hw/proposal-guidelines#97-be-succinct-and-cut-the-clutter) (10%)** | (1) Writing is concise, with each word adding value; (2) Writing is mostly concise, with occasional redundancy; (3) Writing is often wordy or lacks conciseness. |
 | **[8. Tense consistency](https://aselshall.github.io/rm/hw/proposal-guidelines#98-tenses-in-academic-writing) (10%)** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Frequent tense errors. |
-| **[9. Academic writing style](https://aselshall.github.io/rm/hw/proposal-guidelines#99-academic-writing-versus-creative-writing) (30%)** | (1) Writing is formal, precise, and well-supported by factual evidence; (2) Mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise. |
+| **[9. Academic writing style](https://aselshall.github.io/rm/hw/proposal-guidelines#99-academic-writing-versus-creative-writing) (20%)** | (1) Writing is formal, precise, and well-supported by factual evidence; (2) Mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise. |
 
 ## Overall evaluation
 
