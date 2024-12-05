@@ -60,7 +60,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
       - Develop a detailed data management plan following the FAIR data guiding principles
       - Incorporate these and other key components into a professional research proposal as detailed in this [rubric](https://aselshall.github.io/rm/hw/proposal-rubric)
 
-# EGN 6941 Project
+# EGN 6941 Project or Thesis
 
 <h2 style="color:blue">Execute</h2>
 
