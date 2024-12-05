@@ -57,7 +57,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
       - Cite your references using a citation management software such as Zotero
       - Include a budget estimate with justifications for the resources needed (if applicable)
       - Develop a detailed data management plan following the FAIR data guiding principles
-      - Incorporate these components into a professional research proposal ensuring these keys points [Rubric](https://aselshall.github.io/rm/hw/proposal-rubric)
+      - Incorporate these components into a professional research proposal ensuring keys points as detailed in this [rubric](https://aselshall.github.io/rm/hw/proposal-rubric)
 
 # EGN 6941 Project
 
