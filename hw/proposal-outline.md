@@ -52,7 +52,7 @@ The key sections of a research proposal typically include the following:
 #### Objectives: What do I exactly want to achieve?
 - List objectives that will be achieved ensuring they are specific, actionable, and measurable, directly linked to your research question
 
-## 4. Method
+## 4. Methods
 
 #### Research design
 - Describe the overall approach (e.g., qualitative, quantitative, or mixed-methods) and why it is suitable for addressing your research question
