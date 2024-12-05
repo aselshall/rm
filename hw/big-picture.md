@@ -6,15 +6,15 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
 <h2 style="color:blue">Understand</h2>
 
 **1. Select a research topic** (<span style="color:red">**[Homework 1](https://aselshall.github.io/rm/hw/hw1)**</span>)
-   - Choose a feasible project that interests you, aligns with your goals, and preferably relates to your work
+   - Identify a feasible project that interests you, aligns with your goals, and preferably relates to your work
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Factors to consider in selecting a research problem include feasibility, personal interest, significance, scope, expert guidance, ethics and other factors discussed in class
-   - Check [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
+   - Check [How to identify a project idea?](https://aselshall.github.io/rm/hw/topics) for guidance including current faculty projects that you can choose from
 
 **2. Develop a research question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
    - Conduct an exploratory literature review to refine your topic and start developing a research question
       - Keep your research problem realistic by considering available resources, data, your skills, and time constraints
-      - Plan a timeline for implementing your research, whether it is for the next semester’s project course or your MS thesis project
+      - Plan a timeline for implementing your research, whether it is for the next semester’s project course or your MS thesis
       - Focus on a well-defined scope with achievable outcomes rather than an overly ambitious project that may lead to a dead-end
       - Seek guidance and discuss details with an expert, such as an FGCU faculty member, coworker, or your course instructor
       - Ask for help if you are uncertain about any aspect of your research
