@@ -52,7 +52,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
       - Describe the “**why**, **what**, and **how**” of your research through a solid introduction and method sections
       - Include pilot results if available
       - Define deliverables and establish criteria for measuring success
-      - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question
+      - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the **“so what”** question
       - Provide a timeline with gantt chart for the project, outlining key milestones, tasks and deadlines
       - Identify potential challenges and how they will be mitigated
       - Cite your references using a citation management software such as Zotero
