@@ -53,10 +53,10 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
       - Define deliverables and establish criteria for measuring success
       - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question
       - Provide a timeline for the project, outlining key milestones and deadlines
-      - Conduct a risk assessment, identifying potential challenges and how they will be mitigated
+      - Identify potential challenges and how they will be mitigated
       - Cite your references using a citation management software 
       - Include a budget estimate with justifications for the resources needed (if applicable)
-      - Develop a detailed data management plan
+      - Develop a detailed data management plan following the FAIR data guiding principles
 
 # EGN 6941 Project
 
