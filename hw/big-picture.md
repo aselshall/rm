@@ -49,14 +49,15 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
 
 **5. Proposal development** (<span style="color:red">**[Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)**</span>)
    - You will integrate all these components to develop your research proposal:
-      - Describe the “**why**, **what**, and **how**” of your research, including pilot results if available
+      - Describe the “**why**, **what**, and **how**” of your research, including pilot results if available, through a solid introduction and method sections
       - Define deliverables and establish criteria for measuring success
       - Explain potential outcomes, benefits, intellectual merits, broader impacts, and address the “so what” question
-      - Provide a timeline for the project, outlining key milestones and deadlines
+      - Provide a timeline with gantt chart for the project, outlining key milestones, tasks and deadlines
       - Identify potential challenges and how they will be mitigated
-      - Cite your references using a citation management software 
+      - Cite your references using a citation management software such as Zotero
       - Include a budget estimate with justifications for the resources needed (if applicable)
       - Develop a detailed data management plan following the FAIR data guiding principles
+      - Incorporate these components into a professional research proposal ensuring these keys points [Rubric](https://aselshall.github.io/rm/hw/proposal-rubric)
 
 # EGN 6941 Project
 
