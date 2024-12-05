@@ -6,7 +6,7 @@ EGN 6457 Research Methods, Fall 2024
 _Last updated: Oct 15, 2024_
 
 The Big Picture: [Link](https://aselshall.github.io/rm/hw/big-picture)  
-Proposal requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
+Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
 
 ## Course Information  
 **EGN 6457 Research Methods (CRN: 83614)**  
