@@ -107,16 +107,16 @@ For detail check the active link for each criterion if available
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
-| **[1. Effective use of topic sentences](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences)** | (1) Topic sentences effectively introduce the main ideas of each paragraph; (2) Topic sentences are present but may sometimes lack clarity or focus; (3) Topic sentences are unclear, absent, or fail to introduce the main idea. |
-| **[2. Support with evidence statements](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences)** | (1) Each paragraph includes at least two clear evidence statements that support the main idea; (2) Evidence statements are present but may lack relevance or clarity; (3) Evidence statements are weak, unclear, or insufficient in number. |
-| **[3. Clear transitions between evidence statements](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences)** | (1) Transitions between evidence statements are smooth and clearly articulated; (2) Transitions are present but may lack fluidity or coherence; (3) Transitions are unclear or disjointed, leading to a fragmented flow. |
-| **[4. Logical order of evidence statements](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences)** | (1) Evidence statements follow a logical and effective sequence; (2) The order of evidence statements is mostly logical but may occasionally seem disjointed; (3) Evidence statements are poorly ordered, leading to confusion. |
-| **[5. Effective use of concluding sentences](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences)** | (1) Concluding sentences effectively summarize the main ideas of paragraphs; (2) Concluding sentences are present but may not fully encapsulate the paragraph's main idea; (3) Concluding sentences are missing or ineffective. |
-| **[6. Transition to the next paragraph](https://aselshall.github.io/rm/hw/proposal-guidelines.md#61-topic-and-concluding-sentences)** | (1) Concluding sentences transition smoothly to the next paragraph; (2) Transitions are present but may lack fluidity; (3) Transitions are weak, abrupt, or missing, leading to a choppy flow between paragraphs. |
-| **7. Logical order of paragraphs** | (1) Paragraphs are organized in a logical and coherent manner; (2) Paragraphs are mostly well-ordered, but some may disrupt the overall flow; (3) Paragraphs are poorly ordered, making the proposal difficult to follow. |
-| **8. Flow of proposal without need for headings** | (1) The proposal flows smoothly from one issue to the next without relying on headings; (2) The flow is mostly smooth, but some sections may rely on headings to maintain coherence; (3) The flow is disjointed and requires headings to provide structure. |
-| **9. Understanding relationships among sources** | (1) Writing demonstrates a strong understanding of the relationships among materials from different sources; (2) Relationships among sources are mostly understood but may be underdeveloped in some areas; (3) The understanding of relationships among sources is weak or lacking. |
-| **10. Integration of information from sources** | (1) The proposal effectively ties together information from all sources; (2) Information is mostly integrated but may lack coherence in some areas; (3) The proposal fails to effectively integrate information from different sources. |
+| **[1. Effective use of topic sentences](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences) (10%)** | (1) Topic sentences effectively introduce the main ideas of each paragraph; (2) Topic sentences are present but may sometimes lack clarity or focus; (3) Topic sentences are unclear, absent, or fail to introduce the main idea. |
+| **[2. Support with evidence statements](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences) (10%)** | (1) Each paragraph includes at least two clear evidence statements that support the main idea; (2) Evidence statements are present but may lack relevance or clarity; (3) Evidence statements are weak, unclear, or insufficient in number. |
+| **[3. Clear transitions between evidence statements](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences) (10%)** | (1) Transitions between evidence statements are smooth and clearly articulated; (2) Transitions are present but may lack fluidity or coherence; (3) Transitions are unclear or disjointed, leading to a fragmented flow. |
+| **[4. Logical order of evidence statements](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences) (10%)** | (1) Evidence statements follow a logical and effective sequence; (2) The order of evidence statements is mostly logical but may occasionally seem disjointed; (3) Evidence statements are poorly ordered, leading to confusion. |
+| **[5. Effective use of concluding sentences](https://aselshall.github.io/rm/hw/proposal-guidelines#61-topic-and-concluding-sentences) (10%)** | (1) Concluding sentences effectively summarize the main ideas of paragraphs; (2) Concluding sentences are present but may not fully encapsulate the paragraph's main idea; (3) Concluding sentences are missing or ineffective. |
+| **[6. Transition to the next paragraph](https://aselshall.github.io/rm/hw/proposal-guidelines.md#61-topic-and-concluding-sentences) (10%)** | (1) Concluding sentences transition smoothly to the next paragraph; (2) Transitions are present but may lack fluidity; (3) Transitions are weak, abrupt, or missing, leading to a choppy flow between paragraphs. |
+| **7. Logical order of paragraphs (10%)** | (1) Paragraphs are organized in a logical and coherent manner; (2) Paragraphs are mostly well-ordered, but some may disrupt the overall flow; (3) Paragraphs are poorly ordered, making the proposal difficult to follow. |
+| **8. Flow of proposal without need for headings (10%)** | (1) The proposal flows smoothly from one issue to the next without relying on headings; (2) The flow is mostly smooth, but some sections may rely on headings to maintain coherence; (3) The flow is disjointed and requires headings to provide structure. |
+| **9. Understanding relationships among sources (10%)** | (1) Writing demonstrates a strong understanding of the relationships among materials from different sources; (2) Relationships among sources are mostly understood but may be underdeveloped in some areas; (3) The understanding of relationships among sources is weak or lacking. |
+| **10. Integration of information from sources (10%)** | (1) The proposal effectively ties together information from all sources; (2) Information is mostly integrated but may lack coherence in some areas; (3) The proposal fails to effectively integrate information from different sources. |
 
 ### 7. Depth, clarity, and rigorousness of writing
 
@@ -124,13 +124,13 @@ For detail check the active link for each criterion if available
 
 | **Criterion** | **Evaluation** |
 |-----------------|-----------------|
-| **1. Depth of discussion and elaboration** | (1) Discussion is consistently in-depth, thoroughly exploring each topic; (2) Discussion is mostly in-depth but may lack detail in certain areas; (3) Content is either missing important details, excessively runs-on, or provides only a cursory discussion. |
-| **2. Clarity of expression** | (1) Writing is clear, precise, and easy to understand; (2) Writing is generally clear but may include some ambiguous or confusing sentences; (3) Writing is unclear, making it difficult to follow the argument or ideas. |
-| **3. Accuracy and completeness of information** | (1) Information is accurate, complete, and well-supported by evidence; (2) Information is mostly accurate but may contain minor inaccuracies or incomplete details; (3) Information is inaccurate, incomplete, or misleading. |
-| **4. Logical coherence of ideas** | (1) Ideas are logically connected and flow naturally from one to the next; (2) Ideas are mostly coherent but may occasionally lack a clear connection; (3) Ideas are disjointed or poorly connected, leading to confusion. |
-| **5. Presence of nonsensical or misleading sentences** | (1) No sentences that are nonsensical or misleading; all information is clear and well-articulated; (2) Few sentences are unclear or poorly worded, but the overall meaning is understandable; (3) Multiple sentences are nonsensical, inaccurate, or misleading, significantly affecting comprehension. |
-| **6. Rigor in argumentation** | (1) Arguments are well-structured, rigorous, and supported by solid evidence; (2) Arguments are mostly sound but may lack sufficient evidence or rigor in some areas; (3) Arguments are weak, poorly structured, or lack sufficient support. |
-| **7. Engagement with relevant literature** | (1) Writing engages deeply with relevant literature, integrating sources effectively; (2) Engagement with literature is present but may lack depth or integration; (3) Engagement with literature is superficial or largely absent. |
+| **1. Depth of discussion and elaboration (30%)** | (1) Discussion is consistently in-depth, thoroughly exploring each topic; (2) Discussion is mostly in-depth but may lack detail in certain areas; (3) Content is either missing important details, excessively runs-on, or provides only a cursory discussion. |
+| **2. Clarity of expression (20%)** | (1) Writing is clear, precise, and easy to understand; (2) Writing is generally clear but may include some ambiguous or confusing sentences; (3) Writing is unclear, making it difficult to follow the argument or ideas. |
+| **3. Accuracy and completeness of information (10%)** | (1) Information is accurate, complete, and well-supported by evidence; (2) Information is mostly accurate but may contain minor inaccuracies or incomplete details; (3) Information is inaccurate, incomplete, or misleading. |
+| **4. Logical coherence of ideas (10%)** | (1) Ideas are logically connected and flow naturally from one to the next; (2) Ideas are mostly coherent but may occasionally lack a clear connection; (3) Ideas are disjointed or poorly connected, leading to confusion. |
+| **5. Presence of nonsensical or misleading sentences (10%)** | (1) No sentences that are nonsensical or misleading; all information is clear and well-articulated; (2) Few sentences are unclear or poorly worded, but the overall meaning is understandable; (3) Multiple sentences are nonsensical, inaccurate, or misleading, significantly affecting comprehension. |
+| **6. Rigor in argumentation (10%)** | (1) Arguments are well-structured, rigorous, and supported by solid evidence; (2) Arguments are mostly sound but may lack sufficient evidence or rigor in some areas; (3) Arguments are weak, poorly structured, or lack sufficient support. |
+| **7. Engagement with relevant literature (10%)** | (1) Writing engages deeply with relevant literature, integrating sources effectively; (2) Engagement with literature is present but may lack depth or integration; (3) Engagement with literature is superficial or largely absent. |
 
 ### 8. Citation and source integration
 
@@ -151,27 +151,27 @@ For detail check the active link for each criterion if available
 
 | Criterion | Evaluation |
 | --- | --- |
-| **1. Spelling** | (1) Minimal or no spelling mistakes; (2) Few spelling mistakes; (3) Noticeable spelling mistakes. |
-| **2. Grammar** | (1) Grammar is correct throughout; (2) Minor grammar mistakes present; (3) Several grammar mistakes. |
-| **3. Sentence Clarity** | (1) Sentences are clear and unambiguous; (2) Some sentences are slightly unclear or ambiguous; (3) Many sentences are unclear or ambiguous. |
-| **[4. Sentence length](https://aselshall.github.io/rm/hw/proposal-guidelines#94-avoid-long-sentences-and-use-punctuation)** | (1) Sentences are succinct and well-structured; (2) Occasional long sentences; (3) Frequent long or convoluted sentences. |
-| **[5. Careless mistakes](https://aselshall.github.io/rm/hw/proposal-guidelines#95-avoid-careless-mistakes)** | (1) No careless mistakes; (2) Few careless mistakes (e.g., using acronyms without defining them); (3) Noticeable careless mistakes. |
-| **[6. Use of conjunctions](https://aselshall.github.io/rm/hw/proposal-guidelines#96-avoid-coordinating-conjunctions-and-use-subordinating-conjunctions)** | (1) Proper use of conjunctions (e.g., "Alternatively," "In addition"); (2) Mostly correct use, with occasional misuse  (e.g., "and," "but"); (3) Frequent misuse of conjunctions. |
-| **[7. Succinctness](https://aselshall.github.io/rm/hw/proposal-guidelines#97-be-succinct-and-cut-the-clutter)** | (1) Writing is concise, with each word adding value; (2) Writing is mostly concise, with occasional redundancy; (3) Writing is often wordy or lacks conciseness. |
-| **[8. Tense consistency](https://aselshall.github.io/rm/hw/proposal-guidelines#98-tenses-in-academic-writing)** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Frequent tense errors. |
-| **[9. Academic writing style](https://aselshall.github.io/rm/hw/proposal-guidelines#99-academic-writing-versus-creative-writing)** | (1) Writing is formal, precise, and well-supported by factual evidence; (2) Mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise. |
+| **1. Spelling (10%)** | (1) Minimal or no spelling mistakes; (2) Few spelling mistakes; (3) Noticeable spelling mistakes. |
+| **2. Grammar (10%)** | (1) Grammar is correct throughout; (2) Minor grammar mistakes present; (3) Several grammar mistakes. |
+| **3. Sentence Clarity (10%)** | (1) Sentences are clear and unambiguous; (2) Some sentences are slightly unclear or ambiguous; (3) Many sentences are unclear or ambiguous. |
+| **[4. Sentence length](https://aselshall.github.io/rm/hw/proposal-guidelines#94-avoid-long-sentences-and-use-punctuation) (10%)** | (1) Sentences are succinct and well-structured; (2) Occasional long sentences; (3) Frequent long or convoluted sentences. |
+| **[5. Careless mistakes](https://aselshall.github.io/rm/hw/proposal-guidelines#95-avoid-careless-mistakes) (10%)** | (1) No careless mistakes; (2) Few careless mistakes (e.g., using acronyms without defining them); (3) Noticeable careless mistakes. |
+| **[6. Use of conjunctions](https://aselshall.github.io/rm/hw/proposal-guidelines#96-avoid-coordinating-conjunctions-and-use-subordinating-conjunctions) (10%)** | (1) Proper use of conjunctions (e.g., "Alternatively," "In addition"); (2) Mostly correct use, with occasional misuse  (e.g., "and," "but"); (3) Frequent misuse of conjunctions. |
+| **[7. Succinctness](https://aselshall.github.io/rm/hw/proposal-guidelines#97-be-succinct-and-cut-the-clutter) (10%)** | (1) Writing is concise, with each word adding value; (2) Writing is mostly concise, with occasional redundancy; (3) Writing is often wordy or lacks conciseness. |
+| **[8. Tense consistency](https://aselshall.github.io/rm/hw/proposal-guidelines#98-tenses-in-academic-writing) (10%)** | (1) Tenses are used correctly according to context (e.g., present simple for general facts, past simple for completed actions); (2) Minor tense inconsistencies; (3) Frequent tense errors. |
+| **[9. Academic writing style](https://aselshall.github.io/rm/hw/proposal-guidelines#99-academic-writing-versus-creative-writing) (20%)** | (1) Writing is formal, precise, and well-supported by factual evidence; (2) Mostly formal and precise, with occasional lapses; (3) Writing is somewhat informal or imprecise. |
 
 ## Overall evaluation
 
 ### 10. Overall coherence and persuasiveness
 
-| **Evaluation** | **Grade** |
+| **Grade**  |**Evaluation** |
 | --- | --- |
-| **Exceptional**: The proposal is exceptionally coherent, with all sections working together seamlessly to present a strong, persuasive argument that effectively conveys the significance and potential of the research. | 95-100% |
-| **Very good**: The proposal is highly coherent and persuasive, with only minor issues that do not significantly detract from the strength of the argument or the clarity of the research's potential contributions. | 90-94% |
-| **Good**: The proposal is generally coherent and persuasive, though some issues slightly weaken the overall argument or clarity. | 85-89% |
-| **Adequate**: The proposal has notable coherence and persuasiveness issues, with several sections that do not integrate well, reducing the strength of the argument. | 75-84% |
-| **Needs improvement**: The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | Below 75% |
+| **Exceptional:  95-100%** |The proposal is exceptionally coherent, with all sections working together seamlessly to present a strong, persuasive argument that effectively conveys the significance and potential of the research. |
+| **Very good: 90-94%** | The proposal is highly coherent and persuasive, with only minor issues that do not significantly detract from the strength of the argument or the clarity of the research's potential contributions. | 
+| **Good: 85-89%** | The proposal is generally coherent and persuasive, though some issues slightly weaken the overall argument or clarity. | 
+| **Adequate: 75-84%** | The proposal has notable coherence and persuasiveness issues, with several sections that do not integrate well, reducing the strength of the argument. | 
+| **Needs improvement: Below 75%** | The proposal lacks coherence, with sections that fail to work together, leading to a weak and unconvincing argument about the research's significance and potential contributions. | 
 
 
 ### Overall review according funding agency criteria 
