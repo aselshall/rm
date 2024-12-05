@@ -72,12 +72,13 @@ The key sections of a research proposal typically include the following:
 #### Ethical considerations
 - What ethical issues will your study present? (anticipated ethical issues) such as informed consent, confidentiality, and potential risks to participants 
 
-## 5. ExpecMted Results
+## 5. Expected Results
 Structure this section as deliverables, outputs, outcomes, and impacts similar to the example provided in the slides of the Expected Results and Timeline lesson. 
 
 #### Deliverables
 - What are the deliverables of your projects
 - How will you know if  you succeed in delivering these products?  
+
 #### Outputs, Outcomes and Impacts
 - Outputs: Immediate results or findings that emerge from the project?  
 - Outcomes: Specific and measurable short-term effects arise directly from the outputs
