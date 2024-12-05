@@ -5,7 +5,7 @@ U.A. Whitaker College of Engineering
 EGN 6457 Research Methods, Fall 2024  
 _Last updated: Oct 15, 2024_
 
-The Big Picture: EGN 6457 Research Methods and EGN 6941 Project: [Link](https://aselshall.github.io/rm/hw/big-picture)
+The Big Picture - EGN 6457 & EGN 6941: [Link](https://aselshall.github.io/rm/hw/big-picture)  
 Proposal requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
 
 ## Course Information  
