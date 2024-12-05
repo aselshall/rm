@@ -75,6 +75,9 @@ The key sections of a research proposal typically include the following:
 ## 5. Expected Results
 Structure this section as deliverables, outputs, outcomes, and impacts similar to the example provided in the slides of the Expected Results and Timeline lesson. 
 
+#### Anticipated findings
+- What findings are you anticipating given your research questions an based on literature review, and pilot results if available
+
 #### Deliverables
 - What are the deliverables of your projects
 - How will you know if  you succeed in delivering these products?  
