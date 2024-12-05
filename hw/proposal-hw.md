@@ -10,7 +10,7 @@ Submit your research proposal on Canvas by following this outline: [Research pro
 - Late submission policy: [Link](https://aselshall.github.io/rm/#late-assignment-and-report-policy)
 
 ### Learning objectives
-Research methods are not just for academic purposes, but they are useful skills for your future as an engineer. Even if you are not particularly interested in research, by completing this proposal assignment, you will develop transferable skills for your engineering career.
+Research methods are not just for academic purposes, but they are useful skills for your future as an engineer. Even if you are not particularly interested in research, by completing this proposal assignment, you will develop transferable skills including soft skills for your engineering career.
   1. Critical thinking: Cultivate a mindset of inquiry and evaluation, which helps you come up with new ideas in engineering
   2. Problem-solving: Learn structured approaches to identify, analyze, and solve problems, a key skill in any engineering job
   3. Staying updated: Gain the ability to access new technologies, materials, and methods through research findings
