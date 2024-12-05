@@ -17,6 +17,10 @@ Research methods are not just for academic purposes, but they are useful skills 
   4. Data analysis and interpretation: Improve ability to identify, collect and make sense of data
   5. Project management: Develop project management skills such as setting objectives, creating timelines, and managing uncertainies
   6. Communication skills: Improve ability to write proposals, reports, and present technical information clearly
+  7. Handling feedback: Develop the ability to objectively respond to review comments professionally and use critiques to improve work
+  8. Professional attitude: Foster attention to detail, proactive approach to work, and maturity
+
+All these skills are important for collaboration and growth in professional environments. 
 
 ### Assignment overview
 Given the [course learning objectives](https://aselshall.github.io/rm/#course-learning-objectives), your research proposal should demonstrate your ability to:
