@@ -38,7 +38,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
 <h2 style="color:blue">Plan</h2>
 
 **4. Method development** (<span style="color:red">**[Homework 4](https://aselshall.github.io/rm/hw/hw4)**</span>)
-   - **How**: Develop your method with will include several components as follows:
+   - **How**: Develop your method which will include several components as follows:
       - Study duration
       - Site or experiment description
       - Data and instrumentation
