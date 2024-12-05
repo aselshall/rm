@@ -3,7 +3,7 @@ The key sections of a research proposal typically include the following:
 1. [Title page](#1-title-page): Title, Name, Affiliation, Project Duration, etc.
 2. [Project summary](#2-project-summary): Background, Objectives, Methods, Expected Results, Outcomes (1 page, 250-350 words)
 3. [Introduction](#3-introduction): Background, Context, Literature Review, Problem Statement, Research Objectives/Hypotheses
-4. [Method](#4-method): Research Design, Study Site, Data Collection Methods, Data Analysis Techniques, Ethical Considerations
+4. [Method](#4-methods): Research Design, Study Site, Data Collection Methods, Data Analysis Techniques, Ethical Considerations
 5. [Expected results](#5-expected-results): Preliminary Results, Anticipated Findings, Deliverables, Outputs, Outcomes, and Impacts
 6. [Timeline](#6-timeline): Research Schedule, Key Milestones, Activities, Personnel, Deadlines
 7. [References](#7-references): All cited references in the proposal, following AGU citation style
