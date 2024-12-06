@@ -9,7 +9,7 @@
 
 **Presentation details:**
 - Reserve your time slot by writing your name on [this spreadsheet](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come, first served!
-- A peer-evaluation will be conducted during the presentations. Please complete your evaluations, which I will collect at the end of the class.
+- A peer-evaluation will be conducted during the presentations. Please complete your evaluations, which I will collect at the end of the class. This will count as your participation grade for this class. Non-serious submissions, such as giving all full marks without providing critical feedback, will be discarded, and those grades will not count. Thoughtful and constructive evaluations are expected.
 - Do not forget to upload your final presentation on Canvas at least 30 minutes before class.
 
 **Evaluation:**
