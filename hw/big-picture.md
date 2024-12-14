@@ -76,7 +76,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
 
 **6. Project implementation**
    - Execute your research as detailed in the approved proposal
-   - You may <span style="color:red">start in the Fall semester if ready</span>, and continue in the Spring semester through the <span style="color:red">ENG 6941 Project course</span> or as part of your MS thesis research
+      - You may <span style="color:red">start in the Fall semester if ready</span>, and continue in the Spring semester through the <span style="color:red">ENG 6941 Project course</span> or as part of your MS thesis research
 
  **Objective:** Collect data to support robust data analysis
 
