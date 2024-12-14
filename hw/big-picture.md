@@ -90,8 +90,8 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
 
 **8. Disseminate your findings**
    - Present your work to the class, or at [Eagle-X](https://www.fgcu.edu/eaglex/) research symposium following these [presentation guidelines](https://aselshall.github.io/pr/hw/presentation)
-      - **Optional:** Present your work at a conference such as [AGU](https://www.agu.org/annual-meeting)
+      - Optional: Present your work at a conference such as [AGU](https://www.agu.org/annual-meeting)
    - Make your findings accessible by uploading your final report to a public repository such as ResearchGate, GitHub, an institutional repository
-      - **Optional:** Share your work through peer-reviewed publications, preprients, blog posts, story maps, or similar outlets
+      - Optional: Share your work through peer-reviewed publications, preprients, blog posts, story maps, or similar outlets
 
   **Objective:** Disseminate your research effectively through presentations, publications, and online platforms to contribute to the broader community and showcase your work.
