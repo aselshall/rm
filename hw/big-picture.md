@@ -58,8 +58,8 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
       - Cover page and project summary
       - Introduction and method sections clearly describing the “**why**, **what**, and **how**” of your research
       - Pilot results including preliminary findings if available
-      - Expected results by explaining potential results
-      - Deliverables and specific outputs including establish measurable criteria for evaluating success
+      - Expected results by explaining potential results based on your research questions
+      - Deliverables and specific outputs including establish measurable criteria for evaluating success based on your research objectives
       - Outcomes and impacts by explaining benefits, intellectual merits, and broader impacts, addressing the **“so what”** question
       - Timeline using a Gantt chart to outline key milestones, tasks, and deadlines
       - Contingency plan that identifies potential challenges and mitigation actions
