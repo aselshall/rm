@@ -51,7 +51,7 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
       - Ethical considerations by addressing how you will ensure ethical research practices including [Institutional Review Board (IRB)](https://www.fgcu.edu/academics/research/IRB)
       - Study limitations by discussing potential constraints or challenges in your research design and how you plan to address them.
 
-  **Objective:** Your method should be detailed enough to be informative, reliable, and replicable by others in the field. It must provide sufficient clarity to enable evaluation of your research approach.
+  **Objective:** Your method should be detailed enough to be informative, reliable, and replicable by others in the field. It must provide sufficient clarity to enable evaluation of your research approach and its feasibility.
 
 **5. Proposal development** (<span style="color:red">**[Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)**</span>)
    - You will integrate all components developed in previous steps to create your research proposal that includes:
