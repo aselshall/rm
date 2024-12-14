@@ -94,4 +94,4 @@ The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to 
    - Make your findings accessible by uploading your final report to a public repository such as ResearchGate, GitHub, an institutional repository
       - Optional: Share your work through peer-reviewed publications, preprients, blog posts, story maps, or similar outlets
 
-  **Objective:** Disseminate your research effectively through presentations, publications, and online platforms to contribute to the broader community and showcase your work.
+   **Objective:** Disseminate your research effectively through presentations, publications, and online platforms to contribute to the broader community and showcase your work.
