@@ -1,6 +1,6 @@
 # [The Big Picture](https://aselshall.github.io/rm/hw/big-picture)
 
-The objective of EGN 6457 Research Methods, followed by EGN 6941 Project, is to propose and execute a research project, while improving your communication skills, both in writing and presentation. In EGN 6457 you will develop your research proposal and in EGN 6941 you will execute it and share your findings.
+The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), followed by [EGN 6941 Project](https://aselshall.github.io/pr), is to propose and execute a research project, while improving your communication skills, both in writing and presentation. In EGN 6457 you will develop your research proposal and in EGN 6941 you will execute it and share your findings.
 
 # EGN 6457 Research Methods
 <h2 style="color:blue">Understand</h2>
