@@ -75,7 +75,7 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 <h2 style="color:blue">Execute</h2>
 
 **6. Project implementation**
-   - Execute your research as detailed in the approved proposal
+   - Execute your research as detailed in the approved [research proposal](https://aselshall.github.io/rm/hw/proposal-hw)
       - You may <span style="color:red">start in the Fall semester if ready</span>, and continue in the Spring semester through the <span style="color:red">ENG 6941 Project course</span> or as part of your MS thesis research
 
  **Objective:** Collect data to support robust data analysis
