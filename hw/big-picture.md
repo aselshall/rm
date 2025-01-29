@@ -70,7 +70,7 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 
  **Objective:** By the end of EGN 6457 Research Methods, you will have a professional, well-structured research proposal that clearly communicates the significance and feasibility of your project including feasiable research question, actionable objectives, realistic deliverables, and specific outputs.
 
-# [EGN 6941 Project]((https://aselshall.github.io/pr)
+# [EGN 6941 Project](https://aselshall.github.io/pr)
 
 <h2 style="color:blue">Execute</h2>
 
