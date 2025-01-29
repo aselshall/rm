@@ -2,7 +2,7 @@
 
 The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), followed by [EGN 6941 Project](https://aselshall.github.io/pr), is to propose and execute a research project, while improving your communication skills, both in writing and presentation. In EGN 6457 you will develop your research proposal and in EGN 6941 you will execute it and share your findings.
 
-# EGN 6457 Research Methods
+# [EGN 6457 Research Methods](https://aselshall.github.io/rm)
 <h2 style="color:blue">Understand</h2>
 
 **1. Identify a research topic** (<span style="color:red">**[Homework 1](https://aselshall.github.io/rm/hw/hw1)**</span>)
@@ -70,7 +70,7 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 
  **Objective:** By the end of EGN 6457 Research Methods, you will have a professional, well-structured research proposal that clearly communicates the significance and feasibility of your project including feasiable research question, actionable objectives, realistic deliverables, and specific outputs.
 
-# EGN 6941 Project or MS Thesis
+# [EGN 6941 Project]((https://aselshall.github.io/pr)
 
 <h2 style="color:blue">Execute</h2>
 
