@@ -13,7 +13,8 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 
    **Objective:** By the end of this stage, you should have identified a feasible project idea that aligns with your interests.
 
-**2. Develop a research question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span>)
+**2. Develop a research question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span> and 
+<span style="color:red">**[Presentation 1](https://aselshall.github.io/rm/hw/class-presentation1)**</span>)
    - Conduct an exploratory literature review to refine your topic and start developing a research question
       - Keep your research problem realistic by considering available resources, data collection, your skills, and time constraints
       - Plan a timeline for implementing your research, whether it is for the [EGN 6941 Project course](https://aselshall.github.io/pr) or your MS thesis
@@ -24,7 +25,8 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
    
    **Objective:** By this step you should have a preliminary plan and clear understanding of what you want to do.
 
-**3. Write the introduction** (<span style="color:red">**[Homework 3](https://aselshall.github.io/rm/hw/hw3)**</span>)
+**3. Write the introduction** (<span style="color:red">**[Homework 3](https://aselshall.github.io/rm/hw/hw3)**</span> and 
+<span style="color:red">**[Presentation 2](https://aselshall.github.io/rm/hw/class-presentation2)**</span>)
    - Conduct an in-depth literature review which will form the basis of the proposal introduction:
      - **Why** is this research important?
      - **What** has been done so far, and what do you want to contribute?
@@ -40,7 +42,8 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 
 <h2 style="color:blue">Plan</h2>
 
-**4. Method development** (<span style="color:red">**[Homework 4](https://aselshall.github.io/rm/hw/hw4)**</span>)
+**4. Method development** (<span style="color:red">**[Homework 4](https://aselshall.github.io/rm/hw/hw4)**</span> and 
+<span style="color:red">**[Presentation 3](https://aselshall.github.io/rm/hw/class-presentation3)**</span>)
    - **How**: Develop your method by detailing the key components of your research process including
       - Study duration by defining the timeline and key phases of your study
       - Site or experiment description by provide context about the study location or experimental setup
@@ -53,7 +56,8 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 
   **Objective:** Your method should be detailed enough to be informative, reliable, and replicable by others in the field. It must provide sufficient clarity and detail to enable evaluation of your research approach including its reliability and feasibility.
 
-**5. Proposal development** (<span style="color:red">**[Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)**</span>)
+**5. Proposal development** (<span style="color:red">**[Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)**</span> and 
+<span style="color:red">**[Resarch Proposal Presentation](https://aselshall.github.io/rm/hw/presentation-hw)**</span>)
    - You will integrate all components developed in previous steps to create your research proposal that includes:
       - Cover page and project summary
       - Introduction and method sections clearly describing the “**why**, **what**, and **how**” of your research
