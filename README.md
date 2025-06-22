@@ -42,38 +42,39 @@ By the end of this course, students will be able to:
 ## Course Schedule  
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on Canvas.
 
-| Week | Lesson | Date            | Topics/In-class activities                                                       | Remarks                                   |
-|------|--------|-----------------|----------------------------------------------------------------------------------|-------------------------------------------|
-| 1    | 1      | 18-Aug - 24-Aug | 1. Introduction to Research Methods course                                       | Participation Reading 1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics)                                      |
-| 1    | 2      | 18-Aug - 24-Aug | 2. Foundations of research: Research paradigms                                   |                                           |
-| 2    | 3      | 25-Aug - 31-Aug | 2. Foundations of research: Research problem                                     | Participation Reading 2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric)                  |
-| 2    | 4      | 25-Aug - 31-Aug | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview | [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1)                                                                                                                          |
-| 2    |        | 01-Sep          | Labor Day Observed (no classes)                                                  |                                           |
-| 3    | 5      | 01-Sep - 07-Sep | 3. Literature review: Library resources - Guest lecture                          |                                           |
-| 3    | 6      | 01-Sep - 07-Sep | 3. Literature review: Literature search                                          |                                           |
-| 4    | 7      | 08-Sep - 14-Sep | 3. Literature review: Citation management                                        |  Install [Zotero](https://www.zotero.org/download/)                                                                                                                               |
-| 4    | 8      | 08-Sep - 14-Sep |  3. Literature review: Writing your review                                       | Participation Reading 3:  [Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717)                                                                                             |
-| 5    | 9      | 15-Sep - 21-Sep | 3. Literature review: Technical writing                                          |                                           |
-| 5    | 10     | 15-Sep - 21-Sep | **Class presentation 1: Research problem**                                       | [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)*                                                                                                         |
-| 6    | 11     | 22-Sep - 28-Sep | 4. Methods: Method development                                                   | [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due                                                                                                                     |
+| Week | Lesson | Date            | Topics/In-class activities                                              | Remarks                                            |
+|------|--------|-----------------|-------------------------------------------------------------------------|----------------------------------------------------|
+| 1    | 1      | 18-Aug - 24-Aug | 1. Introduction to Research Methods course                              | Participation Reading 1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics)                                      |
+| 1    | 2      | 18-Aug - 24-Aug | 2. Foundations of research: Research paradigms                          |                                                    |
+| 2    | 3      | 25-Aug - 31-Aug | 2. Foundations of research: Research problem                            | Participation Reading 2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric)                          |
+| 2    | 4      | 25-Aug - 31-Aug | 2. Foundations of research: Research proposal | [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1)         |
+| 2    |        | 01-Sep          | Labor Day Observed (no classes)                                         |                                                    |
+| 2    | 4      | 25-Aug - 31-Aug | 3. Literature review: Overview | [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1)                        |
+| 3    | 5      | 01-Sep - 07-Sep | 3. Literature review: Library resources - Guest lecture                 |                                                    |
+| 3    | 6      | 01-Sep - 07-Sep | 3. Literature review: Literature search                                 |                                                    |
+| 4    | 7      | 08-Sep - 14-Sep | 3. Literature review: Citation management                               | Install [Zotero](https://www.zotero.org/download/) |
+| 4    | 8      | 08-Sep - 14-Sep | 3. Literature review: Writing your review                               | Participation Reading 3:  [Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717)                                                                                                            |
+| 5    | 9      | 15-Sep - 21-Sep | 3. Literature review: Technical writing                                 |                                                    |
+| 5    | 10     | 15-Sep - 21-Sep | **Class presentation 1: Research problem**                              | [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)*                                                                                                         |
+| 6    | 11     | 22-Sep - 28-Sep | 4. Methods: Method development                                          | [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due                                                                                                                     |
 | 6    | 12     | 22-Sep - 28-Sep | 4. Methods: Group exercise   |
-| 7    | 13     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients**          |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
-| 7    | 14     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients**          |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
-| 8    | 15     |  06-Oct - 12-Oct| 5. Ethics in engineering and research |                                          |
-| 8    | 16     | 06-Oct - 12-Oct | **Class presentation 2: Introduction**                                           | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)*                                                                                                         |
-| 9    | 17     | 13-Oct - 19-Oct | 6. Expected results                                                              | [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due                                                                                                                      |
-| 9    | 18     | 13-Oct - 19-Oct | 7. Title, abstract, and graphical abstract                                       | Participation Reading 4: [So What?](https://aselshall.github.io/rm/hw/so-what)                                                                                                                      |
-| 10   | 19-20  | 20-Oct - 26-Oct | 8. FAIR data principles and data management plan                                 |                                           |
-| 11   | 21-22  | 27-Oct - 02-Nov | 9. Publication quality figures                                                   |                                           |
-| 12   | 23     | 03-Sep - 09-Nov | Project day                                                                      |                                           |
-| 12   | 24     | 03-Sep - 09-Nov | **Class presentation 3: Methods**                                                | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)*                                                                                                         |
-| 13   | 25     | 10-Nov - 16-Nov | 10. Presentation: Audience centric techniques                                    | [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due                                                                                                                      |
-| 13   | 26     | 10-Nov - 16-Nov | 10. Presentation: Slide design                                                   |                                           |
-| 13   |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                                 |                                           | 
-| 14   | 27-28  | 17-Nov - 23-Nov | Project day                                                                      |                                           |
-| 15   | 29     | 24-Nov - 25-Nov | Project day                                                                      | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                                                                                                              |
-| 15   |        | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                               |                                           |
-| 16   | 30-31  | Friday Dec 5 | **In-Person Proposal presentation**                                                 | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm (Location TBD)                                                                       |
+| 7    | 13     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients** |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
+| 7    | 14     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients** |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
+| 8    | 15     |  06-Oct - 12-Oct| 5. Ethics in engineering and research |                                 |
+| 8    | 16     | 06-Oct - 12-Oct | **Class presentation 2: Introduction**                                  | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)*                                                                                                         |
+| 9    | 17     | 13-Oct - 19-Oct | 6. Expected results                                                     | [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due                                                                                                                      |
+| 9    | 18     | 13-Oct - 19-Oct | 7. Title, abstract, and graphical abstract                              | Participation Reading 4: [So What?](https://aselshall.github.io/rm/hw/so-what)                                                                                                                      |
+| 10   | 19-20  | 20-Oct - 26-Oct | 8. FAIR data principles and data management plan                        |                                                    |
+| 11   | 21-22  | 27-Oct - 02-Nov | 9. Publication quality figures                                          |                                                    |
+| 12   | 23     | 03-Sep - 09-Nov | Project day                                                             |                                                    |
+| 12   | 24     | 03-Sep - 09-Nov | **Class presentation 3: Methods**                                       | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)*                                                                                                         |
+| 13   | 25     | 10-Nov - 16-Nov | 10. Presentation: Audience centric techniques                           | [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due                                                                                                                      |
+| 13   | 26     | 10-Nov - 16-Nov | 10. Presentation: Slide design                                                                                               |
+| 13   |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                        |                                                    | 
+| 14   | 27-28  | 17-Nov - 23-Nov | Project day                                                             |                                                    |
+| 15   | 29     | 24-Nov - 25-Nov | Project day                                                             | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                                                                                                              |
+| 15   |        | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                      |                                                    |
+| 16   | 30-31  | Friday Dec 5 | **In-Person Proposal presentation**                                        | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm (Location TBD)                                                                       |
 
 ***Class Presentations 1–3**   
     
@@ -111,52 +112,16 @@ The instructor may elect to employ a curve that favors the students.
 - Research project proposal: 45%  
 
 ### General notes  
-- Grades Due from Faculty by noon Tuesday, 17 December 2024  
+- Grades Due from Faculty by noon Tuesday, 16 December 2025  
 - If you are falling behind, consult the academic calendar for the last day to drop: [https://www.fgcu.edu/academics/academiccalendar/](https://www.fgcu.edu/academics/academiccalendar/)  
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
 ### Participation and Attendance  
-**Participation:**  
-For participation assessment, students are expected to:  
-- Arrive on time and attend every class for the entire class period.  
-- Actively participate in discussions without being called upon by the instructor. Questions in class and office hours are highly encouraged.  
-- Be present in class, meaning avoid web browsing, texting, off-subject discussions, or other non-academic activities that impact your class participation grade.  
-- Read assigned materials before class to prepare for discussion and to incorporate what is learned from the readings in the class discussion.  
-- Fill out exit tickets meaningfully to provide the instructor with constructive feedback and suggestions.
+For participation assessment, students are expected to:
+- Watch recorded videos and fill-out exit tickets and [participation log](https://aselshall.github.io/rm/hw/participation)
+- Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
+These form the majority of your participation grade.
 
-All these will be evident by the quality of your class participation, which forms the majority of your participation grade.
-
-**Specific notes:**  
-- Let the instructor know at the beginning of class if you anticipate an event (e.g., emergency phone call, appointment) that will disrupt the class activities.  
-- Two warnings regarding engaging in non-class-related activities will be counted as one absence.
-
-**Attendance:**  
-Regular attendance in classes is expected.  
-- Notify the instructor if you anticipate missing class.  
-- Students are responsible for any missed material or changes in assignments, times, dates, or due dates announced in class.  
-- Unavoidable absences do not excuse students from responsibility for course material.  
-- Attendance will be monitored using a “sign-in sheet" for each class meeting.  
-- It is the responsibility of the student to sign in during each class attended.  
-- A student is considered absent if their signature does not appear on the sign-in sheet.  
-- Forgery of signatures on a sign-in sheet is a violation of university Academic Integrity Policies and subject to disciplinary action.
-
-**Tardiness:**  
-- Each two instances of excessive tardiness (> 5 minutes) will count as one absence.  
-- Two instances of leaving class early will also count as one absence.
-
-**Excused Absence Policy:**  
-- Absence excuse requires written documentation from a certified medical
-
- professional, faculty member, administration, coach, or athletic director.  
-- Absence will be excused after the verification of the submitted document.  
-- Any attempt to falsify documents will be taken very seriously in accordance with FGCU policies and procedures: [FGCU Academic Integrity Policies](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)
-
-**Absences:**  
-Unexcused absences affect the final course grade according to the following schedule:  
-- Up to 2 Absences: No effect on final grade  
-- 3 Absences: Final grade lowered by half a letter grade (e.g., from A to A-)  
-- 4 Absences: Final grade lowered by one full letter grade (e.g., from A to B)  
-- 5 or more absences: Final grade of 0 assigned (Official withdrawal recommended)
 
 ### Assignment and Report Assessment  
 - All written work is expected to be polished and professional. Clarity of expression, organization of materials, absence of typographical errors, correctness of grammar and spelling, and other communication skills are considered in evaluating written assignments.  
