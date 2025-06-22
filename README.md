@@ -157,7 +157,7 @@ FGCU has a set of central policies related to student recording class sessions, 
 ### Syllabus Change Policy  
 Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
 
-## Useful Information and Resources
+## Resources
 
 ### Program Learning Outcomes  
 The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows: [Link](https://aselshall.github.io/rm/admin/outcome)
