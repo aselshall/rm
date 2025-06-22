@@ -39,6 +39,10 @@ By the end of this course, students will be able to:
 - Develop data management plans adhering to the FAIR (Findable, Accessible, Interoperable, Reusable) data principles to ensure proper handling and sharing of research data.  
 - Deliver clear, concise, and persuasive oral presentations of research proposals.  
 - Critically evaluate research papers and proposals, providing constructive feedback and identifying strengths and areas for improvement.  
+
+### Recommended Text   
+Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative, and mixed methods approach (5th ed.): SAGE Publishing., Los Angeles.
+
 ## Course Schedule  
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on Canvas.
 
@@ -58,8 +62,8 @@ These topics and dates are tentative and subject to change based on class progre
 | 5    | 10     | 15-Sep - 21-Sep | **Class presentation 1: Research problem**                              | [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)                                                                                                          |
 | 6    | 11     | 22-Sep - 28-Sep | 4. Methods: Method development                                          | [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due                                                                                                                     |
 | 6    | 12     | 22-Sep - 28-Sep | 4. Methods: Group exercise   |
-| 7    | 13     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
-| 7    | 14     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
+| 7    | 13     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients   |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
+| 7    | 14     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients   |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
 | 8    | 15     |  06-Oct - 12-Oct| 5. Ethics in engineering and research |                                 |
 | 8    | 16     | 06-Oct - 12-Oct | **Class presentation 2: Introduction**                                  | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                                                                                                          |
 | 9    | 17     | 13-Oct - 19-Oct | 6. Expected results                                                     | [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due                                                                                                                      |
@@ -70,26 +74,32 @@ These topics and dates are tentative and subject to change based on class progre
 | 12   | 24     | 03-Sep - 09-Nov | **Class presentation 3: Methods**                                       | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                                                                                          |
 | 13   | 25     | 10-Nov - 16-Nov | 10. Presentation: Audience centric techniques                           | [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due                                                                                                                      |
 | 13   | 26     | 10-Nov - 16-Nov | 10. Presentation: Slide design                                                                                               |
-| 13   |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                        |                                                    | 
+| 13   |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                            |                                                    | 
 | 14   | 27-28  | 17-Nov - 23-Nov | Project day                                                             |                                                    |
 | 15   | 29     | 24-Nov - 25-Nov | Project day                                                             | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                                                                                                              |
 | 15   |        | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                      |                                                    |
 | 16   | 30-31  | Friday Dec 5 | **In-Person Proposal presentation**                                        | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm (Location TBD)                                                                       |
 
 #### Class Presentations 1–3 
-Please upload your class presentation before the start of the presentation week, and submit your peer review comments by the end of that week. For example, class Presentation 1: Research Problem (Week 5, Sep 15–Sep 21):
-- Presentation upload due: Sunday, Sep 14 at 11:59 PM
-- Peer review comments due: Sunday, Sep 21 at 11:59 PM
+- Upload your class presentation before the start of the presentation week, and submit your peer review comments by the end of that week.
+- For example, class Presentation 1: Research Problem (Week 5, Sep 15–Sep 21):
+    - Presentation upload due: Sunday, Sep 14 at 11:59 PM
+    - Peer review comments due: Sunday, Sep 21 at 11:59 PM
+- Submit your presentation by the due date to give your classmates enough time to review your presentation and provide meaningful feedback.
+- [Late Assignment Policy](#late-assignment-policy) will apply.  
 
 #### Laboratory Methods Classes
 - In-person and off-campus at the Emergent Technologies Institute (ETI)
 - Class : M W -- 04:30pm - 05:45pm 
 - Address: 16301 Innovation Ln, Fort Myers, FL 33913
 - Instructor: Huan Luong, Research Laboratory Manager, hluong@fgcu.edu, 239-745-4199
+
 If these laboratory methods classes do not align with your research interests or schedule, please inform the instructor that you will not be attending and provide a specific makeup plan that is directly related to your research proposal (e.g., watching relevant YouTube tutorials, reviewing methods papers, or completing targeted readings).
 
-### Recommended Text   
-Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative, and mixed methods approach (5th ed.): SAGE Publishing., Los Angeles.
+### General notes  
+- Grades Due from Faculty by noon Tuesday, 16 December 2025  
+- If you are falling behind, consult the academic calendar for the last day to drop: [https://www.fgcu.edu/academics/academiccalendar/](https://www.fgcu.edu/academics/academiccalendar/)  
+- Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
 ## Assessment and Grading  
 ### Grading scale  
@@ -103,17 +113,11 @@ The instructor may elect to employ a curve that favors the students.
 | B+ | 87% to 89.99% | C | 73% to 76.99% | F | Below 60% |
 | B | 83% to 86.99% | C- | 70% to 72.99% |
 
-
 ### Assessment plan (100%)  
 - Participation: 10%  
 - Homework: 20%  
 - Research project presentation: 25%  
 - Research project proposal: 45%  
-
-### General notes  
-- Grades Due from Faculty by noon Tuesday, 16 December 2025  
-- If you are falling behind, consult the academic calendar for the last day to drop: [https://www.fgcu.edu/academics/academiccalendar/](https://www.fgcu.edu/academics/academiccalendar/)  
-- Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
 ### Participation 
 For participation assessment, students are expected to:
@@ -144,12 +148,12 @@ Use of generative AI tools (e.g., ChatGPT, Gemini, Perplexity, Consensus) is pro
 - Absence will be execused after the verification of the submitted document
 - Any attempt to falsify documents will be taken very seriously in accordance with the [Policy for Academic Integrity Violations](#policy-for-academic-integrity-violations).
 
+### Financial Aid Statement  
+As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. Confirmation of attendance is required for all students, not only those receiving financial aid.
+
 ### Policy for Academic Integrity Violations  
 - Academic dishonesty in any course activity including participation, assignments, projects, or exams will result in a grade of zero for that submission and will be strictly addressed in line with FGCU policies and procedures. [FGCU Academic Integrity Flowchart](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)  
 - You are required to familiarize yourself with the FGCU Student Guidebook that outlines the consequences for academic integrity violations: [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/)
-
-### Financial Aid Statement  
-As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. Confirmation of attendance is required for all students, not only those receiving financial aid.
 
 ### Core Syllabus Policies  
 FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these online at: [FGCU Core Syllabus Policy Statements](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
