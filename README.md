@@ -73,7 +73,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 14   | 27     | 17-Nov - 23-Nov | Project day                                                                      |                                           |
 | 15   |        | 24-Nov - 25-Nov | Project day                                                                      | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                                                                                                              |
 | 15   | 28     | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                               |                                           |
-| 16   | 29-30  | Friday Dec 5 | **In-Person Proposal presentation**                                                 | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 PM to 8:00 PM (Location TBD)                                                                       |
+| 16   | 29-30  | Friday Dec 5 | **In-Person Proposal presentation**                                                 | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm (Location TBD)                                                                       |
 
 ***Class Presentations 1–3**   
     
@@ -81,7 +81,8 @@ Please upload your class presentation before the start of the presentation week,
 - Presentation upload due: Sunday, Sep 14 at 11:59 PM
 - Peer review comments due: Sunday, Sep 21 at 11:59 PM
 
-****Laboratory methods classes will be off-campus at the Emergent Technologies Institute (ETI)**
+****Laboratory methods classes**
+- In-person and off-campus at the Emergent Technologies Institute (ETI)
 - Class : M W -- 04:30pm - 05:45pm 
 - Address: 16301 Innovation Ln, Fort Myers, FL 33913
 - Instructor: Huan Luong, Research Laboratory Manager, hluong@fgcu.edu, 239-745-4199
