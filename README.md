@@ -69,11 +69,11 @@ These topics and dates are tentative and subject to change based on class progre
 | 12   | 24     | 03-Sep - 09-Nov | **Class presentation 3: Methods**                                                | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)*                                                                                                         |
 | 13   | 25     | 10-Nov - 16-Nov | 10. Presentation: Audience centric techniques                                    | [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due                                                                                                                      |
 | 13   | 26     | 10-Nov - 16-Nov | 10. Presentation: Slide design                                                   |                                           |
-| 13	  |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                                   |                                           | 
-| 14   | 27     | 17-Nov - 23-Nov | Project day                                                                      |                                           |
-| 15   |        | 24-Nov - 25-Nov | Project day                                                                      | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                                                                                                              |
-| 15   | 28     | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                               |                                           |
-| 16   | 29-30  | Friday Dec 5 | **In-Person Proposal presentation**                                                 | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm (Location TBD)                                                                       |
+| 13   |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                                 |                                           | 
+| 14   | 27-28  | 17-Nov - 23-Nov | Project day                                                                      |                                           |
+| 15   | 29     | 24-Nov - 25-Nov | Project day                                                                      | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                                                                                                              |
+| 15   |        | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                               |                                           |
+| 16   | 30-31  | Friday Dec 5 | **In-Person Proposal presentation**                                                 | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm (Location TBD)                                                                       |
 
 ***Class Presentations 1–3**   
     
