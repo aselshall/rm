@@ -53,7 +53,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 2    | 3      | 25-Aug - 31-Aug | 2. Foundations of research: Research problem                            | Participation Reading 2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric)                          |
 | 2    | 4      | 25-Aug - 31-Aug | 2. Foundations of research: Research proposal | [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1)         |
 | 2    |        | 01-Sep          | Labor Day Observed (no classes)                                         |                                                    |
-| 2    | 5      | 01-Sep - 07-Sep | 3. Literature review: Overview                                          |                                                    |
+| 3    | 5      | 01-Sep - 07-Sep | 3. Literature review: Overview                                          |                                                    |
 | 3    | 5      | 01-Sep - 07-Sep | 3. Literature review: Library resources - Guest lecture                 |                                                    |
 | 3    | 6      | 01-Sep - 07-Sep | 3. Literature review: Literature search                                 |                                                    |
 | 4    | 7      | 08-Sep - 14-Sep | 3. Literature review: Citation management                               | Install [Zotero](https://www.zotero.org/download/) |
@@ -61,10 +61,10 @@ These topics and dates are tentative and subject to change based on class progre
 | 5    | 9      | 15-Sep - 21-Sep | 3. Literature review: Technical writing                                 |                                                    |
 | 5    | 10     | 15-Sep - 21-Sep | **Class presentation 1: Research problem**                              | [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)                                                                                                          |
 | 6    | 11     | 22-Sep - 28-Sep | 4. Methods: Method development                                          | [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due                                                                                                                     |
-| 6    | 12     | 22-Sep - 28-Sep | 4. Methods: Group exercise   |
+| 6    | 12     | 22-Sep - 28-Sep | 4. Methods: Group exercise   |                                          |                                                    |
 | 7    | 13     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients   |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
 | 7    | 14     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients   |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
-| 8    | 15     |  06-Oct - 12-Oct| 5. Ethics in engineering and research |                                 |
+| 8    | 15     | 06-Oct - 12-Oct| 5. Ethics in engineering and research                                    |                                                    |
 | 8    | 16     | 06-Oct - 12-Oct | **Class presentation 2: Introduction**                                  | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                                                                                                          |
 | 9    | 17     | 13-Oct - 19-Oct | 6. Expected results                                                     | [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due                                                                                                                      |
 | 9    | 18     | 13-Oct - 19-Oct | 7. Title, abstract, and graphical abstract                              | Participation Reading 4: [So What?](https://aselshall.github.io/rm/hw/so-what)                                                                                                                      |
@@ -74,19 +74,11 @@ These topics and dates are tentative and subject to change based on class progre
 | 12   | 24     | 03-Sep - 09-Nov | **Class presentation 3: Methods**                                       | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                                                                                          |
 | 13   | 25     | 10-Nov - 16-Nov | 10. Presentation: Audience centric techniques                           | [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due                                                                                                                      |
 | 13   | 26     | 10-Nov - 16-Nov | 10. Presentation: Slide design                                                                                               |
-| 13   |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                            |                                                    | 
+| 13   |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                        |                                                    | 
 | 14   | 27-28  | 17-Nov - 23-Nov | Project day                                                             |                                                    |
 | 15   | 29     | 24-Nov - 25-Nov | Project day                                                             | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                                                                                                              |
 | 15   |        | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                      |                                                    |
 | 16   | 30-31  | Friday Dec 5 | **In-Person Proposal presentation**                                        | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm (Location TBD)                                                                       |
-
-#### Class Presentations 1–3 
-- Upload your class presentation before the start of the presentation week, and submit your peer review comments by the end of that week.
-- For example, class Presentation 1: Research Problem (Week 5, Sep 15–Sep 21):
-    - Presentation upload due: Sunday, Sep 14 at 11:59 PM
-    - Peer review comments due: Sunday, Sep 21 at 11:59 PM
-- Submit your presentation by the due date to give your classmates enough time to review your presentation and provide meaningful feedback.
-- [Late Assignment Policy](#late-assignment-policy) will apply.  
 
 #### Laboratory Methods Classes
 - In-person and off-campus at the Emergent Technologies Institute (ETI)
@@ -95,6 +87,17 @@ These topics and dates are tentative and subject to change based on class progre
 - Instructor: Huan Luong, Research Laboratory Manager, hluong@fgcu.edu, 239-745-4199
 
 If these laboratory methods classes do not align with your research interests or schedule, please inform the instructor that you will not be attending and provide a specific makeup plan that is directly related to your research proposal (e.g., watching relevant YouTube tutorials, reviewing methods papers, or completing targeted readings).
+
+#### Class Presentations 1–3 
+- Upload your class presentation on Canvas before the start of the presentation week, and submit your peer review comments by the end of that week.
+- For example, class Presentation 1: Research Problem (Week 5, Sep 15–Sep 21):
+    - Presentation upload due: Sunday, Sep 14 at 11:59 PM
+    - Peer review comments due: Sunday, Sep 21 at 11:59 PM
+- Instructor will not review any presentation submitted after the peer review due date.
+- Submit your presentation by the due date to give your classmates enough time to review your presentation and provide meaningful feedback.
+- You are required to review three classmates’ presentations and provide meaningful feedback.
+- Reviews are first come, first served, so if a presentation already has three reviews, choose one with fewer.
+- [Late Assignment Policy](#late-assignment-policy) will apply.  
 
 ### General notes  
 - Grades Due from Faculty by noon Tuesday, 16 December 2025  
@@ -130,8 +133,8 @@ These form the majority of your participation grade.
 - All written work is expected to be polished and professional. Clarity of expression, organization of materials, absence of typographical errors, correctness of grammar and spelling, and other communication skills are considered in evaluating written assignments.  
 - All work must be fully referenced with source material following proper citation format according to The American Geophysical Union style (paper provided as an example).  
 - All oral presentations are expected to be well-organized, practiced, professional, and with appropriate graphical or visual aids.  
-- Your work will be assessed based on rubrics posted on Canvas, peer-student feedback, and instructor observations. 
-
+- Your work will be assessed based on rubrics posted on Canvas, peer-student feedback, and instructor observations.
+  
 ## Course Policies
 
 ### Generative AI Policy  
