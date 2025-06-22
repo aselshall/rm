@@ -36,7 +36,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 ### Grading
 - Full Credit for all exit tickets submitted on time, participation questions fully answered, and participation log matches Canvas records
-- Partial credit for incomplete/mismatched logs or late submissions (for detail, see [late submission policy](https://aselshall.github.io/rm/#late-homework-policy))
+- Partial credit for incomplete/mismatched logs or late submissions (for detail, see [late submission policy](https://aselshall.github.io/rm/#late-assignment-policy))
 - No credit for missed exit tickets or participation Log
 
 ### Videos
