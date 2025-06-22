@@ -49,7 +49,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 2    | 3      | 25-Aug - 31-Aug | 2. Foundations of research: Research problem                            | Participation Reading 2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric)                          |
 | 2    | 4      | 25-Aug - 31-Aug | 2. Foundations of research: Research proposal | [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1)         |
 | 2    |        | 01-Sep          | Labor Day Observed (no classes)                                         |                                                    |
-| 2    | 4      | 25-Aug - 31-Aug | 3. Literature review: Overview | [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1)                        |
+| 2    | 5      | 01-Sep - 07-Sep | 3. Literature review: Overview                                          |                                                    |
 | 3    | 5      | 01-Sep - 07-Sep | 3. Literature review: Library resources - Guest lecture                 |                                                    |
 | 3    | 6      | 01-Sep - 07-Sep | 3. Literature review: Literature search                                 |                                                    |
 | 4    | 7      | 08-Sep - 14-Sep | 3. Literature review: Citation management                               | Install [Zotero](https://www.zotero.org/download/) |
@@ -116,66 +116,54 @@ The instructor may elect to employ a curve that favors the students.
 - If you are falling behind, consult the academic calendar for the last day to drop: [https://www.fgcu.edu/academics/academiccalendar/](https://www.fgcu.edu/academics/academiccalendar/)  
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
-### Participation and Attendance  
+### Participation 
 For participation assessment, students are expected to:
 - Watch recorded videos and fill-out exit tickets and [participation log](https://aselshall.github.io/rm/hw/participation)
 - Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
 These form the majority of your participation grade.
 
-
-### Assignment and Report Assessment  
+### Report and Presentation Assessment  
 - All written work is expected to be polished and professional. Clarity of expression, organization of materials, absence of typographical errors, correctness of grammar and spelling, and other communication skills are considered in evaluating written assignments.  
 - All work must be fully referenced with source material following proper citation format according to The American Geophysical Union style (paper provided as an example).  
 - All oral presentations are expected to be well-organized, practiced, professional, and with appropriate graphical or visual aids.  
-- Teamwork will be assessed using the teamwork rubric posted on Canvas, student surveys, and instructor observations. A student’s individual grade may be above or below the group grade based on these assessments.
+- Your work will be assessed based on rubrics posted on Canvas, peer-student feedback, and instructor observations. 
 
-### Late Assignment and Report Policy  
-- If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.  
-- The deadline may be extended for excused absences.  
-- Unexcused late submissions received after the deadline will incur a penalty of 10% per day of the total possible points for up to 50%.  
-- Once the solutions and grades are posted, late unexcused submissions will not be accepted, and a score of zero will be assigned.
+## Course Policies
+
+### Generative AI Policy  
+Use of generative AI tools (e.g., ChatGPT, Gemini, Perplexity, Consensus) is prohibited on any assignment marked “AI Not Permitted” and will result in a grade of zero. For all other work, AI use must be cited. Violations will be treated as academic dishonesty and will be subject to [Policy for Academic Integrity Violations](#policy-for-academic-integrity-violations).
+
+### Late Assignment Policy  
+- If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
+- Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
+- Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
+- Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
+
+### Execused Absence Policy
+- Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
+- Absence will be execused after the verification of the submitted document
+- Any attempt to falsify documents will be taken very seriously in accordance with the [Policy for Academic Integrity Violations](#policy-for-academic-integrity-violations).
 
 ### Policy for Academic Integrity Violations  
-- Academic dishonesty in assignments, projects, or exams will result in a grade of zero for that submission and will be strictly addressed in line with FGCU policies and procedures. [FGCU Academic Integrity Flowchart](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)  
-- Familiarize yourself with the FGCU Student Guidebook that outlines the consequences for academic integrity violations: [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/)
-
-## Program Learning Outcomes  
-The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows.
-
-### Content/Discipline Knowledge and Skills (DK) – MSE graduates will be able to:  
-1. Apply higher-level math, science, and engineering skills to research and/or design engineering systems, components, or processes to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability.  
-2. Understand the professional and ethical responsibilities associated with engineering practice and engineering research.  
-3. Use the techniques, skills, and modern engineering tools necessary for engineering practice and engineering research.  
-
-Content/discipline knowledge and skills are assessed at the program level using appropriate coursework including examinations, assignments, and presentations.
-
-### Communication Skills (CS) – MSE graduates will be able to:  
-1. Organize and relate ideas coherently in written, oral, and graphic form.  
-2. Develop and present consistent arguments to diverse audiences.
-
-Communication skills are assessed at the University, College, and Program levels through oral and written presentations, project reports, and other assignments throughout the curriculum.
-
-### Critical Thinking Skills (CT) – MSE graduates will be able to:  
-1. Identify problems and the relevant information needed to solve them.  
-2. Analyze and synthesize information and draw reasoned inferences.  
-3. Formulate and evaluate appropriate problem-solving strategies.
-
-Critical thinking skills are assessed at the University, College, and Program levels through oral and written presentations, project reports, exams, and other assignments throughout the curriculum.
+- Academic dishonesty in any course activity including participation, assignments, projects, or exams will result in a grade of zero for that submission and will be strictly addressed in line with FGCU policies and procedures. [FGCU Academic Integrity Flowchart](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)  
+- You are required to familiarize yourself with the FGCU Student Guidebook that outlines the consequences for academic integrity violations: [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/)
 
 ### Financial Aid Statement  
 As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. Confirmation of attendance is required for all students, not only those receiving financial aid.
 
-### Generative AI use  
-Generative AI such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text “LLM Not Permitted”. Students must cite the used generative AI tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
-
 ### Core Syllabus Policies  
 FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these online at: [FGCU Core Syllabus Policy Statements](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
+
+### Syllabus Change Policy  
+Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
+
+## Useful Information and Resources
+
+### Program Learning Outcomes  
+The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows: [Link](https://aselshall.github.io/rm/admin/outcome)
 
 ### FGCU Writing Lab  
 We're here to help students, faculty, and staff become more confident writers. To this end, we offer a variety of free services including one-on-one sessions with expert writing consultants, on-demand presentations on a range of writing-related topics, and a broad selection of handouts developed specifically for the needs of the FGCU community. [FGCU Writing Lab](https://www.fgcu.edu/academics/caa/writinglab/)
 
 ### High Performance Computing (HPC) Resources  
 HiPerGator AI: Access the fastest artificial intelligence supercomputer in higher education. FGCU is partnered with the University of Florida to provide faculty and students with unparalleled computing power. The possibilities are endless when applied to instruction, research, and course development. Please contact the University Help Desk to learn more.
-
-### Syllabus Change Policy  
-Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
