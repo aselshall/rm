@@ -81,7 +81,7 @@ Please upload your class presentation before the start of the presentation week,
 - Presentation upload due: Sunday, Sep 14 at 11:59 PM
 - Peer review comments due: Sunday, Sep 21 at 11:59 PM
 
-****Laboratory methods classes**
+****Laboratory Methods Classes**
 - In-person and off-campus at the Emergent Technologies Institute (ETI)
 - Class : M W -- 04:30pm - 05:45pm 
 - Address: 16301 Innovation Ln, Fort Myers, FL 33913
