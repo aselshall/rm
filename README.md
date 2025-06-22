@@ -55,19 +55,19 @@ These topics and dates are tentative and subject to change based on class progre
 | 4    | 7      | 08-Sep - 14-Sep | 3. Literature review: Citation management                               | Install [Zotero](https://www.zotero.org/download/) |
 | 4    | 8      | 08-Sep - 14-Sep | 3. Literature review: Writing your review                               | Participation Reading 3:  [Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717)                                                                                                            |
 | 5    | 9      | 15-Sep - 21-Sep | 3. Literature review: Technical writing                                 |                                                    |
-| 5    | 10     | 15-Sep - 21-Sep | **Class presentation 1: Research problem**                              | [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)*                                                                                                         |
+| 5    | 10     | 15-Sep - 21-Sep | **Class presentation 1: Research problem**                              | [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)                                                                                                          |
 | 6    | 11     | 22-Sep - 28-Sep | 4. Methods: Method development                                          | [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due                                                                                                                     |
 | 6    | 12     | 22-Sep - 28-Sep | 4. Methods: Group exercise   |
-| 7    | 13     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients** |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
-| 7    | 14     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients** |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
+| 7    | 13     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
+| 7    | 14     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
 | 8    | 15     |  06-Oct - 12-Oct| 5. Ethics in engineering and research |                                 |
-| 8    | 16     | 06-Oct - 12-Oct | **Class presentation 2: Introduction**                                  | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)*                                                                                                         |
+| 8    | 16     | 06-Oct - 12-Oct | **Class presentation 2: Introduction**                                  | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                                                                                                          |
 | 9    | 17     | 13-Oct - 19-Oct | 6. Expected results                                                     | [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due                                                                                                                      |
 | 9    | 18     | 13-Oct - 19-Oct | 7. Title, abstract, and graphical abstract                              | Participation Reading 4: [So What?](https://aselshall.github.io/rm/hw/so-what)                                                                                                                      |
 | 10   | 19-20  | 20-Oct - 26-Oct | 8. FAIR data principles and data management plan                        |                                                    |
 | 11   | 21-22  | 27-Oct - 02-Nov | 9. Publication quality figures                                          |                                                    |
 | 12   | 23     | 03-Sep - 09-Nov | Project day                                                             |                                                    |
-| 12   | 24     | 03-Sep - 09-Nov | **Class presentation 3: Methods**                                       | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)*                                                                                                         |
+| 12   | 24     | 03-Sep - 09-Nov | **Class presentation 3: Methods**                                       | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                                                                                          |
 | 13   | 25     | 10-Nov - 16-Nov | 10. Presentation: Audience centric techniques                           | [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due                                                                                                                      |
 | 13   | 26     | 10-Nov - 16-Nov | 10. Presentation: Slide design                                                                                               |
 | 13   |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                        |                                                    | 
@@ -76,18 +76,17 @@ These topics and dates are tentative and subject to change based on class progre
 | 15   |        | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                      |                                                    |
 | 16   | 30-31  | Friday Dec 5 | **In-Person Proposal presentation**                                        | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm (Location TBD)                                                                       |
 
-***Class Presentations 1–3**   
-    
+#### Class Presentations 1–3 
 Please upload your class presentation before the start of the presentation week, and submit your peer review comments by the end of that week. For example, class Presentation 1: Research Problem (Week 5, Sep 15–Sep 21):
 - Presentation upload due: Sunday, Sep 14 at 11:59 PM
 - Peer review comments due: Sunday, Sep 21 at 11:59 PM
 
-****Laboratory Methods Classes**
+#### Laboratory Methods Classes
 - In-person and off-campus at the Emergent Technologies Institute (ETI)
 - Class : M W -- 04:30pm - 05:45pm 
 - Address: 16301 Innovation Ln, Fort Myers, FL 33913
 - Instructor: Huan Luong, Research Laboratory Manager, hluong@fgcu.edu, 239-745-4199
-- If these laboratory methods classes do not align with your research interests or schedule, please inform the instructor that you will not be attending and provide a specific makeup plan that is directly related to your research proposal (e.g., watching relevant YouTube tutorials, reviewing methods papers, or completing targeted readings).
+If these laboratory methods classes do not align with your research interests or schedule, please inform the instructor that you will not be attending and provide a specific makeup plan that is directly related to your research proposal (e.g., watching relevant YouTube tutorials, reviewing methods papers, or completing targeted readings).
 
 ### Recommended Text   
 Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative, and mixed methods approach (5th ed.): SAGE Publishing., Los Angeles.
@@ -119,7 +118,8 @@ The instructor may elect to employ a curve that favors the students.
 ### Participation 
 For participation assessment, students are expected to:
 - Watch recorded videos and fill-out exit tickets and [participation log](https://aselshall.github.io/rm/hw/participation)
-- Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
+- Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions   
+
 These form the majority of your participation grade.
 
 ### Report and Presentation Assessment  
