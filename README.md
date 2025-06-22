@@ -12,7 +12,8 @@ Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
 **EGN 6457 Research Methods (CRN: 83614)**  
 Credit hours: 3  
 Class: Online Asynchronous   
-Exam: In-person Final Presentation on Friday Dec 5 from 5:30 pm to 8:00 pm (Location TBD)
+Exam: Research Proposal 
+Exam: Final Presentation (In-person on Friday Dec 5 from 5:30 pm to 8:00 pm at Location TBD)
 
 ### Instructor  
 **Ahmed S. Elshall, PhD**  
