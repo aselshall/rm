@@ -12,7 +12,7 @@ Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
 **EGN 6457 Research Methods (CRN: 83614)**  
 Credit hours: 3  
 Class: Online Asynchronous
-Exam: Final Presentation and Report (Time and Location TBD)
+Exam: In-person Final Presentation on Friday Dec 5 from 5:30 pm to 8:00 pm (Location TBD)
 
 ### Instructor  
 **Ahmed S. Elshall, PhD**  
@@ -42,46 +42,53 @@ By the end of this course, students will be able to:
 ## Course Schedule  
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on Canvas.
 
-| Week | Lesson | Date       | Topics/In-class activities                   | Remarks                                   |
-|------|--------|------------|----------------------------------------------|-------------------------------------------|
-| 1    | 1      | 18-Aug - 24-Aug     | 1. Introduction to Research Methods course      | Participation Reading 1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) |
-| 1    | 2      | 18-Aug - 24-Aug      | 2. Foundations of research: Research paradigms |                                           |
-| 2    | 3      | 25-Aug - 31-Aug    | 2. Foundations of research: Research problem  |                                           |
-| 2    | 4      | 25-Aug - 31-Aug    | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview| Reading HW2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric) |
-| 2    |        | 01-Sep          | Labor Day Observed (no classes)    |                                           |
-| 3    | 5      | 3-Sep      | 3. Literature review: Library resources - Guest lecture| [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1) due |
-| 3    | 6      | 5-Sep      | 3. Literature review: Literature search                 |                                           |
-| 4    | 7      | 10-Sep     | 3. Literature review: Citation management        |  Install [Zotero](https://www.zotero.org/download/) before class               |
-| 4    | 8      | 12-Sep     | 3. Literature review: Writing your review | Reading HW3:  [Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717) |
-| 5    | 9      | 17-Sep     | **Class presentation 1: Research problem** |   [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)                                        |
-| 5    | 10       | 19-Sep     | **Class presentation 1: Research problem**  | [Class presentation 1: Research problem](https://aselshall.github.io/rm/hw/class-presentation1)                                         |
-| 6    | 11       | 24-Sep     | 4. Methods: Laboratory methods ICP-MS* |  [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due<br> Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)            |
-| 6    | 12       | 26-Sep     | 4. Methods: Laboratory methods TOC, Nutrients*               | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                         |
-| 7    | 13       | 1-Oct      | 4. Methods: Laboratory methods HPLC*                    | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                           |
-| 7    | 14       | 3-Oct      | 4. Methods: Laboratory methods GC/MS*         | Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                           |
-| 8    | 15       | 8-Oct      | **Class presentation 2: Introduction**                   | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                      |
-| 8    | 16       | 10-Oct     | **Class presentation 2: Introduction**                    | [Class presentation 2: Introduction](https://aselshall.github.io/rm/hw/class-presentation2)                                          |
-| 9    | 17       | 15-Oct     | 4. Methods: Method development |     |
-| 9    |          | 17-Oct     | Study Day (no classes)                        | [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due                                          |
-| 10   | 18       | 22-Oct     | 4. Methods: Group exercise   |                                           |
-| 10   | 19       | 24-Oct     | 5. Ethics in engineering and research |                                           |
-| 11   | 20       | 29-Oct     | 6. Expected results |                                           |
-| 11   | 21       | 31-Oct     | 7. Title, abstract, and graphical abstract | Reading HW4: [So What?](https://aselshall.github.io/rm/hw/so-what)  |
-| 12   |          | 5-Nov      | Study Day (no classes)                        |                                           |
-| 12   | 22       | 7-Nov      | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                                           |
-| 13   | 23       | 12-Nov     | **Class presentation 3: Methods**                  | [Class presentation 3: Methods](https://aselshall.github.io/rm/hw/class-presentation3)                            |
-| 13   | 24       | 14-Nov     | 8. FAIR data principles and data management plan |    [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due    |
-| 14   | 25       | 19-Nov     | 9. Publication quality figures |                                           |
-| 14   | 26       | 21-Nov     | 10. Presentation: Audience centric techniques |                                           |
-| 15   | 27       | 26-Nov     | 10. Presentation: Slide design | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                              |
-| 15   |          | 28-Nov     | Thanksgiving Day - No class                   |                                           |
-| 16   | 28       | 3-Dec      | Project day                       |  |
-| 16   | 29       | 5-Dec      | Project day                         |         |
-| 17   | 30       | 10-Dec      | **Proposal presentation**                         | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw)         |
+| Week | Lesson | Date            | Topics/In-class activities                                                       | Remarks                                   |
+|------|--------|-----------------|----------------------------------------------------------------------------------|-------------------------------------------|
+| 1    | 1      | 18-Aug - 24-Aug | 1. Introduction to Research Methods course                                       | Participation Reading 1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics)                                      |
+| 1    | 2      | 18-Aug - 24-Aug | 2. Foundations of research: Research paradigms                                   |                                           |
+| 2    | 3      | 25-Aug - 31-Aug | 2. Foundations of research: Research problem                                     | Participation Reading 2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric)                  |
+| 2    | 4      | 25-Aug - 31-Aug | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview | [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1)                                                                                                                          |
+| 2    |        | 01-Sep          | Labor Day Observed (no classes)                                                  |                                           |
+| 3    | 5      | 01-Sep - 07-Sep | 3. Literature review: Library resources - Guest lecture                          |                                           |
+| 3    | 6      | 01-Sep - 07-Sep | 3. Literature review: Literature search                                          |                                           |
+| 4    | 7      | 08-Sep - 14-Sep | 3. Literature review: Citation management                                        |  Install [Zotero](https://www.zotero.org/download/)                                                                                                                               |
+| 4    | 8      | 08-Sep - 14-Sep |  3. Literature review: Writing your review                                       | Participation Reading 3:  [Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717)                                                                                             |
+| 5    | 9      | 15-Sep - 21-Sep | 3. Literature review: Technical writing                                          |                                           |
+| 5    | 10     | 15-Sep - 21-Sep | **Class presentation 1: Research problem**                                       | [Class presentation 1: Research problem**](https://aselshall.github.io/rm/hw/class-presentation1)                                                                                                          |
+| 6    | 11     | 22-Sep - 28-Sep | 4. Methods: Method development                                                   | [HW2 Develop a research question](https://aselshall.github.io/rm/hw/hw2)  due                                                                                                                     |
+| 6    | 12     | 22-Sep - 28-Sep | 4. Methods: Group exercise   |
+| 7    | 13     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients**          |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
+| 7    | 14     | 29-Sep - 05-Oct | 4. Methods: Laboratory methods ICP-MS, HPLC, GC/MS, TOC, or Nutrients**          |  Class meeting off-campus at [ETI](https://www.google.com/maps/place/16301+Innovation+Ln,+Fort+Myers,+FL+33913)                                                                                    |
+| 8    | 15     |  06-Oct - 12-Oct| 5. Ethics in engineering and research |                                          |
+| 8    | 16     | 06-Oct - 12-Oct | **Class presentation 2: Introduction**                                           | [Class presentation 2: Introduction*](https://aselshall.github.io/rm/hw/class-presentation2)                                                                                                          |
+| 9    | 17     | 13-Oct - 19-Oct | 6. Expected results                                                              | [HW3 Write the introduction](https://aselshall.github.io/rm/hw/hw3) due                                                                                                                      |
+| 9    | 18     | 13-Oct - 19-Oct | 7. Title, abstract, and graphical abstract                                       | Reading HW4: [So What?](https://aselshall.github.io/rm/hw/so-what)                                                                                                                      |
+| 10   | 19-20  | 20-Oct - 26-Oct | 8. FAIR data principles and data management plan                                 |                                           |
+| 11   | 21-22  | 27-Oct - 02-Nov | 9. Publication quality figures                                                   |                                           |
+| 12   | 23     | 03-Sep - 09-Nov | Project day                                                                      |                                           |
+| 12   | 24     | 03-Sep - 09-Nov | **Class presentation 3: Methods**                                                | [Class presentation 3: Methods*](https://aselshall.github.io/rm/hw/class-presentation3)                                                                                                          |
+| 13   | 25     | 10-Nov - 16-Nov | 10. Presentation: Audience centric techniques                                    | [HW4 Method development](https://aselshall.github.io/rm/hw/hw4) due                                                                                                                      |
+| 13   | 26     | 10-Nov - 16-Nov | 10. Presentation: Slide design                                                   |                                           |
+| 13	  |        |Tuesday 11-Nov	  |Veteran's Day (no classes)		                                                      |                                           | 
+| 14   | 27     | 17-Nov - 23-Nov | Project day                                                                      |                                           |
+| 15   |        | 24-Nov - 25-Nov | Project day                                                                      | [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw) due                                                                                                              |
+| 15   | 28     | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                               |                                           |
+| 16   | 29-30  | Friday Dec 5 | **Proposal presentation*****                                                        | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 PM to 8:00 PM                                                                                      |
 
-* Laboratory methods classes will be off-campus at the Emergent Technologies Institute (ETI):  
-Address: 16301 Innovation Ln, Fort Myers, FL 33913  
-Instructor: Huan Luong, Research Laboratory Manager, hluong@fgcu.edu, 239-745-4199
+* Class Presentations 1–3
+- Please upload your class presentation before the start of the presentation week, and submit your peer review comments by the end of that week.
+  - For example: Class Presentation 1: Research Problem (Week 5, Sep 15–Sep 21)
+     - Presentation upload due: Sunday, Sep 14 at 11:59 PM
+     - Peer review comments due: Sunday, Sep 21 at 11:59 PM
+- The same applies for Presentations 2 and 3. 
+
+** Laboratory methods classes will be off-campus at the Emergent Technologies Institute (ETI):
+- Class : M W -- 04:30pm - 05:45pm 
+- Address: 16301 Innovation Ln, Fort Myers, FL 33913
+- Instructor: Huan Luong, Research Laboratory Manager, hluong@fgcu.edu, 239-745-4199
+- If these laboratory methods classes do not align with your research interests or schedule, please inform the instructor that you will not be attending and provide a specific makeup plan that is directly related to your research proposal (e.g., watching relevant YouTube tutorials, reviewing methods papers, or completing targeted readings).
+
+*** Final presentation is in-person  
 
 ### Recommended Text   
 Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative, and mixed methods approach (5th ed.): SAGE Publishing., Los Angeles.
