@@ -2,8 +2,8 @@
 
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-EGN 6457 Research Methods, Fall 2024  
-_Last updated: Oct 15, 2024_
+EGN 6457 Research Methods, Fall 2025  
+_Last updated: Jun 22, 2024_
 
 The Big Picture: [Link](https://aselshall.github.io/rm/hw/big-picture)  
 Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
@@ -11,8 +11,8 @@ Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
 ## Course Information  
 **EGN 6457 Research Methods (CRN: 83614)**  
 Credit hours: 3  
-Class: T R -- 04:30pm - 05:45pm -- Reed Hall 237 (Tue Aug 20 – Thu Dec 5)  
-Exam: Final Presentation and Report  
+Class: Online Asynchronous
+Exam: Final Presentation and Report (Time and Location TBD)
 
 ### Instructor  
 **Ahmed S. Elshall, PhD**  
@@ -24,7 +24,7 @@ Office: Holmes Hall 423 (inside 416)
 Phone: (239) 590-7591  
 Email: aelshall@fgcu.edu  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com)  
-Office Hours: Tuesday and Thursday 8:30 am – 4:00 pm and by appointment  
+Office Hours: Tuesday and Thursday 2:00 PM – 4:00 PM and by appointment  
 
 ### Course Description   
 The application of fundamental research to engineering and environmental problems. The course emphasizes theory and methods of conducting advanced research, including the scientific method.
@@ -33,22 +33,22 @@ The application of fundamental research to engineering and environmental problem
 By the end of this course, students will be able to:  
 - Formulate a detailed and feasible research plan for academic or industry-oriented projects, incorporating clear objectives, methodologies, and timelines.  
 - Conduct literature reviews and use advanced citation management tools to organize sources.  
-- Identify and explain major water resources and environmental engineering laboratory methods, understanding their applications and limitations.  
+- Identify and explain major methods related to your research, understanding their applications and limitations.  
 - Develop research-grade survey instruments that ensure data reliability and validity, tailored to specific research questions.  
-- Write detailed research proposals that clearly communicate research objectives, methods, and expected outcomes.  
+- Write detailed research proposals that clearly communicate research objectives, methods, expected outcomes, and timeline.
+- Develop data management plans adhering to the FAIR (Findable, Accessible, Interoperable, Reusable) data principles to ensure proper handling and sharing of research data.  
 - Deliver clear, concise, and persuasive oral presentations of research proposals.  
 - Critically evaluate research papers and proposals, providing constructive feedback and identifying strengths and areas for improvement.  
-- Develop data management plans adhering to the FAIR (Findable, Accessible, Interoperable, Reusable) data principles to ensure proper handling and sharing of research data.  
-
 ## Course Schedule  
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on Canvas.
 
 | Week | Lesson | Date       | Topics/In-class activities                   | Remarks                                   |
 |------|--------|------------|----------------------------------------------|-------------------------------------------|
-| 1    | 1      | 20-Aug     | 1. Introduction to Research Methods course      | Reading HW1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) |
-| 1    | 2      | 22-Aug     | 2. Foundations of research: Research paradigms |                                           |
-| 2    | 3      | 27-Aug     | 2. Foundations of research: Research problem  |                                           |
-| 2    | 4      | 29-Aug     | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview| Reading HW2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric) |
+| 1    | 1      | 18-Aug - 24-Aug     | 1. Introduction to Research Methods course      | Participation Reading 1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics) |
+| 1    | 2      | 18-Aug - 24-Aug      | 2. Foundations of research: Research paradigms |                                           |
+| 2    | 3      | 25-Aug - 31-Aug    | 2. Foundations of research: Research problem  |                                           |
+| 2    | 4      | 25-Aug - 31-Aug    | 2. Foundations of research: Research proposal<br> 3. Literature review: Overview| Reading HW2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric) |
+| 2    |        | 01-Sep          | Labor Day Observed (no classes)    |                                           |
 | 3    | 5      | 3-Sep      | 3. Literature review: Library resources - Guest lecture| [HW1 Select a research topic](https://aselshall.github.io/rm/hw/hw1) due |
 | 3    | 6      | 5-Sep      | 3. Literature review: Literature search                 |                                           |
 | 4    | 7      | 10-Sep     | 3. Literature review: Citation management        |  Install [Zotero](https://www.zotero.org/download/) before class               |
@@ -90,12 +90,14 @@ Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative
 ### Grading scale  
 The instructor may elect to employ a curve that favors the students.
 
-| Grade | Percentage   | Grade | Percentage   | Grade | Percentage   |
-|-------|--------------|-------|--------------|-------|--------------|
-| A     | 93% or above | B-    | 80% to 82.99%| D+    | 67% to 69.99%|
-| A-    | 90% to 92.99%| C+    | 77% to 79.99%| D     | 63% to 66.99%|
-| B+    | 87% to 89.99%| C     | 73% to 76.99%| D-    | 60% to 62.99%|
-| B     | 83% to 86.99%| C-    | 70% to 72.99%| F     | Below 60%    |
+The instructor may elect to employ a curve that favors the students.
+| Grade | Range | Grade| Range | Grade | Range |
+| --- | --- | --- | --- | --- | --- |
+| A | 94% or above | B- | 80% to 82.99% | D+ | 67% to 69.99% |
+| A- | 90% to 93.99% | C+ | 77% to 79.99% | D | 60% to 66.99% |
+| B+ | 87% to 89.99% | C | 73% to 76.99% | F | Below 60% |
+| B | 83% to 86.99% | C- | 70% to 72.99% |
+
 
 ### Assessment plan (100%)  
 - Participation: 10%  
@@ -207,14 +209,3 @@ HiPerGator AI: Access the fastest artificial intelligence supercomputer in highe
 
 ### Syllabus Change Policy  
 Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
-
-### Hurricane Revision
-**Hurricane Helene**
-- Missed Lab: "Methods: Laboratory methods TOC, Nutrients"
-- Makeup Plan: Lab rescheduled for October 17 at ETI
-
-**Hurricane Milton**
-- Missed Lectures: "Class Presentation 2: Introduction" on October 8 and October 10
-- Makeup Plan:
-  - "Class Presentation 2: Introduction" rescheduled to October 22 and October 24
-  - The lessons "FAIR data principles and data management plan" and "Publication quality figures" will be asynchronous, with video postings, discussion chats, and participation quizzes on Canvas
