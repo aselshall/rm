@@ -130,11 +130,15 @@ For participation assessment, students are expected to:
 These form the majority of your participation grade.
 
 ### Report and Presentation Assessment  
+- Effective time management is key for success in this course. For example, students who request additional final proposal reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback.
+- Last-day requests should be limited to specific and legitimate questions, not for reviewing entire proposal or resolving issues stemming from ignored feedback throughout the semester.
+- Teamwork is a key skill and the student is expected to engage with the instructor and advisor as collaborative team members.
+- Your grade will reflect your professional attitude and professional maturity during the course including addressing instructor feedback constructively and showing steady improvement.
 - All written work is expected to be polished and professional. Clarity of expression, organization of materials, absence of typographical errors, correctness of grammar and spelling, and other communication skills are considered in evaluating written assignments.  
-- All work must be fully referenced with source material following proper citation format according to The American Geophysical Union style (paper provided as an example).  
+- All work must be fully referenced with source material following proper citation format according to The American Geophysical Union style.
 - All oral presentations are expected to be well-organized, practiced, professional, and with appropriate graphical or visual aids.  
 - Your work will be assessed based on rubrics posted on Canvas, peer-student feedback, and instructor observations.
-  
+ 
 ## Course Policies
 
 ### Generative AI Policy  
