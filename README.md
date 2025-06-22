@@ -145,7 +145,7 @@ These form the majority of your participation grade.
 ### Generative AI Policy  
 Use of generative AI tools (e.g., ChatGPT, Gemini, Perplexity, Consensus) is prohibited on any assignment marked “AI Not Permitted” and will result in a grade of zero. For all other work, AI use must be cited. Violations will be treated as academic dishonesty and will be subject to [Policy for Academic Integrity Violations](#policy-for-academic-integrity-violations).
 
-### Late Assignment Policy  
+### Late Submission Policy  
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
