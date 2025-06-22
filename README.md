@@ -3,7 +3,7 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 EGN 6457 Research Methods, Fall 2025  
-_Last updated: Jun 22, 2024_
+_Last updated: Jun 22, 2025_
 
 The Big Picture: [Link](https://aselshall.github.io/rm/hw/big-picture)  
 Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
