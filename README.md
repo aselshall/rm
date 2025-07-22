@@ -7,7 +7,6 @@ _Last updated: Jun 22, 2025_
 
 The Big Picture: [Link](https://aselshall.github.io/rm/hw/big-picture)  
 Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)   
-Past Student Proposals and Projects: [Link](https://aselshall.github.io/pr/hw/rubric#student-project)
 
 ## Course Information  
 **EGN 6457 Research Methods (CRN: 83614)**  
