@@ -8,6 +8,7 @@ Submit your research proposal on Canvas by following this outline: [Research pro
 - Research proposal sample: [Link](https://aselshall.github.io/rm/hw/proposal-sample1.pdf)
 - Research proposal presentation: [Link](https://aselshall.github.io/rm/hw/presentation-hw)
 - Late submission policy: [Link](https://aselshall.github.io/rm/#late-submission-policy)
+- Past Student Proposals and Projects: [Link](https://aselshall.github.io/pr/hw/rubric#student-project)  
 
 ### Learning objectives
 Research methods are not just for academic purposes, but they are useful skills for your future as an engineer. Even if you are not particularly interested in research, by completing this proposal assignment, you will develop transferable skills including soft skills for your engineering career.
