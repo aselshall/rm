@@ -110,6 +110,7 @@ If these laboratory methods classes do not align with your research interests or
 The instructor may elect to employ a curve that favors the students.
 
 The instructor may elect to employ a curve that favors the students.
+
 | Grade | Range | Grade| Range | Grade | Range |
 | --- | --- | --- | --- | --- | --- |
 | A | 94% or above | B- | 80% to 82.99% | D+ | 67% to 69.99% |
