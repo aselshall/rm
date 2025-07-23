@@ -119,8 +119,8 @@ The instructor may elect to employ a curve that favors the students.
 | B | 83% to 86.99% | C- | 70% to 72.99% |
 
 ### Assessment plan (100%)  
-- Participation: 30%  
-- Homework: 20%  
+- Participation: 35%  
+- Homework: 15%  
 - Research project presentation: 25%  
 - Research project proposal: 25%  
 
