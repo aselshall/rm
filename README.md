@@ -43,7 +43,7 @@ By the end of this course, students will be able to:
 
 ### Recommended Textbooks   
 - Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative, and mixed methods approach (5th ed.), SAGE Publishing, Los Angeles.
-- Tanng, H. (2021), Engineering Research: Desgin, Methods, and Publication (1st ed.), Wiley, Hoboken. 
+- Tanng, H. (2021), Engineering Research: Design, Methods, and Publication (1st ed.), Wiley, Hoboken. 
 
 ## Course Schedule  
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on Canvas.
