@@ -32,14 +32,14 @@ The application of fundamental research to engineering and environmental problem
 
 ### Course Learning Objectives  
 By the end of this course, students will be able to:  
-- Formulate a detailed and feasible research plan for academic or industry-oriented projects, incorporating clear objectives, methodologies, and timelines.  
-- Conduct literature reviews and use advanced citation management tools to organize sources.  
-- Identify and explain major methods related to your research, understanding their applications and limitations.  
-- Develop research-grade survey instruments that ensure data reliability and validity, tailored to specific research questions.  
-- Write detailed research proposals that clearly communicate research objectives, methods, expected outcomes, and timeline.
-- Develop data management plans adhering to the FAIR (Findable, Accessible, Interoperable, Reusable) data principles to ensure proper handling and sharing of research data.  
-- Deliver clear, concise, and persuasive oral presentations of research proposals.  
-- Critically evaluate research papers and proposals, providing constructive feedback and identifying strengths and areas for improvement.  
+- **Formulate a detailed and feasible research plan** for academic or industry-oriented projects, incorporating clear objectives, methodologies, and timelines.  
+- **Conduct literature reviews** and use advanced citation management tools to organize sources.  
+- **Identify and explain major methods** related to your research, understanding their applications and limitations.  
+- **Develop research-grade survey instruments** that ensure data reliability and validity, tailored to specific research questions.  
+- **Write detailed research proposals** that clearly communicate research objectives, methods, expected outcomes, and timeline.
+- **Develop data management plans** adhering to the FAIR (Findable, Accessible, Interoperable, Reusable) data principles to ensure proper handling and sharing of research data.  
+- **Deliver clear, concise, and persuasive oral presentations** of research proposals.  
+- **Critically evaluate research papers and proposals**, providing constructive feedback and identifying strengths and areas for improvement.  
 
 ### Recommended Text   
 Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative, and mixed methods approach (5th ed.): SAGE Publishing., Los Angeles.
