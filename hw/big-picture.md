@@ -5,7 +5,7 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 # [EGN 6457 Research Methods](https://aselshall.github.io/rm)
 <h2 style="color:blue">Understand</h2>
 
-**1. Identify a research topic** (<span style="color:red">**[Homework 1](https://aselshall.github.io/rm/hw/hw1)**</span>)
+**1. Identify a research topic** (<span style="color:red">**[Check-in 1](https://aselshall.github.io/rm/hw/hw1)**</span>)
    - Identify a feasible project that interests you, aligns with your goals, and preferably relates to your work
       - Seek guidance and discuss feasibility with an expert, such as an FGCU faculty, coworker, or your course instructor
       - Factors to consider in selecting a research problem include feasibility, personal interest, scope, expert guidance, significance, as discussed in class
@@ -13,7 +13,7 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 
    **Objective:** By the end of this stage, you should have identified a feasible project idea that aligns with your interests.
 
-**2. Develop a research question** (<span style="color:red">**[Homework 2](https://aselshall.github.io/rm/hw/hw2)**</span> and 
+**2. Develop a research question** (<span style="color:red">**[Check-in 2](https://aselshall.github.io/rm/hw/hw2)**</span> and 
 <span style="color:red">**[Presentation 1](https://aselshall.github.io/rm/hw/class-presentation1)**</span>)
    - Conduct an exploratory literature review to refine your topic and start developing a research question
       - Keep your research problem realistic by considering available resources, data collection, your skills, and time constraints
@@ -25,7 +25,7 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
    
    **Objective:** By this step you should have a preliminary plan and clear understanding of what you want to do.
 
-**3. Write the introduction** (<span style="color:red">**[Homework 3](https://aselshall.github.io/rm/hw/hw3)**</span> and 
+**3. Write the introduction** (<span style="color:red">**[Check-in 3](https://aselshall.github.io/rm/hw/hw3)**</span> and 
 <span style="color:red">**[Presentation 2](https://aselshall.github.io/rm/hw/class-presentation2)**</span>)
    - Conduct an in-depth literature review which will form the basis of the proposal introduction:
      - **Why** is this research important?
@@ -42,7 +42,7 @@ The objective of [EGN 6457 Research Methods](https://aselshall.github.io/rm), fo
 
 <h2 style="color:blue">Plan</h2>
 
-**4. Method development** (<span style="color:red">**[Homework 4](https://aselshall.github.io/rm/hw/hw4)**</span> and 
+**4. Method development** (<span style="color:red">**[Check-in 4](https://aselshall.github.io/rm/hw/hw4)**</span> and 
 <span style="color:red">**[Presentation 3](https://aselshall.github.io/rm/hw/class-presentation3)**</span>)
    - **How**: Develop your method by detailing the key components of your research process including
       - Study duration by defining the timeline and key phases of your study
