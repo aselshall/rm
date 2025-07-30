@@ -81,7 +81,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 15   |        | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                      |                                                    |
 | 16   | 30-31  | Friday Dec 5 | **In-Person proposal presentation**                                        | [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm at Merwin Hall 105                                                                      |
 
-#### Laboratory Methods Classes
+### Laboratory Methods Classes
 - In-person and off-campus at the Emergent Technologies Institute (ETI)
 - Class : M W -- 04:30pm - 05:45pm 
 - Address: 16301 Innovation Ln, Fort Myers, FL 33913
@@ -89,12 +89,22 @@ These topics and dates are tentative and subject to change based on class progre
 
 If these laboratory methods classes do not align with your research interests or schedule, please inform the instructor that you will not be attending and provide a specific makeup plan that is directly related to your research proposal (e.g., watching relevant YouTube tutorials, reviewing methods papers, or completing targeted readings).
 
-#### Class Presentations 1–3 
+### Homework 1–4
+#### Homework 1 (Topic Identification):
+- You are required to submit Homework 1.
+- This submission will contribute toward your participation grade.
+- It helps ensure your selected topic is feasible, clear, and aligns with your interests and resources.
+
+#### Homework 2–4 (Research Question, Introduction, Method):**
+- These tasks are structured as non-graded checkpoints.
+- You will discuss these checkpoints directly with your supervisor.
+- These checkpoints ensure that your research progresses steadily, with opportunities for expert feedback from your supervisor.
+
+### Class Presentations 1–3 
 - Upload your class presentation on Canvas before the start of the presentation week, and submit your peer review comments by the end of that week.
 - For example, class Presentation 1: Research Problem (Week 5, Sep 15–Sep 21):
     - Presentation upload due: Sunday, Sep 14 at 11:59 PM
     - Peer review comments due: Sunday, Sep 21 at 11:59 PM
-- Instructor will not review any presentation submitted after the peer review due date.
 - Submit your presentation by the due date to give your classmates enough time to review your presentation and provide meaningful feedback.
 - You are required to review three classmates’ presentations and provide meaningful feedback.
 - Reviews are first come, first served, so if a presentation already has three reviews, choose one with fewer.
@@ -119,8 +129,7 @@ The instructor may elect to employ a curve that favors the students.
 | B | 83% to 86.99% | C- | 70% to 72.99% |
 
 ### Assessment plan (100%)  
-- Participation: 35%  
-- Homework: 15%  
+- Participation: 50%  
 - Research project presentation: 25%  
 - Research project proposal: 25%  
 
