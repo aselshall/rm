@@ -95,7 +95,7 @@ If these laboratory methods classes do not align with your research interests or
 - This submission will contribute toward your participation grade.
 - It helps ensure your selected topic is feasible, clear, and aligns with your interests and resources.
 
-#### Homework 2–4 (Research Question, Introduction, Method):**
+#### Homework 2–4 (Research Question, Introduction, Method):
 - These tasks are structured as non-graded checkpoints.
 - You will discuss these checkpoints directly with your supervisor.
 - These checkpoints ensure that your research progresses steadily, with opportunities for expert feedback from your supervisor.
