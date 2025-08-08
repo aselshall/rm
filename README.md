@@ -57,7 +57,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 2    | 25-Aug - 31-Aug | 2. Literature review: Overview                                          |                                                    |
 | 2    | 01-Sep          | Labor Day Observed (no classes)                                         |                                                    |
 | 3    | 01-Sep - 07-Sep | 2. Literature review: Library resources - Guest lecture                 |                                                    |
-| 3    | 01-Sep - 07-Sep | 3. Literature review: Literature search                                 | [HW1 Select a research topic (graded)](https://aselshall.github.io/rm/hw/hw1)                                                                                                                          |
+| 3    | 01-Sep - 07-Sep | 2. Literature review: Literature search                                 | [HW1 Select a research topic (graded)](https://aselshall.github.io/rm/hw/hw1)                                                                                                                          |
 | 3    | 01-Sep - 07-Sep | 2. Literature review: Citation management                               | Install [Zotero](https://www.zotero.org/download/) |
 | 3    | 08-Sep - 14-Sep | 2. Literature review: Writing your review                               | Participation Reading 3:  [Why it is a blessing to be rejected](https://doi.org/10.1016/j.ejrh.2020.100717)                                                                                                            |
 | 4    | 08-Sep - 14-Sep | 2. Literature review: Technical writing                                 |                                                    |
