@@ -81,7 +81,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 14   | 17-Nov - 23-Nov | Project day                                                             |                                                    |
 | 15   | 24-Nov - 25-Nov | Project day                                                             | Due: [Research proposal](https://aselshall.github.io/rm/hw/proposal-hw)                                                                                                         |
 | 15   | 26-Nov - 30-Nov | Thanksgiving Observed (no classes)                                      |                                                    |
-| 16   | Friday Dec 5 | **In-Person proposal presentation**                                        | Due: [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 8:00 pm at Merwin Hall 105                                                          |
+| 16   | Friday Dec 5 | **In-Person proposal presentation**                                        | Due: [Proposal presentation](https://aselshall.github.io/rm/hw/presentation-hw) from 5:30 pm to 9:00 pm at Merwin Hall 105                                                          |
 
 ### Laboratory Methods Classes
 - In-person and off-campus at the Emergent Technologies Institute (ETI)
