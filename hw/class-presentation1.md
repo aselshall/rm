@@ -3,12 +3,38 @@
 ## Objective
 Conducting an exploratory literature review will help you to read the literature to learn about your problem and define a good research problem. You will present your literature review findings and your research problem to the class. Use this opportunity to refine your research problem through class feedback and discussion. This is to help you to ensure that you are on track for a clear, relevant, and feasible proposal. 
 
-## Presentation information
- - You have **25 minutes** including discussion and transition time
- - Ensure your slides are clear, concise, and visually engaging
- - You will present on **17-Sep or 19-Sep**. Reserve your time slot by writing your name on [this spreadsheet](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come, first served
- - This presentation is not graded, but your presentation and active participation in the discussions contribute to your participation grade.
- - Upload your presentation on Canvas before class
+### Timeline and Requirements
+
+#### 1. Week Before Presentation Week
+- Record your presentation (max 15 minutes).
+- Upload your presentation slides to Canvas by the due date.
+- Share your recorded presentation link in the *Paper Review* discussion on Canvas (do not upload large video files directly).
+- Recording options:
+  - Record live on YouTube with OBS ([Tutorial](https://youtu.be/zOhh6MclooA?feature=shared))
+  - Record in PowerPoint ([Tutorial](https://youtu.be/bP9VJ03s8Gw?feature=shared)) and upload to YouTube or OneDrive ([instructions](https://github.com/aselshall/gwh/blob/main/hw/How%20to%20Upload%20a%20Video%20to%20OneDrive.docx))
+
+#### 2. Presentation Week
+- Watch at least 4 classmates’ presentations.
+- Ask 1 question per presentation.
+- Prioritize unanswered questions or those with fewer than 4 responses.
+
+#### 3. Week After Presentation Week
+- Respond to all questions you receive.
+- Complete 4 peer-evaluation rubrics(one for each reviewed presentation) and upload them to the Canvas discussion.
+
+### Grading *(Participation Grade)*
+- Presentation Upload (30 points) – On time with link shared in discussion.
+- Peer Engagement (80 points)
+  - Ask 4 questions (40 points)
+  - Answer 4 questions (40 points)
+- Peer Evaluation (40 points) – 10 points per completed rubric. No credit for superficial responses (e.g., giving full marks without justification).
+- Late Submissions – Follow the [late submission policy](https://aselshall.github.io/gwh/#late-homework-policy).
+- Participation Log Requirement – Record dates for:
+  - Presentation upload (30 pts)
+  - Asking 4 questions (40 pts)
+  - Answering 4 questions (40 pts)
+  - Uploading 4 rubrics (40 pts)
+  - No credit without log entries in the [Participation Log](https://aselshall.github.io/aea/hw/participation).
 
 ## Presentation content
 
@@ -32,8 +58,9 @@ Conducting an exploratory literature review will help you to read the literature
  - Prepare 2-3 specific questions for your classmates and instructor that will help you refine your research problem
 
 
-## Evaluation
-The points listed in the evaluation criteria are for informational purposes only as these presentations are not graded. The listed points highlight the importance of each aspect of your work to guide you on where to focus for a strong presentation that covers the learning objectives of this assignment.
+## Evaluation *(For Feedback Only – Not Graded)*
+
+The points listed in the evaluation criteria are for informational purposes only as these presentations are not graded. Only your participation is graded as described above. The listed points highlight the importance of each aspect of your work to guide you on where to focus for a strong presentation that covers the learning objectives of this assignment.
  1. Is exploratory literature review effectively used to define the research problem, and its significance? (65 points)
  2. Is the topic clearly introduced? (5 points)
  3. Is the research problem clearly articulated and well-defined? (5 points)
@@ -44,6 +71,3 @@ The points listed in the evaluation criteria are for informational purposes only
  8. Does the presentation engage and inform the audience? (5 points)
 
 [Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation1%20rubric.docx) that we be used at class for evalluation.
-
-## Feedback
-   - After your presentation, you will receive feedback from your peers and instructor to help refine your research problem.
