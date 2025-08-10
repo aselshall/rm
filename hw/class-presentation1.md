@@ -70,4 +70,4 @@ The points listed in the evaluation criteria are for informational purposes only
  7. Are the questions for feedback well-formulated and conducive to helpful discussion? (5 points)
  8. Does the presentation engage and inform the audience? (5 points)
 
-[Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation1%20rubric.docx) that we be used at class for evalluation.
+[Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation1%20rubric.docx) that we be used for peer-evaluation
