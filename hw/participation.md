@@ -25,21 +25,21 @@ After each video, reflect and submit your exit ticket by responding to participa
 - Submit a participation log at the end of each module  
 - Log your participation by recording video title, date watched, exit ticket date, comments (include how many participation questions you answered, if any)
 
-#### Log Template
+#### Participation Log Template
 
-| Video Title                                        | Date Watched | Exit Ticket Date        | Comments                                    |  
-|----------------------------------------------------|--------------|-------------------------|---------------------------------------------|  
-| Introduction to Research Methods course: Overview  | Aug 18       | Aug 19                  | 2 out of 2 participation questions answered | 
-| Introduction to Research Methods course: Logistics | Aug 18       | Aug 19                  |                                             | 
-| Foundations of research: Research paradigms        | Aug 19       | Aug 19                  | Canvas quiz answered                        |
-| Foundations of research: Research problem          | Aug 28       | Aug 31                  | 1 out of 2 participation questions answered |      
-| Foundations of research: Research proposal         | Aug 30       | Aug 31                  |                                             |
-
-Class Presentation 1 - Exploratory literature review and research problem
-- Uploading presentation on Canvas: Aug 24
-- Asking three questions: Aug 31
-- Answering three questions: Sep 7 
-- Uploading three peer-evaluation forms on Canvas: Sep 7 
+>| Video Title                                        | Date Watched | Exit Ticket Date        | Comments                                    |  
+>|----------------------------------------------------|--------------|-------------------------|---------------------------------------------|  
+>| Introduction to Research Methods course: Overview  | Aug 18       | Aug 19                  | 2 out of 2 participation questions answered | 
+>| Introduction to Research Methods course: Logistics | Aug 18       | Aug 19                  |                                             | 
+>| Foundations of research: Research paradigms        | Aug 19       | Aug 19                  | Canvas quiz answered                        |
+>| Foundations of research: Research problem          | Aug 28       | Aug 31                  | 1 out of 2 participation questions answered |      
+>| Foundations of research: Research proposal         | Aug 30       | Aug 31                  |                                             |
+>
+>Class Presentation 1 - Exploratory literature review and research problem
+>- Uploading presentation on Canvas: Aug 24
+>- Asking three questions: Aug 31
+>- Answering three questions: Sep 7 
+>- Uploading three peer-evaluation forms on Canvas: Sep 7 
  
 
 ### Grading
