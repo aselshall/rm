@@ -52,7 +52,7 @@ These topics and dates are tentative and subject to change based on class progre
 |------|-----------------|-------------------------------------------------------------------------|----------------------------------------------------|
 | 1    | 18-Aug - 24-Aug | 0. Introduction to Research Methods course                              |                                                    |
 | 1    | 18-Aug - 24-Aug | 1. Foundations of research: Research paradigms                          |                                                    |
-| 2    | 25-Aug - 31-Aug | 1. Foundations of research: Research problem                            | Due: Participation Reading 1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics)                             |
+| 2    | 25-Aug - 31-Aug | 1. Foundations of research: Research problem                            | Due: Participation Reading 1: [Big picture](https://aselshall.github.io/rm/hw/big-picture) and [How to find a project idea?](https://aselshall.github.io/rm/hw/topics)  |
 | 2    | 25-Aug - 31-Aug | 1. Foundations of research: Research proposal                           | Due: Participation Reading 2: [Research proposal outline](https://aselshall.github.io/rm/hw/proposal-outline) and  [Research proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric)                 |
 | 2    | 25-Aug - 31-Aug | 2. Literature review: Overview                                          |                                                    |
 | 2    | 01-Sep          | Labor Day Observed (no classes)                                         |                                                    |
