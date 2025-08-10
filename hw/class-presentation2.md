@@ -74,6 +74,3 @@ The points listed in the evaluation criteria are for informational purposes only
   8. Is the presentation clear, well-organized, and delivered effectively? (5 points)
 
 [Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation2%20rubric.docx) that we be used at class for evalluation.
-
-### Feedback
-- After your presentation, you will receive feedback from your peers and instructor to help refine your Introduction and overall research focus.
