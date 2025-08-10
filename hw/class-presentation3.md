@@ -4,11 +4,39 @@
 
 This presentation is focused on developing and refining the Methods section of your research proposal. Use this opportunity to present your proposed research design, data collection, and analysis methods, ensuring they are appropriate, feasible, and well-aligned with your research question and objectives.
 
-### Presentation information
-- You have **25 minutes** including discussion and transition time.
-- Ensure your slides are clear, concise, and visually engaging.
-- You will present on **12-Nov or 14-Nov**. Reserve your time slot by writing your name on [this spreadsheet](https://docs.google.com/spreadsheets/d/1G-99MJ8G02TWRa-Wj1ddzGLvPtAC-wa310zh5G30alo/edit?usp=sharing), first come, first served!
-- This presentation is not graded, but your presentation and active participation in the discussions contribute to your participation grade.
+### Timeline and Requirements
+
+#### 1. Week Before Presentation Week
+- Record your presentation (max 15 minutes).
+- Upload your presentation slides to Canvas by the due date.
+- Share your recorded presentation link in the *Paper Review* discussion on Canvas (do not upload large video files directly).
+- Recording options:
+  - Record live on YouTube with OBS ([Tutorial](https://youtu.be/zOhh6MclooA?feature=shared))
+  - Record in PowerPoint ([Tutorial](https://youtu.be/bP9VJ03s8Gw?feature=shared)) and upload to YouTube or OneDrive ([instructions](https://github.com/aselshall/gwh/blob/main/hw/How%20to%20Upload%20a%20Video%20to%20OneDrive.docx))
+
+#### 2. Presentation Week
+- Watch at least 4 classmates’ presentations.
+- Ask 1 question per presentation.
+- Prioritize unanswered questions or those with fewer than 4 responses.
+
+#### 3. Week After Presentation Week
+- Respond to all questions you receive.
+- Complete 4 peer-evaluation rubrics(one for each reviewed presentation) and upload them to the Canvas discussion.
+
+### Grading *(Participation Grade)*
+- Presentation Upload (30 points) – On time with link shared in discussion.
+- Peer Engagement (80 points)
+  - Ask 4 questions (40 points)
+  - Answer 4 questions (40 points)
+- Peer Evaluation (40 points) – 10 points per completed rubric. No credit for superficial responses (e.g., giving full marks without justification).
+- Late Submissions – Follow the [late submission policy](https://aselshall.github.io/gwh/#late-homework-policy).
+- Participation Log Requirement – Record dates for:
+  - Presentation upload (30 pts)
+  - Asking 4 questions (40 pts)
+  - Answering 4 questions (40 pts)
+  - Uploading 4 rubrics (40 pts)
+  - No credit without log entries in the [Participation Log](https://aselshall.github.io/aea/hw/participation).
+
 ### Presentation content
 
 **Research question and objectives recap:**
@@ -38,7 +66,7 @@ This presentation is focused on developing and refining the Methods section of y
 **Questions for feedback:**
 - Prepare 2-3 specific questions for your classmates and instructor to help refine your Methods section, especially regarding feasibility, appropriateness, and clarity.
 
-### Evaluation
+### Evaluation *(For Feedback Only – Not Graded)*
 - Does the presentation provide a clear and detailed research design that is appropriate for the research question?
 - Are the study site and sample well-chosen and clearly explained?
 - Are the data collection methods appropriate, well-justified, and clearly articulated?
@@ -48,6 +76,3 @@ This presentation is focused on developing and refining the Methods section of y
 - Are the questions for feedback well-formulated and conducive to helpful discussion?
 
 [Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation3%20rubric.docx) that we be used at class for evalluation.
-
-### Feedback
-- After your presentation, you will receive feedback from your peers and instructor to help refine your Methods section, ensuring it is robust, feasible, and well-suited to your research question.
