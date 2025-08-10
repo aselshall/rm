@@ -20,6 +20,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 ### Instructions
 - Watch 2-4 videos per week and submit an exit ticket for each
 - Answer participation questions in the videos (if applicable) within the exit ticket discussion
+- Progress presentations need to be documented to receive credit
 - Exit tickets are due with weekly homework  
 - Submit a participation log at the end of each module  
 - Log your participation by recording video title, date watched, exit ticket date, comments (include how many participation questions you answered, if any)
@@ -33,6 +34,13 @@ After each video, reflect and submit your exit ticket by responding to participa
 | Foundations of research: Research paradigms        | Aug 19       | Aug 19                  | Canvas quiz answered                        |
 | Foundations of research: Research problem          | Aug 28       | Aug 31                  | 1 out of 2 participation questions answered |      
 | Foundations of research: Research proposal         | Aug 30       | Aug 31                  |                                             |
+
+Class Presentation 1 - Exploratory literature review and research problem
+- Uploading presentation on Canvas: Aug 24
+- Asking three questions: Aug 31
+- Answering three questions: Sep 7 
+- Uploading three peer-evaluation forms on Canvas: Sep 7 
+ 
 
 ### Grading
 - Full Credit for all exit tickets submitted on time, participation questions fully answered, and participation log matches Canvas records
