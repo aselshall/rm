@@ -94,7 +94,7 @@ If these classes do not align with your research interests or schedule, notify t
   Complete these as progress milestones and discuss directly with your supervisor for feedback and guidance.
 
 
-### Class Presentations 1–3
+### Presentations 1–3
 
 For each presentation cycle:
 
