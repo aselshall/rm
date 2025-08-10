@@ -73,7 +73,7 @@ These topics and dates are tentative and subject to change based on class progre
 - 🟨 Discussion only – For discussion with your supervisor (not graded)
 - 🟥 Final grade – Activities that count toward your final proposal and presentation grades
 
-### Laboratory Methods Classes
+#### Laboratory Methods Classes
 
 - Format: In-person, off-campus at the Emergent Technologies Institute (ETI)
 - Schedule: M/W, 4:30–5:45 PM
@@ -85,7 +85,7 @@ These topics and dates are tentative and subject to change based on class progre
 
 If these classes do not align with your research interests or schedule, notify the instructor via the Lab Methods discussion on Canvas and provide a specific, research-related makeup plan (e.g., watching relevant tutorials, reviewing methods papers, or completing targeted readings).
 
-### Homework 1–4
+#### Homework 1–4
 
 - Homework 1 – Topic Identification (Graded, Participation):
   Submit your topic to ensure it is feasible, clear, and aligned with your interests and available resources.
@@ -94,7 +94,7 @@ If these classes do not align with your research interests or schedule, notify t
   Complete these as progress milestones and discuss directly with your supervisor for feedback and guidance.
 
 
-### Presentations 1–3
+#### Presentations 1–3
 
 For each presentation cycle:
 
