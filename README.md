@@ -13,7 +13,7 @@ Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)
 Credit hours: 3  
 Class: Online Asynchronous   
 Exam: Research Proposal    
-Exam: Final Presentation – In-person on Friday Dec 5 from 5:30 pm to 8:00 pm at Merwin Hall 105
+Exam: Final Presentation – In-person on Friday Dec 5 from 5:30 pm to 9:00 pm at Merwin Hall 105
 
 ### Instructor  
 **Ahmed S. Elshall, PhD**  
