@@ -25,7 +25,9 @@ Office: Holmes Hall 423 (inside 416)
 Phone: (239) 590-7591  
 Email: aelshall@fgcu.edu  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com)  
-Office Hours: Tuesday 9:00 AM – 12:00 PM and by appointment using [this link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
+Office Hours: 
+- Tuesday 9:00 AM – 12:00 PM
+- By appointment using [this link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
 ### Course Description   
 The application of fundamental research to engineering and environmental problems. The course emphasizes theory and methods of conducting advanced research, including the scientific method.
@@ -72,30 +74,34 @@ These topics and dates are tentative and subject to change based on class progre
 - 🟥 Final grade – Activities that count toward your final proposal and presentation grades
 
 ### Laboratory Methods Classes
-- In-person and off-campus at the Emergent Technologies Institute (ETI)
-- Class : M W -- 04:30pm - 05:45pm 
-- Address: 16301 Innovation Ln, Fort Myers, FL 33913
-- Instructor: Huan Luong, Research Laboratory Manager, hluong@fgcu.edu, 239-745-4199
 
-If these laboratory methods classes do not align with your research interests or schedule, please inform the instructor that you will not be attending and provide a specific makeup plan that is directly related to your research proposal (e.g., watching relevant YouTube tutorials, reviewing methods papers, or completing targeted readings).
+- Format: In-person, off-campus at the Emergent Technologies Institute (ETI)
+- Schedule: M/W, 4:30–5:45 PM
+- Location: 16301 Innovation Ln, Fort Myers, FL 33913
+- Instructor: Huan Luong, Research Laboratory Manager
+
+  - Email: [hluong@fgcu.edu](mailto:hluong@fgcu.edu)
+  - Phone: 239-745-4199
+
+If these classes do not align with your research interests or schedule, notify the instructor via the Lab Methods discussion on Canvas and provide a specific, research-related makeup plan (e.g., watching relevant tutorials, reviewing methods papers, or completing targeted readings).
 
 ### Homework 1–4
-#### Homework 1 (Topic Identification):
-- You are required to submit Homework 1.
-- This submission will contribute toward your participation grade.
-- It helps ensure your selected topic is feasible, clear, and aligns with your interests and resources.
 
-#### Homework 2–4 (Research Question, Introduction, Method):
-- These tasks are structured as non-graded checkpoints.
-- You will discuss these checkpoints directly with your supervisor.
-- These checkpoints ensure that your research progresses steadily, with opportunities for expert feedback from your supervisor.
+- Homework 1 – Topic Identification (Graded, Participation):
+  Submit your topic to ensure it is feasible, clear, and aligned with your interests and available resources.
 
-### Class Presentations 1–3 
-- Upload your class presentation on Canvas before the start of the presentation week
-- Upload your presentation by the due date to give your classmates enough time to review your presentation and provide meaningful feedback.
-- You are required to review four classmates’ presentations and provide meaningful feedback.
-- Reviews are first come, first served, so if a presentation already has four reviews, choose one with fewer.
-- [Late Assignment Policy](#late-assignment-policy) will apply.  
+- Homework 2–4 – Research Question, Introduction, Method (Ungraded Checkpoints):
+  Complete these as progress milestones and discuss directly with your supervisor for feedback and guidance.
+
+
+### Class Presentations 1–3
+
+For each presentation cycle:
+
+1. Upload: Submit your presentation on Canvas **before** the start of presentation week. Uploading your presentation by the due date to give your classmates enough time to review your presentation and provide meaningful feedback.
+3. Review: Watch four classmates’ presentations and provide meaningful feedback. Choose presentations with fewer than four reviews first.
+4. Respond & Evaluate: Answer questions on your presentation and upload four peer-evaluation forms.
+5. Late Policy: The [Late Assignment Policy](#late-assignment-policy) applies.
 
 ## Assessment and Grading  
 
