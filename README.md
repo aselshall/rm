@@ -92,24 +92,20 @@ If these laboratory methods classes do not align with your research interests or
 - These checkpoints ensure that your research progresses steadily, with opportunities for expert feedback from your supervisor.
 
 ### Class Presentations 1–3 
-- Upload your class presentation on Canvas before the start of the presentation week, and submit your peer review comments by the end of that week.
-- For example, class Presentation 1: Research Problem (Week 5, Sep 15–Sep 21):
-    - Presentation upload due: Sunday, Sep 14 at 11:59 PM
-    - Peer review comments due: Sunday, Sep 21 at 11:59 PM
-- Submit your presentation by the due date to give your classmates enough time to review your presentation and provide meaningful feedback.
-- You are required to review three classmates’ presentations and provide meaningful feedback.
-- Reviews are first come, first served, so if a presentation already has three reviews, choose one with fewer.
+- Upload your class presentation on Canvas before the start of the presentation week
+- Upload your presentation by the due date to give your classmates enough time to review your presentation and provide meaningful feedback.
+- You are required to review four classmates’ presentations and provide meaningful feedback.
+- Reviews are first come, first served, so if a presentation already has four reviews, choose one with fewer.
 - [Late Assignment Policy](#late-assignment-policy) will apply.  
 
-### General notes  
-- Grades Due from Faculty by noon Tuesday, 16 December 2025  
-- If you are falling behind, consult the academic calendar for the last day to drop: [https://www.fgcu.edu/academics/academiccalendar/](https://www.fgcu.edu/academics/academiccalendar/)  
-- Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
-
 ## Assessment and Grading  
-### Grading scale  
-The instructor may elect to employ a curve that favors the students.
 
+### Assessment plan (100%)  
+- Participation: 50%  
+- Research project presentation: 25%  
+- Research project proposal: 25%  
+
+### Grading scale  
 The instructor may elect to employ a curve that favors the students.
 
 | Grade | Range | Grade| Range | Grade | Range |
@@ -119,28 +115,31 @@ The instructor may elect to employ a curve that favors the students.
 | B+ | 87% to 89.99% | C | 73% to 76.99% | F | Below 60% |
 | B | 83% to 86.99% | C- | 70% to 72.99% |
 
-### Assessment plan (100%)  
-- Participation: 50%  
-- Research project presentation: 25%  
-- Research project proposal: 25%  
+### General notes  
+- Grades Due from Faculty by noon Tuesday, 16 December 2025  
+- If you are falling behind, consult the academic calendar for the last day to drop: [https://www.fgcu.edu/academics/academiccalendar/](https://www.fgcu.edu/academics/academiccalendar/)  
+- Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
-### Participation 
-For participation assessment, students are expected to:
-- Watch recorded videos and fill-out exit tickets and [participation log](https://aselshall.github.io/rm/hw/participation)
-- Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions   
+### Participation Assessment
+For participation assessment, students must document the following activities in the [Participation Log](https://aselshall.github.io/rm/hw/participation):
 
-These form the majority of your participation grade.
+- Watch recorded videos and complete exit tickets.
+- Complete all participation activities described in the recorded videos.
+- Complete all reading assignment activities.
+- Complete all presentation activities.
+
+These activities form the majority of your participation grade.
 
 ### Report and Presentation Assessment  
-- Effective time management is key for success in this course. For example, students who request additional final proposal reviews, need to do this at least one week before the final submission deadline to allow for meaningful feedback.
-- Last-day requests should be limited to specific and legitimate questions, not for reviewing entire proposal or resolving issues stemming from ignored feedback throughout the semester.
-- Teamwork is a key skill and the student is expected to engage with the instructor and advisor as collaborative team members.
-- Your grade will reflect your professional attitude and professional maturity during the course including addressing instructor feedback constructively and showing steady improvement.
-- All written work is expected to be polished and professional. Clarity of expression, organization of materials, absence of typographical errors, correctness of grammar and spelling, and other communication skills are considered in evaluating written assignments.  
-- All work must be fully referenced with source material following proper citation format according to The American Geophysical Union style.
-- All oral presentations are expected to be well-organized, practiced, professional, and with appropriate graphical or visual aids.  
-- Your work will be assessed based on rubrics posted on Canvas, peer-student feedback, and instructor observations.
- 
+
+- **Plan Ahead:** Effective time management is essential. Students requesting final proposal reviews must do so **at least one week before** the deadline to allow meaningful feedback.
+- **Last-Minute Requests:** Requests made on the final day should be limited to specific, legitimate questions—not full proposal reviews or issues caused by ignoring prior feedback.
+- **Professional Collaboration:** Treat the instructor and research supervisor as collaborative team members, engaging constructively.
+- **Professionalism and Growth:** Grades reflect professional attitude, maturity, responsiveness to feedback, and demonstrated improvement over the semester.
+- **Written Work Quality:** All submissions must be polished, well-organized, clear, and free from grammatical, spelling, and typographical errors following the [proposal assignment](https://aselshall.github.io/rm/hw/proposal-hw) and [proposal rubric](https://aselshall.github.io/rm/hw/proposal-rubric)
+- **Presentation Quality:** Oral presentations should be well-organized, practiced, professional, and supported with effective visuals or graphics following the [presentation assignment](https://aselshall.github.io/rm/hw/presentation-hw)
+- **Assessment Basis:** Work will be evaluated using posted rubrics, peer feedback, and instructor observations.
+
 ## Course Policies
 
 ### Generative AI Policy  
@@ -171,6 +170,9 @@ FGCU has a set of central policies related to student recording class sessions, 
 Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
 
 ## Resources
+
+### Surface Water-Groundwater Field Lab 
+The [Surface Water-Groundwater Field Lab](https://aselshall.github.io/gwh/lab) supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources.
 
 ### Program Learning Outcomes  
 The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows: [Link](https://aselshall.github.io/rm/admin/outcome)
