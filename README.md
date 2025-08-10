@@ -41,8 +41,9 @@ By the end of this course, students will be able to:
 - **Deliver clear, concise, and persuasive oral presentations** of research proposals.  
 - **Critically evaluate research papers and proposals**, providing constructive feedback and identifying strengths and areas for improvement.  
 
-### Recommended Textbooks   
+### Recommended Textbook   
 - Cresswell, J.W., and Cresswell, J.D., Research design: Qualitative, Quantitative, and mixed methods approach (5th ed.), SAGE Publishing, Los Angeles.
+
 ## Course Schedule  
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative; actual deadlines will be posted on Canvas.
 
