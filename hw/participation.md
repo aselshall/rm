@@ -33,12 +33,12 @@ This log promotes:
 
 **Example Log:**
 
->| Title                                             | Date Watched | Exit Ticket Date | Comments                                         |
+>| Title                                             | Date Watched | Exit Ticket Date | Answered participation questions                 |
 >|---------------------------------------------------|--------------|------------------|--------------------------------------------------|
->| Getting Started: Introduction to Research Methods | Aug 18       | Aug 19           | Answered participation questions: <br>- What is research? on Aug 18 <br>-Engineering design vs. scientific research on Aug 18 <br> - Get to know each other on Aug 19 |
->| Fundamentals: Research paradigms                  | Aug 19       | Aug 19           | Answered participation questions: <br>- Research design on Aug 19 <br>- Research approach and design on Aug 19                                                 | 
->| Fundamentals: Research paradigms                  | Aug 26       | Aug 26           | Answered participation question:<br>- Research question on Aug 28  | 
->| Fundamentals: Research paradigms                  | Aug 27       | Aug 27           | Answered participation question:<br>- Research proposal: Learning objectives on Aug 28  | 
+>| Getting Started: Introduction to Research Methods | Aug 18       | Aug 19           | - What is research? on Aug 18 <br>-Engineering design vs. scientific research on Aug 18 <br> - Get to know each other on Aug 19 |
+>| Fundamentals: Research paradigms                  | Aug 19       | Aug 19           | - Research design on Aug 19 <br>- Research approach and design on Aug 19                                                 | 
+>| Fundamentals: Research paradigms                  | Aug 26       | Aug 26           | - Research question on Aug 28  | 
+>| Fundamentals: Research paradigms                  | Aug 27       | Aug 27           | - Research proposal: Learning objectives on Aug 28  | 
 >
 
 In the above example you will get: 
