@@ -25,9 +25,7 @@ In [Homework 3](https://aselshall.github.io/rm/hw/hw3) you identified what you w
    - Ensure that any references to methods, tools, or analytical techniques are cited appropriately using AGU style.
 
 ## Submission
-- Submit your PDF on Canvas by the due date
-- Follow the [late submission policy](https://aselshall.github.io/rm#late-assignment-and-report-policy) as outlined in the course syllabus
-- Contact the instructor early if you anticipate any issues with meeting the deadline
+- Not graded - no submission needed
 
 ## Rubric 
 Grading follows these sections of the final proposal rubric:
