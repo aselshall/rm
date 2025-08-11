@@ -33,7 +33,7 @@ This log promotes:
 
 **Example Log:**
 
->| Title                                             | Date Watched | Exit Ticket Date | Answered participation questions                 |
+>| Video Title                                       | Date Watched | Exit Ticket Date | Answered Participation Question Title and Date   |
 >|---------------------------------------------------|--------------|------------------|--------------------------------------------------|
 >| Getting Started: Introduction to Research Methods | Aug 18       | Aug 19           | - What is research? on Aug 18 <br>-Engineering design vs. scientific research on Aug 18 <br> - Get to know each other on Aug 19 |
 >| Fundamentals: Research paradigms                  | Aug 19       | Aug 19           | - Research design on Aug 19 <br>- Research approach and design on Aug 19                                                 | 
