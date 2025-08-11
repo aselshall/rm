@@ -46,7 +46,7 @@ To get started with developing a clear and focused research question by conducti
 - References: Include a reference list citing all sources consulted during your literature search, formatted according to American Geophysical Union (AGU) style 
 
 ## Submission
-- Not graded - no submission needed
+- Not graded - no submission required
 
 ## Rubric
 
