@@ -46,9 +46,7 @@ To get started with developing a clear and focused research question by conducti
 - References: Include a reference list citing all sources consulted during your literature search, formatted according to American Geophysical Union (AGU) style 
 
 ## Submission
-- Submit your PDF on Canvas by the due date
-- Follow the [late submission policy](https://aselshall.github.io/rm#late-assignment-and-report-policy) as outlined in the course syllabus
-- Contact the instructor early if you anticipate any issues with meeting the deadline
+- Not graded - no submission needed
 
 ## Rubric
 
