@@ -124,7 +124,7 @@ The instructor may elect to employ a curve that favors the students.
 
 ### General notes  
 - Grades Due from Faculty by noon Tuesday, 16 December 2025  
-- If you are falling behind, consult the academic calendar for the last day to drop: [https://www.fgcu.edu/academics/academiccalendar/](https://www.fgcu.edu/academics/academiccalendar/)  
+- If you are falling behind, consult the [academic calendar](https://www.fgcu.edu/academics/academiccalendar/) for the last day to drop: 
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
 ### Participation 
