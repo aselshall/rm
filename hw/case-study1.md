@@ -3,11 +3,8 @@
 ### Learning objectives 
 In this homework you will relate research methods to a real-world case study, as portrayed in the movie *Erin Brockovich*. The protagonist uncovers a major environmental health issue involving contaminated groundwater in a small community.
 
-<div style="text-align: center;">
-  <a href="https://youtu.be/ERJ74tDM03s">
-    <img src="https://img.youtube.com/vi/ERJ74tDM03s/0.jpg" alt="Video Title">
-  </a>
-</div>
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/96e0a77a-a38b-490f-9308-a0e30ec02686" />
+
 
 The goal of this homework is to help you see how the concepts and techniques covered in class can be utilized to address complex real issues that require research! Refer to <span style="color:blue">Module 1: Introduction to Research Methods course</span> and the [big picture](https://aselshall.github.io/rm/hw/big-picture) to learn about the scope of this course.
 
