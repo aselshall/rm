@@ -88,9 +88,9 @@ If these classes do not align with your research interests or schedule, notify t
 
 #### Homework 1–4
 - Homework 1 – Topic Identification (Graded, Participation):
-  Submit your topic to ensure it is feasible, clear, and aligned with your interests and available resources.
+    - Submit your topic to ensure it is feasible, clear, and aligned with your interests and available resources.
 - Homework 2–4 – Research Question, Introduction, Method (Ungraded Checkpoints):
-  Complete these as progress milestones and discuss directly with your supervisor for feedback and guidance.
+    - Complete these as progress milestones and discuss directly with your supervisor for feedback and guidance.
 
 #### Presentations 1–3
 For each presentation cycle:
