@@ -74,26 +74,21 @@ These topics and dates are tentative and subject to change based on class progre
 - 🟥 Final grade – Activities that count toward your final proposal and presentation grades
 
 #### Laboratory Methods Classes
-
 - Format: In-person, off-campus at the Emergent Technologies Institute (ETI)
 - Schedule: M/W, 4:30–5:45 PM
 - Location: 16301 Innovation Ln, Fort Myers, FL 33913
 - Instructor: Huan Luong, Research Laboratory Manager
-
   - Email: [hluong@fgcu.edu](mailto:hluong@fgcu.edu)
   - Phone: 239-745-4199
 
 If these classes do not align with your research interests or schedule, notify the instructor via the Lab Methods discussion on Canvas and provide a specific, research-related makeup plan (e.g., watching relevant tutorials, reviewing methods papers, or completing targeted readings).
 
 #### Project day
-
 - Dedicated time for independent or group work on your research proposal
 
 #### Homework 1–4
-
 - Homework 1 – Topic Identification (Graded, Participation):
   Submit your topic to ensure it is feasible, clear, and aligned with your interests and available resources.
-
 - Homework 2–4 – Research Question, Introduction, Method (Ungraded Checkpoints):
   Complete these as progress milestones and discuss directly with your supervisor for feedback and guidance.
 
