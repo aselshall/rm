@@ -178,7 +178,7 @@ Except for changes that substantially affect the implementation of the evaluatio
 
 ## Resources
 
-### Lab Support
+### Water Lab
 - [Surface Water-Groundwater Field Lab](https://aselshall.github.io/gwh/lab) supports both field-based research and hands-on teaching. The lab consists of a growing suite of deployable instruments for performing laboratory-grade analysis in natural environments. Our measurement capabilities are used to investigate the critical zone where surface water and groundwater meet, as well as broader groundwater resources.
 - [Emergent Technologies Institute (ETI)](https://www.fgcu.edu/academics/research/emergenttechnologiesinstitute/eti-equipment-and-training) provides access to various water quality equipment including ICP-MS, HPLC, GC/MS, TOC, and Nutrient Analyzer.
 
