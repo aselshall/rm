@@ -29,7 +29,7 @@ This assignment aims to guide you through the process of conducting an in-depth 
    - Include a bibliography at the end of your document formatted according to AGU guidelines.
 
 ## Submission
-- Not graded - no submission needed
+- Not graded - no submission required
 
 ## Rubric 
 Grading follows these sections of the final proposal rubric:
