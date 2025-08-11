@@ -58,25 +58,25 @@ These are the videos that require exit tickects.
 | Module                               | Video # | Video or Event Title                                             |
 |--------------------------------------|---------|------------------------------------------------------------------|
 | 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods                |
-| 1. Fundamentals                      | 1       | Fundamentals: Research paradigms                                 |
-| 1. Fundamentals                      | 2       | Fundamentals: Research question                                  |
-| 1. Fundamentals                      | 3       | Fundamentals: Research proposal                                  |
+| 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms                                 |
+| 1. Fundamentals                      | 2       | Fundamentals: Research Question                                  |
+| 1. Fundamentals                      | 3       | Fundamentals: Research Proposal                                  |
 | 2. Literature Review                 | 1       | Literature Review: Overview                                      |
-| 2. Literature Review                 | 2       | Literature Review: Library resources (Guest lecture)             |
-| 2. Literature Review                 | 3       | Literature Review: Literature search                             |
-| 2. Literature Review                 | 4       | Literature Review: Citation management                           |
-| 2. Literature Review                 | 5       | Literature Review: Writing your review                           |
-| 2. Literature Review                 | 6       | Literature Review: Technical writing                             |
-| 3. Methods                           | 1       | Methods: Method development                                      |
-| 3. Methods                           | 2       | Methods: Group exercise                                          |
-| 3. Methods                           | 3       | Methods: Lab methods (No video - In Person)                      |
-| 3. Methods                           | 4       | Methods: Lab methods (No video - In Person)                      |
-| 3. Methods                           | 5       | Methods: Ethics in Engineering & Research                        |
-| 4. Completing the Research Proposal  | 1       | Completing the Research Proposal: Expected results and timeline  |
-| 4. Completing the Research Proposal  | 2       | Completing the Research Proposal: Title and abstract             |
+| 2. Literature Review                 | 2       | Literature Review: Library Resources (Guest Lecture)             |
+| 2. Literature Review                 | 3       | Literature Review: Literature Search                             |
+| 2. Literature Review                 | 4       | Literature Review: Citation Management                           |
+| 2. Literature Review                 | 5       | Literature Review: Writing Your Review                           |
+| 2. Literature Review                 | 6       | Literature Review: Technical Writing                             |
+| 3. Methods                           | 1       | Methods: Method Development                                      |
+| 3. Methods                           | 2       | Methods: Group Exercise                                          |
+| 3. Methods                           | 3       | Methods: Lab Methods (No video - In Person)                      |
+| 3. Methods                           | 4       | Methods: Lab Methods (No video - In Person)                      |
+| 3. Methods                           | 5       | Methods: Ethics in Engineering and Research                      |
+| 4. Completing the Research Proposal  | 1       | Completing the Research Proposal: Expected Results and Timeline  |
+| 4. Completing the Research Proposal  | 2       | Completing the Research Proposal: Title and Abstract             |
 | 5. Data Management                   | 1       | Data Management: FAIR Data Principles                            |
 | 5. Data Management                   | 2       | Data Management: Data Management Plan                            |
-| 6. Visualization                     | 1       | Visualization: Publication-quality figures                       |
-| 6. Visualization                     | 2       | Visualization: Conceptual diagrams and graphical abstracts       |
-| 7. Presentation Skills               | 1       | Presentation Skills: Audience-centric techniques                 |
-| 7. Presentation Skills               | 2       | Presentation Skills: Slide design                                |
+| 6. Visualization                     | 1       | Visualization: Publication-quality Figures                       |
+| 6. Visualization                     | 2       | Visualization: Conceptual Diagrams and Graphical Abstracts       |
+| 7. Presentation Skills               | 1       | Presentation Skills: Audience-Centric Techniques                 |
+| 7. Presentation Skills               | 2       | Presentation Skills: Slide Design                                |
