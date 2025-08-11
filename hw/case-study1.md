@@ -11,7 +11,7 @@ The goal of this homework is to help you see how the concepts and techniques cov
 The questions below are designed to challenge your thinking and deepen your understanding of research methods by relating them to a real-world case study. In other words, this exercise encourages you to think critically, make connections between theory and practice, and gain a more nuanced perspective on the role of research in problem-solving.
 
 ### Questions
-[Watch the movie on YouTube](https://youtu.be/ERJ74tDM03s) and answer these questions. 
+Watch the movie on YouTube or any outlet of your choice and answer these questions. 
 
 1. **Research problem:** Refer to <span style="color:blue">Module 2: Foundations of research</span>. Based on the movie *Erin Brockovich*, describe the research problem investigated. How did the groundwater contamination impact the community, and what were the main concerns?
 
