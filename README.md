@@ -84,7 +84,7 @@ These topics and dates are tentative and subject to change based on class progre
 If these classes do not align with your research interests or schedule, notify the instructor via the Lab Methods discussion on Canvas and provide a specific, research-related makeup plan (e.g., watching relevant tutorials, reviewing methods papers, or completing targeted readings).
 
 #### Project day
-- Dedicated time for independent or group work on your research proposal
+- Dedicated time for independent or group work with your supervisor on your research proposal
 
 #### Homework 1–4
 - Homework 1 – Topic Identification (Graded, Participation):
