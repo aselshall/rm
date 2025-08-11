@@ -167,6 +167,9 @@ As of fall 2015, all faculty members are required to use Canvas to confirm a stu
 - Academic dishonesty in any course activity including participation, assignments, projects, or exams will result in a grade of zero for that submission and will be strictly addressed in line with FGCU policies and procedures. [FGCU Academic Integrity Flowchart](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)  
 - You are required to familiarize yourself with the FGCU Student Guidebook that outlines the consequences for academic integrity violations: [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/)
 
+### Program Learning Outcomes  
+The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows: [Link](https://aselshall.github.io/rm/admin/outcome)
+
 ### Core Syllabus Policies  
 FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these online at: [FGCU Core Syllabus Policy Statements](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
 
@@ -184,6 +187,3 @@ We're here to help students, faculty, and staff become more confident writers. T
 
 ### High Performance Computing (HPC) Resources  
 HiPerGator AI: Access the fastest artificial intelligence supercomputer in higher education. FGCU is partnered with the University of Florida to provide faculty and students with unparalleled computing power. The possibilities are endless when applied to instruction, research, and course development. Please contact the University Help Desk to learn more.
-
-## Program Learning Outcomes  
-The learning outcomes for the Master of Science in Engineering (MSE) Program are as follows: [Link](https://aselshall.github.io/rm/admin/outcome)
