@@ -25,7 +25,7 @@ In [Homework 3](https://aselshall.github.io/rm/hw/hw3) you identified what you w
    - Ensure that any references to methods, tools, or analytical techniques are cited appropriately using AGU style.
 
 ## Submission
-- Not graded - no submission needed
+- Not graded - no submission required
 
 ## Rubric 
 Grading follows these sections of the final proposal rubric:
