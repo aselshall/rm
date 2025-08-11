@@ -23,16 +23,16 @@ Watch the movie on YouTube or any outlet of your choice and answer these questio
 
 5. **Method:** Refer to <span style="color:blue">Module 4: Method development</span>. Discuss the types of data (qualitative and/or quantitative) you would collect to understand the contamination issue. Describe the specific data collection methods (e.g., water sampling, health surveys) you would use, and how you would ensure the reliability and validity of the data. Then, outline how you would analyze the data, including any relevant statistical or thematic techniques.
 
-6. **Ethical considerations:** Refer to <span style="color:blue">Module 5: Ethics in research and publishing</span>. Explore the ethical issues in conducting research within a community affected by environmental contamination. What steps would you take to ensure ethical conduct and prioritize the community’s well-being? What ethical forms or approvals would you need? Discuss other ethical considerations in research with respect to data collection and data analysis that you agree or disagree with in the movie. 
+6. **Ethical considerations:** Refer to <span style="color:blue">Module 4: Ethics in research and publishing</span>. Explore the ethical issues in conducting research within a community affected by environmental contamination. What steps would you take to ensure ethical conduct and prioritize the community’s well-being? What ethical forms or approvals would you need? Discuss other ethical considerations in research with respect to data collection and data analysis that you agree or disagree with in the movie. 
 
 7. **Expected results:**
-Refer to <span style="color:blue">Module 6: Expected results</span>. Outline the expected deliverables, outputs, outcomes, and impacts of your research.
+Refer to <span style="color:blue">Module 5: Expected results</span>. Outline the expected deliverables, outputs, outcomes, and impacts of your research.
     - Deliverables: Identify the specific products or reports you would generate from your research, such as a detailed groundwater contamination report, health impact assessment, court case, or policy recommendations.
     - Outputs: Describe the immediate results of your research, such as increased community awareness, identification of the contamination sources, or publication of research findings.
     - Outcomes: Discuss the short-term and medium-term effects of your research, such as improvements in community health, changes in local policies, or remediation efforts initiated by government agencies.
     - Impacts: Explain the long-term impacts your research could have on the community and the broader field of environmental health, such as lasting improvements in public health, changes in environmental regulations, or contributions to the body of scientific knowledge on contamination and its effects.
 
-8. **Impact assessment:** In the ENG 6941 Project course or your MS thesis research you are expected to conduct the research that you proposed including the process of analyzing results, discussing their implications, and drawing conclusions. Refer to <span style="color:blue">Module 10: Interpreting and reporting research findings</span>. How would you assess the long-term impact of the contamination on community health? What measures would you recommend to mitigate these impacts?
+8. **Impact assessment:** In the ENG 6941 Project course or your MS thesis research you are expected to conduct the research that you proposed including the process of analyzing results, discussing their implications, and drawing conclusions. Refer to <span style="color:blue">Module 8: Interpreting and reporting research findings</span>. How would you assess the long-term impact of the contamination on community health? What measures would you recommend to mitigate these impacts?
 
 ### Submission 
 - Answer the above questions in a concise 2-3 page reflection.
