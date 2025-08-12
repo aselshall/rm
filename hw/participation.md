@@ -43,7 +43,7 @@ This log promotes:
 
 In the above example you will get: 
 - 40 points for 4 exit tickets
-- 60 points for answering 6 participation questions in the four videos
+- 70 points for answering 7 participation questions in the four videos
 
 
 ### Grading
