@@ -6,6 +6,7 @@ EGN 6457 Research Methods, Fall 2025
 _Last updated: Aug 11, 2025_
 
 The Big Picture: [Link](https://aselshall.github.io/rm/hw/big-picture)  
+How to Find a Project Idea?: [Link](https://aselshall.github.io/rm/hw/topics) 
 Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)   
 
 ## Course Information  
