@@ -1,7 +1,7 @@
 ## [How to find a project idea?](https://aselshall.github.io/rm/hw/topics)
 Choosing a project that aligns with your interests and showcases your research skills in civil and environmental engineering is key. Here are some strategies to help you find the right project idea:
 - **Leverage current work and ongoing projects (recommened):** Consider building on a project you are already involved in at work, with your supervisor, or within your degree program.
-- **Seek guidance from faculty (recommended):**Consult FGCU faculty to explore current research projects that match your interests and learning goals. Below is a list of selected faculty projects you may choose from. **Note:** If none align with your interests, contact faculty directly to discuss tailored project ideas.
+- **Seek guidance from faculty (recommended):** Consult FGCU faculty to explore current research projects that match your interests and learning goals. Below is a list of selected faculty projects you may choose from. **Note:** If none align with your interests, contact faculty directly to discuss tailored project ideas.
 - **Explore research papers and local concerns (most challenging):** Dive into existing research papers to identify gaps or areas for new insights. Alternatively, focus on local issues that interest you, and engage with local organizations or agencies for project opportunities. For example, you could contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) who can connect you with relevant local organizations.
 
 ### Faculty Projects
