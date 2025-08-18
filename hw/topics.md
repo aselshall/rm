@@ -15,6 +15,7 @@ Choosing a project that aligns with your interests and showcases your research s
 - **[Impacts of Electric Vehicles on Pavement Design and Performance](https://github.com/aselshall/rm/blob/main/hw/projects/p22.md)**
 
 #### Water resources and environmental engineering
+-**[Wellfield Design and Water Quality in Brackish-Water Desalination](https://github.com/aselshall/rm/blob/main/hw/projects/p31.md)**: Explores how wellfield design and pumping influence water quality in brackish-water reverse osmosis (BWRO) facilities, using utility monitoring data to reassess groundwater models and improve desalination resilience.
 - **[A Model-Experiment (ModEx) Framework for Understanding Fertilizer and Pesticide Transport in Immokalee Groundwater](https://github.com/aselshall/rm/blob/main/hw/projects/p02.md)**: Aims at advancing the understanding of fertilizer and pesticide reactive transport in surface water-groundwater in rural agricultural areas in south Florida
 - **[Evaluating the Impact of Land Use and Nature-Based Infrastructure on Groundwater Recharge in South Florida](https://github.com/aselshall/rm/blob/main/hw/projects/p01.md)**: Focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture
 - **[Scenario Analysis of Nutrient Loading Mitigation to Reduce Red Tide Risk](https://github.com/aselshall/rm/blob/main/hw/projects/p04.md)**: Involves enhancing harmful algal bloom mitigation through advanced machine learning
