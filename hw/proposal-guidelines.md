@@ -199,15 +199,15 @@ Tenses can be used in both passive and active voice, depending on the journal's 
     - "Some studies have found that girls have significantly higher fears than boys after trauma (Pfefferbaum et al., 1999; Pine and Cohen, 2002; Shaw, 2003)."
     - "While these measures have proved reliable and valid, there is little data on how they relate to each other."
 
-### 9.9. Academic writing versus creative writing 
+### 9.9. Technical writing versus creative writing 
 
-Creative writing emphasizes personal expression, while academic writing focuses on presenting evidence-backed ideas and arguments. Academic writing requires precision, and clarity. Academic writing is not a thriller where you build suspense, nor is it a poem where language is open to interpretation. Your goal is to present your argument clearly, with key points up front. Both academic and creative writings have distinct purposes, so improve your skills in each. [Learn more about the differences between academic and creative writing](https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing).
+Creative writing emphasizes personal expression, while technical and academic writing focus on presenting evidence-backed ideas and arguments. Technical and academic writing requires precision, and clarity. Technical or academic writing is not a thriller where you build suspense, nor is it a poem where language is open to interpretation. Your goal is to present your argument clearly, with key points up front. Both technical and creative writings have distinct purposes, so improve your skills in each. [Learn more about the differences between academic and creative writing](https://lms.su.edu.pk/lesson/1325/week7-difference-between-academic-and-creative-writing).
 
 **Example:**
 - Creative writing (33 words):"The economy gets damaged because Southwest Florida is a destination for tourism and if tourists cannot go to the beach safely they do not want to spend the money to travel all the way to Southwest Florida."
-- Academic writing (22 words): "Red tides in Southwest Florida produce pungent odors, degrade scenery, and pose health risks, leading to a decline in tourism (Zohdi and Abbaspour, 2019)."
+- Technical writing (22 words): "Red tides in Southwest Florida produce pungent odors, degrade scenery, and pose health risks, leading to a decline in tourism (Zohdi and Abbaspour, 2019)."
 
-The creative writing sentence uses a narrative style to describe the economic impact. The academic writing sentence directly presents the causes and effects, supported by evidence. 
+The creative writing sentence uses a narrative style to describe the economic impact. The technical writing sentence directly presents the causes and effects, supported by evidence. 
 
 ![image](https://github.com/user-attachments/assets/43b34cf4-e675-4449-97c7-a14d808d146c)
 
