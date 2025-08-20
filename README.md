@@ -8,7 +8,7 @@ _Last updated: Aug 11, 2025_
 The Big Picture: [Link](https://aselshall.github.io/rm/hw/big-picture)    
 How to Find a Project Idea? [Link](https://aselshall.github.io/rm/hw/topics)   
 Proposal Requirements: [Link](https://aselshall.github.io/rm/hw/proposal-hw)    
-
+Recorder Lessons (so far): [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGePN3kmVYXHaojisg5PVO47j)
 ## Course Information  
 **EGN 6457 Research Methods (CRN: 83614)**  
 Credit hours: 3  
