@@ -52,10 +52,10 @@ In the above example you will get:
 - Partial credit: Incomplete, mismatched, or late logs (see [Late Submission Policy](https://aselshall.github.io/rm/#late-submission-policy)).
 - No credit: Missing exit tickets, participation questions, or log entries.
 
-### Videos
-These are the videos that require exit tickects. 
+### Videos and lab lessons
+These are the videos and lab lessons that require exit tickects. 
 
-| Module                               | Video # | Video or Event Exit Ticket                                       | Video Partcipation Activity                  |
+| Module                               | Video # | Video or lab lesson Exit Ticket                                  | Video Partcipation Activity                  |
 |--------------------------------------|---------|------------------------------------------------------------------|----------------------------------------------|
 | 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods (10 points)    | - What is research? (10 points)<br> - Engineering design vs. scientific research  (20 points)<br> - Get to know each other (20 points)   |
 | 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms (10 points)                     | - Research design (20 points)<br> - Research approach and design (20 points) |
