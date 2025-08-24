@@ -69,14 +69,20 @@ These are the videos that require exit tickects.
 | 2. Literature Review                 | 6       | Literature Review: Technical Writing (10 points)                 | - Cohesiveness of Writing (50 points) <br> - Self-Edit for Clarity (30 points) |
 | 3. Methods                           | 1       | Methods: Method Development (10 points)                          |                                               |
 | 3. Methods                           | 2       | Methods: Method Development Exercise (10 points)                 | - Review Method Section (100 Points)          |
-| 3. Methods                           | 3       | Methods: Lab Methods - In Person - No video (10 points)*         |                                               |
-| 3. Methods                           | 4       | Methods: Lab Methods - In Person - No video (10 points)*         |                                               |
-| 3. Methods                           | 5       | Methods: Ethics in Engineering and Research                      | - Macro and micro ethics in the ASCE Code of Ethics (10 points) <br> - Ethical issues in your research (20 points) <br> - Plagiarism, Falsification, and Fabrication (30 points) <br> - : Other Deviations from Acceptable Research Practices (10 points) |
-| 4. Completing the Research Proposal  | 1       | Completing the Research Proposal: Expected Results and Timeline  |
-| 4. Completing the Research Proposal  | 2       | Completing the Research Proposal: Title and Abstract             |
-| 5. Data Management                   | 1       | Data Management: FAIR Data Principles                            |
-| 5. Data Management                   | 2       | Data Management: Data Management Plan                            |
-| 6. Visualization                     | 1       | Visualization: Publication-quality Figures                       |
-| 6. Visualization                     | 2       | Visualization: Conceptual Diagrams and Graphical Abstracts       |
-| 7. Presentation Skills               | 1       | Presentation Skills: Audience-Centric Techniques                 |
-| 7. Presentation Skills               | 2       | Presentation Skills: Slide Design                                |
+| 3. Methods                           | 3       | Methods: Lab Methods - In Person (50 points)*                    |                                               |
+| 3. Methods                           | 4       | Methods: Lab Methods - In Person (50 points)*                    |                                               |
+| 3. Methods                           | 5       | Methods: Ethics in Engineering and Research (10 points)          | - Macro and micro ethics in the ASCE Code of Ethics (10 points) <br> - Ethical issues in your research (20 points) <br> - Plagiarism, Falsification, and Fabrication (30 points) <br> - : Other Deviations from Acceptable Research Practices (10 points) |
+| 4. Completing the Research Proposal  | 1       | Completing the Research Proposal: Expected Results and Timeline (10 points)  | - Expected results (40 Points)    |
+| 4. Completing the Research Proposal  | 2       | Completing the Research Proposal: Title and Abstract (10 points) | - Abstract Evaluation Exercise (50 Points)    |
+| 5. Data Management                   | 1       | Data Management: FAIR Guiding Principles (10 points)             |                                               |
+| 5. Data Management                   | 2       | Data Management: Data Management Plan (10 points)                |                                               |
+| 5. Data Management                   | 3       | Data Management: Using GitHub to Share Research Data (10 points) |                                               |
+| 6. Visualization                     | 1       | Visualization: Publication-quality Figures (10 points)           |                                               |
+| 6. Visualization                     | 2       | Visualization: Conceptual Diagrams and Graphical Abstracts (10 points) |                                         |
+| 7. Presentation Skills               | 1       | Presentation Skills: Audience-Centric Techniques (10 points)     |                                               |
+| 7. Presentation Skills               | 2       | Presentation Skills: Slide Design (10 points)                    |                                               |
+
+***Methods: Lab Methods**
+- This is an in-person event and no video will be posted. After attending, complete the exit ticket.
+- If the session does not align with your research interests or schedule, notify the instructor via the Methods Exit Ticket on Canvas and propose a specific, research-related makeup plan (e.g., watching tutorials, reviewing methods papers, or completing targeted readings) to complete during that week.
+- The late submission policy applies.
