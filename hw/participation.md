@@ -55,20 +55,20 @@ In the above example you will get:
 ### Videos
 These are the videos that require exit tickects. 
 
-| Module                               | Video # | Video or Event Title                                             |
-|--------------------------------------|---------|------------------------------------------------------------------|
-| 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods                |
-| 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms                                 |
-| 1. Fundamentals                      | 2       | Fundamentals: Research Question                                  |
-| 1. Fundamentals                      | 3       | Fundamentals: Research Proposal                                  |
+| Module                               | Video # | Video or Event Exit Ticket                                       | Video Partcipation Activity                  |
+|--------------------------------------|---------|------------------------------------------------------------------|----------------------------------------------|
+| 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods (10 points)    | - What is research? (10 points)<br> - Engineering design vs. scientific research  (20 points)<br> - Get to know each other (20 points)|
+| 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms (10 points)                     | - Research design (20 points)<br> - Research approach and design (20 points) |
+| 1. Fundamentals                      | 2       | Fundamentals: Research Question (10 points)                      | - Research question (50 points) |
+| 1. Fundamentals                      | 3       | Fundamentals: Research Proposal (10 points)                      | - Research proposal: Learning objectives (10 points) |
 | 2. Literature Review                 | 1       | Literature Review: Overview                                      |
-| 2. Literature Review                 | 2       | Literature Review: Library Resources (Guest Lecture)             |
+| 2. Literature Review                 | 2       | Literature Review: Library Resources (Guest Lecturer)            |
 | 2. Literature Review                 | 3       | Literature Review: Literature Search                             |
 | 2. Literature Review                 | 4       | Literature Review: Citation Management                           |
 | 2. Literature Review                 | 5       | Literature Review: Writing Your Review                           |
 | 2. Literature Review                 | 6       | Literature Review: Technical Writing                             |
 | 3. Methods                           | 1       | Methods: Method Development                                      |
-| 3. Methods                           | 2       | Methods: Group Exercise                                          |
+| 3. Methods                           | 2       | Methods: Method Development Exercise                             |
 | 3. Methods                           | 3       | Methods: Lab Methods (No video - In Person)                      |
 | 3. Methods                           | 4       | Methods: Lab Methods (No video - In Person)                      |
 | 3. Methods                           | 5       | Methods: Ethics in Engineering and Research                      |
