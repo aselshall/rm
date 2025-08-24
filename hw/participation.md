@@ -57,21 +57,21 @@ These are the videos that require exit tickects.
 
 | Module                               | Video # | Video or Event Exit Ticket                                       | Video Partcipation Activity                  |
 |--------------------------------------|---------|------------------------------------------------------------------|----------------------------------------------|
-| 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods (10 points)    | - What is research? (10 points)<br> - Engineering design vs. scientific research  (20 points)<br> - Get to know each other (20 points)|
+| 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods (10 points)    | - What is research? (10 points)<br> - Engineering design vs. scientific research  (20 points)<br> - Get to know each other (20 points)   |
 | 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms (10 points)                     | - Research design (20 points)<br> - Research approach and design (20 points) |
-| 1. Fundamentals                      | 2       | Fundamentals: Research Question (10 points)                      | - Research question (50 points) |
+| 1. Fundamentals                      | 2       | Fundamentals: Research Question (10 points)                      | - Research question (50 points)               |
 | 1. Fundamentals                      | 3       | Fundamentals: Research Proposal (10 points)                      | - Research proposal: Learning objectives (10 points) |
-| 2. Literature Review                 | 1       | Literature Review: Overview                                      |
-| 2. Literature Review                 | 2       | Literature Review: Library Resources (Guest Lecturer)            |
-| 2. Literature Review                 | 3       | Literature Review: Literature Search                             |
-| 2. Literature Review                 | 4       | Literature Review: Citation Management                           |
-| 2. Literature Review                 | 5       | Literature Review: Writing Your Review                           |
-| 2. Literature Review                 | 6       | Literature Review: Technical Writing                             |
-| 3. Methods                           | 1       | Methods: Method Development                                      |
-| 3. Methods                           | 2       | Methods: Method Development Exercise                             |
-| 3. Methods                           | 3       | Methods: Lab Methods (No video - In Person)                      |
-| 3. Methods                           | 4       | Methods: Lab Methods (No video - In Person)                      |
-| 3. Methods                           | 5       | Methods: Ethics in Engineering and Research                      |
+| 2. Literature Review                 | 1       | Literature Review: Overview (10 points)                          |                                               |
+| 2. Literature Review                 | 2       | Literature Review: Library Resources - Guest Lecturer (10 points |                                               |
+| 2. Literature Review                 | 3       | Literature Review: Literature Search (10 points)                 | - Literature search and source evaluation (100 points) |
+| 2. Literature Review                 | 4       | Literature Review: Citation Management (10 points)               | - Citation management with Zotero (40 points) |
+| 2. Literature Review                 | 5       | Literature Review: Writing Your Review (10 points)               | - Review Introduction (100 Points)            |
+| 2. Literature Review                 | 6       | Literature Review: Technical Writing (10 points)                 | - Cohesiveness of Writing (50 points) <br> - Self-Edit for Clarity (30 points) |
+| 3. Methods                           | 1       | Methods: Method Development (10 points)                          |                                               |
+| 3. Methods                           | 2       | Methods: Method Development Exercise (10 points)                 | - Review Method Section (100 Points)          |
+| 3. Methods                           | 3       | Methods: Lab Methods - In Person - No video (10 points)*         |                                               |
+| 3. Methods                           | 4       | Methods: Lab Methods - In Person - No video (10 points)*         |                                               |
+| 3. Methods                           | 5       | Methods: Ethics in Engineering and Research                      | - Macro and micro ethics in the ASCE Code of Ethics (10 points) <br> - Ethical issues in your research (20 points) <br> - Plagiarism, Falsification, and Fabrication (30 points) <br> - : Other Deviations from Acceptable Research Practices (10 points) |
 | 4. Completing the Research Proposal  | 1       | Completing the Research Proposal: Expected Results and Timeline  |
 | 4. Completing the Research Proposal  | 2       | Completing the Research Proposal: Title and Abstract             |
 | 5. Data Management                   | 1       | Data Management: FAIR Data Principles                            |
