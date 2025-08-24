@@ -83,7 +83,7 @@ These are the videos and lab lessons that require exit tickects.
 | 7. Presentation Skills               | 2       | Presentation Skills: Slide Design (10 points)                    |  To be announced                              |
 
 
-* Methods: Lab Methods
+*Methods: Lab Methods
 - This is an in-person event and no video will be posted. After attending, complete the exit ticket.
 - If the session does not align with your research interests or schedule, notify the instructor via the Methods Exit Ticket on Canvas and propose a specific, research-related makeup plan (e.g., watching tutorials, reviewing methods papers, or completing targeted readings) to complete during that week.
 - The late submission policy applies.
