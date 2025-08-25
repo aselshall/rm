@@ -5,12 +5,12 @@ The first step in developing your [research proposal](https://aselshall.github.i
 
 ## Instructions
 
-**1. Identify your topic**
+**1. Identify your topic (20%)**
 - Identify a research topic in civil and environmental engineering that interests you and can be completed within the scope of the project course as described in [the big picture](https://aselshall.github.io/rm/hw/big-picture).
 - For guidance, refer to [How to Find a Project Idea?](https://aselshall.github.io/rm/hw/topics) that also includes current faculty projects as potential research topics.
 - Preferably choose a project that relates to your job or work.
   
-**2. Get expert guidance**
+**2. Get expert guidance (50%)**
 - You must  have an FGCU faculty member as your primary supervisor.
 - You may have multiple research supervisors, including external ones.
 - Your primary supervisor must be an FGCU faculty member with Canvas access to track your progress, provide ongoing support, and grade your work.
@@ -18,7 +18,7 @@ The first step in developing your [research proposal](https://aselshall.github.i
 - You need to to discuss the feasibility and scope of your chosen topic with your primary supervisor.
 - Your primary supervisor must approve your project before you proceed. This ensures the project is feasible and aligned with the course learning objectives.
 
-**3. Consider key factors**    
+**3. Consider key factors (20%)**    
 Review the factors discussed in Lesson 3: Research Problem, such as:
 - Feasibility: Can the project be completed with the resources and time available?
 - Personal interest: Does the topic genuinely interest you and motivate you? Why does this problem interest you? How would your interest in this topic help sustain your work or advance your career? 
@@ -29,7 +29,7 @@ Review the factors discussed in Lesson 3: Research Problem, such as:
 
 Ensure that your topic aligns with these factors to maximize the potential success of your research.
 
-**4. Write your reflection**
+**4. Write your reflection (10%)**
 - In 1-2 pages, describe your chosen research topic and explain how you considered the factors listed above. Your objective is to convince the reader that your proposed research is useful, and that you have the neeeded skills, guidance, resources, and time to complete it successfully, and not just talk about it. Use the rubric below for guidance.
 
 ## Submission
@@ -42,10 +42,9 @@ In open-ended homework like this, a rubric is suggestive. The rubric mainly prov
 
 | **Criteria**                     | **Excellent (90-100%)**               | **Good (80-89%)**              | **Satisfactory (70-79%)**       | **Needs Improvement (60-69%)**  | **Poor (<60%)**                | **Weight** |
 |----------------------------------|---------------------------------------|--------------------------------|---------------------------------|---------------------------------|--------------------------------|------------|
-| **Topic Selection**              | Clear, and feasible topic  | Mostly feasible  | Seems feasible, but may lack clarity | Relevant topic, but does not seem feasible    | Irrelevant or not feasible    | 30%       |
-| **Expert Guidance**              | - An FGCU faculty has been selected as your primary supervisor<br> - A clear plan is discussed<br> - FGCU faculty approved your project |  - An FGCU faculty has been selected as your supervisor <br> -       | Mention guidance or plan for guidance    | Little mention of guidance, or unclear plan   | No mention or plan            | 30%       |
-| **Expert Guidance** | - An **FGCU faculty member** is clearly designated as the **primary supervisor** <br> - Student has **discussed feasibility and scope** of the project with supervisor <br> - Project has been **approved** by supervisor before proceeding | - FGCU faculty member is listed as primary supervisor <br> - Some evidence of discussion, but approval or scope not fully clear | - Supervisor mentioned, but unclear if FGCU faculty or if project feasibility has been discussed | - Minimal mention of guidance or unclear supervisor role | - No FGCU faculty supervisor listed <br> - No guidance, discussion, or approval | 30%        |
-| **Key Factors**                  | Addresses key factors thoroughly     | Addresses most key factors    | Addresses some key factors     | Mentions few key factors       | Does not address key factors  | 30%       |
+| **Topic Selection**              | Clear, and feasible topic  | Mostly feasible  | Seems feasible, but may lack clarity | Relevant topic, but does not seem feasible    | Irrelevant or not feasible    | 20%       |
+| **Expert Guidance** | - An **FGCU faculty member** is clearly designated as the **primary supervisor** <br> - Student has **discussed feasibility and scope** of the project with supervisor <br> - Project has been **approved** by supervisor before proceeding | - FGCU faculty member is listed as primary supervisor <br> - Some evidence of discussion, but approval or scope not fully clear | - FGCU faculty name mentioned, but unclear if project feasibility has been discussed | - FGCU faculty name mentioned, but unclear supervisor role | - No FGCU faculty supervisor listed <br> - No guidance, discussion, or approval | 50%        |
+| **Key Factors**                  | Addresses key factors thoroughly     | Addresses most key factors    | Addresses some key factors     | Mentions few key factors       | Does not address key factors  | 20%       |
 | **Clarity and Organization**     | Clear, well-organized, few errors    | Mostly clear, minor errors    | Somewhat clear, some errors    | Unclear, disorganized, errors  | Very unclear, many errors     | 10%       |
 
 ## Next steps
