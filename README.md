@@ -76,13 +76,13 @@ These topics and dates are tentative and subject to change based on class progre
 
 #### Laboratory Methods Classes
 - Format: In-person, off-campus at the Emergent Technologies Institute (ETI)
-- Schedule: M/W, 4:30–5:45 PM
-- Location: 16301 Innovation Ln, Fort Myers, FL 33913
+- Schedule: Monday and Wednesday from  4:30 to 5:45 PM
+- Address: 16301 Innovation Ln, Fort Myers, FL 33913
 - Instructor: Huan Luong, Research Laboratory Manager
   - Email: [hluong@fgcu.edu](mailto:hluong@fgcu.edu)
   - Phone: 239-745-4199
 
-If these classes do not align with your research interests or schedule, notify the instructor via the Lab Methods discussion on Canvas and provide a specific, research-related makeup plan (e.g., watching relevant tutorials, reviewing methods papers, or completing targeted readings).
+If these classes do not align with your research interests or schedule notify the instructor via the Methods Exit Ticket discussion on Canvas by providing a specific, research-related makeup plan (e.g., watching relevant tutorials, reviewing methods papers, or completing targeted readings).
 
 #### Project day
 - Dedicated time for independent or group work with your supervisor on your research proposal
