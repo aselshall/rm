@@ -14,13 +14,14 @@ The first step in developing your [research proposal](https://aselshall.github.i
 - You must  have an FGCU faculty member as your primary supervisor.
 - You may have multiple research supervisors, including external ones.
 - Your primary supervisor must be an FGCU faculty member with Canvas access to track your progress, provide ongoing support, and grade your work.
-- If you are a Construction Management student planning to work with an external supervisor, please designate Dr. Anh Chau or Dr. Jieyi Bao as your primary supervisor. Be sure to contact your primary supervisor early and discuss your project with them. 
+- If you are a Construction Management student planning to work with an external supervisor, please designate Dr. Anh Chau or Dr. Jieyi Bao as your primary supervisor.
+- Your primary supervisor may have a busy schedule, so be sure to contact your primary supervisor as early as possible, and discuss your project with them. 
 - You need to to discuss the feasibility and scope of your chosen topic with your primary supervisor.
-- Your primary supervisor must approve your project before you proceed. This ensures the project is feasible and aligned with the course learning objectives.
+- Your primary supervisor must approve your project and scope before you proceed. This ensures the project is feasible and aligned with the course learning objectives.
 
 **3. Consider key factors (20%)**    
 Review the factors discussed in Lesson 3: Research Problem, such as:
-- Feasibility: Can the project be completed with the resources and time available?
+- Feasibility: Can the project be completed with the resources and time available, and given my skill set? 
 - Personal interest: Does the topic genuinely interest you and motivate you? Why does this problem interest you? How would your interest in this topic help sustain your work or advance your career? 
 - Significance: Why is this research problem important? What potential impact could exploring this problem have? 
 - Scope: Is the scope of the research appropriate for the project course or thesis research?
