@@ -15,7 +15,8 @@ The first step in developing your [research proposal](https://aselshall.github.i
 - You may have multiple research supervisors, including external ones.
 - Your primary supervisor must be an FGCU faculty member with Canvas access to track your progress, provide ongoing support, and grade your work.
 - If you are a Construction Management student planning to work with an external supervisor, please designate Dr. Anh Chau or Dr. Jieyi Bao as your primary supervisor. Be sure to contact your primary supervisor early and discuss your project with them. 
-- You need to to discuss the feasibility and scope of your chosen topic with your primary supervisor. 
+- You need to to discuss the feasibility and scope of your chosen topic with your primary supervisor.
+- Your primary supervisor must approve your project before you proceed. This ensures the project is feasible and aligned with the course learning objectives.
 
 **3. Consider key factors**    
 Review the factors discussed in Lesson 3: Research Problem, such as:
@@ -42,7 +43,8 @@ In open-ended homework like this, a rubric is suggestive. The rubric mainly prov
 | **Criteria**                     | **Excellent (90-100%)**               | **Good (80-89%)**              | **Satisfactory (70-79%)**       | **Needs Improvement (60-69%)**  | **Poor (<60%)**                | **Weight** |
 |----------------------------------|---------------------------------------|--------------------------------|---------------------------------|---------------------------------|--------------------------------|------------|
 | **Topic Selection**              | Clear, and feasible topic  | Mostly feasible  | Seems feasible, but may lack clarity | Relevant topic, but does not seem feasible    | Irrelevant or not feasible    | 30%       |
-| **Expert Guidance**              | - An FGCU faculty has been selected as your supervisor<br> - A clear plan is discussed<br> - FGCU faculty approved your project |  - An FGCU faculty has been selected as your supervisor <br> -       | Mention guidance or plan for guidance    | Little mention of guidance, or unclear plan   | No mention or plan            | 30%       |
+| **Expert Guidance**              | - An FGCU faculty has been selected as your primary supervisor<br> - A clear plan is discussed<br> - FGCU faculty approved your project |  - An FGCU faculty has been selected as your supervisor <br> -       | Mention guidance or plan for guidance    | Little mention of guidance, or unclear plan   | No mention or plan            | 30%       |
+| **Expert Guidance** | - An **FGCU faculty member** is clearly designated as the **primary supervisor** <br> - Student has **discussed feasibility and scope** of the project with supervisor <br> - Project has been **approved** by supervisor before proceeding | - FGCU faculty member is listed as primary supervisor <br> - Some evidence of discussion, but approval or scope not fully clear | - Supervisor mentioned, but unclear if FGCU faculty or if project feasibility has been discussed | - Minimal mention of guidance or unclear supervisor role | - No FGCU faculty supervisor listed <br> - No guidance, discussion, or approval | 30%        |
 | **Key Factors**                  | Addresses key factors thoroughly     | Addresses most key factors    | Addresses some key factors     | Mentions few key factors       | Does not address key factors  | 30%       |
 | **Clarity and Organization**     | Clear, well-organized, few errors    | Mostly clear, minor errors    | Somewhat clear, some errors    | Unclear, disorganized, errors  | Very unclear, many errors     | 10%       |
 
