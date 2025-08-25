@@ -14,7 +14,7 @@ This log promotes:
 ### Participation Activities
 
 - Watch 1–4 videos weekly and submit an exit ticket for each.
-- Answer all embedded participation questions for credit.
+- Answer all embedded participation questions for credit.  
 - Provide complete, thoughtful responses as instructed.
 - Your exit ticket reflection may include:
   - Key concepts or skills learned
@@ -23,8 +23,9 @@ This log promotes:
   - Challenges faced
   - Feedback on content or delivery
   - A simple “thank you” if no feedback is needed
-- Exit Tickets and participation questions are due weekly
-
+- **Exit Tickets and participation questions are due weekly**
+- Participation due date is posted on Canvas.
+- To complete the log and receive credit, you must finish the Participation activities (exit tickets + participation questions) on time.
 
 ### Instructions for Logging
 - For exist tickets and participation questions, you need to record
