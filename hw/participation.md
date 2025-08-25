@@ -52,8 +52,8 @@ In the above example you will get:
 - Partial credit: Incomplete, mismatched, late exit tickets, late participation activities, late logs (see [Late Submission Policy](https://aselshall.github.io/rm/#late-submission-policy)).
 - No credit: Missing exit tickets, participation questions, or log entries.
 
-### Videos and lab lessons
-These are the videos and lab lessons that require exit tickects. Your Participation activities (exit tickets + participation questions) for each week’s videos are due by Sunday at 11:59 PM of that week. For example, by the end of Week 1 you should have watched and posted your exit tickets and participation questions for these videos:
+### Videos and lab lessons that require exit tickects. 
+Your Participation activities (exit tickets + participation questions) for each week’s videos are due by Sunday at 11:59 PM of that week. For example, by the end of Week 1 you should have watched and posted your exit tickets and responses to participation questions for these videos:
  - Getting Started: Introduction to Research Methods (10 points for the exit tickt and 30 points for participation questions)
  - Fundamentals: Research Paradigms (10 points for the exit ticket and 20 points for particiation questions)
 
