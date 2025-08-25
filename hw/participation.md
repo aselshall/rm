@@ -58,8 +58,8 @@ These are the videos and lab lessons that require exit tickects.
 | Module                               | Video # | Video or lab lesson Exit Ticket                                  | Video Partcipation Activity                  |
 |--------------------------------------|---------|------------------------------------------------------------------|----------------------------------------------|
 | 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods (10 points)    | - What is research? (10 points)<br> - Engineering design vs. scientific research  (20 points)<br> - Get to know each other (20 points)   |
-| 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms (10 points)                     | - Research design (20 points)<br> - Research approach and design (20 points) |
-| 1. Fundamentals                      | 2       | Fundamentals: Research Question (10 points)                      | - Research question (50 points)               |
+| 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms (10 points)                     | - Research design (10 points)<br> - Research approach and design (20 points) |
+| 1. Fundamentals                      | 2       | Fundamentals: Research Question (10 points)                      | - Research question (10 points)               |
 | 1. Fundamentals                      | 3       | Fundamentals: Research Proposal (10 points)                      | - Research proposal: Learning objectives (10 points) |
 | 2. Literature Review                 | 1       | Literature Review: Overview (10 points)                          | —                                             |
 | 2. Literature Review                 | 2       | Literature Review: Library Resources - Guest Lecturer (10 points | —                                             |
