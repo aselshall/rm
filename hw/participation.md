@@ -49,7 +49,7 @@ In the above example you will get:
 ### Grading
 
 - Full credit: All activities completed on time; log matches Canvas records.
-- Partial credit: Incomplete, mismatched, or late logs (see [Late Submission Policy](https://aselshall.github.io/rm/#late-submission-policy)).
+- Partial credit: Incomplete, mismatched, late exit tickets, late participation activities, late logs (see [Late Submission Policy](https://aselshall.github.io/rm/#late-submission-policy)).
 - No credit: Missing exit tickets, participation questions, or log entries.
 
 ### Videos and lab lessons
