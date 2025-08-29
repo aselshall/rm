@@ -58,32 +58,32 @@ Your Participation activities (exit tickets + participation questions) for each 
  - Getting Started: Introduction to Research Methods (10 points for the exit tickt and 30 points for participation questions)
  - Fundamentals: Research Paradigms (10 points for the exit ticket and 20 points for particiation questions)
 
-| Week | Module                               | Video # | Video Exit Ticket                                               | Video Partcipation Activity                  |
-|------|--------------------------------------|---------|------------------------------------------------------------------|----------------------------------------------|
+| Week | Module                               | Video # | Video Exit Ticket                                               | Video Partcipation Activity              |
+|------|--------------------------------------|---------|------------------------------------------------------------------|-----------------------------------------|
 | 1| 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods (10 points)    | - What is research? (10 points)<br> - Engineering design vs. scientific research  (10 points)<br> - Get to know each other (10 points)   |
 | 1 | 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms (10 points)                     | - Research design (10 points)<br> - Research approach and design (10 points) |
-| 2 | 1. Fundamentals                      | 2       | Fundamentals: Research Question (10 points)                      | - Research question (10 points)               |
+| 2 | 1. Fundamentals                      | 2       | Fundamentals: Research Question (10 points)                      | - Research question (10 points)             |
 | 2 | 1. Fundamentals                      | 3       | Fundamentals: Research Proposal (10 points)                      | - Research proposal: Learning objectives (10 points) |
-| 2 | 2. Literature Review                 | 1       | Literature Review: Overview (10 points)                          | —                                             |
-| 3 | 2. Literature Review                 | 2       | Literature Review: Library Resources - Guest Lecturer (10 points | —                                             |
+| 2 | 2. Literature Review                 | 1       | Literature Review: Overview (10 points)                          | —                                           |
+| 3 | 2. Literature Review                 | 2       | Literature Review: Library Resources - Guest Lecturer (10 points | —                                           |
 |3 | 2. Literature Review                 | 3       | Literature Review: Literature Search (10 points)                 | - Literature search and source evaluation (100 points) |
-|4 | 2. Literature Review                 | 4       | Literature Review: Citation Management (10 points)               | - Citation management with Zotero (40 points) |
-|4 | 2. Literature Review                 | 5       | Literature Review: Writing Your Review (10 points)               | - Review Introduction (100 Points)            |
+|4 | 2. Literature Review                 | 4       | Literature Review: Citation Management (10 points)               | - Citation management with Zotero (40 points)|
+|4 | 2. Literature Review                 | 5       | Literature Review: Writing Your Review (10 points)               | - Review Introduction (100 Points)           |
 |5 | 2. Literature Review                 | 6       | Literature Review: Technical Writing (10 points)                 | - Cohesiveness of Writing (50 points) <br> - Self-Edit for Clarity (30 points) |
-|6 | 3. Methods                           | 1       | Methods: Method Development (10 points)                          | —                                             |
-|6 | 3. Methods                           | 2       | Methods: Method Development Exercise (10 points)                 | - Review Method Section (100 Points)          |
-|7 | 3. Methods                           | 3       | Methods: Lab Methods - In Person (25 points)*                    | —                                             |
-|7 | 3. Methods                           | 4       | Methods: Lab Methods - In Person (25 points)*                    | —                                             |
+|6 | 3. Methods                           | 1       | Methods: Method Development (10 points)                          | —                                            |
+|6 | 3. Methods                           | 2       | Methods: Method Development Exercise (10 points)                 | - Review Method Section (100 Points)         |
+|7 | 3. Methods                           | 3       | Methods: Lab Methods - In Person (25 points)*                    | —                                            |
+|7 | 3. Methods                           | 4       | Methods: Lab Methods - In Person (25 points)*                    | —                                            |
 |8 | 3. Methods                           | 5       | Methods: Ethics in Engineering and Research (10 points)          | - Macro and micro ethics in the ASCE Code of Ethics (10 points) <br> - Ethical issues in your research (20 points) <br> - Plagiarism, Falsification, and Fabrication (30 points) <br> - Other Deviations from Acceptable Research Practices (10 points) |
-|9 | 4. Completing the Research Proposal  | 1       | Completing the Research Proposal: Expected Results and Timeline (10 points)  | - Expected results (40 Points)    |
-|9 | 4. Completing the Research Proposal  | 2       | Completing the Research Proposal: Title and Abstract (10 points) | - Abstract Evaluation Exercise (50 Points)    |
-|10 | 5. Data Management                   | 1       | Data Management: FAIR Guiding Principles (10 points)             |  To be announced                              |
-|10 | 5. Data Management                   | 2       | Data Management: Data Management Plan (10 points)                |  To be announced                              |
-|10 | 5. Data Management                   | 3       | Data Management: Using GitHub to Share Research Data (10 points) |  To be announced                              |
-|11 | 6. Visualization                     | 1       | Visualization: Publication-quality Figures (10 points)           |  To be announced                              |
-|11 | 6. Visualization                     | 2       | Visualization: Conceptual Diagrams and Graphical Abstracts (10 points) |  To be announced                        |
-|13 | 7. Presentation Skills               | 1       | Presentation Skills: Audience-Centric Techniques (10 points)     |  To be announced                              |
-|13 | 7. Presentation Skills               | 2       | Presentation Skills: Slide Design (10 points)                    |  To be announced                              |
+|9 | 4. Completing the Research Proposal  | 1       | Completing the Research Proposal: Expected Results and Timeline (10 points)  | - Expected results (40 Points)  |
+|9 | 4. Completing the Research Proposal  | 2       | Completing the Research Proposal: Title and Abstract (10 points) | - Abstract Evaluation Exercise (50 Points)  |
+|10 | 5. Data Management                  | 1       | Data Management: FAIR Guiding Principles (10 points)             |  - FAIR                            |
+|10 | 5. Data Management                  | 2       | Data Management: Data Management Plan (10 points)                |  - Data Management Quiz (30 points)          |
+|10 | 5. Data Management                  | 3       | Data Management: Using GitHub to Share Research Data (10 points) |  - Creating a GitHub Repo (20 points)       |
+|11 | 6. Visualization                    | 1       | Visualization: Publication-quality Figures (10 points)           |  To be announced                            |
+|11 | 6. Visualization                    | 2       | Visualization: Conceptual Diagrams and Graphical Abstracts (10 points) |  To be announced                      |
+|13 | 7. Presentation Skills              | 1       | Presentation Skills: Audience-Centric Techniques (10 points)     |  To be announced                            |
+|13 | 7. Presentation Skills              | 2       | Presentation Skills: Slide Design (10 points)                    |  To be announced                             |
 
 
 *Methods: Lab Methods
