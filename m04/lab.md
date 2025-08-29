@@ -21,22 +21,26 @@ More details: [ETI Equipment and Training](https://www.fgcu.edu/academics/resear
 ### What You Need to Do
 Before lab week, respond to this discussion post with your plan:
 
-- **If attending both sessions**: List two instruments you want to learn. *(Full credit upon attendance, no summary required.)
+- **If attending both sessions**:
+    - List two instruments you want to learn
+    - First come first served
+    - Full credit upon attendance, no summary required
+    - If you want to learn more instruments, the instusctor will be happy to provide more sessions.
 - **If attending one or both sessions are missed**:
-    - Provide a **makeup plan** (e.g., tutorials, methods papers, or targeted readings) to cover the missed work.
-    - Be specific and include links to the materials when possible.
-    - By the end of lab week, post a short summary (5 - 10 sentences) of what you learned from your plan.
+    - Provide a **makeup plan** (e.g., tutorials, methods papers, or targeted readings) to cover the missed work
+    - Be specific and include links to the materials when possible
+    - By the end of lab week, post a short summary (5 - 10 sentences) of what you learned from your plan
       
 ### Deadlines
 
-* **Pre-lab response**: Submit before the week of the lab sessions.
-* **Makeup summaries (if required)**: Due by the end of lab week.
+* **Pre-lab response**: Submit before the week of the lab sessions 
+* **Makeup summaries (if required)**: Due by the end of lab week
 
 ### Grading (50 points)
 
-* **Pre-lab response (10 pts):** Confirm attendance or submit a makeup plan on time.
+* **Pre-lab response (10 pts):** Confirm attendance or submit a makeup plan on time
 * **Attendance / Makeup (40 pts):**
 
-  * Attend both sessions = 40 pts (automatic, no summary).
-  * Missed sessions (one or both) + completed makeup summary = up to 40 pts.
-  * Incomplete attendance/makeup = partial credit.
+  * Attend both sessions = 40 pts (automatic, no summary)
+  * Missed sessions (one or both) + completed makeup summary = up to 40 pts
+  * Incomplete attendance/makeup = partial credit
