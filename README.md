@@ -82,7 +82,7 @@ These topics and dates are tentative and subject to change based on class progre
   - Email: [hluong@fgcu.edu](mailto:hluong@fgcu.edu)
   - Phone: 239-745-4199
 
-If these classes do not align with your research interests or schedule notify the instructor via the Methods Exit Ticket discussion on Canvas by providing a specific, research-related makeup plan (e.g., watching relevant tutorials, reviewing methods papers, or completing targeted readings).
+If these classes do not align with your research interests or schedule notify the instructor via the Laboratory Methods discussion on Canvas by providing a specific, research-related makeup plan (e.g., watching relevant tutorials, reviewing methods papers, or completing targeted readings). Check the [Laboratory Methods Classes](https://aselshall.github.io/rm/m04/lab) for details.
 
 #### Project day
 - Dedicated time for independent or group work with your supervisor on your research proposal
