@@ -29,7 +29,7 @@ Before lab week, respond to this discussion post with your plan:
 - **If attending one or both sessions are missed**:
     - Provide a **makeup plan** (e.g., tutorials, methods papers, or targeted readings) to cover the missed work
     - Be specific and include links to the materials when possible
-    - By the end of lab week, post a short summary (5 - 10 sentences) of what you learned from your plan
+    - By the end of lab week, post a short summary (5 - 10 sentences) of what you learned from your independent study
       
 ### Deadlines
 
