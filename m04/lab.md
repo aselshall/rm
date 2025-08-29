@@ -5,7 +5,7 @@ There are two lab sessions. If these do not align with your research interests o
 - **Location:** [Emergent Technologies Institute (ETI)](https://www.fgcu.edu/academics/research/emergenttechnologiesinstitute)
 - **Address:** 16301 Innovation Ln, Fort Myers, FL 33913
 - **Instructor:** Huan Luong, Research Laboratory Manager
-- **Contact Information:** Phone: 239-745-4199 | [hluong@fgcu.edu](mailto:hluong@fgcu.edu) 
+- **Contact Information:** Phone: 239-745-4199, [hluong@fgcu.edu](mailto:hluong@fgcu.edu) 
 
 ### Equipment and Training
 
