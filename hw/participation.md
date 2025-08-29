@@ -53,12 +53,12 @@ In the above example you will get:
 - Partial credit: Incomplete, mismatched, late exit tickets, late participation activities, late logs (see [Late Submission Policy](https://aselshall.github.io/rm/#late-submission-policy)).
 - No credit: Missing exit tickets, participation questions, or log entries.
 
-### Videos and lab lessons that require exit tickects. 
+### Videos that require exit tickects. 
 Your Participation activities (exit tickets + participation questions) for each week’s videos are due by Sunday at 11:59 PM of that week. For example, by the end of Week 1 you should have watched and posted your exit tickets and responses to participation questions for these videos:
  - Getting Started: Introduction to Research Methods (10 points for the exit tickt and 30 points for participation questions)
  - Fundamentals: Research Paradigms (10 points for the exit ticket and 20 points for particiation questions)
 
-| Week | Module                               | Video # | Video or lab lesson Exit Ticket                                  | Video Partcipation Activity                  |
+| Week | Module                               | Video # | Video Exit Ticket                                               | Video Partcipation Activity                  |
 |------|--------------------------------------|---------|------------------------------------------------------------------|----------------------------------------------|
 | 1| 0. Getting Started                   | 1       | Getting Started: Introduction to Research Methods (10 points)    | - What is research? (10 points)<br> - Engineering design vs. scientific research  (10 points)<br> - Get to know each other (10 points)   |
 | 1 | 1. Fundamentals                      | 1       | Fundamentals: Research Paradigms (10 points)                     | - Research design (10 points)<br> - Research approach and design (10 points) |
@@ -72,8 +72,8 @@ Your Participation activities (exit tickets + participation questions) for each 
 |5 | 2. Literature Review                 | 6       | Literature Review: Technical Writing (10 points)                 | - Cohesiveness of Writing (50 points) <br> - Self-Edit for Clarity (30 points) |
 |6 | 3. Methods                           | 1       | Methods: Method Development (10 points)                          | —                                             |
 |6 | 3. Methods                           | 2       | Methods: Method Development Exercise (10 points)                 | - Review Method Section (100 Points)          |
-|7 | 3. Methods                           | 3       | Methods: Lab Methods - In Person (50 points)*                    | —                                             |
-|7 | 3. Methods                           | 4       | Methods: Lab Methods - In Person (50 points)*                    | —                                             |
+|7 | 3. Methods                           | 3       | Methods: Lab Methods - In Person (25 points)*                    | —                                             |
+|7 | 3. Methods                           | 4       | Methods: Lab Methods - In Person (25 points)*                    | —                                             |
 |8 | 3. Methods                           | 5       | Methods: Ethics in Engineering and Research (10 points)          | - Macro and micro ethics in the ASCE Code of Ethics (10 points) <br> - Ethical issues in your research (20 points) <br> - Plagiarism, Falsification, and Fabrication (30 points) <br> - Other Deviations from Acceptable Research Practices (10 points) |
 |9 | 4. Completing the Research Proposal  | 1       | Completing the Research Proposal: Expected Results and Timeline (10 points)  | - Expected results (40 Points)    |
 |9 | 4. Completing the Research Proposal  | 2       | Completing the Research Proposal: Title and Abstract (10 points) | - Abstract Evaluation Exercise (50 Points)    |
@@ -87,6 +87,6 @@ Your Participation activities (exit tickets + participation questions) for each 
 
 
 *Methods: Lab Methods
-- This is an in-person event and no video will be posted. After attending, complete the exit ticket.
-- If these lessons do not align with your research interests or schedule, notify the instructor via the Methods Exit Ticket on Canvas and propose a specific, research-related makeup plan (e.g., watching tutorials, reviewing methods papers, or completing targeted readings) to complete during that week.
-- The late submission policy applies.
+- This is an in-person event and no video will be posted.
+- After attending, complete the exit ticket.
+- For details, check [Laboratory Methods Classes](https://aselshall.github.io/rm/m04/lab)
