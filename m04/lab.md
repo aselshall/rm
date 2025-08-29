@@ -24,7 +24,7 @@ Before lab week, respond to this discussion post with your plan:
 - **If attending both sessions**:
     - List two instruments you want to learn
     - First come first served
-    - Full credit upon attendance, no summary required
+    - Full credit upon attendance, no summary required and just provide a regular exit ticket
     - If you want to learn more instruments, the instusctor will be happy to provide more sessions.
 - **If attending one or both sessions are missed**:
     - Provide a **makeup plan** (e.g., tutorials, methods papers, or targeted readings) to cover the missed work
@@ -41,6 +41,6 @@ Before lab week, respond to this discussion post with your plan:
 * **Pre-lab response (10 pts):** Confirm attendance or submit a makeup plan on time
 * **Attendance / Makeup (40 pts):**
 
-  * Attend both sessions = 40 pts (automatic, no summary)
-  * Missed sessions (one or both) + completed makeup summary = up to 40 pts
-  * Incomplete attendance/makeup = partial credit
+  * Attend both sessions and provide exit tickets: 40 points
+  * Missed sessions (one or both) + completed makeup summary: Up to 40 points
+  * Incomplete attendance/exit tickets/makeup: Partial credit
