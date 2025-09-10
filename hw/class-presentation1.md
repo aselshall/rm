@@ -75,7 +75,7 @@ The points listed below are provided as a checklist to guide your preparation an
     - Check Research Question lessor for details
  4. Does the presentation effectively communicate the significance and potential impact of the research problem? (5 points)
  5. Is the scope of the research problem appropriate, and is the feasibility of the study well-considered? (5 points)
-    - Mention her your discussion with your supervisor about scope and feasibility for credit 
+    - Mention here your discussion with your supervisor about scope and feasibility for credit 
  7. Is the presentation clear, well-organized, and delivered effectively? (5 points)
  8. Are the questions for feedback well-formulated and conducive to helpful discussion? (5 points)
  9. Does the presentation engage and inform the audience? (5 points)
