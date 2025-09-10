@@ -69,13 +69,15 @@ The points listed below are provided as a checklist to guide your preparation an
     - At least 6 peer-reviewed papers are cited throughout the presentation and referenced at the end
     - If sources are not effectively cited during the presentation or referenced at the end you will recieve zero
     - Non-serious responses will receive negative credit (-65 points)  
- 3. Is the topic clearly introduced? (5 points)
+ 2. Is the topic clearly introduced? (5 points)
     - Check Writing Your Review lesson for details
- 5. Is the research problem clearly articulated and well-defined? (5 points)
- 7. Does the presentation effectively communicate the significance and potential impact of the research problem? (5 points)
- 8. Is the scope of the research problem appropriate, and is the feasibility of the study well-considered? (5 points)
- 10. Is the presentation clear, well-organized, and delivered effectively? (5 points)
- 11. Are the questions for feedback well-formulated and conducive to helpful discussion? (5 points)
- 12. Does the presentation engage and inform the audience? (5 points)
+ 3. Is the research problem clearly articulated and well-defined? (5 points)
+    - Check Research Question lessor for details
+ 4. Does the presentation effectively communicate the significance and potential impact of the research problem? (5 points)
+ 5. Is the scope of the research problem appropriate, and is the feasibility of the study well-considered? (5 points)
+    - Mention her your discussion with your supervisor about scope and feasibility for credit 
+ 7. Is the presentation clear, well-organized, and delivered effectively? (5 points)
+ 8. Are the questions for feedback well-formulated and conducive to helpful discussion? (5 points)
+ 9. Does the presentation engage and inform the audience? (5 points)
 
 [Download rubric](https://aselshall.github.io/rm/hw/Class%20presentation1%20rubric.docx) that we be used for peer-evaluation
