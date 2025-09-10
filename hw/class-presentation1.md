@@ -33,8 +33,7 @@ Conducting an exploratory literature review will help you to read the literature
   - Negative credit (-30 points) for asking questions without fully watching the presentation or non-serious responses
 - Peer Evaluation (30 points)
   - Upload the peer evaluation form on the discussion post on Canvas
-  - No credit for superficial responses (e.g., giving full marks without justification)
-  - Negative credit (-30 points) for filling out peer evaluation form without fully watching the presentation or non-serious responses
+  - Non-serious responses (e.g., giving full marks to all questions without justification) will receive no credit (and may result in negative credit if disruptive to the learning of other students).
 - Presentation Evaluation (100 points)
   - See below for details  
 - Late Submissions – Follow the [late submission policy](https://aselshall.github.io/gwh/#late-homework-policy).
@@ -68,7 +67,7 @@ The points listed below are provided as a checklist to guide your preparation an
  1. Is exploratory literature review effectively used to define the research problem, and its significance? (65 points)
     - At least 6 peer-reviewed papers are cited throughout the presentation and referenced at the end
     - If sources are not effectively cited during the presentation or referenced at the end you will recieve zero
-    - Non-serious responses will receive negative credit (-65 points)  
+    - Non-serious responses will receive no credit (and may result in negative credit if disruptive to the learning of other students).
  2. Is the topic clearly introduced? (5 points)
     - Check Writing Your Review lesson for details
  3. Is the research problem clearly articulated and well-defined? (5 points)
