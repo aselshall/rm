@@ -20,7 +20,7 @@ Conducting an exploratory literature review will help you to read the literature
 
 #### 3. Week After Presentation Week
 - Respond to all questions you receive.
-- Complete 4 peer-evaluation rubrics(one for each reviewed presentation) and upload them to the Canvas discussion.
+- Complete 3 peer-evaluation rubrics(one for each reviewed presentation) and upload them to the Canvas discussion.
 
 ### Grading *(Participation Grade)*
 - If you have not already selected a relevant topic that was **approved by your supervisor** by the presentation upload deadline, you will automatically recieve zero for this assignment.
