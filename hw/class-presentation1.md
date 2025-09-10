@@ -7,8 +7,8 @@ Conducting an exploratory literature review will help you to read the literature
 
 #### 1. Week Before Presentation Week
 - Record your presentation (max 15 minutes).
-- Upload your presentation slides to Canvas by the due date.
-- Share your recorded presentation link in the *Paper Review* discussion on Canvas (do not upload large video files directly).
+- Upload your presentation slides to Canvas discussion by the due date.
+- Share your recorded presentation link in the Canvas discussion by the due date (do not upload large video files directly).
 - Recording options:
   - Record live on YouTube with OBS ([Tutorial](https://youtu.be/zOhh6MclooA?feature=shared))
   - Record in PowerPoint ([Tutorial](https://youtu.be/bP9VJ03s8Gw?feature=shared)) and upload to YouTube or OneDrive ([instructions](https://github.com/aselshall/gwh/blob/main/hw/How%20to%20Upload%20a%20Video%20to%20OneDrive.docx))
@@ -24,21 +24,24 @@ Conducting an exploratory literature review will help you to read the literature
 
 ### Grading *(Participation Grade)*
 - If you have not already selected a relevant topic that was **approved by your supervisor** by the presentation upload deadline, you will automatically recieve zero for this assignment.
-- Presentation Upload (40 points) – On time with link shared in discussion.
+- Presentation Upload (40 points)
+  - On time slides upload in discussion.
+  - And on time link shared in discussion.
 - Peer Engagement (30 points)
   - Ask 3 questions 
   - Answer 3 questions
-  - Negative credit for asking questions without fully watching the presentation or non-serious responses
+  - Negative credit (-30 points) for asking questions without fully watching the presentation or non-serious responses
 - Peer Evaluation (30 points)
   - Upload the peer evaluation form on the discussion post on Canvas
   - No credit for superficial responses (e.g., giving full marks without justification)
-  - Negative credit for filling out peer evaluation form without fully watching the presentation or non-serious responses
+  - Negative credit (-30 points) for filling out peer evaluation form without fully watching the presentation or non-serious responses
 - Presentation Evaluation (100 points)
   - See below for details  
 - Late Submissions – Follow the [late submission policy](https://aselshall.github.io/gwh/#late-homework-policy).
 
 ## Presentation content
-At least 6 peer-reviewed papers are cited during the presentation and fully referenced at the last slide.
+- At least 6 peer-reviewed papers are cited throughout the presentation and fully referenced at the last slide.
+- Cite using AGU style (Family name, Year)
 
 **Introduction:**
  - Provide a brief overview of your research topic
@@ -61,11 +64,11 @@ At least 6 peer-reviewed papers are cited during the presentation and fully refe
 
 
 ## Evaluation 
-
-The points listed in the evaluation criteria. The listed points highlight the importance of each aspect of your work to guide you on where to focus for a strong presentation that covers the learning objectives of this assignment. While this is for informational purposes only as these presentations are not graded, failing to meaningfully and adequately address any of these components will result in a grade of zero for that component. 
+The points listed below are provided as a checklist to guide your preparation and ensure your presentation covers the learning objectives. These presentations are not graded for content. However, you are expected to meaningfully address each component as part of the exercise. Skipping or inadequately addressing a component will result in no credit for participation on that part.
  1. Is exploratory literature review effectively used to define the research problem, and its significance? (65 points)
-    - At least 6 peer-reviewed papers are cited during the presentation and referenced at the end
+    - At least 6 peer-reviewed papers are cited throughout the presentation and referenced at the end
     - If sources are not effectively cited during the presentation or referenced at the end you will recieve zero
+    - Non-serious responses will receive negative credit (-65 points)  
  3. Is the topic clearly introduced? (5 points)
     - Check Writing Your Review lesson for details
  5. Is the research problem clearly articulated and well-defined? (5 points)
