@@ -24,7 +24,7 @@ This presentation is focused on developing and refining the Methods section of y
 - Respond to all questions you receive.
 - Complete 3 peer-evaluation rubrics(one for each reviewed presentation) and upload them to the Canvas discussion.
 
-### Grading *(Participation Grade)*
+### Grading 
 - If you have not already selected a relevant topic that was **approved by your supervisor** by the presentation upload deadline, you will automatically recieve zero for this assignment.
 - Presentation Upload (40 points)
   - On time slides upload in discussion.
