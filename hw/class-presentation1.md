@@ -64,7 +64,8 @@ Conducting an exploratory literature review will help you to read the literature
 
 ## Evaluation 
 The points listed below are provided as a checklist to guide your preparation and ensure your presentation covers the learning objectives. These presentations are not graded for content. However, you are expected to meaningfully address each component as part of the exercise. Skipping or inadequately addressing a component will result in no credit for participation on that part.
- 1. Is exploratory literature review effectively used to define the research problem, and its significance? (65 points)
+
+  1. Is exploratory literature review effectively used to define the research problem, and its significance? (65 points)
     - At least 6 peer-reviewed papers are cited throughout the presentation and referenced at the end
     - If sources are not effectively cited during the presentation or referenced at the end you will recieve zero
     - Non-serious responses will receive no credit (and may result in negative credit if disruptive to the learning of other students).
