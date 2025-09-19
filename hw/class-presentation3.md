@@ -5,7 +5,6 @@
 This presentation is focused on developing and refining the Methods section of your research proposal. Use this opportunity to present your proposed research design, data collection, and analysis methods, ensuring they are appropriate, feasible, and well-aligned with your research question and objectives.
 
 ### Timeline and Requirements
-### Timeline and Requirements
 
 #### 1. Week Before Presentation Week
 - Record your presentation (max 15 minutes).
