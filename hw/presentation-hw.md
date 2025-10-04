@@ -27,5 +27,5 @@ In this presentation, you will communicate the core elements of your research pr
 - For detailed criteria, review the [presentation rubric](https://aselshall.github.io/rm/hw/presentation-rubric) , which you can also download from this [Link](https://aselshall.github.io/rm/hw/Presentation%20rubric.docx).
 
 ### Grade
-- 22.5 points: Presentation
-- 2.5 points: Peer-evaluation forms 
+- Presentation: 22.5 points
+- Peer-evaluation forms: 2.5 points
