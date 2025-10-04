@@ -3,8 +3,9 @@
 
 **Date and Venue:** 
 - This is an in-person presentation (not online)
-- Dec-5 from 5:30 pm to 9:00 pm 
-- Merwin Hall 105
+- Date and time: Dec-5 from 5:30 pm to 9:00 pm 
+- Location: Merwin Hall 105
+- The first presentation will start ar 5:30 pm sharp so be there a few minute early
 
 **Time:**  
 - Total Time: 15 minutes per presentation
