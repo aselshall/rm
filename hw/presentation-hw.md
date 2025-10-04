@@ -13,7 +13,7 @@ In this presentation, you will communicate the core elements of your research pr
 - Total Time: 15 minutes per presentation
 - Presentation: 12 minutes
 - Q&A and Transition: 3 minutes
-- Presentation order by name as shown on Canvas
+- Presentation order are shown on Canvas
 
 ### Guidelines
 - The instructor will collect your peer-evaluation forms at the end of the class so do not forget to add your name on them
