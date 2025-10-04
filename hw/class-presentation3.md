@@ -73,8 +73,8 @@ The points listed below are provided as a checklist to guide your preparation an
 
 - Does the presentation provide a clear and detailed research design that is appropriate for the research question? (5 points)
 - Are the study site and sample well-chosen and clearly explained? (10 points)
-- Are the data collection methods appropriate, well-justified, and clearly articulated? (30% points)
-- Are the data analysis techniques appropriate, well-justified, and clearly explained? (30% points)
+- Are the data collection methods appropriate, well-justified, and clearly articulated? (30 points)
+- Are the data analysis techniques appropriate, well-justified, and clearly explained? (30 points)
 - Does the presentation effectively address ethical considerations? (5 points)
 - Is the presentation clear, well-organized, and delivered effectively? (10 points)
 - Are the questions for feedback well-formulated and conducive to helpful discussion? (10 points)
