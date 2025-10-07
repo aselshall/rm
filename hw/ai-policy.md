@@ -1,6 +1,6 @@
 ## Generative AI Policy
 
-Responsible use of GenAI (e.g., ChatGPT, Gemini, Perplexity, Consensus) is expected and you must critically evaluate and fact-check generated content. If you used GenAI, you need to provide a GenAI Statement clearly stating how and when you used AI and which tools you used. Violations will be treated as academic dishonesty and will be subject to [Policy for Academic Integrity Violations](https://aselshall.github.io/rm/#policy-for-academic-integrity-violations). 
+Responsible use of GenAI (e.g., ChatGPT, Gemini, Perplexity, Consensus) is expected and you must critically evaluate and fact-check generated content. If you used GenAI, you must provide a GenAI Statement clearly stating how and when you used AI and which tools you used. Violations will be treated as academic dishonesty and will be subject to [Policy for Academic Integrity Violations](https://aselshall.github.io/rm/#policy-for-academic-integrity-violations). 
 
 ## Example of GenAI Statement
 
