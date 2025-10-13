@@ -68,6 +68,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 14   | 17–23 Nov     | **Project Day**                                                                                                                                              | 🟩 **Due:** [Participation Log](https://aselshall.github.io/aea/hw/participation) for Modules 6–7 |
 | 15   | 24–30 Nov     | **Project Day**<br><br>*Thanksgiving (Nov 26-30) – No Classes*                                                                                                   | 🟥 **Due:** [Research Proposal](https://aselshall.github.io/rm/hw/proposal-hw)   |
 | 16   | 05 Dec        | **In-Person Proposal Presentations** – Merwin Hall 105, 5:30–9:00 PM                                                                                         | 🟥 **Due:** [Proposal Presentation](https://aselshall.github.io/rm/hw/presentation-hw) |
+| 17| 08-12 Dec| Final Exam Week: No Final Exam| | 
 
 **Color Symbols**
 - 🟩 Participation grade – Activities that count toward your participation grade
