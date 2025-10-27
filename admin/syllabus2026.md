@@ -1,29 +1,32 @@
-### Module 1: Introduction to Research in Engineering (Weeks 1–2)
-Week 1 Introduction
-Week 2 Research Question
+Module 1: Introduction to Research in Engineering (Weeks 1–2)
+- Week 1 Introduction
+- Week 2 Research Question
 
-### Module 2: Literature Review (Weeks 3–4)
-Week 3 Literature Search
-Week 4 Citation Management
+Module 2: Literature Review (Weeks 3–4)
+- Week 3 Literature Search
+- Week 4 Citation Management
 
-### Module 4: Research Design and Methodology (Weeks 5–7)
-Week 5 Experimental design 
-Week 6 Data collection methods
-Week 7 Measurement uncertainty
+Module 3: Research Design and Methodology (Weeks 5–7)
+- Week 5 Experimental design
+- Week 6 Data collection methods
+- Week 7 Measurement uncertainty
 
-### Module 5: Statistical and Computational Analysis (Weeks 8–10)
-Week 8 Fundamentals of statistics in engineering research
-Week 9 Regression analysis  
-Week 10 Correlation and analysis of variance (ANOVA)
+Module 4: Statistical Analysis (Weeks 8–10)
+- Week 8 Fundamentals of statistics in engineering research
+- Week 9 Regression analysis
+- Week 10 Correlation and analysis of variance 
 
-### Module 5: Research Ethics (Week 5)
-Week 11 Ethics in Engineering and Research
+Module 5: Research Ethics (Week 11)
+- Week 11 Ethics in engineering and research
 
-#### Module 6: Communicating Research Results (Weeks 11–15)
-Week 12 Technical Writing 
-Week 13 Data Management
-Week 14 Visualization
-Week 15 Presentation skills
+Module 6: Communicating Research Results (Weeks 12–15)
+- Week 12 Technical Writing
+- Week 13 Data Management
+- Week 14 Visualization
+- Week 15 Presentation skills
+
+
+
 
 
 --- 
