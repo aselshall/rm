@@ -6,6 +6,7 @@ Choosing a project that aligns with your interests and showcases your research s
 
 ### Faculty Projects
 #### Construction management
+- **[From Sketch to BIM: Student Perceptions of AI-Driven Interoperability](https://github.com/aselshall/rm/blob/main/hw/projects/p23.md)**
 - **[Specialty Contractor Experiences in Post-Hurricane Recovery and Resilience Construction in Southwest Florida](https://github.com/aselshall/rm/blob/main/hw/projects/p11.md)**
 - **[Perceptions of Automated Quality Control Systems in Specialty Construction Trades](https://github.com/aselshall/rm/blob/main/hw/projects/p12.md)**
 - **[Navigating AI Anxiety in the Construction Workforce — Challenges, Remedies, and Reskilling Pathways](https://github.com/aselshall/rm/blob/main/hw/projects/p13.md)**
