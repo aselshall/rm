@@ -106,7 +106,7 @@ Tool Used: Canvas Inbox (primary), Outlook (secondary if needed)
 
 #### Purpose
 
-* Office hours: Thursdays, 9:00–12:00 PM.
+* Office hours: Check syllabus
 * Individual meetings by appointment for conceptual or technical support.
 * Exam review or clarification sessions as needed.
 
