@@ -23,9 +23,7 @@ Before lab week, respond to this discussion post with your plan:
 
 - **If attending both sessions**:
     - List two instruments you want to learn
-    - First come first served
     - Full credit upon attendance, no summary required and just provide a regular exit ticket
-    - If you want to learn more instruments, the instusctor will be happy to provide more sessions.
 - **If attending one or both sessions are missed**:
     - Provide a **makeup plan** (e.g., tutorials, methods papers, or targeted readings) to cover the missed work
     - Be specific and include links to the materials when possible
